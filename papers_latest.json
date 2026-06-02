@@ -1,161 +1,112 @@
 {
-  "updated": "2026-06-01 05:53 UTC",
-  "total": 22,
+  "updated": "2026-06-02 05:21 UTC",
+  "total": 15,
   "today_count": 0,
   "papers": [
     {
-      "title": "Representation Forcing for Bottleneck-Free Unified Multimodal Models",
-      "date": "2026-05-29",
-      "id": "2605.31604v1",
-      "abstract": "Unified multimodal models (UMMs) aim to handle perception and generation in a single model. Yet existing UMMs still rely on a frozen, separately pretrained VAE for image generation, imposing a structu",
-      "url": "https://arxiv.org/abs/2605.31604v1"
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "date": "2026-06-01",
+      "id": "2606.02580v1",
+      "abstract": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat",
+      "url": "https://arxiv.org/abs/2606.02580v1"
     },
     {
-      "title": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
-      "date": "2026-05-29",
-      "id": "2605.31603v1",
-      "abstract": "Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is comp",
-      "url": "https://arxiv.org/abs/2605.31603v1"
+      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+      "date": "2026-06-01",
+      "id": "2606.02578v1",
+      "abstract": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts",
+      "url": "https://arxiv.org/abs/2606.02578v1"
     },
     {
-      "title": "Linear Scaling Video VLMs for Long Video Understanding",
-      "date": "2026-05-29",
-      "id": "2605.31598v1",
-      "abstract": "Video vision-language models (VLMs) are increasingly used in long-horizon and streaming settings, yet most video encoders still rely on spatiotemporal self-attention, causing compute and latency to gr",
-      "url": "https://arxiv.org/abs/2605.31598v1"
+      "title": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
+      "date": "2026-06-01",
+      "id": "2606.02577v1",
+      "abstract": "Scaling robot learning requires large-scale, diverse demonstrations, yet real-world data collection via teleoperation remains prohibitively expensive and time-consuming. While video diffusion models o",
+      "url": "https://arxiv.org/abs/2606.02577v1"
     },
     {
-      "title": "Can Generative AI help people navigate Radical Moral Disagreements? The CONSIDER prototype",
-      "date": "2026-05-29",
-      "id": "2605.31574v1",
-      "abstract": "Radical Moral Disagreements (RMDs) are highly polarising topics that are increasingly censored in everyday life, with growing evidence suggesting that this polarisation carries measurable costs to pub",
-      "url": "https://arxiv.org/abs/2605.31574v1"
+      "title": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
+      "date": "2026-06-01",
+      "id": "2606.02575v1",
+      "abstract": "Autoregressive world models have emerged as a powerful paradigm for interactive video generation, allowing users to navigate dynamically generated environments through actions. These models are typica",
+      "url": "https://arxiv.org/abs/2606.02575v1"
     },
     {
-      "title": "LinTree: Improving LLM Reasoning with Explicitly Structured Search Histories",
-      "date": "2026-05-29",
-      "id": "2605.31492v1",
-      "abstract": "Large language models (LLMs) often solve reasoning problems by generating intermediate traces that explore and revise partial solutions. From a search perspective, these traces can be viewed as linear",
-      "url": "https://arxiv.org/abs/2605.31492v1"
+      "title": "AFUN: Towards an Affordance Foundation Model for Functionality Understanding",
+      "date": "2026-06-01",
+      "id": "2606.02551v1",
+      "abstract": "Affordance understanding bridges visual perception and physical action, serving as an explainable interface for robot manipulation in open and unstructured real-world environments. Yet, building an af",
+      "url": "https://arxiv.org/abs/2606.02551v1"
     },
     {
-      "title": "On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making",
-      "date": "2026-05-29",
-      "id": "2605.31460v1",
-      "abstract": "Reasoning-based robotic policies using large language and vision-language models achieve strong semantic planning capabilities but mostly suffer from a high inference latency that limits practical rea",
-      "url": "https://arxiv.org/abs/2605.31460v1"
+      "title": "New Windows on Heavy Dark Matter: Mineral Melt Modelling and X-Ray Readout for Muscovite Mica",
+      "date": "2026-06-01",
+      "id": "2606.02579v1",
+      "abstract": "Muscovite mica is a translucent, layered silicate mineral whose basal cleavage, low radiogenic background, gigayear exposures, and demonstrated track retention over geological timescales make it a com",
+      "url": "https://arxiv.org/abs/2606.02579v1"
     },
     {
-      "title": "SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models",
-      "date": "2026-05-29",
-      "id": "2605.31597v1",
-      "abstract": "Measuring structured object understanding in vision foundation models remains challenging due to inconsistent evaluation protocols and limited part-level supervision. Semantic correspondence (SC) eval",
-      "url": "https://arxiv.org/abs/2605.31597v1"
+      "title": "IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?",
+      "date": "2026-06-01",
+      "id": "2606.02519v1",
+      "abstract": "Agricultural robots are serving as powerful assistants across a wide range of agricultural tasks, nevertheless, still heavily relying on manual operations or railway systems for movement. The AgriVLN ",
+      "url": "https://arxiv.org/abs/2606.02519v1"
     },
     {
-      "title": "Stateful Online Monitoring Catches Distributed Agent Attacks",
-      "date": "2026-05-29",
-      "id": "2605.31593v1",
-      "abstract": "Language models can find thousands of severe software vulnerabilities, and agents are increasingly being misused for cyberattacks. To avoid detection, attackers frequently distribute their misuse, spl",
-      "url": "https://arxiv.org/abs/2605.31593v1"
+      "title": "Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models",
+      "date": "2026-06-01",
+      "id": "2606.02459v1",
+      "abstract": "Enabling Vision-Language Models (VLMs) to perform spatial reasoning remains challenging. Existing approaches treat VLMs as passive observers, which is difficult for real-world applications. Moreover, ",
+      "url": "https://arxiv.org/abs/2606.02459v1"
     },
     {
-      "title": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
-      "date": "2026-05-29",
-      "id": "2605.31580v1",
-      "abstract": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We",
-      "url": "https://arxiv.org/abs/2605.31580v1"
+      "title": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+      "date": "2026-06-01",
+      "id": "2606.02562v1",
+      "abstract": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety f",
+      "url": "https://arxiv.org/abs/2606.02562v1"
     },
     {
-      "title": "Normal approximations in nonparametric empirical Bayes",
-      "date": "2026-05-29",
-      "id": "2605.31599v1",
-      "abstract": "Empirical Bayes analyses routinely model noisy measurements of latent parameters as normal, justifying this by an informal appeal to the central limit theorem (CLT). This paper puts this heuristic app",
-      "url": "https://arxiv.org/abs/2605.31599v1"
+      "title": "Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation",
+      "date": "2026-06-01",
+      "id": "2606.02486v1",
+      "abstract": "Vision-Language-Action (VLA) models generalize across static manipulation but fail when objects move during task execution. They map the current observation to an action and assume the scene is statio",
+      "url": "https://arxiv.org/abs/2606.02486v1"
     },
     {
-      "title": "The Sword, Shield, and Achilles' Heel: Characterizing the Linguistic Inductive Bias of Large Language Models for Spatial Reasoning in Navigation Planning",
-      "date": "2026-05-29",
-      "id": "2605.31404v1",
-      "abstract": "Large Language Model (LLM)-based navigation systems commonly construct explicit spatial representations (e.g., topological graphs, semantic raster maps) and translate them into textual descriptions as",
-      "url": "https://arxiv.org/abs/2605.31404v1"
+      "title": "Nonequilibrium transport in epitaxial CsPbBr3 single crystals",
+      "date": "2026-06-01",
+      "id": "2606.02460v1",
+      "abstract": "Transport of optically excited carriers in semiconductors is typically described within a quasi-equilibrium picture, where energy is carried by a single thermalized quasiparticle population characteri",
+      "url": "https://arxiv.org/abs/2606.02460v1"
     },
     {
-      "title": "nuReasoning: A Reasoning-Centric Dataset and Benchmark for Long-Tail Autonomous Driving",
-      "date": "2026-05-29",
-      "id": "2605.31572v1",
-      "abstract": "Reasoning is essential for autonomous driving (AD) in long-tail scenarios, where vehicles must apply commonsense knowledge, understand spatial relations, infer agent interactions, and make safe decisi",
-      "url": "https://arxiv.org/abs/2605.31572v1"
+      "title": "Ferroelectric hysteresis in singly aligned graphene-hBN moiré superlattices",
+      "date": "2026-06-01",
+      "id": "2606.02338v1",
+      "abstract": "Ferroelectric materials have the unique ability to maintain an electric polarization which can be reversed under an external applied electric field. This property makes them valuable for applications ",
+      "url": "https://arxiv.org/abs/2606.02338v1"
     },
     {
-      "title": "Twin Algebras: Condensable Algebras beyond Anyons",
-      "date": "2026-05-29",
-      "id": "2605.31602v1",
-      "abstract": "Condensable algebras in 2+1d non-chiral topological orders characterize gapped boundary conditions and interfaces. Applied to the Symmetry Topological Field Theory, they allow classification of symmet",
-      "url": "https://arxiv.org/abs/2605.31602v1"
+      "title": "A Mid-Infrared Platform Based on Strontium Tweezer Arrays",
+      "date": "2026-06-01",
+      "id": "2606.02560v1",
+      "abstract": "Subwavelength atomic tweezer arrays, in which atoms can be positioned at distances smaller than their emission wavelength, have been proposed as a versatile platform to study collective emission pheno",
+      "url": "https://arxiv.org/abs/2606.02560v1"
     },
     {
-      "title": "Strain-Engineered s-C$_3$N$_6$ Monolayer for Efficient Water Splitting: A first-principles study",
-      "date": "2026-05-29",
-      "id": "2605.31447v1",
-      "abstract": "Photocatalytic water splitting offers a sustainable route for solar-to-hydrogen energy conversion, yet identifying stable, metal-free semiconductors with suitable electronic, optical, and band-alignme",
-      "url": "https://arxiv.org/abs/2605.31447v1"
+      "title": "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games",
+      "date": "2026-06-01",
+      "id": "2606.02556v1",
+      "abstract": "We introduce HERO'S JOURNEY, a benchmark for rule induction in goal-directed episodic tasks, where agents must infer hidden rules from demonstrations and act on them through multi-step execution. HERO",
+      "url": "https://arxiv.org/abs/2606.02556v1"
     },
     {
-      "title": "A Dynamic Latent Space Model for Healthcare Mobility Networks: the Italian National Health Service case",
-      "date": "2026-05-29",
-      "id": "2605.31394v1",
-      "abstract": "Healthcare mobility -- patients seeking treatment outside their territory of residence -- represents a major source of inequality and financial imbalance in decentralised health systems. In Italy, per",
-      "url": "https://arxiv.org/abs/2605.31394v1"
-    },
-    {
-      "title": "Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions",
-      "date": "2026-05-29",
-      "id": "2605.31586v1",
-      "abstract": "Grasping the semantics of rare constructions (form-meaning pairings) has been shown to be a challenging problem that has currently only been solved by the largest LLMs. It remains an open question if ",
-      "url": "https://arxiv.org/abs/2605.31586v1"
-    },
-    {
-      "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards",
-      "date": "2026-05-29",
-      "id": "2605.31584v1",
-      "abstract": "Long-context reasoning remains a central challenge for large language models, which often fail to locate and integrate key information in extensive distracting content. Reinforcement learning with ver",
-      "url": "https://arxiv.org/abs/2605.31584v1"
-    },
-    {
-      "title": "Stability and instability of torus-symmetric Einstein spacetimes with square-integrable connection",
-      "date": "2026-05-29",
-      "id": "2605.31585v1",
-      "abstract": "We study the global evolution problem for the Einstein equations under T2 symmetry on T3, allowing vacuum, scalar-field, and compressible-fluid matter models, governed by a general equation of state i",
-      "url": "https://arxiv.org/abs/2605.31585v1"
-    },
-    {
-      "title": "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation",
-      "date": "2026-05-29",
-      "id": "2605.31581v1",
-      "abstract": "The same arguments often need to be evaluated under different external regimes. An agent with influence over the regime has a strategic lever that standard formalisms do not directly capture. We intro",
-      "url": "https://arxiv.org/abs/2605.31581v1"
-    },
-    {
-      "title": "Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction",
-      "date": "2026-05-29",
-      "id": "2605.31595v1",
-      "abstract": "Dynamic scene reconstruction from monocular video remains a fundamental challenge in computer vision. Existing feed-forward methods predict 3D Gaussians pixel-wise for each frame, suffering from dupli",
-      "url": "https://arxiv.org/abs/2605.31595v1"
-    },
-    {
-      "title": "Floquet Engineering of Quantum Transport through two Driven Impurities",
-      "date": "2026-05-29",
-      "id": "2605.31592v1",
-      "abstract": "Floquet engineering offers powerful tools to manipulate quantum states by periodically driving physical parameters. In this work, we investigate the quantum transport through two periodically driven i",
-      "url": "https://arxiv.org/abs/2605.31592v1"
-    },
-    {
-      "title": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems",
-      "date": "2026-05-29",
-      "id": "2605.31596v1",
-      "abstract": "Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to ",
-      "url": "https://arxiv.org/abs/2605.31596v1"
+      "title": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
+      "date": "2026-06-01",
+      "id": "2606.02576v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making ",
+      "url": "https://arxiv.org/abs/2606.02576v1"
     }
   ]
 }
