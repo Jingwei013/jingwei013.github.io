@@ -1,112 +1,154 @@
 {
-  "updated": "2026-06-02 05:21 UTC",
-  "total": 15,
+  "updated": "2026-06-03 05:55 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-      "date": "2026-06-01",
-      "id": "2606.02580v1",
-      "abstract": "Inverse graphics is a longstanding and highly underconstrained problem that seeks to reconstruct images as editable 3D scenes which can be rendered, relit, and manipulated. In this work, we investigat",
-      "url": "https://arxiv.org/abs/2606.02580v1"
+      "title": "Exploring Easy Boosts for Lidar Semantic Scene Completion",
+      "date": "2026-06-02",
+      "id": "2606.03992v1",
+      "abstract": "This paper investigates \"free lunch\" strategies to boost the performance of lidar semantic scene completion (SSC) without requiring complex architectural redesigns. We first demonstrate that endowing ",
+      "url": "https://arxiv.org/abs/2606.03992v1"
     },
     {
-      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
-      "date": "2026-06-01",
-      "id": "2606.02578v1",
-      "abstract": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts",
-      "url": "https://arxiv.org/abs/2606.02578v1"
+      "title": "SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image",
+      "date": "2026-06-02",
+      "id": "2606.03994v1",
+      "abstract": "Reconstructing interactive, simulation-ready 3D scenes from a single image is a critical bottleneck for robotic manipulation. While recent single-image lifters recover plausible per-object shapes, com",
+      "url": "https://arxiv.org/abs/2606.03994v1"
     },
     {
-      "title": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
-      "date": "2026-06-01",
-      "id": "2606.02577v1",
-      "abstract": "Scaling robot learning requires large-scale, diverse demonstrations, yet real-world data collection via teleoperation remains prohibitively expensive and time-consuming. While video diffusion models o",
-      "url": "https://arxiv.org/abs/2606.02577v1"
+      "title": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+      "date": "2026-06-02",
+      "id": "2606.03990v1",
+      "abstract": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros",
+      "url": "https://arxiv.org/abs/2606.03990v1"
     },
     {
-      "title": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
-      "date": "2026-06-01",
-      "id": "2606.02575v1",
-      "abstract": "Autoregressive world models have emerged as a powerful paradigm for interactive video generation, allowing users to navigate dynamically generated environments through actions. These models are typica",
-      "url": "https://arxiv.org/abs/2606.02575v1"
+      "title": "Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigation",
+      "date": "2026-06-02",
+      "id": "2606.03963v1",
+      "abstract": "Deep reinforcement learning has shown strong potential for enabling autonomous robots to learn complex navigational tasks. However, its practical use still depends heavily on human designed reward fun",
+      "url": "https://arxiv.org/abs/2606.03963v1"
     },
     {
-      "title": "AFUN: Towards an Affordance Foundation Model for Functionality Understanding",
-      "date": "2026-06-01",
-      "id": "2606.02551v1",
-      "abstract": "Affordance understanding bridges visual perception and physical action, serving as an explainable interface for robot manipulation in open and unstructured real-world environments. Yet, building an af",
-      "url": "https://arxiv.org/abs/2606.02551v1"
+      "title": "VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring",
+      "date": "2026-06-02",
+      "id": "2606.03954v1",
+      "abstract": "As AI systems increasingly assist humans in physical tasks, ensuring safety becomes paramount -- physical actions carry immediate and irreversible consequences that digital errors do not. We introduce",
+      "url": "https://arxiv.org/abs/2606.03954v1"
     },
     {
-      "title": "New Windows on Heavy Dark Matter: Mineral Melt Modelling and X-Ray Readout for Muscovite Mica",
-      "date": "2026-06-01",
-      "id": "2606.02579v1",
-      "abstract": "Muscovite mica is a translucent, layered silicate mineral whose basal cleavage, low radiogenic background, gigayear exposures, and demonstrated track retention over geological timescales make it a com",
-      "url": "https://arxiv.org/abs/2606.02579v1"
+      "title": "PointAction: 3D Points as Universal Action Representations for Robot Control",
+      "date": "2026-06-02",
+      "id": "2606.03943v1",
+      "abstract": "Video-Action Models (VAMs) leverage the broad visual dynamics captured by pre-trained video diffusion models, offering a promising path toward generalizable robot manipulation. However, RGB-only video",
+      "url": "https://arxiv.org/abs/2606.03943v1"
     },
     {
-      "title": "IMAC-AgriVLN: Can Agricultural Vision-and-Language Navigation Agents be Aware of Instruction Mistakes?",
-      "date": "2026-06-01",
-      "id": "2606.02519v1",
-      "abstract": "Agricultural robots are serving as powerful assistants across a wide range of agricultural tasks, nevertheless, still heavily relying on manual operations or railway systems for movement. The AgriVLN ",
-      "url": "https://arxiv.org/abs/2606.02519v1"
+      "title": "Formalizing the Binding Problem",
+      "date": "2026-06-02",
+      "id": "2606.03976v1",
+      "abstract": "Representations of the world, arguably, contain information about features (e.g. something is blue, something is a circle) but also information about which features are part of the same object (e.g. t",
+      "url": "https://arxiv.org/abs/2606.03976v1"
     },
     {
-      "title": "Active Exploring like a Pigeon: Reinforcing Spatial Reasoning via Agentic Vision-Language Models",
-      "date": "2026-06-01",
-      "id": "2606.02459v1",
-      "abstract": "Enabling Vision-Language Models (VLMs) to perform spatial reasoning remains challenging. Existing approaches treat VLMs as passive observers, which is difficult for real-world applications. Moreover, ",
-      "url": "https://arxiv.org/abs/2606.02459v1"
+      "title": "DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data",
+      "date": "2026-06-02",
+      "id": "2606.03926v1",
+      "abstract": "Modeling temporal evolution is important to analyzing and reasoning about scientific phenomena, yet most machine learning methods provide deterministic forward predictions that overlook multiple plaus",
+      "url": "https://arxiv.org/abs/2606.03926v1"
     },
     {
-      "title": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
-      "date": "2026-06-01",
-      "id": "2606.02562v1",
-      "abstract": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety f",
-      "url": "https://arxiv.org/abs/2606.02562v1"
+      "title": "Electromagnetic Navigation for Femoral Osteotomy Using High-Accuracy X-ray-to-CT Registration",
+      "date": "2026-06-02",
+      "id": "2606.03893v1",
+      "abstract": "Accurate execution of preoperative plans in corrective femoral osteotomies remains challenging. Current techniques are limited by variable accuracy, invasiveness, and radiation exposure, with free-han",
+      "url": "https://arxiv.org/abs/2606.03893v1"
     },
     {
-      "title": "Intercepting the Future: Latent-Space Predictive World Model for Dynamic VLA Manipulation",
-      "date": "2026-06-01",
-      "id": "2606.02486v1",
-      "abstract": "Vision-Language-Action (VLA) models generalize across static manipulation but fail when objects move during task execution. They map the current observation to an action and assume the scene is statio",
-      "url": "https://arxiv.org/abs/2606.02486v1"
+      "title": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
+      "date": "2026-06-02",
+      "id": "2606.03988v1",
+      "abstract": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inf",
+      "url": "https://arxiv.org/abs/2606.03988v1"
     },
     {
-      "title": "Nonequilibrium transport in epitaxial CsPbBr3 single crystals",
-      "date": "2026-06-01",
-      "id": "2606.02460v1",
-      "abstract": "Transport of optically excited carriers in semiconductors is typically described within a quasi-equilibrium picture, where energy is carried by a single thermalized quasiparticle population characteri",
-      "url": "https://arxiv.org/abs/2606.02460v1"
+      "title": "Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation",
+      "date": "2026-06-02",
+      "id": "2606.03949v1",
+      "abstract": "Human-in-the-loop reinforcement learning (HIL-RL) improves sample efficiency in real-robot manipulation through online human intervention. However, successful trajectories may include suboptimal actio",
+      "url": "https://arxiv.org/abs/2606.03949v1"
     },
     {
-      "title": "Ferroelectric hysteresis in singly aligned graphene-hBN moiré superlattices",
-      "date": "2026-06-01",
-      "id": "2606.02338v1",
-      "abstract": "Ferroelectric materials have the unique ability to maintain an electric polarization which can be reversed under an external applied electric field. This property makes them valuable for applications ",
-      "url": "https://arxiv.org/abs/2606.02338v1"
+      "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation",
+      "date": "2026-06-02",
+      "id": "2606.03784v1",
+      "abstract": "Embodied chain-of-thought (CoT) aims to bridge linguistic reasoning and robotic control, but its effective form and integration strategy remain underexplored. In this paper, we revisit embodied CoT fo",
+      "url": "https://arxiv.org/abs/2606.03784v1"
     },
     {
-      "title": "A Mid-Infrared Platform Based on Strontium Tweezer Arrays",
-      "date": "2026-06-01",
-      "id": "2606.02560v1",
-      "abstract": "Subwavelength atomic tweezer arrays, in which atoms can be positioned at distances smaller than their emission wavelength, have been proposed as a versatile platform to study collective emission pheno",
-      "url": "https://arxiv.org/abs/2606.02560v1"
+      "title": "Same Weights, Different Robot: A Deployment Safety View of VLA Policies",
+      "date": "2026-06-02",
+      "id": "2606.03724v1",
+      "abstract": "Vision-language-action (VLA) policies are often treated as checkpoint-defined objects: if the weights, prompt, and benchmark suite match, the deployment is assumed to be the same policy. Robot executi",
+      "url": "https://arxiv.org/abs/2606.03724v1"
     },
     {
-      "title": "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games",
-      "date": "2026-06-01",
-      "id": "2606.02556v1",
-      "abstract": "We introduce HERO'S JOURNEY, a benchmark for rule induction in goal-directed episodic tasks, where agents must infer hidden rules from demonstrations and act on them through multi-step execution. HERO",
-      "url": "https://arxiv.org/abs/2606.02556v1"
+      "title": "Q-FE: A Quantum-Native 6G Far-Edge Architecture Securing Industrial IoT Digital Twins via CSIDH-PQC and Asynchronous Federated Learning",
+      "date": "2026-06-02",
+      "id": "2606.03611v1",
+      "abstract": "Sixth-generation (6G) wireless networks will underpin ultra-dense Industrial IoT (IIoT) ecosystems in which resource-constrained Far-Edge devices -- autonomous mobile robots, industrial actuators, con",
+      "url": "https://arxiv.org/abs/2606.03611v1"
     },
     {
-      "title": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
-      "date": "2026-06-01",
-      "id": "2606.02576v1",
-      "abstract": "Multimodal Large Language Models (MLLMs) achieve strong performance through instruction tuning, but real-world deployment requires them to continually acquire new vision-language capabilities, making ",
-      "url": "https://arxiv.org/abs/2606.02576v1"
+      "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+      "date": "2026-06-02",
+      "id": "2606.03980v1",
+      "abstract": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie",
+      "url": "https://arxiv.org/abs/2606.03980v1"
+    },
+    {
+      "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+      "date": "2026-06-02",
+      "id": "2606.03979v1",
+      "abstract": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LL",
+      "url": "https://arxiv.org/abs/2606.03979v1"
+    },
+    {
+      "title": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
+      "date": "2026-06-02",
+      "id": "2606.03969v1",
+      "abstract": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe",
+      "url": "https://arxiv.org/abs/2606.03969v1"
+    },
+    {
+      "title": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+      "date": "2026-06-02",
+      "id": "2606.03985v1",
+      "abstract": "We introduce Humanoid-GPT, a GPT-style Transformer with causal attention trained on a billion-scale motion corpus for whole-body control. Unlike prior shallow MLP trackers constrained by scarce data a",
+      "url": "https://arxiv.org/abs/2606.03985v1"
+    },
+    {
+      "title": "NewtPhys: Do Foundation Models Understand Newtonian Physics?",
+      "date": "2026-06-02",
+      "id": "2606.03986v1",
+      "abstract": "Previous work has evaluated physics reasoning in foundation models using synthetic or semi-synthetic scenes and visual question-answering tasks. However, these benchmarks emphasize high-level events a",
+      "url": "https://arxiv.org/abs/2606.03986v1"
+    },
+    {
+      "title": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
+      "date": "2026-06-02",
+      "id": "2606.03968v1",
+      "abstract": "Rubric-based RL is a promising route for extending reinforcement learning beyond verifiable rewards, yet existing methods optimize rubrics while treating the query distribution as fixed. We identify a",
+      "url": "https://arxiv.org/abs/2606.03968v1"
+    },
+    {
+      "title": "The OAD Flagship Ecosystem",
+      "date": "2026-06-02",
+      "id": "2606.03966v1",
+      "abstract": "The International Astronomical Union's Office of Astronomy for Development (IAU OAD) uses astronomy as a tool to address societal challenges and contribute to sustainable development. Building on more",
+      "url": "https://arxiv.org/abs/2606.03966v1"
     }
   ]
 }
