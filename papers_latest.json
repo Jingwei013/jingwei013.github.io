@@ -1,154 +1,147 @@
 {
-  "updated": "2026-06-03 05:55 UTC",
-  "total": 21,
+  "updated": "2026-06-04 05:49 UTC",
+  "total": 20,
   "today_count": 0,
   "papers": [
     {
-      "title": "Exploring Easy Boosts for Lidar Semantic Scene Completion",
-      "date": "2026-06-02",
-      "id": "2606.03992v1",
-      "abstract": "This paper investigates \"free lunch\" strategies to boost the performance of lidar semantic scene completion (SSC) without requiring complex architectural redesigns. We first demonstrate that endowing ",
-      "url": "https://arxiv.org/abs/2606.03992v1"
+      "title": "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations",
+      "date": "2026-06-03",
+      "id": "2606.05165v1",
+      "abstract": "Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventions, observing how a model changes when data is add",
+      "url": "https://arxiv.org/abs/2606.05165v1"
     },
     {
-      "title": "SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image",
-      "date": "2026-06-02",
-      "id": "2606.03994v1",
-      "abstract": "Reconstructing interactive, simulation-ready 3D scenes from a single image is a critical bottleneck for robotic manipulation. While recent single-image lifters recover plausible per-object shapes, com",
-      "url": "https://arxiv.org/abs/2606.03994v1"
+      "title": "Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text",
+      "date": "2026-06-03",
+      "id": "2606.05162v1",
+      "abstract": "We introduce T2Mo, a feed-forward framework for controllable dynamic 3D shape generation conditioned on 3D trajectories and text. Due to the inherent ambiguity of language, generating precisely intend",
+      "url": "https://arxiv.org/abs/2606.05162v1"
     },
     {
-      "title": "Neuron Populations Exhibit Divergent Selectivity with Scale",
-      "date": "2026-06-02",
-      "id": "2606.03990v1",
-      "abstract": "We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros",
-      "url": "https://arxiv.org/abs/2606.03990v1"
+      "title": "Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models",
+      "date": "2026-06-03",
+      "id": "2606.05161v1",
+      "abstract": "Audio-language models (ALMs) often follow text that conflicts with audio, even when the audio evidence is clear. This raises a basic question: is the audio-supported answer unavailable, or is it repre",
+      "url": "https://arxiv.org/abs/2606.05161v1"
     },
     {
-      "title": "Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigation",
-      "date": "2026-06-02",
-      "id": "2606.03963v1",
-      "abstract": "Deep reinforcement learning has shown strong potential for enabling autonomous robots to learn complex navigational tasks. However, its practical use still depends heavily on human designed reward fun",
-      "url": "https://arxiv.org/abs/2606.03963v1"
+      "title": "HORIZON: Recoverability-Governed Curriculum for Physical-Domain Scaling",
+      "date": "2026-06-03",
+      "id": "2606.05143v1",
+      "abstract": "Scaling robust robot policies requires more than broader randomization, because physical-domain experience must remain organized and learnable throughout training. We study when a policy can benefit f",
+      "url": "https://arxiv.org/abs/2606.05143v1"
     },
     {
-      "title": "VLESA: Vision-Language Embodied Safety Agent for Human Activity Monitoring",
-      "date": "2026-06-02",
-      "id": "2606.03954v1",
-      "abstract": "As AI systems increasingly assist humans in physical tasks, ensuring safety becomes paramount -- physical actions carry immediate and irreversible consequences that digital errors do not. We introduce",
-      "url": "https://arxiv.org/abs/2606.03954v1"
+      "title": "Validity Threats for Foundation Model Research",
+      "date": "2026-06-03",
+      "id": "2606.05029v1",
+      "abstract": "Controlled experiments are the backbone of machine learning research, but at the scale of modern foundation models, they have become prohibitively expensive. Instead, the community increasingly relies",
+      "url": "https://arxiv.org/abs/2606.05029v1"
     },
     {
-      "title": "PointAction: 3D Points as Universal Action Representations for Robot Control",
-      "date": "2026-06-02",
-      "id": "2606.03943v1",
-      "abstract": "Video-Action Models (VAMs) leverage the broad visual dynamics captured by pre-trained video diffusion models, offering a promising path toward generalizable robot manipulation. However, RGB-only video",
-      "url": "https://arxiv.org/abs/2606.03943v1"
+      "title": "Generalization of World Models under Environmental Variability for Vision-based Quadrotor Navigation",
+      "date": "2026-06-03",
+      "id": "2606.05015v1",
+      "abstract": "World models, learned generative models that predict how an environment evolves, have become a promising tool for sample-efficient robot learning. Yet how robust they are to environmental variability ",
+      "url": "https://arxiv.org/abs/2606.05015v1"
     },
     {
-      "title": "Formalizing the Binding Problem",
-      "date": "2026-06-02",
-      "id": "2606.03976v1",
-      "abstract": "Representations of the world, arguably, contain information about features (e.g. something is blue, something is a circle) but also information about which features are part of the same object (e.g. t",
-      "url": "https://arxiv.org/abs/2606.03976v1"
+      "title": "GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors",
+      "date": "2026-06-03",
+      "id": "2606.05160v1",
+      "abstract": "Scaling humanoid loco-manipulation requires robot-compatible demonstrations across diverse objects, whole-body motions, and scene geometries, but teleoperation and motion capture are difficult to scal",
+      "url": "https://arxiv.org/abs/2606.05160v1"
     },
     {
-      "title": "DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data",
-      "date": "2026-06-02",
-      "id": "2606.03926v1",
-      "abstract": "Modeling temporal evolution is important to analyzing and reasoning about scientific phenomena, yet most machine learning methods provide deterministic forward predictions that overlook multiple plaus",
-      "url": "https://arxiv.org/abs/2606.03926v1"
+      "title": "Three Extremely Metal-Poor stars: discovery of a new CEMP-no star",
+      "date": "2026-06-03",
+      "id": "2606.05154v1",
+      "abstract": "We have conducted detailed high-resolution spectroscopic studies on three extremely metal-poor (EMP) stars HE 0401-0138, HE 1153-0518 and HE 1246-1344. For the stars HE 0401-0138 and HE 1246-1344, we ",
+      "url": "https://arxiv.org/abs/2606.05154v1"
     },
     {
-      "title": "Electromagnetic Navigation for Femoral Osteotomy Using High-Accuracy X-ray-to-CT Registration",
-      "date": "2026-06-02",
-      "id": "2606.03893v1",
-      "abstract": "Accurate execution of preoperative plans in corrective femoral osteotomies remains challenging. Current techniques are limited by variable accuracy, invasiveness, and radiation exposure, with free-han",
-      "url": "https://arxiv.org/abs/2606.03893v1"
+      "title": "Compressed \\emph{Gaussian} likelihood for the \\textit{Planck} low-$\\ell$ data",
+      "date": "2026-06-03",
+      "id": "2606.05166v1",
+      "abstract": "We present a compressed \\emph{Gaussian} likelihood for the \\textit{Planck} CMB low-$\\ell$ E-mode polarization data, constructed from the \\texttt{Sroll2} likelihood which provides the tightest constrai",
+      "url": "https://arxiv.org/abs/2606.05166v1"
     },
     {
-      "title": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models",
-      "date": "2026-06-02",
-      "id": "2606.03988v1",
-      "abstract": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inf",
-      "url": "https://arxiv.org/abs/2606.03988v1"
+      "title": "Floquet-Engineered Parity Anomaly Staircase in a Cold Atom Dirac Lattice",
+      "date": "2026-06-03",
+      "id": "2606.05164v1",
+      "abstract": "We propose a Floquet-engineered cold atom realization of a parity anomaly inspired anomalous Hall staircase in a two dimensional $π$-flux lattice. The effective model hosts massive Dirac fermions gene",
+      "url": "https://arxiv.org/abs/2606.05164v1"
     },
     {
-      "title": "Preference-Calibrated Human-in-the-Loop Reinforcement Learning for Robotic Manipulation",
-      "date": "2026-06-02",
-      "id": "2606.03949v1",
-      "abstract": "Human-in-the-loop reinforcement learning (HIL-RL) improves sample efficiency in real-robot manipulation through online human intervention. However, successful trajectories may include suboptimal actio",
-      "url": "https://arxiv.org/abs/2606.03949v1"
+      "title": "TeleSWEBench: A Commit-Driven Benchmark for Evaluating LLM-Powered Software Engineering in Telecommunications",
+      "date": "2026-06-03",
+      "id": "2606.05001v1",
+      "abstract": "With the telecommunications field embracing zero touch management alongside novel O-RAN and AI-RAN frameworks, contemporary telecom networks now function as immensely intricate and heavily softwareize",
+      "url": "https://arxiv.org/abs/2606.05001v1"
     },
     {
-      "title": "Revisiting Embodied Chain-of-Thought for Generalizable Robot Manipulation",
-      "date": "2026-06-02",
-      "id": "2606.03784v1",
-      "abstract": "Embodied chain-of-thought (CoT) aims to bridge linguistic reasoning and robotic control, but its effective form and integration strategy remain underexplored. In this paper, we revisit embodied CoT fo",
-      "url": "https://arxiv.org/abs/2606.03784v1"
+      "title": "X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation",
+      "date": "2026-06-03",
+      "id": "2606.05159v1",
+      "abstract": "Rigorous evaluation of learning-based robotic systems is an essential prerequisite for deployment. However, real-world test data is expensive to gather; moreover, in a typical iterative development co",
+      "url": "https://arxiv.org/abs/2606.05159v1"
     },
     {
-      "title": "Same Weights, Different Robot: A Deployment Safety View of VLA Policies",
-      "date": "2026-06-02",
-      "id": "2606.03724v1",
-      "abstract": "Vision-language-action (VLA) policies are often treated as checkpoint-defined objects: if the weights, prompt, and benchmark suite match, the deployment is assumed to be the same policy. Robot executi",
-      "url": "https://arxiv.org/abs/2606.03724v1"
+      "title": "Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agent",
+      "date": "2026-06-03",
+      "id": "2606.05130v1",
+      "abstract": "Individual-level mobility prediction is central to urban simulation, transportation planning, and policy analysis. Supervised sequence models achieve strong accuracy but require task-specific training",
+      "url": "https://arxiv.org/abs/2606.05130v1"
     },
     {
-      "title": "Q-FE: A Quantum-Native 6G Far-Edge Architecture Securing Industrial IoT Digital Twins via CSIDH-PQC and Asynchronous Federated Learning",
-      "date": "2026-06-02",
-      "id": "2606.03611v1",
-      "abstract": "Sixth-generation (6G) wireless networks will underpin ultra-dense Industrial IoT (IIoT) ecosystems in which resource-constrained Far-Edge devices -- autonomous mobile robots, industrial actuators, con",
-      "url": "https://arxiv.org/abs/2606.03611v1"
+      "title": "Quantum Hall effect in vacancy-engineered $β$-Ag$_2$Te",
+      "date": "2026-06-03",
+      "id": "2606.05128v1",
+      "abstract": "Accessing surface quantum transport in topological insulators is hampered by residual bulk conduction arising from lattice defects. Here, we demonstrate a novel synthesis pathway for realizing high mo",
+      "url": "https://arxiv.org/abs/2606.05128v1"
     },
     {
-      "title": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
-      "date": "2026-06-02",
-      "id": "2606.03980v1",
-      "abstract": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relie",
-      "url": "https://arxiv.org/abs/2606.03980v1"
+      "title": "A Cancellation Mechanism in AFDM Radar Sensing: Exact Fisher Information and Delay-Doppler Decoupling",
+      "date": "2026-06-03",
+      "id": "2606.05084v1",
+      "abstract": "We consider radar sensing with affine frequency division multiplexing (AFDM), a chirp-based waveform recently proposed for high-mobility integrated sensing and communication. While numerical Cramér-Ra",
+      "url": "https://arxiv.org/abs/2606.05084v1"
     },
     {
-      "title": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
-      "date": "2026-06-02",
-      "id": "2606.03979v1",
-      "abstract": "The past few decades have witnessed significant advances in the design of machine learning algorithms, from early studies on task-specific shallow models to more general deep Large Language Models (LL",
-      "url": "https://arxiv.org/abs/2606.03979v1"
+      "title": "Streaming Communication in Multi-Agent Reasoning",
+      "date": "2026-06-03",
+      "id": "2606.05158v1",
+      "abstract": "Multi-agent reasoning systems adopt a \"generate-then-transfer\" paradigm that forces end-to-end latency to scale linearly with pipeline depth. We introduce StreamMA, a multi-agent reasoning system that",
+      "url": "https://arxiv.org/abs/2606.05158v1"
     },
     {
-      "title": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
-      "date": "2026-06-02",
-      "id": "2606.03969v1",
-      "abstract": "Reliable uncertainty communication is critical to the trustworthiness of LLMs, yet faithful calibration (FC)--the alignment between models' intrinsic and (linguistically) expressed confidence--is a pe",
-      "url": "https://arxiv.org/abs/2606.03969v1"
+      "title": "GEMINI: Generalized Ensnarlment Measure from Incomplete-linkage of Network-network Interactions",
+      "date": "2026-06-03",
+      "id": "2606.05153v1",
+      "abstract": "Spatially embedded networks are central to many physical and biological systems, where geometry and connectivity jointly shape structure and function. Examples abound across the scales of biological o",
+      "url": "https://arxiv.org/abs/2606.05153v1"
     },
     {
-      "title": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
-      "date": "2026-06-02",
-      "id": "2606.03985v1",
-      "abstract": "We introduce Humanoid-GPT, a GPT-style Transformer with causal attention trained on a billion-scale motion corpus for whole-body control. Unlike prior shallow MLP trackers constrained by scarce data a",
-      "url": "https://arxiv.org/abs/2606.03985v1"
+      "title": "An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers",
+      "date": "2026-06-03",
+      "id": "2606.05149v1",
+      "abstract": "Vehicle body type is a significant determinant of cyclist injury severity in overtaking crashes, yet automated tools for classifying vehicles into injury-risk-relevant categories from naturalistic roa",
+      "url": "https://arxiv.org/abs/2606.05149v1"
     },
     {
-      "title": "NewtPhys: Do Foundation Models Understand Newtonian Physics?",
-      "date": "2026-06-02",
-      "id": "2606.03986v1",
-      "abstract": "Previous work has evaluated physics reasoning in foundation models using synthetic or semi-synthetic scenes and visual question-answering tasks. However, these benchmarks emphasize high-level events a",
-      "url": "https://arxiv.org/abs/2606.03986v1"
+      "title": "BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning",
+      "date": "2026-06-03",
+      "id": "2606.05139v1",
+      "abstract": "The rapid advancement of high-throughput sequencing has led to large, high-dimensional omics datasets. Deep unsupervised learning architectures, particularly Autoencoders (AEs), are increasingly used ",
+      "url": "https://arxiv.org/abs/2606.05139v1"
     },
     {
-      "title": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
-      "date": "2026-06-02",
-      "id": "2606.03968v1",
-      "abstract": "Rubric-based RL is a promising route for extending reinforcement learning beyond verifiable rewards, yet existing methods optimize rubrics while treating the query distribution as fixed. We identify a",
-      "url": "https://arxiv.org/abs/2606.03968v1"
-    },
-    {
-      "title": "The OAD Flagship Ecosystem",
-      "date": "2026-06-02",
-      "id": "2606.03966v1",
-      "abstract": "The International Astronomical Union's Office of Astronomy for Development (IAU OAD) uses astronomy as a tool to address societal challenges and contribute to sustainable development. Building on more",
-      "url": "https://arxiv.org/abs/2606.03966v1"
+      "title": "GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes",
+      "date": "2026-06-03",
+      "id": "2606.05142v1",
+      "abstract": "Recent developments in multi-view image editing with generative models have brought us a step closer toward general 3D content generation and customization. Most existing works focus on rigid or appea",
+      "url": "https://arxiv.org/abs/2606.05142v1"
     }
   ]
 }
