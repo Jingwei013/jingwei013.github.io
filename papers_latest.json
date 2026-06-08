@@ -1,105 +1,105 @@
 {
-  "updated": "2026-06-07 05:16 UTC",
+  "updated": "2026-06-08 05:22 UTC",
   "total": 14,
   "today_count": 0,
   "papers": [
     {
-      "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
-      "date": "2026-06-04",
-      "id": "2606.06493v1",
-      "abstract": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica",
-      "url": "https://arxiv.org/abs/2606.06493v1"
+      "title": "Counterintuitive problems in discrete probability",
+      "date": "2026-06-05",
+      "id": "2606.07516v1",
+      "abstract": "This manuscript contains a collection of counterintuitive problems in discrete probability, together with detailed solutions. The dataset was constructed as part of a broader research project investig",
+      "url": "https://arxiv.org/abs/2606.07516v1"
     },
     {
-      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
-      "date": "2026-06-04",
-      "id": "2606.06492v1",
-      "abstract": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi",
-      "url": "https://arxiv.org/abs/2606.06492v1"
+      "title": "How reliable are LLMs when it comes to playing dice?",
+      "date": "2026-06-05",
+      "id": "2606.07515v1",
+      "abstract": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s",
+      "url": "https://arxiv.org/abs/2606.07515v1"
     },
     {
-      "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
-      "date": "2026-06-04",
-      "id": "2606.06491v1",
-      "abstract": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL",
-      "url": "https://arxiv.org/abs/2606.06491v1"
+      "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
+      "date": "2026-06-05",
+      "id": "2606.07514v1",
+      "abstract": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective camer",
+      "url": "https://arxiv.org/abs/2606.07514v1"
     },
     {
-      "title": "PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding",
-      "date": "2026-06-04",
-      "id": "2606.06485v1",
-      "abstract": "Recent advances in 3D multimodal large language models (3D-MLLMs) have enabled unified solutions for 3D scene understanding tasks, including visual question answering, captioning, and referring segmen",
-      "url": "https://arxiv.org/abs/2606.06485v1"
+      "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+      "date": "2026-06-05",
+      "id": "2606.07512v1",
+      "abstract": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc",
+      "url": "https://arxiv.org/abs/2606.07512v1"
     },
     {
-      "title": "Complexity-Balanced Diffusion Splitting",
-      "date": "2026-06-04",
-      "id": "2606.06477v1",
-      "abstract": "Standard continuous-time generative models rely on monolithic architectures that must navigate vastly different signal regimes, from isotropic noise to intricate data distributions. While scaling mode",
-      "url": "https://arxiv.org/abs/2606.06477v1"
+      "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
+      "date": "2026-06-05",
+      "id": "2606.07506v1",
+      "abstract": "The object manipulation capabilities of quadruped robots is an open research challenge. While previous studies have focused on low-level policy learning, task execution still relies on expert-designed",
+      "url": "https://arxiv.org/abs/2606.07506v1"
     },
     {
-      "title": "CarbonSim: A Lifecycle-Aware Framework for Evaluating Carbon Tradeoffs in Hardware Upgrade Decisions",
-      "date": "2026-06-04",
-      "id": "2606.06438v1",
-      "abstract": "As the demand for information and communication technologies (ICT) continues to rise, the environmental impact of computing systems is becoming an increasingly critical concern. Although newer hardwar",
-      "url": "https://arxiv.org/abs/2606.06438v1"
+      "title": "Performance analysis of classical adiabatic annealing on Ising machines",
+      "date": "2026-06-05",
+      "id": "2606.07331v1",
+      "abstract": "Ising machines are a promising approach to solve combinatorial optimization problems. They map these problems onto the Ising model and search for low-energy configurations. However, navigating the rug",
+      "url": "https://arxiv.org/abs/2606.07331v1"
     },
     {
-      "title": "Numerical self-force calculations for scalar particles, formulated in the lab frame",
-      "date": "2026-06-04",
-      "id": "2606.06487v1",
-      "abstract": "We derive equations of motion for scalar particles self-consistently interacting with a scalar field,including the radiation produced by the particles' acceleration. Our approach differs in three key ",
-      "url": "https://arxiv.org/abs/2606.06487v1"
+      "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
+      "date": "2026-06-05",
+      "id": "2606.07513v1",
+      "abstract": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social ",
+      "url": "https://arxiv.org/abs/2606.07513v1"
     },
     {
-      "title": "Pretraining Recurrent Networks without Recurrence",
-      "date": "2026-06-04",
-      "id": "2606.06479v1",
-      "abstract": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential ",
-      "url": "https://arxiv.org/abs/2606.06479v1"
+      "title": "Ideals defining components of two-row Springer fibers",
+      "date": "2026-06-05",
+      "id": "2606.07507v1",
+      "abstract": "Springer fibers are subvarieties of the flag variety parameterized by nilpotent matrices. They are central objects of study in geometry representation theory. This paper focuses on two-row Springer fi",
+      "url": "https://arxiv.org/abs/2606.07507v1"
     },
     {
-      "title": "Impact of RTK Augmentation and INS Integration on GNSS Positioning Accuracy and Continuity: A Benchmarking Study on Inland Waterways",
-      "date": "2026-06-04",
-      "id": "2606.06358v1",
-      "abstract": "RTK augmentation andINS integration are widely used to improve GNSS positioning performance. However, on inland waterways, bridges and surrounding structures can degrade satellite visibility and corre",
-      "url": "https://arxiv.org/abs/2606.06358v1"
+      "title": "Non-Abelian braiding in Abelian Fractional Quantum Hall Phases from realistic interactions",
+      "date": "2026-06-05",
+      "id": "2606.07517v1",
+      "abstract": "We propose a method of realizing non-Abelian braiding of fractionalized quasiholes in the Laughlin fractional quantum Hall phase at $ν=1/3$ with realistic two-body interactions within the lowest Landa",
+      "url": "https://arxiv.org/abs/2606.07517v1"
     },
     {
-      "title": "Attitude-Aided Linear Calibration of Triaxial Accelerometers",
-      "date": "2026-06-04",
-      "id": "2606.06308v1",
-      "abstract": "Triaxial MEMS accelerometers are widely used for inertial sensing, navigation, and sensor fusion, but existing calibration methods often rely on costly reference setups or nonlinear iterative optimiza",
-      "url": "https://arxiv.org/abs/2606.06308v1"
+      "title": "Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability",
+      "date": "2026-06-05",
+      "id": "2606.07437v1",
+      "abstract": "The ISO 26262 standard defines functional safety for road vehicles through risk assessments based on Severity, Exposure, and Controllability, grounded in a human-driven vehicle paradigm. In the contex",
+      "url": "https://arxiv.org/abs/2606.07437v1"
     },
     {
-      "title": "DragOn: A Benchmark and Dataset for Drag-Based GUI Interactions",
-      "date": "2026-06-04",
-      "id": "2606.06322v1",
-      "abstract": "GUI agents - vision-based models that control desktops, web browsers, and mobile devices through graphical user interfaces - promise to automate a wide range of digital tasks. While million-scale data",
-      "url": "https://arxiv.org/abs/2606.06322v1"
+      "title": "OPENPATH: A Supervisor--Specialist Agent System for Personalized, Accessible, and Multi-stop Urban Trip Planning",
+      "date": "2026-06-05",
+      "id": "2606.07486v1",
+      "abstract": "Urban trip-planning systems are commonly optimized for travel time and cost, but they offer limited support for the heterogeneous needs that real travelers bring, such as personalized preferences, mul",
+      "url": "https://arxiv.org/abs/2606.07486v1"
     },
     {
-      "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
-      "date": "2026-06-04",
-      "id": "2606.06473v1",
-      "abstract": "Large language model (LLM) agents are increasingly applied to long-horizon tasks such as scientific discovery and machine learning engineering (MLE), where sustained self-evolution becomes a key capab",
-      "url": "https://arxiv.org/abs/2606.06473v1"
+      "title": "Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning Approach",
+      "date": "2026-06-05",
+      "id": "2606.07483v1",
+      "abstract": "Many important outcomes unfold as dynamic cascades, including product adoption, disease spread, financial distress, and information diffusion. A central challenge is to recover the hidden influence ne",
+      "url": "https://arxiv.org/abs/2606.07483v1"
     },
     {
-      "title": "Coherent room-temperature dipole synchronization in nanocavity sheets",
-      "date": "2026-06-04",
-      "id": "2606.06490v1",
-      "abstract": "Plasmonic nanocavities enable the synchronization of spatially distant emissive dipoles through strong near-field coupling in sub-nm gaps. We report formation of a room-temperature synchronized dipole",
-      "url": "https://arxiv.org/abs/2606.06490v1"
+      "title": "RhinoVLA Technical Report",
+      "date": "2026-06-05",
+      "id": "2606.07383v1",
+      "abstract": "Vision-Language-Action (VLA) models have shown strong potential for robotic manipulation, but real-time deployment on edge hardware remains challenging. In this work, we identify VLM visual and contex",
+      "url": "https://arxiv.org/abs/2606.07383v1"
     },
     {
-      "title": "Regret Minimization with Adaptive Opponents in Repeated Games",
-      "date": "2026-06-04",
-      "id": "2606.06486v1",
-      "abstract": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin",
-      "url": "https://arxiv.org/abs/2606.06486v1"
+      "title": "GJ 3929 b as the First Complete Rocky Worlds DDT Data Set",
+      "date": "2026-06-05",
+      "id": "2606.07511v1",
+      "abstract": "Despite their large abundance, it is still unknown whether and under what conditions rocky planets around M dwarf stars can host atmospheres. This open question motivated the on-going Rocky Worlds DDT",
+      "url": "https://arxiv.org/abs/2606.07511v1"
     }
   ]
 }
