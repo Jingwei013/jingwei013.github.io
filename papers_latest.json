@@ -1,105 +1,133 @@
 {
-  "updated": "2026-06-08 05:22 UTC",
-  "total": 14,
+  "updated": "2026-06-09 04:57 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "Counterintuitive problems in discrete probability",
-      "date": "2026-06-05",
-      "id": "2606.07516v1",
-      "abstract": "This manuscript contains a collection of counterintuitive problems in discrete probability, together with detailed solutions. The dataset was constructed as part of a broader research project investig",
-      "url": "https://arxiv.org/abs/2606.07516v1"
+      "title": "Latent Spatial Memory for Video World Models",
+      "date": "2026-06-08",
+      "id": "2606.09828v1",
+      "abstract": "Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, r",
+      "url": "https://arxiv.org/abs/2606.09828v1"
     },
     {
-      "title": "How reliable are LLMs when it comes to playing dice?",
-      "date": "2026-06-05",
-      "id": "2606.07515v1",
-      "abstract": "We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s",
-      "url": "https://arxiv.org/abs/2606.07515v1"
+      "title": "MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models",
+      "date": "2026-06-08",
+      "id": "2606.09827v1",
+      "abstract": "Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the",
+      "url": "https://arxiv.org/abs/2606.09827v1"
     },
     {
-      "title": "UniSHARP: Universal Sharp Monocular View Synthesis",
-      "date": "2026-06-05",
-      "id": "2606.07514v1",
-      "abstract": "In this work, we focus on extending SHARP, the popular photorealistic view synthesis method, for universal monocular rendering across a continuum of camera systems, from conventional perspective camer",
-      "url": "https://arxiv.org/abs/2606.07514v1"
+      "title": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "date": "2026-06-08",
+      "id": "2606.09826v1",
+      "abstract": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ",
+      "url": "https://arxiv.org/abs/2606.09826v1"
     },
     {
-      "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
-      "date": "2026-06-05",
-      "id": "2606.07512v1",
-      "abstract": "Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and attention dilution. To overcome this, we introduc",
-      "url": "https://arxiv.org/abs/2606.07512v1"
+      "title": "iMaC: Translating Actions into Motion and Contact Images for Embodied World Models",
+      "date": "2026-06-08",
+      "id": "2606.09813v1",
+      "abstract": "Embodied world models have emerged as a pivotal paradigm for visual robotic decision-making and interactive environment simulation. However, conventional embodied frameworks rely on low-dimensional st",
+      "url": "https://arxiv.org/abs/2606.09813v1"
     },
     {
-      "title": "Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation",
-      "date": "2026-06-05",
-      "id": "2606.07506v1",
-      "abstract": "The object manipulation capabilities of quadruped robots is an open research challenge. While previous studies have focused on low-level policy learning, task execution still relies on expert-designed",
-      "url": "https://arxiv.org/abs/2606.07506v1"
+      "title": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing",
+      "date": "2026-06-08",
+      "id": "2606.09811v1",
+      "abstract": "World-action models have emerged as a promising paradigm for robot manipulation, jointly modeling visual scene dynamics and actions to inject physical priors into policy learning. However, existing wo",
+      "url": "https://arxiv.org/abs/2606.09811v1"
     },
     {
-      "title": "Performance analysis of classical adiabatic annealing on Ising machines",
-      "date": "2026-06-05",
-      "id": "2606.07331v1",
-      "abstract": "Ising machines are a promising approach to solve combinatorial optimization problems. They map these problems onto the Ising model and search for low-energy configurations. However, navigating the rug",
-      "url": "https://arxiv.org/abs/2606.07331v1"
+      "title": "SynManDex: Synthesizing Human-like Dexterous Grasps from Synthetic Human Pre-Grasps",
+      "date": "2026-06-08",
+      "id": "2606.09798v1",
+      "abstract": "Human hand-object interactions encode functional intent, but direct transfer to robotic hands often fails under morphology, contact, and reachability constraints. We present SynManDex, a synthetic pip",
+      "url": "https://arxiv.org/abs/2606.09798v1"
     },
     {
-      "title": "Agentopia: Long-Term Life Simulation and Learning in Agent Societies",
-      "date": "2026-06-05",
-      "id": "2606.07513v1",
-      "abstract": "Humans learn from social life. Simulating this process with LLM-powered agents represents a promising research direction, raising a natural question: whether LLMs can learn from such simulated social ",
-      "url": "https://arxiv.org/abs/2606.07513v1"
+      "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+      "date": "2026-06-08",
+      "id": "2606.09825v1",
+      "abstract": "Training reinforcement learning (RL) policies from scratch is   costly: it requires careful reward and environment design,   extensive tuning, and substantial computation.   Yet many control problems ",
+      "url": "https://arxiv.org/abs/2606.09825v1"
     },
     {
-      "title": "Ideals defining components of two-row Springer fibers",
-      "date": "2026-06-05",
-      "id": "2606.07507v1",
-      "abstract": "Springer fibers are subvarieties of the flag variety parameterized by nilpotent matrices. They are central objects of study in geometry representation theory. This paper focuses on two-row Springer fi",
-      "url": "https://arxiv.org/abs/2606.07507v1"
+      "title": "TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets",
+      "date": "2026-06-08",
+      "id": "2606.09824v1",
+      "abstract": "Similarity search is a fundamental operation in time series analysis. Most existing techniques, however, require users to supply a precise sequence of values (typically an entire time series object) a",
+      "url": "https://arxiv.org/abs/2606.09824v1"
     },
     {
-      "title": "Non-Abelian braiding in Abelian Fractional Quantum Hall Phases from realistic interactions",
-      "date": "2026-06-05",
-      "id": "2606.07517v1",
-      "abstract": "We propose a method of realizing non-Abelian braiding of fractionalized quasiholes in the Laughlin fractional quantum Hall phase at $ν=1/3$ with realistic two-body interactions within the lowest Landa",
-      "url": "https://arxiv.org/abs/2606.07517v1"
+      "title": "Causally Evaluating the Learnability of Formal Language Tasks",
+      "date": "2026-06-08",
+      "id": "2606.09822v1",
+      "abstract": "Language models, as multi-task learners, acquire a wide range of abilities during training. A fundamental question is how much task-specific data is needed to learn a given task. Answering this for na",
+      "url": "https://arxiv.org/abs/2606.09822v1"
     },
     {
-      "title": "Re-imagining ISO 26262 in the Age of Autonomous Vehicles: Enhancing Controllability through Transferability and Predictability",
-      "date": "2026-06-05",
-      "id": "2606.07437v1",
-      "abstract": "The ISO 26262 standard defines functional safety for road vehicles through risk assessments based on Severity, Exposure, and Controllability, grounded in a human-driven vehicle paradigm. In the contex",
-      "url": "https://arxiv.org/abs/2606.07437v1"
+      "title": "SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation",
+      "date": "2026-06-08",
+      "id": "2606.09774v1",
+      "abstract": "Advanced scientific simulators expose specialized input languages that turn simulation goals into executable configurations, but learning them can cost domain scientists hours to days. We study simula",
+      "url": "https://arxiv.org/abs/2606.09774v1"
     },
     {
-      "title": "OPENPATH: A Supervisor--Specialist Agent System for Personalized, Accessible, and Multi-stop Urban Trip Planning",
-      "date": "2026-06-05",
-      "id": "2606.07486v1",
-      "abstract": "Urban trip-planning systems are commonly optimized for travel time and cost, but they offer limited support for the heterogeneous needs that real travelers bring, such as personalized preferences, mul",
-      "url": "https://arxiv.org/abs/2606.07486v1"
+      "title": "Powering the Future of AI: Navigating the Trade-offs for Europe's Energy Transition and Net-Zero Goals",
+      "date": "2026-06-08",
+      "id": "2606.09617v1",
+      "abstract": "The rapid expansion of AI globally has led to the proliferation of energy-intensive hyperscale data centres (DCs), making them as a structurally challenging component in power system planning and oper",
+      "url": "https://arxiv.org/abs/2606.09617v1"
     },
     {
-      "title": "Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning Approach",
-      "date": "2026-06-05",
-      "id": "2606.07483v1",
-      "abstract": "Many important outcomes unfold as dynamic cascades, including product adoption, disease spread, financial distress, and information diffusion. A central challenge is to recover the hidden influence ne",
-      "url": "https://arxiv.org/abs/2606.07483v1"
+      "title": "Shape Formation for the Cooperative Transportation of Arbitrary Objects Using Multi-Agent Reinforcement Learning",
+      "date": "2026-06-08",
+      "id": "2606.09610v1",
+      "abstract": "Cooperative object transportation is essential in numerous domains, including industrial to domestic services. A popular transportation strategy is to carry objects on top of multi-robot systems. The ",
+      "url": "https://arxiv.org/abs/2606.09610v1"
     },
     {
-      "title": "RhinoVLA Technical Report",
-      "date": "2026-06-05",
-      "id": "2606.07383v1",
-      "abstract": "Vision-Language-Action (VLA) models have shown strong potential for robotic manipulation, but real-time deployment on edge hardware remains challenging. In this work, we identify VLM visual and contex",
-      "url": "https://arxiv.org/abs/2606.07383v1"
+      "title": "iOSWorld: A Benchmark for Personally Intelligent Phone Agents",
+      "date": "2026-06-08",
+      "id": "2606.09764v1",
+      "abstract": "A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impe",
+      "url": "https://arxiv.org/abs/2606.09764v1"
     },
     {
-      "title": "GJ 3929 b as the First Complete Rocky Worlds DDT Data Set",
-      "date": "2026-06-05",
-      "id": "2606.07511v1",
-      "abstract": "Despite their large abundance, it is still unknown whether and under what conditions rocky planets around M dwarf stars can host atmospheres. This open question motivated the on-going Rocky Worlds DDT",
-      "url": "https://arxiv.org/abs/2606.07511v1"
+      "title": "Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models",
+      "date": "2026-06-08",
+      "id": "2606.09749v1",
+      "abstract": "Vision-Language-Action (VLA) models have demonstrated impressive end-to-end performance across a variety of robotic manipulation tasks. However, these policies offer no guarantees against collisions w",
+      "url": "https://arxiv.org/abs/2606.09749v1"
+    },
+    {
+      "title": "Rethinking the Divergence Regularization in LLM RL",
+      "date": "2026-06-08",
+      "id": "2606.09821v1",
+      "abstract": "Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy stalenes",
+      "url": "https://arxiv.org/abs/2606.09821v1"
+    },
+    {
+      "title": "Limit Theory for $N$-Player $α$-Potential Games",
+      "date": "2026-06-08",
+      "id": "2606.09815v1",
+      "abstract": "The framework of $α$-potential games has recently been introduced as a tool to analyze finite-player dynamic games, reducing the challenging task of finding approximate Nash equilibria to a control pr",
+      "url": "https://arxiv.org/abs/2606.09815v1"
+    },
+    {
+      "title": "Echo-Memory: A Controlled Study of Memory in Action World Models",
+      "date": "2026-06-08",
+      "id": "2606.09803v1",
+      "abstract": "We present \\textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-acti",
+      "url": "https://arxiv.org/abs/2606.09803v1"
+    },
+    {
+      "title": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+      "date": "2026-06-08",
+      "id": "2606.09816v1",
+      "abstract": "Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically power",
+      "url": "https://arxiv.org/abs/2606.09816v1"
     }
   ]
 }
