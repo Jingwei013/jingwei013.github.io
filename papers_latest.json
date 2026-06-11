@@ -1,112 +1,133 @@
 {
-  "updated": "2026-06-10 05:09 UTC",
-  "total": 15,
+  "updated": "2026-06-11 05:20 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
-      "date": "2026-06-09",
-      "id": "2606.11190v1",
-      "abstract": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ",
-      "url": "https://arxiv.org/abs/2606.11190v1"
+      "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+      "date": "2026-06-10",
+      "id": "2606.12412v1",
+      "abstract": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re",
+      "url": "https://arxiv.org/abs/2606.12412v1"
     },
     {
-      "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
-      "date": "2026-06-09",
-      "id": "2606.11189v1",
-      "abstract": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St",
-      "url": "https://arxiv.org/abs/2606.11189v1"
+      "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
+      "date": "2026-06-10",
+      "id": "2606.12411v1",
+      "abstract": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summar",
+      "url": "https://arxiv.org/abs/2606.12411v1"
     },
     {
-      "title": "ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations",
-      "date": "2026-06-09",
-      "id": "2606.11188v1",
-      "abstract": "This paper introduces ARM, a discrete representation-based AutoRegressive Model that unifies image understanding, generation, and editing within a next-token prediction framework. ARM is built on thre",
-      "url": "https://arxiv.org/abs/2606.11188v1"
+      "title": "How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology",
+      "date": "2026-06-10",
+      "id": "2606.12407v1",
+      "abstract": "General-purpose large language models (LLMs) are routinely used as baselines when evaluating specialized pathology models on whole-slide images (WSIs). Because WSIs exceed contemporary model context l",
+      "url": "https://arxiv.org/abs/2606.12407v1"
     },
     {
-      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
-      "date": "2026-06-09",
-      "id": "2606.11176v1",
-      "abstract": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con",
-      "url": "https://arxiv.org/abs/2606.11176v1"
+      "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+      "date": "2026-06-10",
+      "id": "2606.12402v1",
+      "abstract": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe th",
+      "url": "https://arxiv.org/abs/2606.12402v1"
     },
     {
-      "title": "JOIN: Anchor-Grasp-Conditioned Joining via Opposition, Inference, and Navigation for Bimanual Assistive Manipulation",
-      "date": "2026-06-09",
-      "id": "2606.11151v1",
-      "abstract": "Assistive mobility and manipulation platforms have received increasing attention as a means of restoring independence to individuals with disabilities. While effective for many basic activities of dai",
-      "url": "https://arxiv.org/abs/2606.11151v1"
+      "title": "Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics",
+      "date": "2026-06-10",
+      "id": "2606.12365v1",
+      "abstract": "We propose Ambient Diffusion Policy, a simple and principled method for imitation learning from suboptimal data in robotics. High-quality, task-specific robot data is expensive and time-consuming to c",
+      "url": "https://arxiv.org/abs/2606.12365v1"
     },
     {
-      "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
-      "date": "2026-06-09",
-      "id": "2606.11129v1",
-      "abstract": "We introduce WorldOlympiad, a benchmark for diagnosing video-based world models across physical faithfulness, geometric consistency, and interaction fidelity. While existing benchmarks often focus on ",
-      "url": "https://arxiv.org/abs/2606.11129v1"
+      "title": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
+      "date": "2026-06-10",
+      "id": "2606.12352v1",
+      "abstract": "Multi-robot collaboration allows robots to efficiently take on a wide range of tasks, from moving a couch through a doorway to assembling structures on a construction site. However, achieving such coo",
+      "url": "https://arxiv.org/abs/2606.12352v1"
     },
     {
-      "title": "Generation of Diverse and Functional Robot Designs using Superquadrics Parametrisation and Quality-Diversity",
-      "date": "2026-06-09",
-      "id": "2606.11037v1",
-      "abstract": "Generative design of robots requires navigating a vast search-space, encompassing physical configurations and behavioural parameters. Evolutionary Algorithms (EAs) have shown promising results, but of",
-      "url": "https://arxiv.org/abs/2606.11037v1"
+      "title": "Doc-to-Atom: Learning to Compile and Compose Memory Atoms",
+      "date": "2026-06-10",
+      "id": "2606.12400v1",
+      "abstract": "Long input sequences are central to document understanding and multi-step reasoning in Large Language Models, yet the quadratic cost of attention makes inference both memory-intensive and slow. Contex",
+      "url": "https://arxiv.org/abs/2606.12400v1"
     },
     {
-      "title": "TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation",
-      "date": "2026-06-09",
-      "id": "2606.11184v1",
-      "abstract": "Contact-rich manipulation requires robots to continuously perceive and regulate evolving physical interactions under dynamic contact transitions or complex surface geometries. Recent imitation learnin",
-      "url": "https://arxiv.org/abs/2606.11184v1"
+      "title": "VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving",
+      "date": "2026-06-10",
+      "id": "2606.12396v1",
+      "abstract": "Vision-language-action (VLA) models can describe scenes and reason about them in language, yet still struggle to ground their actions in the dense 3D world around them. Existing approaches either inje",
+      "url": "https://arxiv.org/abs/2606.12396v1"
     },
     {
-      "title": "EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots",
-      "date": "2026-06-09",
-      "id": "2606.11109v1",
-      "abstract": "Falls are one of the leading causes of injury and hospitalization among elderly individuals, making reliable fall awareness an essential capability for safety monitoring in residential environments. H",
-      "url": "https://arxiv.org/abs/2606.11109v1"
+      "title": "SPEA2$^+$: Improved Density Estimation in SPEA2 with Provable Runtime Guarantees",
+      "date": "2026-06-10",
+      "id": "2606.12382v1",
+      "abstract": "The Strength Pareto Evolutionary Algorithm 2 (SPEA2) is a popular and prominent evolutionary algorithm for solving multi-objective optimisation problems. Despite its popularity, theoretical analyses o",
+      "url": "https://arxiv.org/abs/2606.12382v1"
     },
     {
-      "title": "A History-Aware Visually Grounded Critic for Computer Use Agents",
-      "date": "2026-06-09",
-      "id": "2606.11078v1",
-      "abstract": "Various test-time interventions for Computer Use Agents (CUAs), including critic models, have been developed to improve performance through pre-execution action evaluation in complex Graphical User In",
-      "url": "https://arxiv.org/abs/2606.11078v1"
+      "title": "When direct detection constrains reheating temperature: freeze-in with stronger couplings and inflaton-seeded freeze-in",
+      "date": "2026-06-10",
+      "id": "2606.12408v1",
+      "abstract": "Recent results from the DAMIC-M and PandaX collaborations have excluded the standard freeze-in production of dark matter for masses in the range $3~\\mathrm{MeV} \\lesssim m_χ\\lesssim 1~\\mathrm{GeV}$ in",
+      "url": "https://arxiv.org/abs/2606.12408v1"
     },
     {
-      "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
-      "date": "2026-06-09",
-      "id": "2606.11182v1",
-      "abstract": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg",
-      "url": "https://arxiv.org/abs/2606.11182v1"
+      "title": "Traceable Virtual Sea Trials in the Marine Robotics Unity Simulator for Manoeuvring Assessment of Unmanned Surface Vehicles",
+      "date": "2026-06-10",
+      "id": "2606.12349v1",
+      "abstract": "Accurate identification of hydrodynamic derivatives is essential for control and navigation of Unmanned Surface Vehicles (USVs), but high-fidelity manoeuvring data from physical sea trials are constra",
+      "url": "https://arxiv.org/abs/2606.12349v1"
     },
     {
-      "title": "Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models",
-      "date": "2026-06-09",
-      "id": "2606.11167v1",
-      "abstract": "Full-duplex spoken dialogue models can listen and speak simultaneously, making them a promising architecture for natural conversation. However, current models are trained solely with supervised learni",
-      "url": "https://arxiv.org/abs/2606.11167v1"
+      "title": "UGV-Conditioned Multi-UAV Informative Planning on a Shared Exposure Belief",
+      "date": "2026-06-10",
+      "id": "2606.12306v1",
+      "abstract": "Safe ground navigation in large, threat-augmented environments requires aerial support that actively reduces the risks that a ground vehicle faces along its route. Existing aerial reconnaissance syste",
+      "url": "https://arxiv.org/abs/2606.12306v1"
     },
     {
-      "title": "A Proof of Nash-Williams' Conjecture",
-      "date": "2026-06-09",
-      "id": "2606.11178v1",
-      "abstract": "A central open question in extremal design theory is Nash-Williams' Conjecture from 1970 that every triangle-divisible graph on $n$ vertices (for $n$ large enough) with minimum degree at least $0.75 n",
-      "url": "https://arxiv.org/abs/2606.11178v1"
+      "title": "Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends",
+      "date": "2026-06-10",
+      "id": "2606.12207v1",
+      "abstract": "Embodied intelligence now spans navigation, household assistance, manipulation, autonomous driving, aerial agents, and multimodal large-model control. This expansion has made benchmark construction a ",
+      "url": "https://arxiv.org/abs/2606.12207v1"
     },
     {
-      "title": "Piper: A Programmable Distributed Training System",
-      "date": "2026-06-09",
-      "id": "2606.11169v1",
-      "abstract": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy",
-      "url": "https://arxiv.org/abs/2606.11169v1"
+      "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+      "date": "2026-06-10",
+      "id": "2606.12406v1",
+      "abstract": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method",
+      "url": "https://arxiv.org/abs/2606.12406v1"
     },
     {
-      "title": "Defeat the Heap: Zero-Copy Data Movement in AXI4MLIR",
-      "date": "2026-06-09",
-      "id": "2606.11158v1",
-      "abstract": "As custom hardware accelerators become increasingly central to machine learning workloads, efficient data transfer is critical for maximizing accelerator performance on linear algebra kernels. AXI4MLI",
-      "url": "https://arxiv.org/abs/2606.11158v1"
+      "title": "World Pilot: Steering Vision-Language-Action Models with World-Action Priors",
+      "date": "2026-06-10",
+      "id": "2606.12403v1",
+      "abstract": "Vision-Language-Action (VLA) models inherit semantic grounding from large-scale pretraining and perform competently across in-distribution manipulation tasks. This grounding, however, is built on stat",
+      "url": "https://arxiv.org/abs/2606.12403v1"
+    },
+    {
+      "title": "APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies",
+      "date": "2026-06-10",
+      "id": "2606.12366v1",
+      "abstract": "Vision-Language-Action (VLA) models that couple pretrained Vision-Language Models (VLMs) with continuous action experts have achieved strong manipulation performance, yet generalization to out-of-dist",
+      "url": "https://arxiv.org/abs/2606.12366v1"
+    },
+    {
+      "title": "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5",
+      "date": "2026-06-10",
+      "id": "2606.12392v1",
+      "abstract": "Recently, large language models (LLMs) have achieved promising progress in the fields of classical Chinese translation and the generation of classical poetry. However, domain-specific research on prec",
+      "url": "https://arxiv.org/abs/2606.12392v1"
+    },
+    {
+      "title": "Time-dependent cosmic-ray escape from wind bubbles: hard spectra formation",
+      "date": "2026-06-10",
+      "id": "2606.12390v1",
+      "abstract": "Overview: Wind-driven bubbles are dynamic systems that can accelerate cosmic rays, depending on their physical properties, up to very high energies. We investigate how a time-dependent description of ",
+      "url": "https://arxiv.org/abs/2606.12390v1"
     }
   ]
 }
