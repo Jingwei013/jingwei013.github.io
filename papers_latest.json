@@ -1,119 +1,154 @@
 {
-  "updated": "2026-06-14 05:23 UTC",
-  "total": 16,
+  "updated": "2026-06-15 06:13 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
-      "date": "2026-06-11",
-      "id": "2606.13681v1",
-      "abstract": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna",
-      "url": "https://arxiv.org/abs/2606.13681v1"
+      "title": "Gaze Heads: How VLMs Look at What They Describe",
+      "date": "2026-06-12",
+      "id": "2606.14703v1",
+      "abstract": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ",
+      "url": "https://arxiv.org/abs/2606.14703v1"
     },
     {
-      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
-      "date": "2026-06-11",
-      "id": "2606.13680v1",
-      "abstract": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s",
-      "url": "https://arxiv.org/abs/2606.13680v1"
+      "title": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
+      "date": "2026-06-12",
+      "id": "2606.14702v1",
+      "abstract": "Current automated pipelines for audio-visual Question Answering (QA) generally adopt a ``video-caption-QA'' paradigm. However, these methods typically segment videos into short clips and generate sepa",
+      "url": "https://arxiv.org/abs/2606.14702v1"
     },
     {
-      "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
-      "date": "2026-06-11",
-      "id": "2606.13679v1",
-      "abstract": "Recent image generators have demonstrated impressive photorealism and instruction-following capabilities in single-image generation and editing. However, constrained by their architectures, they canno",
-      "url": "https://arxiv.org/abs/2606.13679v1"
+      "title": "RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers",
+      "date": "2026-06-12",
+      "id": "2606.14701v1",
+      "abstract": "When humans see a bird, they recognize far more than just \"bird\" -- they see a head, wings, and talons, a structured assembly of reusable parts that can be identified across every bird they have ever ",
+      "url": "https://arxiv.org/abs/2606.14701v1"
     },
     {
-      "title": "$\\texttt{WEAVER}$, Better, Faster, Longer: An Effective World Model for Robotic Manipulation",
-      "date": "2026-06-11",
-      "id": "2606.13672v1",
-      "abstract": "The potential impacts of world models (WMs, i.e., learned simulators) on robotics are far-reaching -- policy evaluation, policy improvement, and test-time planning -- all with limited real-world inter",
-      "url": "https://arxiv.org/abs/2606.13672v1"
+      "title": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
+      "date": "2026-06-12",
+      "id": "2606.14674v1",
+      "abstract": "LLM agents are increasingly built not as single model calls, but as scaffolded systems that combine reasoning, memory, reflection, action execution, and learning. While such scaffolds often improve pe",
+      "url": "https://arxiv.org/abs/2606.14674v1"
     },
     {
-      "title": "Beyond the IT Checklist: Engineering a Reasonable Standard of Care for Cyber Safety",
-      "date": "2026-06-11",
-      "id": "2606.13612v1",
-      "abstract": "Current U.S. cyber policy, centered on security, often treats documentation of controls and incident reports as a proxy for safety in the built environment. This paper argues that such an approach is ",
-      "url": "https://arxiv.org/abs/2606.13612v1"
+      "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
+      "date": "2026-06-12",
+      "id": "2606.14623v1",
+      "abstract": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust navigation in GPS/GNSS-degraded or deni",
+      "url": "https://arxiv.org/abs/2606.14623v1"
     },
     {
-      "title": "Mana: Dexterous Manipulation of Articulated Tools",
-      "date": "2026-06-11",
-      "id": "2606.13677v1",
-      "abstract": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu",
-      "url": "https://arxiv.org/abs/2606.13677v1"
+      "title": "What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI",
+      "date": "2026-06-12",
+      "id": "2606.14602v1",
+      "abstract": "Socially assistive robots (SARs) are increasingly deployed in educational and information-sharing contexts, supported by advances in large language models that enable fluent real-time interaction. Des",
+      "url": "https://arxiv.org/abs/2606.14602v1"
     },
     {
-      "title": "Modality Forcing for Scalable Spatial Generation",
-      "date": "2026-06-11",
-      "id": "2606.13676v1",
-      "abstract": "Text-to-image (T2I) models contain rich spatial priors. Synthesizing photorealistic, cluttered scenes requires an understanding of geometry, including perspective and relative scale. Prior works adapt",
-      "url": "https://arxiv.org/abs/2606.13676v1"
+      "title": "The Edges of Planetary Systems: Falling Off the Kuiper Cliff in a Dissipating Gas Disk",
+      "date": "2026-06-12",
+      "id": "2606.14704v1",
+      "abstract": "Probably the last planetesimals to have formed from dust in the solar nebula are Cold Classical Kuiper belt objects (CCKBOs). To the extent that they are isolated and unchanged since birth, CCKBOs off",
+      "url": "https://arxiv.org/abs/2606.14704v1"
     },
     {
-      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
-      "date": "2026-06-11",
-      "id": "2606.13673v1",
-      "abstract": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp",
-      "url": "https://arxiv.org/abs/2606.13673v1"
+      "title": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
+      "date": "2026-06-12",
+      "id": "2606.14699v1",
+      "abstract": "Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization",
+      "url": "https://arxiv.org/abs/2606.14699v1"
     },
     {
-      "title": "NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation",
-      "date": "2026-06-11",
-      "id": "2606.13494v1",
-      "abstract": "Goal-conditioned visual navigation requires a robot to act under partial observability by anticipating how its motion will change the future egocentric view and whether that change brings it closer to",
-      "url": "https://arxiv.org/abs/2606.13494v1"
+      "title": "Sensitivity Shaping for Latent Modeling",
+      "date": "2026-06-12",
+      "id": "2606.14585v1",
+      "abstract": "Generative dynamics models enable planning in challenging robotic systems, but safe deployment requires reliably detecting policy-induced out-of-distribution (OOD) transitions. Existing methods typica",
+      "url": "https://arxiv.org/abs/2606.14585v1"
     },
     {
-      "title": "Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery",
-      "date": "2026-06-11",
-      "id": "2606.13488v1",
-      "abstract": "Partial-to-full registration remains challenging due to varying overlap ratios, fluctuating point densities, and the presence of noise. While transformers have shown strong potential for point cloud p",
-      "url": "https://arxiv.org/abs/2606.13488v1"
+      "title": "Kine2Go: Kinematic dataset for the Unitree Go2 robot with diverse gaits and motions",
+      "date": "2026-06-12",
+      "id": "2606.14433v1",
+      "abstract": "The recent popularity of robotics, combined with the steadily decreasing cost of robotic hardware, has lowered the entry barrier to robotics research and enabled rapid advancements in the field. One o",
+      "url": "https://arxiv.org/abs/2606.14433v1"
     },
     {
-      "title": "Improving Robotic Generalist Policies via Flow Reversal Steering",
-      "date": "2026-06-11",
-      "id": "2606.13675v1",
-      "abstract": "Generalist policies can learn a wide range of skills from diverse robot datasets. In order to solve or improve on challenging news tasks, we need a way to infer and invoke the appropriate actions from",
-      "url": "https://arxiv.org/abs/2606.13675v1"
+      "title": "EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning",
+      "date": "2026-06-12",
+      "id": "2606.14665v1",
+      "abstract": "Robot learning from real-world demonstrations is currently constrained by data scaling. Universal Manipulation Interface (UMI) provides an efficient robot-free data collection interface, yet current U",
+      "url": "https://arxiv.org/abs/2606.14665v1"
     },
     {
-      "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
-      "date": "2026-06-11",
-      "id": "2606.13674v1",
-      "abstract": "This work presents RepWAM, a representation-centric world action model (WAM) built on representation visual-action tokenizers. Existing WAMs typically inherit reconstruction-oriented video tokenizers ",
-      "url": "https://arxiv.org/abs/2606.13674v1"
+      "title": "A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health",
+      "date": "2026-06-12",
+      "id": "2606.14604v1",
+      "abstract": "Wearable devices and smartphones generate rich behavioural time series that can support proactive health interventions, yet systematic comparisons of modern forecasting architectures for these data ar",
+      "url": "https://arxiv.org/abs/2606.14604v1"
     },
     {
-      "title": "Morphology control and low-temperature magnetotransport in chiral 2D perovskite R-(MBA)$_2$PbI$_4$",
-      "date": "2026-06-11",
-      "id": "2606.13664v1",
-      "abstract": "Two-dimensional chiral hybrid perovskites, such as R/S-(MBA)\\textsubscript{2}PbI\\textsubscript{4}, are leading candidates for realizing and studying chirality-dependent charge and spin transport. Howe",
-      "url": "https://arxiv.org/abs/2606.13664v1"
+      "title": "Tailoring the properties of YBa$_{2}$Cu$_{3}$O$_{7-δ}$ thin films by 30 keV He$^+$ irradiation: An enabling route to superconducting device nanopatterning",
+      "date": "2026-06-12",
+      "id": "2606.14588v1",
+      "abstract": "Focused helium ion beam (He-FIB) irradiation with 30 keV ions is a key tool for nanoscale patterning and defect engineering in high transition temperature (Tc) cuprate superconducting devices, yet its",
+      "url": "https://arxiv.org/abs/2606.14588v1"
     },
     {
-      "title": "Search for High-Frequency Gravitational Waves via Geomagnetic Conversion with Radio Telescopes",
-      "date": "2026-06-11",
-      "id": "2606.13642v1",
-      "abstract": "The detection of high-frequency gravitational waves (HFGWs) above 10 kHz provides a crucial probe of exotic astrophysical phenomena and new physics. We report the first search for HFGWs via their conv",
-      "url": "https://arxiv.org/abs/2606.13642v1"
+      "title": "Coping in Crisis: Computational Modeling of Coping Styles in Digital Crisis Discourse During the 2023 Turkiye Earthquake",
+      "date": "2026-06-12",
+      "id": "2606.14420v1",
+      "abstract": "How do people cope when disaster strikes and can we detect it at scale, in real time, from what they write? This study addresses that question using over one million Turkish-language tweets posted in ",
+      "url": "https://arxiv.org/abs/2606.14420v1"
     },
     {
-      "title": "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories",
-      "date": "2026-06-11",
-      "id": "2606.13578v1",
-      "abstract": "Scientific laboratories increasingly rely on AI systems to reason about experiments, but the physical act of doing science remains largely outside their reach. AI can help read literature, generate hy",
-      "url": "https://arxiv.org/abs/2606.13578v1"
+      "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
+      "date": "2026-06-12",
+      "id": "2606.14700v1",
+      "abstract": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emer",
+      "url": "https://arxiv.org/abs/2606.14700v1"
     },
     {
-      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
-      "date": "2026-06-11",
-      "id": "2606.13662v1",
-      "abstract": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti",
-      "url": "https://arxiv.org/abs/2606.13662v1"
+      "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "date": "2026-06-12",
+      "id": "2606.14695v1",
+      "abstract": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin",
+      "url": "https://arxiv.org/abs/2606.14695v1"
+    },
+    {
+      "title": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
+      "date": "2026-06-12",
+      "id": "2606.14689v1",
+      "abstract": "New flavour non-abelian gauge groups, which may arise as part of a fundamental theory of flavour, can lead to distinctive flavour-transfer processes. When restricted to the lepton sector, such process",
+      "url": "https://arxiv.org/abs/2606.14689v1"
+    },
+    {
+      "title": "Forcing with Invariant Measures",
+      "date": "2026-06-12",
+      "id": "2606.14675v1",
+      "abstract": "This paper introduces a model-theoretic generalization of the notion of forcing with random reals, in which forcing gives rise to random generic structures. Specifically, we consider forcing with $κ$-",
+      "url": "https://arxiv.org/abs/2606.14675v1"
+    },
+    {
+      "title": "Pairwise Compatibility Representations of Multidimensional Grid Graphs",
+      "date": "2026-06-12",
+      "id": "2606.14656v1",
+      "abstract": "Pairwise compatibility graphs (PCGs) represent graph adjacency by an interval of leaf-to-leaf distances in a weighted tree. We study grid graphs under the PCG model and two natural extensions: multi-i",
+      "url": "https://arxiv.org/abs/2606.14656v1"
+    },
+    {
+      "title": "Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets",
+      "date": "2026-06-12",
+      "id": "2606.14679v1",
+      "abstract": "Online inventory optimization (OIO) is online convex optimization with physical memory: inventory carryover makes the feasible action set depend on the past. A natural principle, used in stochastic in",
+      "url": "https://arxiv.org/abs/2606.14679v1"
+    },
+    {
+      "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+      "date": "2026-06-12",
+      "id": "2606.14691v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ",
+      "url": "https://arxiv.org/abs/2606.14691v1"
     }
   ]
 }
