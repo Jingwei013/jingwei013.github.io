@@ -1,154 +1,105 @@
 {
-  "updated": "2026-06-15 06:13 UTC",
-  "total": 21,
+  "updated": "2026-06-16 06:23 UTC",
+  "total": 14,
   "today_count": 0,
   "papers": [
     {
-      "title": "Gaze Heads: How VLMs Look at What They Describe",
-      "date": "2026-06-12",
-      "id": "2606.14703v1",
-      "abstract": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ",
-      "url": "https://arxiv.org/abs/2606.14703v1"
+      "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
+      "date": "2026-06-15",
+      "id": "2606.17056v1",
+      "abstract": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte",
+      "url": "https://arxiv.org/abs/2606.17056v1"
     },
     {
-      "title": "OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains",
-      "date": "2026-06-12",
-      "id": "2606.14702v1",
-      "abstract": "Current automated pipelines for audio-visual Question Answering (QA) generally adopt a ``video-caption-QA'' paradigm. However, these methods typically segment videos into short clips and generate sepa",
-      "url": "https://arxiv.org/abs/2606.14702v1"
+      "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+      "date": "2026-06-15",
+      "id": "2606.17055v1",
+      "abstract": "The ability to react dynamically to tactile signals has long been considered crucial to agile human-level dexterity. Yet contemporary learning-based Vision-Language-Action (VLA) models for robotic man",
+      "url": "https://arxiv.org/abs/2606.17055v1"
     },
     {
-      "title": "RATS! Patches Talk Through Registers: Emergent Parts in Register Attention Transformers",
-      "date": "2026-06-12",
-      "id": "2606.14701v1",
-      "abstract": "When humans see a bird, they recognize far more than just \"bird\" -- they see a head, wings, and talons, a structured assembly of reusable parts that can be identified across every bird they have ever ",
-      "url": "https://arxiv.org/abs/2606.14701v1"
+      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+      "date": "2026-06-15",
+      "id": "2606.17053v1",
+      "abstract": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d",
+      "url": "https://arxiv.org/abs/2606.17053v1"
     },
     {
-      "title": "AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition",
-      "date": "2026-06-12",
-      "id": "2606.14674v1",
-      "abstract": "LLM agents are increasingly built not as single model calls, but as scaffolded systems that combine reasoning, memory, reflection, action execution, and learning. While such scaffolds often improve pe",
-      "url": "https://arxiv.org/abs/2606.14674v1"
+      "title": "Human Universal Grasping",
+      "date": "2026-06-15",
+      "id": "2606.17054v1",
+      "abstract": "Humans can grasp objects effortlessly, whereas multi-fingered robots are far from this level of generality. We argue that the most natural source of robot grasping data is from humans, who pick up tho",
+      "url": "https://arxiv.org/abs/2606.17054v1"
     },
     {
-      "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-      "date": "2026-06-12",
-      "id": "2606.14623v1",
-      "abstract": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust navigation in GPS/GNSS-degraded or deni",
-      "url": "https://arxiv.org/abs/2606.14623v1"
+      "title": "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation",
+      "date": "2026-06-15",
+      "id": "2606.17030v1",
+      "abstract": "We introduce Qwen-RobotWorld, a language-conditioned video world model for embodied intelligence. With natural language as a unified action interface, it predicts physically grounded future visual tra",
+      "url": "https://arxiv.org/abs/2606.17030v1"
     },
     {
-      "title": "What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI",
-      "date": "2026-06-12",
-      "id": "2606.14602v1",
-      "abstract": "Socially assistive robots (SARs) are increasingly deployed in educational and information-sharing contexts, supported by advances in large language models that enable fluent real-time interaction. Des",
-      "url": "https://arxiv.org/abs/2606.14602v1"
+      "title": "ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning",
+      "date": "2026-06-15",
+      "id": "2606.17011v1",
+      "abstract": "Human interventions provide crucial corrective signals for post-training Vision-Language-Action (VLA) models. However, enabling seamless humanoid interventions is a formidable systems challenge due to",
+      "url": "https://arxiv.org/abs/2606.17011v1"
     },
     {
-      "title": "The Edges of Planetary Systems: Falling Off the Kuiper Cliff in a Dissipating Gas Disk",
-      "date": "2026-06-12",
-      "id": "2606.14704v1",
-      "abstract": "Probably the last planetesimals to have formed from dust in the solar nebula are Cold Classical Kuiper belt objects (CCKBOs). To the extent that they are isolated and unchanged since birth, CCKBOs off",
-      "url": "https://arxiv.org/abs/2606.14704v1"
+      "title": "DreamX-World 1.0: A General-Purpose Interactive World Model",
+      "date": "2026-06-15",
+      "id": "2606.16993v1",
+      "abstract": "DreamX-World 1.0 is a general-purpose interactive text/image-to-video world model for controllable long-horizon generation. It supports camera navigation, revisits to previously observed regions, and ",
+      "url": "https://arxiv.org/abs/2606.16993v1"
     },
     {
-      "title": "Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control",
-      "date": "2026-06-12",
-      "id": "2606.14699v1",
-      "abstract": "Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization",
-      "url": "https://arxiv.org/abs/2606.14699v1"
+      "title": "When Should a Robot Replan? Regret-Guided Update Scheduling in Time-Varying MDPs",
+      "date": "2026-06-15",
+      "id": "2606.16972v1",
+      "abstract": "Robots operating in non-stationary environments must continually adapt their policies as the dynamics drift, but onboard energy and compute budgets cap how often a full state estimation and re-plannin",
+      "url": "https://arxiv.org/abs/2606.16972v1"
     },
     {
-      "title": "Sensitivity Shaping for Latent Modeling",
-      "date": "2026-06-12",
-      "id": "2606.14585v1",
-      "abstract": "Generative dynamics models enable planning in challenging robotic systems, but safe deployment requires reliably detecting policy-induced out-of-distribution (OOD) transitions. Existing methods typica",
-      "url": "https://arxiv.org/abs/2606.14585v1"
+      "title": "Geometric Action Model for Robot Policy Learning",
+      "date": "2026-06-15",
+      "id": "2606.17046v1",
+      "abstract": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and",
+      "url": "https://arxiv.org/abs/2606.17046v1"
     },
     {
-      "title": "Kine2Go: Kinematic dataset for the Unitree Go2 robot with diverse gaits and motions",
-      "date": "2026-06-12",
-      "id": "2606.14433v1",
-      "abstract": "The recent popularity of robotics, combined with the steadily decreasing cost of robotic hardware, has lowered the entry barrier to robotics research and enabled rapid advancements in the field. One o",
-      "url": "https://arxiv.org/abs/2606.14433v1"
+      "title": "Compact Spin-Charge Separated Neural Quantum States for Valence-Bond States",
+      "date": "2026-06-15",
+      "id": "2606.17045v1",
+      "abstract": "Neural-network quantum states (NQS) provide a flexible nonlinear representation of quantum many-body wavefunctions, but their efficiency depends sensitively on whether the architecture reflects the si",
+      "url": "https://arxiv.org/abs/2606.17045v1"
     },
     {
-      "title": "EgoGuide: Egocentric Guidance for Efficient Robot-Free Demonstration Collection and Learning",
-      "date": "2026-06-12",
-      "id": "2606.14665v1",
-      "abstract": "Robot learning from real-world demonstrations is currently constrained by data scaling. Universal Manipulation Interface (UMI) provides an efficient robot-free data collection interface, yet current U",
-      "url": "https://arxiv.org/abs/2606.14665v1"
+      "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+      "date": "2026-06-15",
+      "id": "2606.17041v1",
+      "abstract": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ",
+      "url": "https://arxiv.org/abs/2606.17041v1"
     },
     {
-      "title": "A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health",
-      "date": "2026-06-12",
-      "id": "2606.14604v1",
-      "abstract": "Wearable devices and smartphones generate rich behavioural time series that can support proactive health interventions, yet systematic comparisons of modern forecasting architectures for these data ar",
-      "url": "https://arxiv.org/abs/2606.14604v1"
+      "title": "A constant-factor approximation of the Gromov-Hausdorff distance in the plane",
+      "date": "2026-06-15",
+      "id": "2606.17051v1",
+      "abstract": "We give the first polynomial-time constant-factor approximation of the Gromov--Hausdorff distance $d_{GH}$ between finite point sets in the Euclidean plane; in fixed Euclidean dimension such an approx",
+      "url": "https://arxiv.org/abs/2606.17051v1"
     },
     {
-      "title": "Tailoring the properties of YBa$_{2}$Cu$_{3}$O$_{7-δ}$ thin films by 30 keV He$^+$ irradiation: An enabling route to superconducting device nanopatterning",
-      "date": "2026-06-12",
-      "id": "2606.14588v1",
-      "abstract": "Focused helium ion beam (He-FIB) irradiation with 30 keV ions is a key tool for nanoscale patterning and defect engineering in high transition temperature (Tc) cuprate superconducting devices, yet its",
-      "url": "https://arxiv.org/abs/2606.14588v1"
+      "title": "DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents",
+      "date": "2026-06-15",
+      "id": "2606.17029v1",
+      "abstract": "Deep research agents synthesize long-form reports by searching and reasoning over retrieved evidence. Reinforcement learning with rubric-based rewards improves these agents by optimizing them against ",
+      "url": "https://arxiv.org/abs/2606.17029v1"
     },
     {
-      "title": "Coping in Crisis: Computational Modeling of Coping Styles in Digital Crisis Discourse During the 2023 Turkiye Earthquake",
-      "date": "2026-06-12",
-      "id": "2606.14420v1",
-      "abstract": "How do people cope when disaster strikes and can we detect it at scale, in real time, from what they write? This study addresses that question using over one million Turkish-language tweets posted in ",
-      "url": "https://arxiv.org/abs/2606.14420v1"
-    },
-    {
-      "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-      "date": "2026-06-12",
-      "id": "2606.14700v1",
-      "abstract": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newly trained generative backbones. The emer",
-      "url": "https://arxiv.org/abs/2606.14700v1"
-    },
-    {
-      "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
-      "date": "2026-06-12",
-      "id": "2606.14695v1",
-      "abstract": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin",
-      "url": "https://arxiv.org/abs/2606.14695v1"
-    },
-    {
-      "title": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
-      "date": "2026-06-12",
-      "id": "2606.14689v1",
-      "abstract": "New flavour non-abelian gauge groups, which may arise as part of a fundamental theory of flavour, can lead to distinctive flavour-transfer processes. When restricted to the lepton sector, such process",
-      "url": "https://arxiv.org/abs/2606.14689v1"
-    },
-    {
-      "title": "Forcing with Invariant Measures",
-      "date": "2026-06-12",
-      "id": "2606.14675v1",
-      "abstract": "This paper introduces a model-theoretic generalization of the notion of forcing with random reals, in which forcing gives rise to random generic structures. Specifically, we consider forcing with $κ$-",
-      "url": "https://arxiv.org/abs/2606.14675v1"
-    },
-    {
-      "title": "Pairwise Compatibility Representations of Multidimensional Grid Graphs",
-      "date": "2026-06-12",
-      "id": "2606.14656v1",
-      "abstract": "Pairwise compatibility graphs (PCGs) represent graph adjacency by an interval of leaf-to-leaf distances in a weighted tree. We study grid graphs under the PCG model and two natural extensions: multi-i",
-      "url": "https://arxiv.org/abs/2606.14656v1"
-    },
-    {
-      "title": "Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets",
-      "date": "2026-06-12",
-      "id": "2606.14679v1",
-      "abstract": "Online inventory optimization (OIO) is online convex optimization with physical memory: inventory carryover makes the feasible action set depend on the past. A natural principle, used in stochastic in",
-      "url": "https://arxiv.org/abs/2606.14679v1"
-    },
-    {
-      "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
-      "date": "2026-06-12",
-      "id": "2606.14691v1",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ",
-      "url": "https://arxiv.org/abs/2606.14691v1"
+      "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+      "date": "2026-06-15",
+      "id": "2606.17049v1",
+      "abstract": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and contro",
+      "url": "https://arxiv.org/abs/2606.17049v1"
     }
   ]
 }
