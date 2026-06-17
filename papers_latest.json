@@ -1,105 +1,119 @@
 {
-  "updated": "2026-06-16 06:23 UTC",
-  "total": 14,
+  "updated": "2026-06-17 05:59 UTC",
+  "total": 16,
   "today_count": 0,
   "papers": [
     {
-      "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
-      "date": "2026-06-15",
-      "id": "2606.17056v1",
-      "abstract": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte",
-      "url": "https://arxiv.org/abs/2606.17056v1"
+      "title": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
+      "date": "2026-06-16",
+      "id": "2606.18250v1",
+      "abstract": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion an",
+      "url": "https://arxiv.org/abs/2606.18250v1"
     },
     {
-      "title": "T-Rex: Tactile-Reactive Dexterous Manipulation",
-      "date": "2026-06-15",
-      "id": "2606.17055v1",
-      "abstract": "The ability to react dynamically to tactile signals has long been considered crucial to agile human-level dexterity. Yet contemporary learning-based Vision-Language-Action (VLA) models for robotic man",
-      "url": "https://arxiv.org/abs/2606.17055v1"
+      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
+      "date": "2026-06-16",
+      "id": "2606.18249v1",
+      "abstract": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits t",
+      "url": "https://arxiv.org/abs/2606.18249v1"
     },
     {
-      "title": "Context-Aware RL for Agentic and Multimodal LLMs",
-      "date": "2026-06-15",
-      "id": "2606.17053v1",
-      "abstract": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d",
-      "url": "https://arxiv.org/abs/2606.17053v1"
+      "title": "Variable-Width Transformers",
+      "date": "2026-06-16",
+      "id": "2606.18246v1",
+      "abstract": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat",
+      "url": "https://arxiv.org/abs/2606.18246v1"
     },
     {
-      "title": "Human Universal Grasping",
-      "date": "2026-06-15",
-      "id": "2606.17054v1",
-      "abstract": "Humans can grasp objects effortlessly, whereas multi-fingered robots are far from this level of generality. We argue that the most natural source of robot grasping data is from humans, who pick up tho",
-      "url": "https://arxiv.org/abs/2606.17054v1"
+      "title": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+      "date": "2026-06-16",
+      "id": "2606.18235v1",
+      "abstract": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ",
+      "url": "https://arxiv.org/abs/2606.18235v1"
     },
     {
-      "title": "Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation",
-      "date": "2026-06-15",
-      "id": "2606.17030v1",
-      "abstract": "We introduce Qwen-RobotWorld, a language-conditioned video world model for embodied intelligence. With natural language as a unified action interface, it predicts physically grounded future visual tra",
-      "url": "https://arxiv.org/abs/2606.17030v1"
+      "title": "EgoCS-400K: An Egocentric Gameplay Dataset for World Models",
+      "date": "2026-06-16",
+      "id": "2606.18180v1",
+      "abstract": "The shift from video generation to interactive world modeling places new demands on data: beyond captioned videos, world models require temporally aligned video-action-language trajectories grounded i",
+      "url": "https://arxiv.org/abs/2606.18180v1"
     },
     {
-      "title": "ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning",
-      "date": "2026-06-15",
-      "id": "2606.17011v1",
-      "abstract": "Human interventions provide crucial corrective signals for post-training Vision-Language-Action (VLA) models. However, enabling seamless humanoid interventions is a formidable systems challenge due to",
-      "url": "https://arxiv.org/abs/2606.17011v1"
+      "title": "Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So",
+      "date": "2026-06-16",
+      "id": "2606.18144v1",
+      "abstract": "A robot's flash endurance is a non-renewable stock: every persisted write spends one of a few thousand program/erase cycles and never refills, yet no fielded robot memory system prices which memories ",
+      "url": "https://arxiv.org/abs/2606.18144v1"
     },
     {
-      "title": "DreamX-World 1.0: A General-Purpose Interactive World Model",
-      "date": "2026-06-15",
-      "id": "2606.16993v1",
-      "abstract": "DreamX-World 1.0 is a general-purpose interactive text/image-to-video world model for controllable long-horizon generation. It supports camera navigation, revisits to previously observed regions, and ",
-      "url": "https://arxiv.org/abs/2606.16993v1"
+      "title": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
+      "date": "2026-06-16",
+      "id": "2606.18243v1",
+      "abstract": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collabor",
+      "url": "https://arxiv.org/abs/2606.18243v1"
     },
     {
-      "title": "When Should a Robot Replan? Regret-Guided Update Scheduling in Time-Varying MDPs",
-      "date": "2026-06-15",
-      "id": "2606.16972v1",
-      "abstract": "Robots operating in non-stationary environments must continually adapt their policies as the dynamics drift, but onboard energy and compute budgets cap how often a full state estimation and re-plannin",
-      "url": "https://arxiv.org/abs/2606.16972v1"
+      "title": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+      "date": "2026-06-16",
+      "id": "2606.18247v1",
+      "abstract": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen",
+      "url": "https://arxiv.org/abs/2606.18247v1"
     },
     {
-      "title": "Geometric Action Model for Robot Policy Learning",
-      "date": "2026-06-15",
-      "id": "2606.17046v1",
-      "abstract": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and",
-      "url": "https://arxiv.org/abs/2606.17046v1"
+      "title": "Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System",
+      "date": "2026-06-16",
+      "id": "2606.18112v1",
+      "abstract": "Agentic navigation systems require a base navigation model whose observation strategy can be externally reconfigured at inference time, because instruction following, object search, target tracking, a",
+      "url": "https://arxiv.org/abs/2606.18112v1"
     },
     {
-      "title": "Compact Spin-Charge Separated Neural Quantum States for Valence-Bond States",
-      "date": "2026-06-15",
-      "id": "2606.17045v1",
-      "abstract": "Neural-network quantum states (NQS) provide a flexible nonlinear representation of quantum many-body wavefunctions, but their efficiency depends sensitively on whether the architecture reflects the si",
-      "url": "https://arxiv.org/abs/2606.17045v1"
+      "title": "MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories",
+      "date": "2026-06-16",
+      "id": "2606.17978v1",
+      "abstract": "Trajectory similarity is a fundamental task in analyzing mobility patterns, essential for applications such as route pattern extraction, mobility prediction, and anomaly detection. Traditional distanc",
+      "url": "https://arxiv.org/abs/2606.17978v1"
     },
     {
-      "title": "Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
-      "date": "2026-06-15",
-      "id": "2606.17041v1",
-      "abstract": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ",
-      "url": "https://arxiv.org/abs/2606.17041v1"
+      "title": "Beyond Failure Recovery: An Engagement-Aware Human-in-the-loop Framework for Robotic Systems",
+      "date": "2026-06-16",
+      "id": "2606.18189v1",
+      "abstract": "Conventional human-in-the-loop approaches typically involve users only when a robot encounters failure or uncertainty, treating humans primarily as tools for improving robot performance. However, in m",
+      "url": "https://arxiv.org/abs/2606.18189v1"
     },
     {
-      "title": "A constant-factor approximation of the Gromov-Hausdorff distance in the plane",
-      "date": "2026-06-15",
-      "id": "2606.17051v1",
-      "abstract": "We give the first polynomial-time constant-factor approximation of the Gromov--Hausdorff distance $d_{GH}$ between finite point sets in the Euclidean plane; in fixed Euclidean dimension such an approx",
-      "url": "https://arxiv.org/abs/2606.17051v1"
+      "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
+      "date": "2026-06-16",
+      "id": "2606.18239v1",
+      "abstract": "We present EBench, a simulation benchmark that diagnoses generalist mobile manipulation policies beyond a single success-rate scalar. EBench comprises 26 diverse and challenging manipulation tasks ann",
+      "url": "https://arxiv.org/abs/2606.18239v1"
     },
     {
-      "title": "DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents",
-      "date": "2026-06-15",
-      "id": "2606.17029v1",
-      "abstract": "Deep research agents synthesize long-form reports by searching and reasoning over retrieved evidence. Reinforcement learning with rubric-based rewards improves these agents by optimizing them against ",
-      "url": "https://arxiv.org/abs/2606.17029v1"
+      "title": "WireCraft: A Simulation Benchmark for Industrial DLO Manipulation",
+      "date": "2026-06-16",
+      "id": "2606.18097v1",
+      "abstract": "Deformable Linear Objects (DLOs), such as wires and cables, are central to industrial assembly. Unlike rigid objects, whose state is captured by a 6-DoF pose, DLOs have an infinite-dimensional configu",
+      "url": "https://arxiv.org/abs/2606.18097v1"
     },
     {
-      "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
-      "date": "2026-06-15",
-      "id": "2606.17049v1",
-      "abstract": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and contro",
-      "url": "https://arxiv.org/abs/2606.17049v1"
+      "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+      "date": "2026-06-16",
+      "id": "2606.18237v1",
+      "abstract": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ",
+      "url": "https://arxiv.org/abs/2606.18237v1"
+    },
+    {
+      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "date": "2026-06-16",
+      "id": "2606.18216v1",
+      "abstract": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ",
+      "url": "https://arxiv.org/abs/2606.18216v1"
+    },
+    {
+      "title": "Pushing the Primordial Frontier: Exact Linear Solutions in Multifield Inflation",
+      "date": "2026-06-16",
+      "id": "2606.18248v1",
+      "abstract": "We present exact analytic solutions for the linear dynamics of a two-field inflationary system in which the primordial curvature perturbation $ζ$ is coupled to an isocurvature perturbation $σ$ of entr",
+      "url": "https://arxiv.org/abs/2606.18248v1"
     }
   ]
 }
