@@ -1,119 +1,119 @@
 {
-  "updated": "2026-06-17 05:59 UTC",
+  "updated": "2026-06-18 05:27 UTC",
   "total": 16,
   "today_count": 0,
   "papers": [
     {
-      "title": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
-      "date": "2026-06-16",
-      "id": "2606.18250v1",
-      "abstract": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion an",
-      "url": "https://arxiv.org/abs/2606.18250v1"
+      "title": "Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning",
+      "date": "2026-06-17",
+      "id": "2606.19340v1",
+      "abstract": "We present a zero-shot framework for long-horizon dexterous manipulation that grounds language instructions into executable 3D task plans from calibrated multi-view RGB images. Rather than training an",
+      "url": "https://arxiv.org/abs/2606.19340v1"
     },
     {
-      "title": "Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification",
-      "date": "2026-06-16",
-      "id": "2606.18249v1",
-      "abstract": "Unified Multimodal Modeling aims to integrate visual understanding and generation within a single system. However, existing approaches typically rely on two disparate visual tokenizers, which splits t",
-      "url": "https://arxiv.org/abs/2606.18249v1"
+      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "date": "2026-06-17",
+      "id": "2606.19341v1",
+      "abstract": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat",
+      "url": "https://arxiv.org/abs/2606.19341v1"
     },
     {
-      "title": "Variable-Width Transformers",
-      "date": "2026-06-16",
-      "id": "2606.18246v1",
-      "abstract": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat",
-      "url": "https://arxiv.org/abs/2606.18246v1"
+      "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+      "date": "2026-06-17",
+      "id": "2606.19338v1",
+      "abstract": "Deploying multimodal foundation models as closed-loop policies increasingly requires conditioning actions on observations that are no longer visible. However, existing benchmarks either expose the ful",
+      "url": "https://arxiv.org/abs/2606.19338v1"
     },
     {
-      "title": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
-      "date": "2026-06-16",
-      "id": "2606.18235v1",
-      "abstract": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ",
-      "url": "https://arxiv.org/abs/2606.18235v1"
+      "title": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+      "date": "2026-06-17",
+      "id": "2606.19333v1",
+      "abstract": "How can we scalably generate data for robotic manipulation, especially on human-like platforms such as dexterous multi-fingered hands? Learning from human videos has recently emerged as a likely answe",
+      "url": "https://arxiv.org/abs/2606.19333v1"
     },
     {
-      "title": "EgoCS-400K: An Egocentric Gameplay Dataset for World Models",
-      "date": "2026-06-16",
-      "id": "2606.18180v1",
-      "abstract": "The shift from video generation to interactive world modeling places new demands on data: beyond captioned videos, world models require temporally aligned video-action-language trajectories grounded i",
-      "url": "https://arxiv.org/abs/2606.18180v1"
+      "title": "Observability and Consistency Analysis for Visual-Inertial Navigation with Anchored Feature Parameterizations",
+      "date": "2026-06-17",
+      "id": "2606.19307v1",
+      "abstract": "This paper presents an analysis of the observability and consistency properties of filtering-based visual-inertial navigation systems (VINS) that utilize anchored feature representations. The unobserv",
+      "url": "https://arxiv.org/abs/2606.19307v1"
     },
     {
-      "title": "Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So",
-      "date": "2026-06-16",
-      "id": "2606.18144v1",
-      "abstract": "A robot's flash endurance is a non-renewable stock: every persisted write spends one of a few thousand program/erase cycles and never refills, yet no fielded robot memory system prices which memories ",
-      "url": "https://arxiv.org/abs/2606.18144v1"
+      "title": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models",
+      "date": "2026-06-17",
+      "id": "2606.19297v1",
+      "abstract": "Embodied Vision-Language-Action (VLA) models are typically obtained by fine-tuning powerful pretrained VLMs on robotics data, yet it is unclear how much commonsense and factual knowledge they retain a",
+      "url": "https://arxiv.org/abs/2606.19297v1"
     },
     {
-      "title": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
-      "date": "2026-06-16",
-      "id": "2606.18243v1",
-      "abstract": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collabor",
-      "url": "https://arxiv.org/abs/2606.18243v1"
+      "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+      "date": "2026-06-17",
+      "id": "2606.19328v1",
+      "abstract": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa",
+      "url": "https://arxiv.org/abs/2606.19328v1"
     },
     {
-      "title": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
-      "date": "2026-06-16",
-      "id": "2606.18247v1",
-      "abstract": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen",
-      "url": "https://arxiv.org/abs/2606.18247v1"
+      "title": "GUMP-Net: An interpretable model-data-driven intelligent algorithm for multi-class pelvic segmentation",
+      "date": "2026-06-17",
+      "id": "2606.19215v1",
+      "abstract": "Pelvic segmentation is one of the most important and fundamental research problems in precise and intelligent diagnosis and treatment, as well as surgical planning and navigation for pelvic fractures.",
+      "url": "https://arxiv.org/abs/2606.19215v1"
     },
     {
-      "title": "Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System",
-      "date": "2026-06-16",
-      "id": "2606.18112v1",
-      "abstract": "Agentic navigation systems require a base navigation model whose observation strategy can be externally reconfigured at inference time, because instruction following, object search, target tracking, a",
-      "url": "https://arxiv.org/abs/2606.18112v1"
+      "title": "Monocular 3D Occupancy Perception for Robots on Sidewalks via Hybrid 2D-3D Learning",
+      "date": "2026-06-17",
+      "id": "2606.19122v1",
+      "abstract": "Sidewalks in the real world are crowded, cluttered, and less structured than roads, making 3D occupancy prediction a key ingredient for the safe navigation of mobile robots such as delivery bots and e",
+      "url": "https://arxiv.org/abs/2606.19122v1"
     },
     {
-      "title": "MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories",
-      "date": "2026-06-16",
-      "id": "2606.17978v1",
-      "abstract": "Trajectory similarity is a fundamental task in analyzing mobility patterns, essential for applications such as route pattern extraction, mobility prediction, and anomaly detection. Traditional distanc",
-      "url": "https://arxiv.org/abs/2606.17978v1"
+      "title": "Modeling Branches for Active Manipulation using Iterative Parameter Estimation",
+      "date": "2026-06-17",
+      "id": "2606.19314v1",
+      "abstract": "This study presents a method for modeling diverse plant branches by iteratively estimating material parameters to support delicate branch manipulation. Branch manipulation is necessary in agricultural",
+      "url": "https://arxiv.org/abs/2606.19314v1"
     },
     {
-      "title": "Beyond Failure Recovery: An Engagement-Aware Human-in-the-loop Framework for Robotic Systems",
-      "date": "2026-06-16",
-      "id": "2606.18189v1",
-      "abstract": "Conventional human-in-the-loop approaches typically involve users only when a robot encounters failure or uncertainty, treating humans primarily as tools for improving robot performance. However, in m",
-      "url": "https://arxiv.org/abs/2606.18189v1"
+      "title": "Probing Long-Lived Particle Production in Muon Decays at the SNS with a Highly Capable Hydrocarbon Detector",
+      "date": "2026-06-17",
+      "id": "2606.19299v1",
+      "abstract": "The Spallation Neutron Source (SNS) at Oak Ridge National Laboratory (ORNL) is a prolific muon producer, making it an ideal location for studying dark sector particles produced in muon decays at rest.",
+      "url": "https://arxiv.org/abs/2606.19299v1"
     },
     {
-      "title": "EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies",
-      "date": "2026-06-16",
-      "id": "2606.18239v1",
-      "abstract": "We present EBench, a simulation benchmark that diagnoses generalist mobile manipulation policies beyond a single success-rate scalar. EBench comprises 26 diverse and challenging manipulation tasks ann",
-      "url": "https://arxiv.org/abs/2606.18239v1"
+      "title": "Learning User Simulators with Turing Rewards",
+      "date": "2026-06-17",
+      "id": "2606.19336v1",
+      "abstract": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr",
+      "url": "https://arxiv.org/abs/2606.19336v1"
     },
     {
-      "title": "WireCraft: A Simulation Benchmark for Industrial DLO Manipulation",
-      "date": "2026-06-16",
-      "id": "2606.18097v1",
-      "abstract": "Deformable Linear Objects (DLOs), such as wires and cables, are central to industrial assembly. Unlike rigid objects, whose state is captured by a 6-DoF pose, DLOs have an infinite-dimensional configu",
-      "url": "https://arxiv.org/abs/2606.18097v1"
+      "title": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
+      "date": "2026-06-17",
+      "id": "2606.19315v1",
+      "abstract": "Enhancing the formal math reasoning capabilities of Large Language Models (LLMs) has become a key focus in both mathematical and computer science communities in recent years. While significant progres",
+      "url": "https://arxiv.org/abs/2606.19315v1"
     },
     {
-      "title": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
-      "date": "2026-06-16",
-      "id": "2606.18237v1",
-      "abstract": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ",
-      "url": "https://arxiv.org/abs/2606.18237v1"
+      "title": "Exclusion Statistics as a Thermodynamic Resource in Quantum Heat Engines",
+      "date": "2026-06-17",
+      "id": "2606.19310v1",
+      "abstract": "The maximum power extractable from a quantum thermoelectric heat engine operating with free fermion carriers is bounded by the universal Whitney limit, $P_{\\text{fermion}}^{\\max} \\simeq 0.0321π^2 k_B^",
+      "url": "https://arxiv.org/abs/2606.19310v1"
     },
     {
-      "title": "Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
-      "date": "2026-06-16",
-      "id": "2606.18216v1",
-      "abstract": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ",
-      "url": "https://arxiv.org/abs/2606.18216v1"
+      "title": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+      "date": "2026-06-17",
+      "id": "2606.19325v1",
+      "abstract": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w",
+      "url": "https://arxiv.org/abs/2606.19325v1"
     },
     {
-      "title": "Pushing the Primordial Frontier: Exact Linear Solutions in Multifield Inflation",
-      "date": "2026-06-16",
-      "id": "2606.18248v1",
-      "abstract": "We present exact analytic solutions for the linear dynamics of a two-field inflationary system in which the primordial curvature perturbation $ζ$ is coupled to an isocurvature perturbation $σ$ of entr",
-      "url": "https://arxiv.org/abs/2606.18248v1"
+      "title": "NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field",
+      "date": "2026-06-17",
+      "id": "2606.19316v1",
+      "abstract": "Recently neural implicit rendering techniques have evolved rapidly and demonstrated significant advantages in novel view synthesis and 3D scene reconstruction. However, existing neural rendering metho",
+      "url": "https://arxiv.org/abs/2606.19316v1"
     }
   ]
 }
