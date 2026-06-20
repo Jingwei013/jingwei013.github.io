@@ -1,6 +1,126 @@
 {
-  "updated": "2026-06-19 06:14 UTC",
-  "total": 0,
+  "updated": "2026-06-20 05:02 UTC",
+  "total": 17,
   "today_count": 0,
-  "papers": []
+  "papers": [
+    {
+      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
+      "date": "2026-06-18",
+      "id": "2606.20563v1",
+      "abstract": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow",
+      "url": "https://arxiv.org/abs/2606.20563v1"
+    },
+    {
+      "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
+      "date": "2026-06-18",
+      "id": "2606.20562v1",
+      "abstract": "Robust robotic manipulation in the real world requires not only an understanding of the current observation, but also memory and dynamics modeling. World action models (WAMs) possess these capabilitie",
+      "url": "https://arxiv.org/abs/2606.20562v1"
+    },
+    {
+      "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
+      "date": "2026-06-18",
+      "id": "2606.20561v1",
+      "abstract": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-langua",
+      "url": "https://arxiv.org/abs/2606.20561v1"
+    },
+    {
+      "title": "Generating Robot Hands from Human Demonstrations",
+      "date": "2026-06-18",
+      "id": "2606.20549v1",
+      "abstract": "Robot learning has advanced rapidly in learning control, but learning the physical body of a robot remains much more difficult because jointly searching over design and control creates a very large co",
+      "url": "https://arxiv.org/abs/2606.20549v1"
+    },
+    {
+      "title": "HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
+      "date": "2026-06-18",
+      "id": "2606.20521v1",
+      "abstract": "Embodied foundation models are expected to benefit from data scaling like large language models, but face a much tighter data bottleneck. Teleoperated real-robot trajectories remain the dominant pretr",
+      "url": "https://arxiv.org/abs/2606.20521v1"
+    },
+    {
+      "title": "Interpretable Meta-Learning for Multi-Objective Chemical Search",
+      "date": "2026-06-18",
+      "id": "2606.20497v1",
+      "abstract": "Navigating the vast space of synthetically accessible molecules demands surrogate models that are interpretable and capable of handling multiple competing objectives at the same time. Deep learning ap",
+      "url": "https://arxiv.org/abs/2606.20497v1"
+    },
+    {
+      "title": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
+      "date": "2026-06-18",
+      "id": "2606.20556v1",
+      "abstract": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D ",
+      "url": "https://arxiv.org/abs/2606.20556v1"
+    },
+    {
+      "title": "Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible",
+      "date": "2026-06-18",
+      "id": "2606.20550v1",
+      "abstract": "Scientific papers are frequently dense and characterized by features such as small fonts and line spacing, double columns of text, and tightly arranged figures. While these features make papers more c",
+      "url": "https://arxiv.org/abs/2606.20550v1"
+    },
+    {
+      "title": "How Transparent is DiffusionGemma?",
+      "date": "2026-06-18",
+      "id": "2606.20560v1",
+      "abstract": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ",
+      "url": "https://arxiv.org/abs/2606.20560v1"
+    },
+    {
+      "title": "Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation",
+      "date": "2026-06-18",
+      "id": "2606.20491v1",
+      "abstract": "Human visual attention relies on structured scanpaths to efficiently process scenes, yet instilling this behavior into robot autonomy is in its infancy and hindered by the high,computational costs of ",
+      "url": "https://arxiv.org/abs/2606.20491v1"
+    },
+    {
+      "title": "GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates",
+      "date": "2026-06-18",
+      "id": "2606.20479v1",
+      "abstract": "Vision-language navigation agents achieve competitive average success on benchmark tasks, yet failures often arise through predictable trajectory-level breakdowns such as oscillation, stagnation, or i",
+      "url": "https://arxiv.org/abs/2606.20479v1"
+    },
+    {
+      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "date": "2026-06-18",
+      "id": "2606.20537v1",
+      "abstract": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one po",
+      "url": "https://arxiv.org/abs/2606.20537v1"
+    },
+    {
+      "title": "Optimal Order of Multi-Agent and General Many-Body Systems",
+      "date": "2026-06-18",
+      "id": "2606.20485v1",
+      "abstract": "This paper develops a general framework for analyzing multi-agent systems with feedback loops between agents actions and collective observations. The framework is built on two fundamental agent-level ",
+      "url": "https://arxiv.org/abs/2606.20485v1"
+    },
+    {
+      "title": "Farmer Connect: Improving Farmers' Access to Produce Markets",
+      "date": "2026-06-18",
+      "id": "2606.20465v1",
+      "abstract": "Smallholder maize farmers in Uganda continue to face limited market access, weak bargaining power, low price transparency, and heavy reliance on intermediaries. These challenges are compounded by poor",
+      "url": "https://arxiv.org/abs/2606.20465v1"
+    },
+    {
+      "title": "On the Renormalization Group Flow of Active Flocks",
+      "date": "2026-06-18",
+      "id": "2606.20552v1",
+      "abstract": "In this paper, we study the statistical field-theoretic renormalization of active flocks via the MSRDJ action formulation for stochastic systems, focusing on the Toner-Tu theory of `Malthusian flocks'",
+      "url": "https://arxiv.org/abs/2606.20552v1"
+    },
+    {
+      "title": "Optimal Deterministic Multicalibration and Omniprediction",
+      "date": "2026-06-18",
+      "id": "2606.20557v1",
+      "abstract": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each",
+      "url": "https://arxiv.org/abs/2606.20557v1"
+    },
+    {
+      "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "date": "2026-06-18",
+      "id": "2606.20554v1",
+      "abstract": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o",
+      "url": "https://arxiv.org/abs/2606.20554v1"
+    }
+  ]
 }
