@@ -1,126 +1,91 @@
 {
-  "updated": "2026-06-22 06:20 UTC",
-  "total": 17,
+  "updated": "2026-06-23 04:53 UTC",
+  "total": 12,
   "today_count": 0,
   "papers": [
     {
-      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
-      "date": "2026-06-18",
-      "id": "2606.20563v1",
-      "abstract": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow",
-      "url": "https://arxiv.org/abs/2606.20563v1"
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "date": "2026-06-22",
+      "id": "2606.23688v1",
+      "abstract": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either le",
+      "url": "https://arxiv.org/abs/2606.23688v1"
     },
     {
-      "title": "MemoryWAM: Efficient World Action Modeling with Persistent Memory",
-      "date": "2026-06-18",
-      "id": "2606.20562v1",
-      "abstract": "Robust robotic manipulation in the real world requires not only an understanding of the current observation, but also memory and dynamics modeling. World action models (WAMs) possess these capabilitie",
-      "url": "https://arxiv.org/abs/2606.20562v1"
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "date": "2026-06-22",
+      "id": "2606.23687v1",
+      "abstract": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize",
+      "url": "https://arxiv.org/abs/2606.23687v1"
     },
     {
-      "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
-      "date": "2026-06-18",
-      "id": "2606.20561v1",
-      "abstract": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-langua",
-      "url": "https://arxiv.org/abs/2606.20561v1"
+      "title": "LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models",
+      "date": "2026-06-22",
+      "id": "2606.23686v1",
+      "abstract": "Despite the impressive manipulation capabilities of Vision-Language-Action (VLA) models, their operational safety under strict constraints remains largely unverified. To address this, we introduce a p",
+      "url": "https://arxiv.org/abs/2606.23686v1"
     },
     {
-      "title": "Generating Robot Hands from Human Demonstrations",
-      "date": "2026-06-18",
-      "id": "2606.20549v1",
-      "abstract": "Robot learning has advanced rapidly in learning control, but learning the physical body of a robot remains much more difficult because jointly searching over design and control creates a very large co",
-      "url": "https://arxiv.org/abs/2606.20549v1"
+      "title": "LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation",
+      "date": "2026-06-22",
+      "id": "2606.23685v1",
+      "abstract": "Human-hand demonstrations provide a direct and scalable source of physical interaction data for robot learning. While manual retargeting is indispensable for establishing kinematic action corresponden",
+      "url": "https://arxiv.org/abs/2606.23685v1"
     },
     {
-      "title": "HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
-      "date": "2026-06-18",
-      "id": "2606.20521v1",
-      "abstract": "Embodied foundation models are expected to benefit from data scaling like large language models, but face a much tighter data bottleneck. Teleoperated real-robot trajectories remain the dominant pretr",
-      "url": "https://arxiv.org/abs/2606.20521v1"
+      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+      "date": "2026-06-22",
+      "id": "2606.23679v1",
+      "abstract": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp",
+      "url": "https://arxiv.org/abs/2606.23679v1"
     },
     {
-      "title": "Interpretable Meta-Learning for Multi-Objective Chemical Search",
-      "date": "2026-06-18",
-      "id": "2606.20497v1",
-      "abstract": "Navigating the vast space of synthetically accessible molecules demands surrogate models that are interpretable and capable of handling multiple competing objectives at the same time. Deep learning ap",
-      "url": "https://arxiv.org/abs/2606.20497v1"
+      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+      "date": "2026-06-22",
+      "id": "2606.23689v1",
+      "abstract": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but",
+      "url": "https://arxiv.org/abs/2606.23689v1"
     },
     {
-      "title": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
-      "date": "2026-06-18",
-      "id": "2606.20556v1",
-      "abstract": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D ",
-      "url": "https://arxiv.org/abs/2606.20556v1"
+      "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
+      "date": "2026-06-22",
+      "id": "2606.23633v1",
+      "abstract": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they",
+      "url": "https://arxiv.org/abs/2606.23633v1"
     },
     {
-      "title": "Easy Reads: A Python program for making Scientific Papers on arXiv more Reader Friendly and Accessible",
-      "date": "2026-06-18",
-      "id": "2606.20550v1",
-      "abstract": "Scientific papers are frequently dense and characterized by features such as small fonts and line spacing, double columns of text, and tightly arranged figures. While these features make papers more c",
-      "url": "https://arxiv.org/abs/2606.20550v1"
+      "title": "MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS",
+      "date": "2026-06-22",
+      "id": "2606.23603v1",
+      "abstract": "Unhealthy dietary behavior continues to be a persistent public health issue in the United States, exacerbated by recommendation systems that prioritize user preference without considering nutritional ",
+      "url": "https://arxiv.org/abs/2606.23603v1"
     },
     {
-      "title": "How Transparent is DiffusionGemma?",
-      "date": "2026-06-18",
-      "id": "2606.20560v1",
-      "abstract": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ",
-      "url": "https://arxiv.org/abs/2606.20560v1"
+      "title": "Flatness Preserves Instruction Following in Vision-Language-Action Models",
+      "date": "2026-06-22",
+      "id": "2606.23641v1",
+      "abstract": "Vision-language-action (VLA) models have the potential for open-world generalization by leveraging pretrained vision-language representations, yet downstream finetuning on limited robot data often deg",
+      "url": "https://arxiv.org/abs/2606.23641v1"
     },
     {
-      "title": "Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation",
-      "date": "2026-06-18",
-      "id": "2606.20491v1",
-      "abstract": "Human visual attention relies on structured scanpaths to efficiently process scenes, yet instilling this behavior into robot autonomy is in its infancy and hindered by the high,computational costs of ",
-      "url": "https://arxiv.org/abs/2606.20491v1"
+      "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+      "date": "2026-06-22",
+      "id": "2606.23680v1",
+      "abstract": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freed",
+      "url": "https://arxiv.org/abs/2606.23680v1"
     },
     {
-      "title": "GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates",
-      "date": "2026-06-18",
-      "id": "2606.20479v1",
-      "abstract": "Vision-language navigation agents achieve competitive average success on benchmark tasks, yet failures often arise through predictable trajectory-level breakdowns such as oscillation, stagnation, or i",
-      "url": "https://arxiv.org/abs/2606.20479v1"
+      "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+      "date": "2026-06-22",
+      "id": "2606.23676v1",
+      "abstract": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evide",
+      "url": "https://arxiv.org/abs/2606.23676v1"
     },
     {
-      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
-      "date": "2026-06-18",
-      "id": "2606.20537v1",
-      "abstract": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one po",
-      "url": "https://arxiv.org/abs/2606.20537v1"
-    },
-    {
-      "title": "Optimal Order of Multi-Agent and General Many-Body Systems",
-      "date": "2026-06-18",
-      "id": "2606.20485v1",
-      "abstract": "This paper develops a general framework for analyzing multi-agent systems with feedback loops between agents actions and collective observations. The framework is built on two fundamental agent-level ",
-      "url": "https://arxiv.org/abs/2606.20485v1"
-    },
-    {
-      "title": "Farmer Connect: Improving Farmers' Access to Produce Markets",
-      "date": "2026-06-18",
-      "id": "2606.20465v1",
-      "abstract": "Smallholder maize farmers in Uganda continue to face limited market access, weak bargaining power, low price transparency, and heavy reliance on intermediaries. These challenges are compounded by poor",
-      "url": "https://arxiv.org/abs/2606.20465v1"
-    },
-    {
-      "title": "On the Renormalization Group Flow of Active Flocks",
-      "date": "2026-06-18",
-      "id": "2606.20552v1",
-      "abstract": "In this paper, we study the statistical field-theoretic renormalization of active flocks via the MSRDJ action formulation for stochastic systems, focusing on the Toner-Tu theory of `Malthusian flocks'",
-      "url": "https://arxiv.org/abs/2606.20552v1"
-    },
-    {
-      "title": "Optimal Deterministic Multicalibration and Omniprediction",
-      "date": "2026-06-18",
-      "id": "2606.20557v1",
-      "abstract": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each",
-      "url": "https://arxiv.org/abs/2606.20557v1"
-    },
-    {
-      "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
-      "date": "2026-06-18",
-      "id": "2606.20554v1",
-      "abstract": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o",
-      "url": "https://arxiv.org/abs/2606.20554v1"
+      "title": "Little Red Dots on FIRE: Exploring the formation and observational signatures of ultra-compact early galaxies",
+      "date": "2026-06-22",
+      "id": "2606.23683v1",
+      "abstract": "Little Red Dots (LRDs) are compact sources with broad Balmer lines, Balmer breaks, anomalous UV emission, rising red continuum, and uncertain origin. We use FIRE cosmological simulations, 3D dust radi",
+      "url": "https://arxiv.org/abs/2606.23683v1"
     }
   ]
 }
