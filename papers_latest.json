@@ -1,91 +1,126 @@
 {
-  "updated": "2026-06-23 04:53 UTC",
-  "total": 12,
+  "updated": "2026-06-24 04:57 UTC",
+  "total": 17,
   "today_count": 0,
   "papers": [
     {
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "date": "2026-06-22",
-      "id": "2606.23688v1",
-      "abstract": "Reconstructing dynamic non-rigid objects from monocular video requires integrating visual cues from direct observations with data-driven priors over geometry and appearance. Prior approaches either le",
-      "url": "https://arxiv.org/abs/2606.23688v1"
+      "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
+      "date": "2026-06-23",
+      "id": "2606.24888v1",
+      "abstract": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is ",
+      "url": "https://arxiv.org/abs/2606.24888v1"
     },
     {
-      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
-      "date": "2026-06-22",
-      "id": "2606.23687v1",
-      "abstract": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize",
-      "url": "https://arxiv.org/abs/2606.23687v1"
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "date": "2026-06-23",
+      "id": "2606.24884v1",
+      "abstract": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc",
+      "url": "https://arxiv.org/abs/2606.24884v1"
     },
     {
-      "title": "LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models",
-      "date": "2026-06-22",
-      "id": "2606.23686v1",
-      "abstract": "Despite the impressive manipulation capabilities of Vision-Language-Action (VLA) models, their operational safety under strict constraints remains largely unverified. To address this, we introduce a p",
-      "url": "https://arxiv.org/abs/2606.23686v1"
+      "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
+      "date": "2026-06-23",
+      "id": "2606.24883v1",
+      "abstract": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such in",
+      "url": "https://arxiv.org/abs/2606.24883v1"
     },
     {
-      "title": "LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation",
-      "date": "2026-06-22",
-      "id": "2606.23685v1",
-      "abstract": "Human-hand demonstrations provide a direct and scalable source of physical interaction data for robot learning. While manual retargeting is indispensable for establishing kinematic action corresponden",
-      "url": "https://arxiv.org/abs/2606.23685v1"
+      "title": "\"Zooming In\" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert",
+      "date": "2026-06-23",
+      "id": "2606.24870v1",
+      "abstract": "Agentic Web Browsers (AWBs), powered by Large Language Models (LLMs), are emerging as autonomous systems capable of navigating the Web on behalf of users. Beyond enhancing productivity, they could als",
+      "url": "https://arxiv.org/abs/2606.24870v1"
     },
     {
-      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-      "date": "2026-06-22",
-      "id": "2606.23679v1",
-      "abstract": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interp",
-      "url": "https://arxiv.org/abs/2606.23679v1"
+      "title": "Virtual Simulation for Mental Health",
+      "date": "2026-06-23",
+      "id": "2606.24826v1",
+      "abstract": "Poorly designed interventions or those deployed without adequate safeguards can harm the communities they aim to serve, thus exacerbating existing vulnerabilities and leaving individuals unsupported. ",
+      "url": "https://arxiv.org/abs/2606.24826v1"
     },
     {
-      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
-      "date": "2026-06-22",
-      "id": "2606.23689v1",
-      "abstract": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but",
-      "url": "https://arxiv.org/abs/2606.23689v1"
+      "title": "Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics",
+      "date": "2026-06-23",
+      "id": "2606.24814v1",
+      "abstract": "Autonomous mobile robots operating in intralogistics environments rely on geometric maps for localization and navigation, but lack semantic understanding of objects and their contextual properties. We",
+      "url": "https://arxiv.org/abs/2606.24814v1"
     },
     {
-      "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
-      "date": "2026-06-22",
-      "id": "2606.23633v1",
-      "abstract": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they",
-      "url": "https://arxiv.org/abs/2606.23633v1"
+      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+      "date": "2026-06-23",
+      "id": "2606.24879v1",
+      "abstract": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We p",
+      "url": "https://arxiv.org/abs/2606.24879v1"
     },
     {
-      "title": "MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS",
-      "date": "2026-06-22",
-      "id": "2606.23603v1",
-      "abstract": "Unhealthy dietary behavior continues to be a persistent public health issue in the United States, exacerbated by recommendation systems that prioritize user preference without considering nutritional ",
-      "url": "https://arxiv.org/abs/2606.23603v1"
+      "title": "First-Order Recoverability Collapse in Self-Referential Information Decoders",
+      "date": "2026-06-23",
+      "id": "2606.24861v1",
+      "abstract": "We study adaptive systems coupling inference to irreversible action under sustained nonequilibrium driving. Treating information processing as a thermodynamic load, we model them as finite-capacity de",
+      "url": "https://arxiv.org/abs/2606.24861v1"
     },
     {
-      "title": "Flatness Preserves Instruction Following in Vision-Language-Action Models",
-      "date": "2026-06-22",
-      "id": "2606.23641v1",
-      "abstract": "Vision-language-action (VLA) models have the potential for open-world generalization by leveraging pretrained vision-language representations, yet downstream finetuning on limited robot data often deg",
-      "url": "https://arxiv.org/abs/2606.23641v1"
+      "title": "Field validation of GNSS-independent positioning enhancement using a wearable ultra-stable quantum magnetometer",
+      "date": "2026-06-23",
+      "id": "2606.24612v1",
+      "abstract": "Increasing the resilience of positioning systems that currently rely on Global Navigation Satellite System (GNSS) signals can be achieved by incorporating stable and sensitive measurements of the perm",
+      "url": "https://arxiv.org/abs/2606.24612v1"
     },
     {
-      "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-      "date": "2026-06-22",
-      "id": "2606.23680v1",
-      "abstract": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freed",
-      "url": "https://arxiv.org/abs/2606.23680v1"
+      "title": "MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models",
+      "date": "2026-06-23",
+      "id": "2606.24815v1",
+      "abstract": "Vision-Language-Action (VLA) models are emerging robotic control systems that integrate perception, language understanding, and action generation in a unified architecture. Existing testing approaches",
+      "url": "https://arxiv.org/abs/2606.24815v1"
     },
     {
-      "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-      "date": "2026-06-22",
-      "id": "2606.23676v1",
-      "abstract": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evide",
-      "url": "https://arxiv.org/abs/2606.23676v1"
+      "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
+      "date": "2026-06-23",
+      "id": "2606.24839v1",
+      "abstract": "Agentic data analysis systems produce rich outputs, including code, numerical results, and verbal diagnostics. This makes them more challenging to evaluate than single-turn LLM responses. It is theref",
+      "url": "https://arxiv.org/abs/2606.24839v1"
     },
     {
-      "title": "Little Red Dots on FIRE: Exploring the formation and observational signatures of ultra-compact early galaxies",
-      "date": "2026-06-22",
-      "id": "2606.23683v1",
-      "abstract": "Little Red Dots (LRDs) are compact sources with broad Balmer lines, Balmer breaks, anomalous UV emission, rising red continuum, and uncertain origin. We use FIRE cosmological simulations, 3D dust radi",
-      "url": "https://arxiv.org/abs/2606.23683v1"
+      "title": "Critical Erd{\\H o}s-Rényi digraph: all eigenvectors away from zero are delocalized",
+      "date": "2026-06-23",
+      "id": "2606.24887v1",
+      "abstract": "We consider the adjacency matrix of the directed Erd{\\H o}s-Rényi graph. As long as the expected degree is larger than the logarithm of the number of vertices, the graph is connected, we show that all",
+      "url": "https://arxiv.org/abs/2606.24887v1"
+    },
+    {
+      "title": "A Degree-Four Lemniscate Path Theorem",
+      "date": "2026-06-23",
+      "id": "2606.24875v1",
+      "abstract": "We prove the degree-four case of a path problem of Erdős, Herzog, and Piranian. If $f$ is monic of degree four and all zeros of $f$, counted with multiplicity, lie in the open unit disk, then two zero",
+      "url": "https://arxiv.org/abs/2606.24875v1"
+    },
+    {
+      "title": "Queues with Correlated Service Times -- the $M/M_D/c$ Model",
+      "date": "2026-06-23",
+      "id": "2606.24881v1",
+      "abstract": "This paper studies multi-server queueing systems with correlated service times, modeled as the $M/M_D/c$ queue, which is a natural extension of the recent work by Thapa and Zhao \\cite{Thapa-Zhao:2026}",
+      "url": "https://arxiv.org/abs/2606.24881v1"
+    },
+    {
+      "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
+      "date": "2026-06-23",
+      "id": "2606.24876v1",
+      "abstract": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-qual",
+      "url": "https://arxiv.org/abs/2606.24876v1"
+    },
+    {
+      "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+      "date": "2026-06-23",
+      "id": "2606.24874v1",
+      "abstract": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i",
+      "url": "https://arxiv.org/abs/2606.24874v1"
+    },
+    {
+      "title": "A Resolution of Erdős Problems 593 and 1177: Obligatory Triple Systems and Exact Spectra",
+      "date": "2026-06-23",
+      "id": "2606.24882v1",
+      "abstract": "We resolve Erdős Problems #593 and #1177. Problem #593 asks which finite triple systems occur in every uncountably chromatic triple system; the answer is exactly the class generated from private-verte",
+      "url": "https://arxiv.org/abs/2606.24882v1"
     }
   ]
 }
