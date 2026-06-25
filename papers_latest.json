@@ -1,126 +1,161 @@
 {
-  "updated": "2026-06-24 04:57 UTC",
-  "total": 17,
+  "updated": "2026-06-25 04:56 UTC",
+  "total": 22,
   "today_count": 0,
   "papers": [
     {
-      "title": "DiffusionBench: On Holistic Evaluation of Diffusion Transformers",
-      "date": "2026-06-23",
-      "id": "2606.24888v1",
-      "abstract": "Diffusion transformer (DiT) research on image generation has converged to a single evaluation setup: class-conditional generation on ImageNet. While methods improve the FID and related metrics, it is ",
-      "url": "https://arxiv.org/abs/2606.24888v1"
+      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+      "date": "2026-06-24",
+      "id": "2606.26095v1",
+      "abstract": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li",
+      "url": "https://arxiv.org/abs/2606.26095v1"
     },
     {
-      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-      "date": "2026-06-23",
-      "id": "2606.24884v1",
-      "abstract": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc",
-      "url": "https://arxiv.org/abs/2606.24884v1"
+      "title": "ForceBand: Learning Forceful Manipulation with sEMG",
+      "date": "2026-06-24",
+      "id": "2606.26093v1",
+      "abstract": "Human demonstrations are a scalable data source for learning robot manipulation policies. However, common sources of human demonstration data, such as motion-capture trajectories and internet videos, ",
+      "url": "https://arxiv.org/abs/2606.26093v1"
     },
     {
-      "title": "BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases",
-      "date": "2026-06-23",
-      "id": "2606.24883v1",
-      "abstract": "Artificial intelligence (AI) has achieved remarkable success in medical imaging, but it is widely recognized that these models often perform inconsistently across real-world clinical settings. Such in",
-      "url": "https://arxiv.org/abs/2606.24883v1"
+      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+      "date": "2026-06-24",
+      "id": "2606.26092v1",
+      "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe",
+      "url": "https://arxiv.org/abs/2606.26092v1"
     },
     {
-      "title": "\"Zooming In\" on Agentic Web Browsers as Assistive Technologies: A Case Study with a Low-Vision Technology Expert",
-      "date": "2026-06-23",
-      "id": "2606.24870v1",
-      "abstract": "Agentic Web Browsers (AWBs), powered by Large Language Models (LLMs), are emerging as autonomous systems capable of navigating the Web on behalf of users. Beyond enhancing productivity, they could als",
-      "url": "https://arxiv.org/abs/2606.24870v1"
+      "title": "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations",
+      "date": "2026-06-24",
+      "id": "2606.26047v1",
+      "abstract": "Robot crowd navigation requires the ability to infer human intentions while accounting for the structural constraints of the environment. Currently, deep reinforcement learning (DRL) provides a promis",
+      "url": "https://arxiv.org/abs/2606.26047v1"
     },
     {
-      "title": "Virtual Simulation for Mental Health",
-      "date": "2026-06-23",
-      "id": "2606.24826v1",
-      "abstract": "Poorly designed interventions or those deployed without adequate safeguards can harm the communities they aim to serve, thus exacerbating existing vulnerabilities and leaving individuals unsupported. ",
-      "url": "https://arxiv.org/abs/2606.24826v1"
+      "title": "RoboAtlas: Contextual Active SLAM",
+      "date": "2026-06-24",
+      "id": "2606.26046v1",
+      "abstract": "We present RoboAtlas, a contextual Active SLAM framework that adaptively balances geometric exploration and semantic reasoning using a scalable 3D semantic mapping system, OpenRoboVox. RoboAtlas integ",
+      "url": "https://arxiv.org/abs/2606.26046v1"
     },
     {
-      "title": "Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics",
-      "date": "2026-06-23",
-      "id": "2606.24814v1",
-      "abstract": "Autonomous mobile robots operating in intralogistics environments rely on geometric maps for localization and navigation, but lack semantic understanding of objects and their contextual properties. We",
-      "url": "https://arxiv.org/abs/2606.24814v1"
+      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+      "date": "2026-06-24",
+      "id": "2606.26087v1",
+      "abstract": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing ",
+      "url": "https://arxiv.org/abs/2606.26087v1"
     },
     {
-      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-      "date": "2026-06-23",
-      "id": "2606.24879v1",
-      "abstract": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We p",
-      "url": "https://arxiv.org/abs/2606.24879v1"
+      "title": "Strategyproof Facility Location and Committee Selection with Mixed Max and Sum Agent Types",
+      "date": "2026-06-24",
+      "id": "2606.26074v1",
+      "abstract": "We study strategic facility location, in which $n$ agents are located in an arbitrary metric space, and the goal is to choose $k$ facilities to minimize the total agent cost. The agents can have two t",
+      "url": "https://arxiv.org/abs/2606.26074v1"
     },
     {
-      "title": "First-Order Recoverability Collapse in Self-Referential Information Decoders",
-      "date": "2026-06-23",
-      "id": "2606.24861v1",
-      "abstract": "We study adaptive systems coupling inference to irreversible action under sustained nonequilibrium driving. Treating information processing as a thermodynamic load, we model them as finite-capacity de",
-      "url": "https://arxiv.org/abs/2606.24861v1"
+      "title": "Positron-Emitting and Electron-Capturing Double-Beta Processes in the Standard Model and Beyond",
+      "date": "2026-06-24",
+      "id": "2606.26097v1",
+      "abstract": "We study positron-emitting and electron-capturing double-beta-decay modes as probes complementary to the usual double beta decay. Motivated by the proposed NuDoubt++ experiment, we analyze the candida",
+      "url": "https://arxiv.org/abs/2606.26097v1"
     },
     {
-      "title": "Field validation of GNSS-independent positioning enhancement using a wearable ultra-stable quantum magnetometer",
-      "date": "2026-06-23",
-      "id": "2606.24612v1",
-      "abstract": "Increasing the resilience of positioning systems that currently rely on Global Navigation Satellite System (GNSS) signals can be achieved by incorporating stable and sensitive measurements of the perm",
-      "url": "https://arxiv.org/abs/2606.24612v1"
+      "title": "A Population of Little Red Dot-like Quasars in SDSS",
+      "date": "2026-06-24",
+      "id": "2606.26098v1",
+      "abstract": "Compact and red sources in the high redshift ($z\\sim5$) Universe, known as \"Little Red Dots\" (LRDs), are among JWST's most intriguing discoveries. These sources have broad Balmer emission lines, weak ",
+      "url": "https://arxiv.org/abs/2606.26098v1"
     },
     {
-      "title": "MANGO: Automated Multi-Agent Test Oracle Generation for Vision-Language-Action Models",
-      "date": "2026-06-23",
-      "id": "2606.24815v1",
-      "abstract": "Vision-Language-Action (VLA) models are emerging robotic control systems that integrate perception, language understanding, and action generation in a unified architecture. Existing testing approaches",
-      "url": "https://arxiv.org/abs/2606.24815v1"
+      "title": "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
+      "date": "2026-06-24",
+      "id": "2606.26096v1",
+      "abstract": "We rewrite a lattice model of the four-dimensional Chern insulator as a family of translationally-invariant infinite chains over the three-dimensional Brillouin zone and compute its higher three-form ",
+      "url": "https://arxiv.org/abs/2606.26096v1"
     },
     {
-      "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
-      "date": "2026-06-23",
-      "id": "2606.24839v1",
-      "abstract": "Agentic data analysis systems produce rich outputs, including code, numerical results, and verbal diagnostics. This makes them more challenging to evaluate than single-turn LLM responses. It is theref",
-      "url": "https://arxiv.org/abs/2606.24839v1"
+      "title": "SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models",
+      "date": "2026-06-24",
+      "id": "2606.25990v1",
+      "abstract": "As multimodal conversational systems increasingly engage in spoken interaction, their ability to navigate paralinguistic social cues has become a critical bottleneck for natural human-AI communication",
+      "url": "https://arxiv.org/abs/2606.25990v1"
     },
     {
-      "title": "Critical Erd{\\H o}s-Rényi digraph: all eigenvectors away from zero are delocalized",
-      "date": "2026-06-23",
-      "id": "2606.24887v1",
-      "abstract": "We consider the adjacency matrix of the directed Erd{\\H o}s-Rényi graph. As long as the expected degree is larger than the logarithm of the number of vertices, the graph is connected, we show that all",
-      "url": "https://arxiv.org/abs/2606.24887v1"
+      "title": "Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm",
+      "date": "2026-06-24",
+      "id": "2606.26048v1",
+      "abstract": "Soft robots are challenging to control due to their nonlinear and time-varying dynamics. Data-enabled predictive control (DeePC) offers a model-free alternative by directly leveraging measured input-o",
+      "url": "https://arxiv.org/abs/2606.26048v1"
     },
     {
-      "title": "A Degree-Four Lemniscate Path Theorem",
-      "date": "2026-06-23",
-      "id": "2606.24875v1",
-      "abstract": "We prove the degree-four case of a path problem of Erdős, Herzog, and Piranian. If $f$ is monic of degree four and all zeros of $f$, counted with multiplicity, lie in the open unit disk, then two zero",
-      "url": "https://arxiv.org/abs/2606.24875v1"
+      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+      "date": "2026-06-24",
+      "id": "2606.26094v1",
+      "abstract": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by t",
+      "url": "https://arxiv.org/abs/2606.26094v1"
     },
     {
-      "title": "Queues with Correlated Service Times -- the $M/M_D/c$ Model",
-      "date": "2026-06-23",
-      "id": "2606.24881v1",
-      "abstract": "This paper studies multi-server queueing systems with correlated service times, modeled as the $M/M_D/c$ queue, which is a natural extension of the recent work by Thapa and Zhao \\cite{Thapa-Zhao:2026}",
-      "url": "https://arxiv.org/abs/2606.24881v1"
+      "title": "Jets and Outflows in Young Stellar Objects with the SKAO",
+      "date": "2026-06-24",
+      "id": "2606.26044v1",
+      "abstract": "Jets and outflows are ubiquitous phenomena associated with the formation of young stellar objects (YSOs). They play a crucial role in removing angular momentum from the accreting system and in regulat",
+      "url": "https://arxiv.org/abs/2606.26044v1"
     },
     {
-      "title": "FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation",
-      "date": "2026-06-23",
-      "id": "2606.24876v1",
-      "abstract": "Generating explorable 3D scenes from a single image requires strong generative priors and accurate geometric representations suitable for downstream use. Current video diffusion models offer high-qual",
-      "url": "https://arxiv.org/abs/2606.24876v1"
+      "title": "In-Context World Modeling for Robotic Control",
+      "date": "2026-06-24",
+      "id": "2606.26025v1",
+      "abstract": "Modern Vision-Language-Action (VLA) models often fail to generalize to novel setups, such as altered camera viewpoints or robot morphologies, because they are typically conditioned only on current obs",
+      "url": "https://arxiv.org/abs/2606.26025v1"
     },
     {
-      "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
-      "date": "2026-06-23",
-      "id": "2606.24874v1",
-      "abstract": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i",
-      "url": "https://arxiv.org/abs/2606.24874v1"
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "date": "2026-06-24",
+      "id": "2606.26080v1",
+      "abstract": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s",
+      "url": "https://arxiv.org/abs/2606.26080v1"
     },
     {
-      "title": "A Resolution of Erdős Problems 593 and 1177: Obligatory Triple Systems and Exact Spectra",
-      "date": "2026-06-23",
-      "id": "2606.24882v1",
-      "abstract": "We resolve Erdős Problems #593 and #1177. Problem #593 asks which finite triple systems occur in every uncountably chromatic triple system; the answer is exactly the class generated from private-verte",
-      "url": "https://arxiv.org/abs/2606.24882v1"
+      "title": "Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography",
+      "date": "2026-06-24",
+      "id": "2606.26088v1",
+      "abstract": "Spatial light modulators (SLMs) have emerged as reconfigurable platforms for photonic quantum information processing, offering software-defined control over the orbital angular momentum (OAM) of light",
+      "url": "https://arxiv.org/abs/2606.26088v1"
+    },
+    {
+      "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+      "date": "2026-06-24",
+      "id": "2606.26079v1",
+      "abstract": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper",
+      "url": "https://arxiv.org/abs/2606.26079v1"
+    },
+    {
+      "title": "When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance",
+      "date": "2026-06-24",
+      "id": "2606.26062v1",
+      "abstract": "Can a statistically significant, large-effect-size finding in computational social science be entirely an artifact of the measurement instrument? We present a case where the answer appears to be yes. ",
+      "url": "https://arxiv.org/abs/2606.26062v1"
+    },
+    {
+      "title": "Folds of one curve: the superradiant phase diagram of Dicke modes with interacting matter",
+      "date": "2026-06-24",
+      "id": "2606.26081v1",
+      "abstract": "We give a thermodynamic-limit account of Dicke models with one cavity mode coupled collectively to interacting matter. Integrating out the cavity yields an exact self-consistent functional of the magn",
+      "url": "https://arxiv.org/abs/2606.26081v1"
+    },
+    {
+      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+      "date": "2026-06-24",
+      "id": "2606.26091v1",
+      "abstract": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level fe",
+      "url": "https://arxiv.org/abs/2606.26091v1"
+    },
+    {
+      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "date": "2026-06-24",
+      "id": "2606.26058v1",
+      "abstract": "Open domain subject-driven text-to-video (S2V) generation has drawn significant interest in academia and industry. Open domain S2V mainly involves two scenarios: in-domain, which requires retaining th",
+      "url": "https://arxiv.org/abs/2606.26058v1"
     }
   ]
 }
