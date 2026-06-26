@@ -1,161 +1,161 @@
 {
-  "updated": "2026-06-25 04:56 UTC",
+  "updated": "2026-06-26 05:02 UTC",
   "total": 22,
   "today_count": 0,
   "papers": [
     {
-      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
-      "date": "2026-06-24",
-      "id": "2606.26095v1",
-      "abstract": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li",
-      "url": "https://arxiv.org/abs/2606.26095v1"
+      "title": "DanceOPD: On-Policy Generative Field Distillation",
+      "date": "2026-06-25",
+      "id": "2606.27377v1",
+      "abstract": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali",
+      "url": "https://arxiv.org/abs/2606.27377v1"
     },
     {
-      "title": "ForceBand: Learning Forceful Manipulation with sEMG",
-      "date": "2026-06-24",
-      "id": "2606.26093v1",
-      "abstract": "Human demonstrations are a scalable data source for learning robot manipulation policies. However, common sources of human demonstration data, such as motion-capture trajectories and internet videos, ",
-      "url": "https://arxiv.org/abs/2606.26093v1"
+      "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
+      "date": "2026-06-25",
+      "id": "2606.27376v1",
+      "abstract": "Most unified large multimodal models (LMMs) that support both visual understanding and image generation still rely on curated post-training supervision, such as human annotations, preference labels, o",
+      "url": "https://arxiv.org/abs/2606.27376v1"
     },
     {
-      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
-      "date": "2026-06-24",
-      "id": "2606.26092v1",
-      "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe",
-      "url": "https://arxiv.org/abs/2606.26092v1"
+      "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+      "date": "2026-06-25",
+      "id": "2606.27375v1",
+      "abstract": "We introduce ABC, a fully open-source stack for manipulation with behavior cloning. At its core is ABC-130K: the largest open-source teleoperation dataset to date, featuring 3,500 hours of data spanni",
+      "url": "https://arxiv.org/abs/2606.27375v1"
     },
     {
-      "title": "Learning Robot Visual Navigation in Crowds via Intention-Aware Scene Representations",
-      "date": "2026-06-24",
-      "id": "2606.26047v1",
-      "abstract": "Robot crowd navigation requires the ability to infer human intentions while accounting for the structural constraints of the environment. Currently, deep reinforcement learning (DRL) provides a promis",
-      "url": "https://arxiv.org/abs/2606.26047v1"
+      "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+      "date": "2026-06-25",
+      "id": "2606.27268v1",
+      "abstract": "Recently, a few works have made early attempts to study test-time scaling for embodied tasks. However, two major challenges remain unsolved: (1) reasoning can effectively improve the performance of th",
+      "url": "https://arxiv.org/abs/2606.27268v1"
     },
     {
-      "title": "RoboAtlas: Contextual Active SLAM",
-      "date": "2026-06-24",
-      "id": "2606.26046v1",
-      "abstract": "We present RoboAtlas, a contextual Active SLAM framework that adaptively balances geometric exploration and semantic reasoning using a scalable 3D semantic mapping system, OpenRoboVox. RoboAtlas integ",
-      "url": "https://arxiv.org/abs/2606.26046v1"
+      "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
+      "date": "2026-06-25",
+      "id": "2606.27251v1",
+      "abstract": "Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, c",
+      "url": "https://arxiv.org/abs/2606.27251v1"
     },
     {
-      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
-      "date": "2026-06-24",
-      "id": "2606.26087v1",
-      "abstract": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing ",
-      "url": "https://arxiv.org/abs/2606.26087v1"
+      "title": "DMuon: Efficient Distributed Muon Training with Near-Adam Overhead",
+      "date": "2026-06-25",
+      "id": "2606.27153v1",
+      "abstract": "Matrix-orthogonalization-based optimizers, exemplified by Muon, have demonstrated strong convergence behavior across a wide range of modern deep learning workloads. The matrix-aware updates offer a co",
+      "url": "https://arxiv.org/abs/2606.27153v1"
     },
     {
-      "title": "Strategyproof Facility Location and Committee Selection with Mixed Max and Sum Agent Types",
-      "date": "2026-06-24",
-      "id": "2606.26074v1",
-      "abstract": "We study strategic facility location, in which $n$ agents are located in an arbitrary metric space, and the goal is to choose $k$ facilities to minimize the total agent cost. The agents can have two t",
-      "url": "https://arxiv.org/abs/2606.26074v1"
+      "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
+      "date": "2026-06-25",
+      "id": "2606.27373v1",
+      "abstract": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, multi-role self-play and self-consistency rewar",
+      "url": "https://arxiv.org/abs/2606.27373v1"
     },
     {
-      "title": "Positron-Emitting and Electron-Capturing Double-Beta Processes in the Standard Model and Beyond",
-      "date": "2026-06-24",
-      "id": "2606.26097v1",
-      "abstract": "We study positron-emitting and electron-capturing double-beta-decay modes as probes complementary to the usual double beta decay. Motivated by the proposed NuDoubt++ experiment, we analyze the candida",
-      "url": "https://arxiv.org/abs/2606.26097v1"
+      "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
+      "date": "2026-06-25",
+      "id": "2606.27364v1",
+      "abstract": "We present PhysiFormer, a diffusion transformer for physically-plausible 3D object motion. Unlike video world models that operate in view-dependent pixel space, PhysiFormer represents objects as 3D me",
+      "url": "https://arxiv.org/abs/2606.27364v1"
     },
     {
-      "title": "A Population of Little Red Dot-like Quasars in SDSS",
-      "date": "2026-06-24",
-      "id": "2606.26098v1",
-      "abstract": "Compact and red sources in the high redshift ($z\\sim5$) Universe, known as \"Little Red Dots\" (LRDs), are among JWST's most intriguing discoveries. These sources have broad Balmer emission lines, weak ",
-      "url": "https://arxiv.org/abs/2606.26098v1"
+      "title": "ATGBuilder: Feature-Assisted Graph Learning for Activity Transition Graph Construction with Seed Supervision",
+      "date": "2026-06-25",
+      "id": "2606.27080v1",
+      "abstract": "Android applications are organized around activities that provide visual Graphical User Interface (GUI) containers that host the UI and handle user interaction events. Activity Transition Graphs (ATGs",
+      "url": "https://arxiv.org/abs/2606.27080v1"
     },
     {
-      "title": "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
-      "date": "2026-06-24",
-      "id": "2606.26096v1",
-      "abstract": "We rewrite a lattice model of the four-dimensional Chern insulator as a family of translationally-invariant infinite chains over the three-dimensional Brillouin zone and compute its higher three-form ",
-      "url": "https://arxiv.org/abs/2606.26096v1"
+      "title": "How to access astronomical observation facilities ?",
+      "date": "2026-06-25",
+      "id": "2606.26996v1",
+      "abstract": "Access to astronomical data is a central component of astrophysical research. The allocation of telescope time is organized on an international scale through a highly competitive process. Over the pas",
+      "url": "https://arxiv.org/abs/2606.26996v1"
     },
     {
-      "title": "SpeechEQ: Benchmarking Emotional Intelligence Quotient in Socially Aware Voice Conversational Models",
-      "date": "2026-06-24",
-      "id": "2606.25990v1",
-      "abstract": "As multimodal conversational systems increasingly engage in spoken interaction, their ability to navigate paralinguistic social cues has become a critical bottleneck for natural human-AI communication",
-      "url": "https://arxiv.org/abs/2606.25990v1"
+      "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
+      "date": "2026-06-25",
+      "id": "2606.27374v1",
+      "abstract": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a",
+      "url": "https://arxiv.org/abs/2606.27374v1"
     },
     {
-      "title": "Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm",
-      "date": "2026-06-24",
-      "id": "2606.26048v1",
-      "abstract": "Soft robots are challenging to control due to their nonlinear and time-varying dynamics. Data-enabled predictive control (DeePC) offers a model-free alternative by directly leveraging measured input-o",
-      "url": "https://arxiv.org/abs/2606.26048v1"
+      "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
+      "date": "2026-06-25",
+      "id": "2606.27355v1",
+      "abstract": "We study whether pre-deployment evaluation rollouts can be reused to supervise policy selection. Robot teams routinely smoke test candidate vision-language-action (VLA) policies, then compress those t",
+      "url": "https://arxiv.org/abs/2606.27355v1"
     },
     {
-      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
-      "date": "2026-06-24",
-      "id": "2606.26094v1",
-      "abstract": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by t",
-      "url": "https://arxiv.org/abs/2606.26094v1"
+      "title": "Jet impingement cooling with multi-stage ducted electroaerodynamic actuators",
+      "date": "2026-06-25",
+      "id": "2606.27338v1",
+      "abstract": "Modern high-performance mobile electronics impose extreme constraints on thermal management, and traditional cooling methods often fail to meet requirements for power density, form factor, and durabil",
+      "url": "https://arxiv.org/abs/2606.27338v1"
     },
     {
-      "title": "Jets and Outflows in Young Stellar Objects with the SKAO",
-      "date": "2026-06-24",
-      "id": "2606.26044v1",
-      "abstract": "Jets and outflows are ubiquitous phenomena associated with the formation of young stellar objects (YSOs). They play a crucial role in removing angular momentum from the accreting system and in regulat",
-      "url": "https://arxiv.org/abs/2606.26044v1"
+      "title": "DnA: Denoising Attention for Visual Tasks",
+      "date": "2026-06-25",
+      "id": "2606.27372v1",
+      "abstract": "The softmax activation in multihead attention (MHA) is the de facto standard for attention-based models in visual perception tasks. However, standard softmax can produce noisy attention patterns that ",
+      "url": "https://arxiv.org/abs/2606.27372v1"
     },
     {
-      "title": "In-Context World Modeling for Robotic Control",
-      "date": "2026-06-24",
-      "id": "2606.26025v1",
-      "abstract": "Modern Vision-Language-Action (VLA) models often fail to generalize to novel setups, such as altered camera viewpoints or robot morphologies, because they are typically conditioned only on current obs",
-      "url": "https://arxiv.org/abs/2606.26025v1"
+      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "date": "2026-06-25",
+      "id": "2606.27369v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ",
+      "url": "https://arxiv.org/abs/2606.27369v1"
     },
     {
-      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
-      "date": "2026-06-24",
-      "id": "2606.26080v1",
-      "abstract": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s",
-      "url": "https://arxiv.org/abs/2606.26080v1"
+      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "date": "2026-06-25",
+      "id": "2606.27359v1",
+      "abstract": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the",
+      "url": "https://arxiv.org/abs/2606.27359v1"
     },
     {
-      "title": "Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography",
-      "date": "2026-06-24",
-      "id": "2606.26088v1",
-      "abstract": "Spatial light modulators (SLMs) have emerged as reconfigurable platforms for photonic quantum information processing, offering software-defined control over the orbital angular momentum (OAM) of light",
-      "url": "https://arxiv.org/abs/2606.26088v1"
+      "title": "Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem",
+      "date": "2026-06-25",
+      "id": "2606.27370v1",
+      "abstract": "In a Lorentz symmetric non-Hermitian (NH) Dirac theory, containing the canonical relativistic Hamiltonian accompanied by a masslike anti-Hermitian Dirac operator, when the associated NH parameter beco",
+      "url": "https://arxiv.org/abs/2606.27370v1"
     },
     {
-      "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
-      "date": "2026-06-24",
-      "id": "2606.26079v1",
-      "abstract": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper",
-      "url": "https://arxiv.org/abs/2606.26079v1"
+      "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
+      "date": "2026-06-25",
+      "id": "2606.27350v1",
+      "abstract": "Agentic artificial intelligence shows great promise for radically improving the pace of innovation in hardware/software co-design research across computer architecture, systems, compilers, and VLSI. T",
+      "url": "https://arxiv.org/abs/2606.27350v1"
     },
     {
-      "title": "When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance",
-      "date": "2026-06-24",
-      "id": "2606.26062v1",
-      "abstract": "Can a statistically significant, large-effect-size finding in computational social science be entirely an artifact of the measurement instrument? We present a case where the answer appears to be yes. ",
-      "url": "https://arxiv.org/abs/2606.26062v1"
+      "title": "All you need is log",
+      "date": "2026-06-25",
+      "id": "2606.27349v1",
+      "abstract": "Comparing two probability distributions is a basic building block of statistics and machine learning, and the right family is well understood: the Rényi divergences of order $α\\in[0,\\infty]$ are the u",
+      "url": "https://arxiv.org/abs/2606.27349v1"
     },
     {
-      "title": "Folds of one curve: the superradiant phase diagram of Dicke modes with interacting matter",
-      "date": "2026-06-24",
-      "id": "2606.26081v1",
-      "abstract": "We give a thermodynamic-limit account of Dicke models with one cavity mode coupled collectively to interacting matter. Integrating out the cavity yields an exact self-consistent functional of the magn",
-      "url": "https://arxiv.org/abs/2606.26081v1"
+      "title": "3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample",
+      "date": "2026-06-25",
+      "id": "2606.27365v1",
+      "abstract": "Spin textures are key for emergent magnetic phenomena such as topological protection and underpin novel spintronic device paradigms based on racetrack memory, logic gates, and neuromorphic computing. ",
+      "url": "https://arxiv.org/abs/2606.27365v1"
     },
     {
-      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
-      "date": "2026-06-24",
-      "id": "2606.26091v1",
-      "abstract": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level fe",
-      "url": "https://arxiv.org/abs/2606.26091v1"
+      "title": "3D Magnetic Field Vectors in Space: Bubbles, Clouds, and Filaments",
+      "date": "2026-06-25",
+      "id": "2606.27346v1",
+      "abstract": "Magnetic fields play important roles in the star-formation process across different spatial scales. The interplay between magnetic field strength (a key component of the interstellar medium's energy b",
+      "url": "https://arxiv.org/abs/2606.27346v1"
     },
     {
-      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
-      "date": "2026-06-24",
-      "id": "2606.26058v1",
-      "abstract": "Open domain subject-driven text-to-video (S2V) generation has drawn significant interest in academia and industry. Open domain S2V mainly involves two scenarios: in-domain, which requires retaining th",
-      "url": "https://arxiv.org/abs/2606.26058v1"
+      "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "date": "2026-06-25",
+      "id": "2606.27347v1",
+      "abstract": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes",
+      "url": "https://arxiv.org/abs/2606.27347v1"
     }
   ]
 }
