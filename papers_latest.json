@@ -1,161 +1,154 @@
 {
-  "updated": "2026-06-28 05:10 UTC",
-  "total": 22,
+  "updated": "2026-06-29 05:22 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "DanceOPD: On-Policy Generative Field Distillation",
-      "date": "2026-06-25",
-      "id": "2606.27377v1",
-      "abstract": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali",
-      "url": "https://arxiv.org/abs/2606.27377v1"
+      "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
+      "date": "2026-06-26",
+      "id": "2606.28323v1",
+      "abstract": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s",
+      "url": "https://arxiv.org/abs/2606.28323v1"
     },
     {
-      "title": "Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards",
-      "date": "2026-06-25",
-      "id": "2606.27376v1",
-      "abstract": "Most unified large multimodal models (LMMs) that support both visual understanding and image generation still rely on curated post-training supervision, such as human annotations, preference labels, o",
-      "url": "https://arxiv.org/abs/2606.27376v1"
+      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
+      "date": "2026-06-26",
+      "id": "2606.28322v1",
+      "abstract": "We introduce PerceptionRubrics, a rubric-based evaluation framework that addresses the gap between saturated benchmark scores and real-world brittleness. Shifting evaluation from holistic semantic mat",
+      "url": "https://arxiv.org/abs/2606.28322v1"
     },
     {
-      "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
-      "date": "2026-06-25",
-      "id": "2606.27375v1",
-      "abstract": "We introduce ABC, a fully open-source stack for manipulation with behavior cloning. At its core is ABC-130K: the largest open-source teleoperation dataset to date, featuring 3,500 hours of data spanni",
-      "url": "https://arxiv.org/abs/2606.27375v1"
+      "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
+      "date": "2026-06-26",
+      "id": "2606.28321v1",
+      "abstract": "We present StructSplat, a feed-forward and generalizable 3D Gaussian reconstruction framework that operates directly on uncalibrated images without requiring camera parameters. Existing methods either",
+      "url": "https://arxiv.org/abs/2606.28321v1"
     },
     {
-      "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
-      "date": "2026-06-25",
-      "id": "2606.27268v1",
-      "abstract": "Recently, a few works have made early attempts to study test-time scaling for embodied tasks. However, two major challenges remain unsolved: (1) reasoning can effectively improve the performance of th",
-      "url": "https://arxiv.org/abs/2606.27268v1"
+      "title": "HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration",
+      "date": "2026-06-26",
+      "id": "2606.28215v1",
+      "abstract": "Extracting dynamic 4D object interactions from massive, in-the-wild monocular videos offers a highly efficient data collection pathway for scaling Embodied AI and training VLAs. However, existing mono",
+      "url": "https://arxiv.org/abs/2606.28215v1"
     },
     {
-      "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
-      "date": "2026-06-25",
-      "id": "2606.27251v1",
-      "abstract": "Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, c",
-      "url": "https://arxiv.org/abs/2606.27251v1"
+      "title": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
+      "date": "2026-06-26",
+      "id": "2606.28182v1",
+      "abstract": "Embodied agents operating in decentralized and partially observable environments have attracted growing attention in recent years. However, existing large language model (LLM)-based agents often exhib",
+      "url": "https://arxiv.org/abs/2606.28182v1"
     },
     {
-      "title": "DMuon: Efficient Distributed Muon Training with Near-Adam Overhead",
-      "date": "2026-06-25",
-      "id": "2606.27153v1",
-      "abstract": "Matrix-orthogonalization-based optimizers, exemplified by Muon, have demonstrated strong convergence behavior across a wide range of modern deep learning workloads. The matrix-aware updates offer a co",
-      "url": "https://arxiv.org/abs/2606.27153v1"
+      "title": "Regularized Reward-Punishment Reinforcement Learning",
+      "date": "2026-06-26",
+      "id": "2606.28152v1",
+      "abstract": "We propose KL-Coupled Policy Regularization (KCPR), a policy coordination framework for Reward-Punishment Reinforcement Learning (RPRL). Based on KCPR, we derive KL-Coupled Soft Optimality (KCSO) and ",
+      "url": "https://arxiv.org/abs/2606.28152v1"
     },
     {
-      "title": "Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models",
-      "date": "2026-06-25",
-      "id": "2606.27373v1",
-      "abstract": "Recently, self-evolving large multimodal models (LMMs) have received attention for improving visual reasoning in a purely unsupervised setting. However, multi-role self-play and self-consistency rewar",
-      "url": "https://arxiv.org/abs/2606.27373v1"
+      "title": "WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation",
+      "date": "2026-06-26",
+      "id": "2606.28320v1",
+      "abstract": "Scaling imitation learning requires large datasets, yet human teleoperation inevitably produces mixed-quality demonstrations containing hesitations and recoveries. Prior frame-level progress reward mo",
+      "url": "https://arxiv.org/abs/2606.28320v1"
     },
     {
-      "title": "PhysiFormer: Learning to Simulate Mechanics in World Space",
-      "date": "2026-06-25",
-      "id": "2606.27364v1",
-      "abstract": "We present PhysiFormer, a diffusion transformer for physically-plausible 3D object motion. Unlike video world models that operate in view-dependent pixel space, PhysiFormer represents objects as 3D me",
-      "url": "https://arxiv.org/abs/2606.27364v1"
+      "title": "Pairwise Reflection Symmetry in Generalized Latin Rectangles",
+      "date": "2026-06-26",
+      "id": "2606.28315v1",
+      "abstract": "Many combinatorial designs ask for equal distribution of given symbols across the entries of a matrix. The paramount examples are Latin squares, where each symbol from $\\{1,\\dots,n\\}$ appears once per",
+      "url": "https://arxiv.org/abs/2606.28315v1"
     },
     {
-      "title": "ATGBuilder: Feature-Assisted Graph Learning for Activity Transition Graph Construction with Seed Supervision",
-      "date": "2026-06-25",
-      "id": "2606.27080v1",
-      "abstract": "Android applications are organized around activities that provide visual Graphical User Interface (GUI) containers that host the UI and handle user interaction events. Activity Transition Graphs (ATGs",
-      "url": "https://arxiv.org/abs/2606.27080v1"
+      "title": "AirGroundBench: Probing Spatial Intelligence in Multimodal Large Models under Heterogeneous Multi-View Embodied Collaboration",
+      "date": "2026-06-26",
+      "id": "2606.28049v1",
+      "abstract": "In recent years, multimodal large language models (MLLMs) have shown strong potential for embodied intelligence, yet their ability to maintain geometrically consistent spatial understanding across het",
+      "url": "https://arxiv.org/abs/2606.28049v1"
     },
     {
-      "title": "How to access astronomical observation facilities ?",
-      "date": "2026-06-25",
-      "id": "2606.26996v1",
-      "abstract": "Access to astronomical data is a central component of astrophysical research. The allocation of telescope time is organized on an international scale through a highly competitive process. Over the pas",
-      "url": "https://arxiv.org/abs/2606.26996v1"
+      "title": "When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence",
+      "date": "2026-06-26",
+      "id": "2606.27929v1",
+      "abstract": "Embodied AI is increasingly becoming agentic, shifting robots from perception--control pipelines towards closed-loop systems that can retrieve context, deliberate during execution, monitor feedback, a",
+      "url": "https://arxiv.org/abs/2606.27929v1"
     },
     {
-      "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
-      "date": "2026-06-25",
-      "id": "2606.27374v1",
-      "abstract": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a",
-      "url": "https://arxiv.org/abs/2606.27374v1"
+      "title": "CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion",
+      "date": "2026-06-26",
+      "id": "2606.28300v1",
+      "abstract": "Model Predictive Control (MPC) is the standard predictive layer in hierarchical quadruped controllers, but the per-cycle QP solve limits the update rate achievable on embedded processors. Because legg",
+      "url": "https://arxiv.org/abs/2606.28300v1"
     },
     {
-      "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
-      "date": "2026-06-25",
-      "id": "2606.27355v1",
-      "abstract": "We study whether pre-deployment evaluation rollouts can be reused to supervise policy selection. Robot teams routinely smoke test candidate vision-language-action (VLA) policies, then compress those t",
-      "url": "https://arxiv.org/abs/2606.27355v1"
+      "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
+      "date": "2026-06-26",
+      "id": "2606.28276v1",
+      "abstract": "Training and evaluating robot policies in the real world is costly and difficult to scale. We introduce SimFoundry, a modular and automated system for zero-shot real-to-sim scene construction from a v",
+      "url": "https://arxiv.org/abs/2606.28276v1"
     },
     {
-      "title": "Jet impingement cooling with multi-stage ducted electroaerodynamic actuators",
-      "date": "2026-06-25",
-      "id": "2606.27338v1",
-      "abstract": "Modern high-performance mobile electronics impose extreme constraints on thermal management, and traditional cooling methods often fail to meet requirements for power density, form factor, and durabil",
-      "url": "https://arxiv.org/abs/2606.27338v1"
+      "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
+      "date": "2026-06-26",
+      "id": "2606.28274v1",
+      "abstract": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influe",
+      "url": "https://arxiv.org/abs/2606.28274v1"
     },
     {
-      "title": "DnA: Denoising Attention for Visual Tasks",
-      "date": "2026-06-25",
-      "id": "2606.27372v1",
-      "abstract": "The softmax activation in multihead attention (MHA) is the de facto standard for attention-based models in visual perception tasks. However, standard softmax can produce noisy attention patterns that ",
-      "url": "https://arxiv.org/abs/2606.27372v1"
+      "title": "Universality of Bubble Coalescence in Electrolytic Media",
+      "date": "2026-06-26",
+      "id": "2606.28181v1",
+      "abstract": "Bubble coalescence phenomenon in electrolytic media finds applications in technologies from mineral flotation to electrochemical energy conversion. However, the underlying governing physics still rema",
+      "url": "https://arxiv.org/abs/2606.28181v1"
     },
     {
-      "title": "Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
-      "date": "2026-06-25",
-      "id": "2606.27369v1",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ",
-      "url": "https://arxiv.org/abs/2606.27369v1"
+      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+      "date": "2026-06-26",
+      "id": "2606.28294v1",
+      "abstract": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final ch",
+      "url": "https://arxiv.org/abs/2606.28294v1"
     },
     {
-      "title": "When are likely answers right? On Sequence Probability and Correctness in LLMs",
-      "date": "2026-06-25",
-      "id": "2606.27359v1",
-      "abstract": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the",
-      "url": "https://arxiv.org/abs/2606.27359v1"
+      "title": "HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech",
+      "date": "2026-06-26",
+      "id": "2606.28249v1",
+      "abstract": "Recently, Large Language Model (LLM)-based Text-to-Speech (TTS) models have achieved remarkable naturalness. However, the standard Supervised Fine-Tuning paradigm often converges to statistically aver",
+      "url": "https://arxiv.org/abs/2606.28249v1"
     },
     {
-      "title": "Dirac fermions in non-Hermitian magnetic fields: Zero modes and index theorem",
-      "date": "2026-06-25",
-      "id": "2606.27370v1",
-      "abstract": "In a Lorentz symmetric non-Hermitian (NH) Dirac theory, containing the canonical relativistic Hamiltonian accompanied by a masslike anti-Hermitian Dirac operator, when the associated NH parameter beco",
-      "url": "https://arxiv.org/abs/2606.27370v1"
+      "title": "Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors",
+      "date": "2026-06-26",
+      "id": "2606.28237v1",
+      "abstract": "Quadruped robots have achieved remarkable locomotion, yet their behavioral repertoire remains confined to a few gaits--far from the expressive, companion-like presence long envisioned for them. Attemp",
+      "url": "https://arxiv.org/abs/2606.28237v1"
     },
     {
-      "title": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
-      "date": "2026-06-25",
-      "id": "2606.27350v1",
-      "abstract": "Agentic artificial intelligence shows great promise for radically improving the pace of innovation in hardware/software co-design research across computer architecture, systems, compilers, and VLSI. T",
-      "url": "https://arxiv.org/abs/2606.27350v1"
+      "title": "The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries",
+      "date": "2026-06-26",
+      "id": "2606.28324v1",
+      "abstract": "Anytime-valid confidence sequences and e-processes are built almost universally from one recipe: average exponential test statistics over a prior on the tilting scale, then invoke Ville's inequality o",
+      "url": "https://arxiv.org/abs/2606.28324v1"
     },
     {
-      "title": "All you need is log",
-      "date": "2026-06-25",
-      "id": "2606.27349v1",
-      "abstract": "Comparing two probability distributions is a basic building block of statistics and machine learning, and the right family is well understood: the Rényi divergences of order $α\\in[0,\\infty]$ are the u",
-      "url": "https://arxiv.org/abs/2606.27349v1"
+      "title": "Surprises in Proper Positive-Only Learning",
+      "date": "2026-06-26",
+      "id": "2606.28309v1",
+      "abstract": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under",
+      "url": "https://arxiv.org/abs/2606.28309v1"
     },
     {
-      "title": "3D Imaging of Complex Skyrmion and Hopf Topologies in an Extended Sample",
-      "date": "2026-06-25",
-      "id": "2606.27365v1",
-      "abstract": "Spin textures are key for emergent magnetic phenomena such as topological protection and underpin novel spintronic device paradigms based on racetrack memory, logic gates, and neuromorphic computing. ",
-      "url": "https://arxiv.org/abs/2606.27365v1"
+      "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
+      "date": "2026-06-26",
+      "id": "2606.28307v1",
+      "abstract": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison ",
+      "url": "https://arxiv.org/abs/2606.28307v1"
     },
     {
-      "title": "3D Magnetic Field Vectors in Space: Bubbles, Clouds, and Filaments",
-      "date": "2026-06-25",
-      "id": "2606.27346v1",
-      "abstract": "Magnetic fields play important roles in the star-formation process across different spatial scales. The interplay between magnetic field strength (a key component of the interstellar medium's energy b",
-      "url": "https://arxiv.org/abs/2606.27346v1"
-    },
-    {
-      "title": "Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
-      "date": "2026-06-25",
-      "id": "2606.27347v1",
-      "abstract": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes",
-      "url": "https://arxiv.org/abs/2606.27347v1"
+      "title": "Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data",
+      "date": "2026-06-26",
+      "id": "2606.28289v1",
+      "abstract": "Kinetic analyses of experiments often require coarse-grained descriptions, but complex systems rarely conform to the widely used modeling assumptions of Markovianity and thermodynamic equilibrium. Mem",
+      "url": "https://arxiv.org/abs/2606.28289v1"
     }
   ]
 }
