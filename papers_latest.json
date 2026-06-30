@@ -1,154 +1,91 @@
 {
-  "updated": "2026-06-29 05:22 UTC",
-  "total": 21,
+  "updated": "2026-06-30 04:56 UTC",
+  "total": 12,
   "today_count": 0,
   "papers": [
     {
-      "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-      "date": "2026-06-26",
-      "id": "2606.28323v1",
-      "abstract": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s",
-      "url": "https://arxiv.org/abs/2606.28323v1"
+      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "date": "2026-06-29",
+      "id": "2606.30645v1",
+      "abstract": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu",
+      "url": "https://arxiv.org/abs/2606.30645v1"
     },
     {
-      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-      "date": "2026-06-26",
-      "id": "2606.28322v1",
-      "abstract": "We introduce PerceptionRubrics, a rubric-based evaluation framework that addresses the gap between saturated benchmark scores and real-world brittleness. Shifting evaluation from holistic semantic mat",
-      "url": "https://arxiv.org/abs/2606.28322v1"
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "date": "2026-06-29",
+      "id": "2606.30642v1",
+      "abstract": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a struc",
+      "url": "https://arxiv.org/abs/2606.30642v1"
     },
     {
-      "title": "StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views",
-      "date": "2026-06-26",
-      "id": "2606.28321v1",
-      "abstract": "We present StructSplat, a feed-forward and generalizable 3D Gaussian reconstruction framework that operates directly on uncalibrated images without requiring camera parameters. Existing methods either",
-      "url": "https://arxiv.org/abs/2606.28321v1"
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "date": "2026-06-29",
+      "id": "2606.30639v1",
+      "abstract": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even",
+      "url": "https://arxiv.org/abs/2606.30639v1"
     },
     {
-      "title": "HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration",
-      "date": "2026-06-26",
-      "id": "2606.28215v1",
-      "abstract": "Extracting dynamic 4D object interactions from massive, in-the-wild monocular videos offers a highly efficient data collection pathway for scaling Embodied AI and training VLAs. However, existing mono",
-      "url": "https://arxiv.org/abs/2606.28215v1"
+      "title": "Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors",
+      "date": "2026-06-29",
+      "id": "2606.30638v1",
+      "abstract": "3D Gaussian Splatting (3DGS) has emerged at the forefront of 3D scene reconstruction. Extending 3DGS with language-driven, open-vocabulary understanding has gained significant attention for real-world",
+      "url": "https://arxiv.org/abs/2606.30638v1"
     },
     {
-      "title": "LLawCo: Learning Laws of Cooperation for Modeling Embodied Multi-Agent Behavior",
-      "date": "2026-06-26",
-      "id": "2606.28182v1",
-      "abstract": "Embodied agents operating in decentralized and partially observable environments have attracted growing attention in recent years. However, existing large language model (LLM)-based agents often exhib",
-      "url": "https://arxiv.org/abs/2606.28182v1"
+      "title": "UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image",
+      "date": "2026-06-29",
+      "id": "2606.30608v1",
+      "abstract": "Articulated 3D objects are essential for interactive environments in embodied AI, robotics, and virtual reality, but reconstructing their structure and motion from sparse observations remains challeng",
+      "url": "https://arxiv.org/abs/2606.30608v1"
     },
     {
-      "title": "Regularized Reward-Punishment Reinforcement Learning",
-      "date": "2026-06-26",
-      "id": "2606.28152v1",
-      "abstract": "We propose KL-Coupled Policy Regularization (KCPR), a policy coordination framework for Reward-Punishment Reinforcement Learning (RPRL). Based on KCPR, we derive KL-Coupled Soft Optimality (KCSO) and ",
-      "url": "https://arxiv.org/abs/2606.28152v1"
+      "title": "Testing the prevalence of hydrogen-silicate miscibility in young sub-Neptunes",
+      "date": "2026-06-29",
+      "id": "2606.30644v1",
+      "abstract": "Hydrogen-silicate miscibility can significantly alter the interior structure and thermal evolution of sub-Neptunes. We consider the interplay between this miscibility and stellar-driven atmospheric es",
+      "url": "https://arxiv.org/abs/2606.30644v1"
     },
     {
-      "title": "WARP-RM: A Warp-Augmented Relative Progress Reward Model for Data Curation",
-      "date": "2026-06-26",
-      "id": "2606.28320v1",
-      "abstract": "Scaling imitation learning requires large datasets, yet human teleoperation inevitably produces mixed-quality demonstrations containing hesitations and recoveries. Prior frame-level progress reward mo",
-      "url": "https://arxiv.org/abs/2606.28320v1"
+      "title": "MOAR Planner: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV",
+      "date": "2026-06-29",
+      "id": "2606.30575v1",
+      "abstract": "The problem of autonomous navigation for UAV inspection remains challenging as it requires effectively navigating in close proximity to obstacles, while accounting for dynamic risk factors such as wea",
+      "url": "https://arxiv.org/abs/2606.30575v1"
     },
     {
-      "title": "Pairwise Reflection Symmetry in Generalized Latin Rectangles",
-      "date": "2026-06-26",
-      "id": "2606.28315v1",
-      "abstract": "Many combinatorial designs ask for equal distribution of given symbols across the entries of a matrix. The paramount examples are Latin squares, where each symbol from $\\{1,\\dots,n\\}$ appears once per",
-      "url": "https://arxiv.org/abs/2606.28315v1"
+      "title": "SIGMA: Saliency-Guided Sparse Mask Attacks for Speech Emotion Recognition",
+      "date": "2026-06-29",
+      "id": "2606.30550v1",
+      "abstract": "Speech conveys rich emotional information. As Speech Emotion Recognition (SER) is usually deployed in privacy-sensitive and reliability-critical environments, adversarial attacks on SER have attracted",
+      "url": "https://arxiv.org/abs/2606.30550v1"
     },
     {
-      "title": "AirGroundBench: Probing Spatial Intelligence in Multimodal Large Models under Heterogeneous Multi-View Embodied Collaboration",
-      "date": "2026-06-26",
-      "id": "2606.28049v1",
-      "abstract": "In recent years, multimodal large language models (MLLMs) have shown strong potential for embodied intelligence, yet their ability to maintain geometrically consistent spatial understanding across het",
-      "url": "https://arxiv.org/abs/2606.28049v1"
+      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+      "date": "2026-06-29",
+      "id": "2606.30632v1",
+      "abstract": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challeng",
+      "url": "https://arxiv.org/abs/2606.30632v1"
     },
     {
-      "title": "When Multi-Robot Systems Meet Agentic AI:Towards Embodied Collective Intelligence",
-      "date": "2026-06-26",
-      "id": "2606.27929v1",
-      "abstract": "Embodied AI is increasingly becoming agentic, shifting robots from perception--control pipelines towards closed-loop systems that can retrieve context, deliberate during execution, monitor feedback, a",
-      "url": "https://arxiv.org/abs/2606.27929v1"
+      "title": "Sequential Planning via Anchored Robotic Keypoints",
+      "date": "2026-06-29",
+      "id": "2606.30613v1",
+      "abstract": "We present Sequential Planning via Anchored Robotic Keypoints, SPARK, a training-free neurosymbolic manipulation system that reaches 43.7% on six LIBERO-PRO position \\& task cells, more than doubling ",
+      "url": "https://arxiv.org/abs/2606.30613v1"
     },
     {
-      "title": "CacheMPC: Certified Cached Model Predictive Control for Quadruped Locomotion",
-      "date": "2026-06-26",
-      "id": "2606.28300v1",
-      "abstract": "Model Predictive Control (MPC) is the standard predictive layer in hierarchical quadruped controllers, but the per-cycle QP solve limits the update rate achievable on embedded processors. Because legg",
-      "url": "https://arxiv.org/abs/2606.28300v1"
+      "title": "Pulses, waves, and cascades in collective migration dynamics",
+      "date": "2026-06-29",
+      "id": "2606.30604v1",
+      "abstract": "Decisions to migrate depend on others' decisions. Dependence can produce nontrivial dynamics. We propose a minimal migration model that accounts for social influence alongside individual heterogeneity",
+      "url": "https://arxiv.org/abs/2606.30604v1"
     },
     {
-      "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
-      "date": "2026-06-26",
-      "id": "2606.28276v1",
-      "abstract": "Training and evaluating robot policies in the real world is costly and difficult to scale. We introduce SimFoundry, a modular and automated system for zero-shot real-to-sim scene construction from a v",
-      "url": "https://arxiv.org/abs/2606.28276v1"
-    },
-    {
-      "title": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration",
-      "date": "2026-06-26",
-      "id": "2606.28274v1",
-      "abstract": "Accurate network traffic prediction is a critical element for efficient resource allocation in dynamic urban cellular networks. However, prediction remains challenging because network demand is influe",
-      "url": "https://arxiv.org/abs/2606.28274v1"
-    },
-    {
-      "title": "Universality of Bubble Coalescence in Electrolytic Media",
-      "date": "2026-06-26",
-      "id": "2606.28181v1",
-      "abstract": "Bubble coalescence phenomenon in electrolytic media finds applications in technologies from mineral flotation to electrochemical energy conversion. However, the underlying governing physics still rema",
-      "url": "https://arxiv.org/abs/2606.28181v1"
-    },
-    {
-      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
-      "date": "2026-06-26",
-      "id": "2606.28294v1",
-      "abstract": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final ch",
-      "url": "https://arxiv.org/abs/2606.28294v1"
-    },
-    {
-      "title": "HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech",
-      "date": "2026-06-26",
-      "id": "2606.28249v1",
-      "abstract": "Recently, Large Language Model (LLM)-based Text-to-Speech (TTS) models have achieved remarkable naturalness. However, the standard Supervised Fine-Tuning paradigm often converges to statistically aver",
-      "url": "https://arxiv.org/abs/2606.28249v1"
-    },
-    {
-      "title": "Unleashing Infinite Motion: Scaling Expressive Quadrupedal Motion via Generative Video Priors",
-      "date": "2026-06-26",
-      "id": "2606.28237v1",
-      "abstract": "Quadruped robots have achieved remarkable locomotion, yet their behavioral repertoire remains confined to a few gaits--far from the expressive, companion-like presence long envisioned for them. Attemp",
-      "url": "https://arxiv.org/abs/2606.28237v1"
-    },
-    {
-      "title": "The multiply iterated law of the iterated logarithm: game-theoretic foundations of sequential detection boundaries",
-      "date": "2026-06-26",
-      "id": "2606.28324v1",
-      "abstract": "Anytime-valid confidence sequences and e-processes are built almost universally from one recipe: average exponential test statistics over a prior on the tilting scale, then invoke Ville's inequality o",
-      "url": "https://arxiv.org/abs/2606.28324v1"
-    },
-    {
-      "title": "Surprises in Proper Positive-Only Learning",
-      "date": "2026-06-26",
-      "id": "2606.28309v1",
-      "abstract": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under",
-      "url": "https://arxiv.org/abs/2606.28309v1"
-    },
-    {
-      "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
-      "date": "2026-06-26",
-      "id": "2606.28307v1",
-      "abstract": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison ",
-      "url": "https://arxiv.org/abs/2606.28307v1"
-    },
-    {
-      "title": "Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data",
-      "date": "2026-06-26",
-      "id": "2606.28289v1",
-      "abstract": "Kinetic analyses of experiments often require coarse-grained descriptions, but complex systems rarely conform to the widely used modeling assumptions of Markovianity and thermodynamic equilibrium. Mem",
-      "url": "https://arxiv.org/abs/2606.28289v1"
+      "title": "Towards World Model-Empowered Integrated Sensing, Communication, and Decision for Complex Unmanned Systems",
+      "date": "2026-06-29",
+      "id": "2606.30568v1",
+      "abstract": "Complex unmanned systems comprising satellites, unmanned aerial vehicles (UAVs), unmanned ground vehicles (UGVs), and quadruped robots are increasingly deployed to perform large-scale sensing and auto",
+      "url": "https://arxiv.org/abs/2606.30568v1"
     }
   ]
 }
