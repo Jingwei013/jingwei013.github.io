@@ -1,119 +1,84 @@
 {
-  "updated": "2026-07-07 04:41 UTC",
-  "total": 16,
+  "updated": "2026-07-08 04:08 UTC",
+  "total": 11,
   "today_count": 0,
   "papers": [
     {
-      "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-      "date": "2026-07-06",
-      "id": "2607.05396v1",
-      "abstract": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang",
-      "url": "https://arxiv.org/abs/2607.05396v1"
+      "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "date": "2026-07-07",
+      "id": "2607.06565v1",
+      "abstract": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena",
+      "url": "https://arxiv.org/abs/2607.06565v1"
     },
     {
-      "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-      "date": "2026-07-06",
-      "id": "2607.05394v1",
-      "abstract": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must",
-      "url": "https://arxiv.org/abs/2607.05394v1"
+      "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+      "date": "2026-07-07",
+      "id": "2607.06564v1",
+      "abstract": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geom",
+      "url": "https://arxiv.org/abs/2607.06564v1"
     },
     {
-      "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-      "date": "2026-07-06",
-      "id": "2607.05392v1",
-      "abstract": "We present SynCity 3000, a framework for generating 3D scenes that are globally coherent while enabling fine-grained layout control. Building on the ability of current image-to-3D generators to produc",
-      "url": "https://arxiv.org/abs/2607.05392v1"
+      "title": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
+      "date": "2026-07-07",
+      "id": "2607.06563v1",
+      "abstract": "Traditional data physicalization is often static and disconnected from real environments, limiting its ability to convey embodied spatial dynamics and engage users. To address this limitation, we pres",
+      "url": "https://arxiv.org/abs/2607.06563v1"
     },
     {
-      "title": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
-      "date": "2026-07-06",
-      "id": "2607.05377v1",
-      "abstract": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current obs",
-      "url": "https://arxiv.org/abs/2607.05377v1"
+      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+      "date": "2026-07-07",
+      "id": "2607.06559v1",
+      "abstract": "Robotic manipulation in the open world requires not only recognizing what a scene looks like, but also anticipating how its 3D structure moves under interaction. We argue that synchronized RGB, depth,",
+      "url": "https://arxiv.org/abs/2607.06559v1"
     },
     {
-      "title": "SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints",
-      "date": "2026-07-06",
-      "id": "2607.05363v1",
-      "abstract": "Personal agents are becoming persistent user-owned intermediaries: they remember preferences, filter platform-mediated information, use tools, and negotiate with services. Existing benchmarks evaluate",
-      "url": "https://arxiv.org/abs/2607.05363v1"
+      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "date": "2026-07-07",
+      "id": "2607.06558v1",
+      "abstract": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware",
+      "url": "https://arxiv.org/abs/2607.06558v1"
     },
     {
-      "title": "ChatImage: Navigating Long-Form LLM Answers through Interactive Images",
-      "date": "2026-07-06",
-      "id": "2607.05290v1",
-      "abstract": "Large Language Models (LLMs) can produce detailed answers to complex queries, but these answers are typically presented as dense linear text, which makes fine-grained inspection, navigation, and retur",
-      "url": "https://arxiv.org/abs/2607.05290v1"
+      "title": "Minimum Energies and Magnetic Field Strengths of Edge-brightened Compact Symmetric Objects",
+      "date": "2026-07-07",
+      "id": "2607.06562v1",
+      "abstract": "Compact symmetric objects (CSOs) are subkiloparsec radio sources with two-sided emission about a core resulting from jets that are not relativistically beamed towards the observer. This relative simpl",
+      "url": "https://arxiv.org/abs/2607.06562v1"
     },
     {
-      "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-      "date": "2026-07-06",
-      "id": "2607.05390v1",
-      "abstract": "Predicting object dynamics (i.e., world modeling) is a fundamental challenge for robotic manipulation, and modeling deformable objects presents a particularly difficult case due to their high-dimensio",
-      "url": "https://arxiv.org/abs/2607.05390v1"
+      "title": "Skipping the rungs! Calibrating distance indicators through their clustering with galaxies",
+      "date": "2026-07-07",
+      "id": "2607.06567v1",
+      "abstract": "We show that angular cross-correlations between distance indicators and galaxy redshift catalogues, when interpreted within an assumed cosmological model, can constrain potential biases in distance me",
+      "url": "https://arxiv.org/abs/2607.06567v1"
     },
     {
-      "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
-      "date": "2026-07-06",
-      "id": "2607.05389v1",
-      "abstract": "Camera intrinsics are vital for recovering 3D structure from 2D video. However, most 3D algorithms assume fixed intrinsics throughout a video, an assumption that often fails for real-world in-the-wild",
-      "url": "https://arxiv.org/abs/2607.05389v1"
+      "title": "The Chiral Random-Matrix Ensemble of the Type-IIB Axion--Dilaton Wormhole Partition Function",
+      "date": "2026-07-07",
+      "id": "2607.06566v1",
+      "abstract": "I construct a microscopic ADHM/chiral-Wishart representative of the reduced charge-sector coefficient $W_ν[b]$ that enters the Type-IIB axion--dilaton wormhole partition function $Z_{\\rm wh}(θ;b)$. I ",
+      "url": "https://arxiv.org/abs/2607.06566v1"
     },
     {
-      "title": "What Does a Discrete Diffusion Model Learn?",
-      "date": "2026-07-06",
-      "id": "2607.05381v1",
-      "abstract": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne",
-      "url": "https://arxiv.org/abs/2607.05381v1"
+      "title": "UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation",
+      "date": "2026-07-07",
+      "id": "2607.06537v1",
+      "abstract": "Mobile manipulation requires a robot to navigate to a target object or receptacle and then perform intended manipulation. However, reaching the vicinity of the target does not guarantee a manipulation",
+      "url": "https://arxiv.org/abs/2607.06537v1"
     },
     {
-      "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-      "date": "2026-07-06",
-      "id": "2607.05393v1",
-      "abstract": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi",
-      "url": "https://arxiv.org/abs/2607.05393v1"
+      "title": "Towards Real-World Applications with an Autonomous Powered Wheelchair",
+      "date": "2026-07-07",
+      "id": "2607.06383v1",
+      "abstract": "Wheelchair users call for assistive mobility systems that provide active support, adapt to dynamic environments, and are intuitive and user-friendly. However, powered wheelchairs typically still provi",
+      "url": "https://arxiv.org/abs/2607.06383v1"
     },
     {
-      "title": "Geometry-Aware Visual Odometry for Bronchoscopic Navigation via High-Gain Observer Fusion",
-      "date": "2026-07-06",
-      "id": "2607.05162v1",
-      "abstract": "Navigational bronchoscopy is critical for pulmonary interventions, yet current platforms depend heavily on pre-operative CT or external sensors, limiting their use in critical care and resource-constr",
-      "url": "https://arxiv.org/abs/2607.05162v1"
-    },
-    {
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "date": "2026-07-06",
-      "id": "2607.05391v1",
-      "abstract": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th",
-      "url": "https://arxiv.org/abs/2607.05391v1"
-    },
-    {
-      "title": "High-temperature operation of III-nitride high-electron-mobility transistors",
-      "date": "2026-07-06",
-      "id": "2607.05314v1",
-      "abstract": "High-electron-mobility transistors (HEMTs) made with III-nitride materials are of potential use in high-temperature electronic applications including power electronics, communications, aerospace and s",
-      "url": "https://arxiv.org/abs/2607.05314v1"
-    },
-    {
-      "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
-      "date": "2026-07-06",
-      "id": "2607.05378v1",
-      "abstract": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction ",
-      "url": "https://arxiv.org/abs/2607.05378v1"
-    },
-    {
-      "title": "Sharp ratios for low-index Neumann eigenvalues on convex domains",
-      "date": "2026-07-06",
-      "id": "2607.05388v1",
-      "abstract": "Let $Ω\\subset\\mathbb{R}^N$ be a bounded open convex set, and let $0=μ_0(Ω)<μ_1(Ω)\\le μ_2(Ω)\\le\\cdots$ be the Neumann eigenvalues of the Laplacian, repeated according to multiplicity. We prove the shar",
-      "url": "https://arxiv.org/abs/2607.05388v1"
-    },
-    {
-      "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-      "date": "2026-07-06",
-      "id": "2607.05382v1",
-      "abstract": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof",
-      "url": "https://arxiv.org/abs/2607.05382v1"
+      "title": "Continuous Narrow-Linewidth Superradiance in Waveguide QED",
+      "date": "2026-07-07",
+      "id": "2607.06556v1",
+      "abstract": "Superradiant lasers promise continuous, narrow-linewidth coherent emission at the bare atomic transition frequency, enabling frequency references of exceptional precision. Recent experiments have adva",
+      "url": "https://arxiv.org/abs/2607.06556v1"
     }
   ]
 }
