@@ -1,84 +1,133 @@
 {
-  "updated": "2026-07-08 04:08 UTC",
-  "total": 11,
+  "updated": "2026-07-09 04:41 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-      "date": "2026-07-07",
-      "id": "2607.06565v1",
-      "abstract": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena",
-      "url": "https://arxiv.org/abs/2607.06565v1"
+      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "date": "2026-07-08",
+      "id": "2607.07708v1",
+      "abstract": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization.",
+      "url": "https://arxiv.org/abs/2607.07708v1"
     },
     {
-      "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
-      "date": "2026-07-07",
-      "id": "2607.06564v1",
-      "abstract": "Recently, Vision-Language-Action (VLA) models have demonstrated strong generalization across diverse tasks. However, effective robotic manipulation in physical environments fundamentally requires geom",
-      "url": "https://arxiv.org/abs/2607.06564v1"
+      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "date": "2026-07-08",
+      "id": "2607.07707v1",
+      "abstract": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches ",
+      "url": "https://arxiv.org/abs/2607.07707v1"
     },
     {
-      "title": "Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization",
-      "date": "2026-07-07",
-      "id": "2607.06563v1",
-      "abstract": "Traditional data physicalization is often static and disconnected from real environments, limiting its ability to convey embodied spatial dynamics and engage users. To address this limitation, we pres",
-      "url": "https://arxiv.org/abs/2607.06563v1"
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "date": "2026-07-08",
+      "id": "2607.07702v1",
+      "abstract": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policie",
+      "url": "https://arxiv.org/abs/2607.07702v1"
     },
     {
-      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
-      "date": "2026-07-07",
-      "id": "2607.06559v1",
-      "abstract": "Robotic manipulation in the open world requires not only recognizing what a scene looks like, but also anticipating how its 3D structure moves under interaction. We argue that synchronized RGB, depth,",
-      "url": "https://arxiv.org/abs/2607.06559v1"
+      "title": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "date": "2026-07-08",
+      "id": "2607.07675v1",
+      "abstract": "Despite the recent promise in robot control, video generative models suffer from a domain mismatch due to their primary focus on content creation. For example, their design inherently prioritizes visu",
+      "url": "https://arxiv.org/abs/2607.07675v1"
     },
     {
-      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
-      "date": "2026-07-07",
-      "id": "2607.06558v1",
-      "abstract": "Scaling robot learning requires massive, diverse trajectory data, yet collection is currently bottlenecked by physical teleoperation, where every demonstration binds operator time to specific hardware",
-      "url": "https://arxiv.org/abs/2607.06558v1"
+      "title": "5G Positioning Reference Signal impact assessment in Non-Terrestrial Networks communication service",
+      "date": "2026-07-08",
+      "id": "2607.07466v1",
+      "abstract": "5G New Radio (NR) Non-Terrestrial Networks (NTNs) extend cellular connectivity through Low Earth Orbit (LEO) and Medium Earth Orbit (MEO) satellite constellations while enabling the reuse of downlink ",
+      "url": "https://arxiv.org/abs/2607.07466v1"
     },
     {
-      "title": "Minimum Energies and Magnetic Field Strengths of Edge-brightened Compact Symmetric Objects",
-      "date": "2026-07-07",
-      "id": "2607.06562v1",
-      "abstract": "Compact symmetric objects (CSOs) are subkiloparsec radio sources with two-sided emission about a core resulting from jets that are not relativistically beamed towards the observer. This relative simpl",
-      "url": "https://arxiv.org/abs/2607.06562v1"
+      "title": "Social-spatial dependencies for learning visual navigation",
+      "date": "2026-07-08",
+      "id": "2607.07460v1",
+      "abstract": "Navigation for social organisms rarely is a fully independent activity. Group structure and dynamics, as well as embodied interactions, critically influence useful behavior. Individual neural network ",
+      "url": "https://arxiv.org/abs/2607.07460v1"
     },
     {
-      "title": "Skipping the rungs! Calibrating distance indicators through their clustering with galaxies",
-      "date": "2026-07-07",
-      "id": "2607.06567v1",
-      "abstract": "We show that angular cross-correlations between distance indicators and galaxy redshift catalogues, when interpreted within an assumed cosmological model, can constrain potential biases in distance me",
-      "url": "https://arxiv.org/abs/2607.06567v1"
+      "title": "The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies",
+      "date": "2026-07-08",
+      "id": "2607.07709v1",
+      "abstract": "To best reproduce observed multiply-lensed lensed images, lens models usually incorporate shear attributed to objects unrelated to the lensing galaxy (i.e., external shear): whether it be neighbouring",
+      "url": "https://arxiv.org/abs/2607.07709v1"
     },
     {
-      "title": "The Chiral Random-Matrix Ensemble of the Type-IIB Axion--Dilaton Wormhole Partition Function",
-      "date": "2026-07-07",
-      "id": "2607.06566v1",
-      "abstract": "I construct a microscopic ADHM/chiral-Wishart representative of the reduced charge-sector coefficient $W_ν[b]$ that enters the Type-IIB axion--dilaton wormhole partition function $Z_{\\rm wh}(θ;b)$. I ",
-      "url": "https://arxiv.org/abs/2607.06566v1"
+      "title": "Coherent Signal Detection with Pruning -- I. Finding Short-Period Binary Pulsars in Circular Orbits",
+      "date": "2026-07-08",
+      "id": "2607.07700v1",
+      "abstract": "Detecting pulsars in short-period binary systems, which are unparalleled laboratories for fundamental physics and tests of general relativity, is a prime objective of radio astronomy. Their rapid orbi",
+      "url": "https://arxiv.org/abs/2607.07700v1"
     },
     {
-      "title": "UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation",
-      "date": "2026-07-07",
-      "id": "2607.06537v1",
-      "abstract": "Mobile manipulation requires a robot to navigate to a target object or receptacle and then perform intended manipulation. However, reaching the vicinity of the target does not guarantee a manipulation",
-      "url": "https://arxiv.org/abs/2607.06537v1"
+      "title": "Tracing the Evolution of the Balmer Break from Cosmic Dawn to Cosmic Noon with JWST",
+      "date": "2026-07-08",
+      "id": "2607.07698v1",
+      "abstract": "The Balmer break (BB) is a key spectral feature for constraining stellar population ages, star formation histories, and redshifts of high-redshift sources. The redshift evolution and distribution of B",
+      "url": "https://arxiv.org/abs/2607.07698v1"
     },
     {
-      "title": "Towards Real-World Applications with an Autonomous Powered Wheelchair",
-      "date": "2026-07-07",
-      "id": "2607.06383v1",
-      "abstract": "Wheelchair users call for assistive mobility systems that provide active support, adapt to dynamic environments, and are intuitive and user-friendly. However, powered wheelchairs typically still provi",
-      "url": "https://arxiv.org/abs/2607.06383v1"
+      "title": "Continuous and large-scale: ELEANOR, the soft architected arm inspired by the elephant trunk",
+      "date": "2026-07-08",
+      "id": "2607.07622v1",
+      "abstract": "The elephant trunk is a dexterous and versatile manipulator whose performance is still unmatched in robotics. In previous works, modularity was prioritized and relatively small-scale continuum robots ",
+      "url": "https://arxiv.org/abs/2607.07622v1"
     },
     {
-      "title": "Continuous Narrow-Linewidth Superradiance in Waveguide QED",
-      "date": "2026-07-07",
-      "id": "2607.06556v1",
-      "abstract": "Superradiant lasers promise continuous, narrow-linewidth coherent emission at the bare atomic transition frequency, enabling frequency references of exceptional precision. Recent experiments have adva",
-      "url": "https://arxiv.org/abs/2607.06556v1"
+      "title": "Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation",
+      "date": "2026-07-08",
+      "id": "2607.07608v1",
+      "abstract": "Mainstream Vision-Language-Action (VLA) models predict actions primarily from the current observation under a Markovian assumption, thus struggling with long-horizon, temporally dependent tasks. Exist",
+      "url": "https://arxiv.org/abs/2607.07608v1"
+    },
+    {
+      "title": "Holistic B2X Mobile Application Development -- A Reference Model",
+      "date": "2026-07-08",
+      "id": "2607.07511v1",
+      "abstract": "Business-to-X (B2X, \"X\" for business, customer, etc.) mobile applications (\"apps\") show various mobile-specific chances and challenges that must be ad-dressed in the whole development process. Knowled",
+      "url": "https://arxiv.org/abs/2607.07511v1"
+    },
+    {
+      "title": "Smooth Operator: A Real-Time Sampling-Based Algorithm for Kinematic Hand Retargeting",
+      "date": "2026-07-08",
+      "id": "2607.07491v1",
+      "abstract": "Advances in learning-based robotic manipulation, such as Vision-Language-Action (VLA) models and Video Action Models (VAMs), heavily rely on high-quality teleoperation data. Their capabilities are str",
+      "url": "https://arxiv.org/abs/2607.07491v1"
+    },
+    {
+      "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
+      "date": "2026-07-08",
+      "id": "2607.07696v1",
+      "abstract": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads t",
+      "url": "https://arxiv.org/abs/2607.07696v1"
+    },
+    {
+      "title": "Non-Hermitian Edge State Endocytosis",
+      "date": "2026-07-08",
+      "id": "2607.07703v1",
+      "abstract": "An isolated edge state observed in a finite open chain is usually expected to survive the thermodynamic limit (TDL), with a localization mechanism distinct from non-Hermitian skin accumulation, which ",
+      "url": "https://arxiv.org/abs/2607.07703v1"
+    },
+    {
+      "title": "Radio emission from close-in exoplanets: Can we extend the radio-magnetic scaling law to the sub-Alfvénic stellar wind regime?",
+      "date": "2026-07-08",
+      "id": "2607.07704v1",
+      "abstract": "Observations of exoplanetary radio aurora can directly probe planetary magnetic fields and magnetic star-planet interactions. However, the search for exoplanetary radio aurora has been without confirm",
+      "url": "https://arxiv.org/abs/2607.07704v1"
+    },
+    {
+      "title": "Exploiting Spanning Trees for Directed Acyclicity",
+      "date": "2026-07-08",
+      "id": "2607.07705v1",
+      "abstract": "We study the weighted case of the \\textsc{Maximum Acyclic Subgraph (MAS)} problem, where each edge of a given directed graph has a positive weight assigned, and the task is to find a maximum-weight ac",
+      "url": "https://arxiv.org/abs/2607.07705v1"
+    },
+    {
+      "title": "Induced Erdős--Pósa property for long holes, long thetas, and beyond",
+      "date": "2026-07-08",
+      "id": "2607.07697v1",
+      "abstract": "The induced Erdős--Pósa property in graphs relates the maximum number of pairwise anti-adjacent copies of an object with the minimum number of neighborhoods required to hit all copies. In this paper, ",
+      "url": "https://arxiv.org/abs/2607.07697v1"
     }
   ]
 }
