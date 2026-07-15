@@ -1,154 +1,133 @@
 {
-  "updated": "2026-07-14 03:50 UTC",
-  "total": 21,
+  "updated": "2026-07-15 03:51 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
-      "date": "2026-07-13",
-      "id": "2607.11886v1",
-      "abstract": "In this paper, we propose SpectraReward, a training-free reward function that turns pretrained MLLMs into off-the-shelf reward models for image-generation reinforcement learning. Instead of asking the",
-      "url": "https://arxiv.org/abs/2607.11886v1"
+      "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+      "date": "2026-07-14",
+      "id": "2607.13034v1",
+      "abstract": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont",
+      "url": "https://arxiv.org/abs/2607.13034v1"
     },
     {
-      "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-      "date": "2026-07-13",
-      "id": "2607.11885v1",
-      "abstract": "Generating and editing a person's face demands high precision, as even minor modifications can significantly alter a subject's perceived identity. Current personalization and editing methods built on ",
-      "url": "https://arxiv.org/abs/2607.11885v1"
+      "title": "DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation",
+      "date": "2026-07-14",
+      "id": "2607.13033v1",
+      "abstract": "Reinforcement learning holds great promise for improving robot policies beyond the limits of imitation learning. However, its practical adoption remains bottlenecked by the lack of reliable vision-lan",
+      "url": "https://arxiv.org/abs/2607.13033v1"
     },
     {
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-      "date": "2026-07-13",
-      "id": "2607.11881v1",
-      "abstract": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni",
-      "url": "https://arxiv.org/abs/2607.11881v1"
+      "title": "The Seriality Gap in Video Diffusion Models",
+      "date": "2026-07-14",
+      "id": "2607.13031v1",
+      "abstract": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ",
+      "url": "https://arxiv.org/abs/2607.13031v1"
     },
     {
-      "title": "HandPad: A Bimanual Hand Interface for Fluid Window Interactions in VR",
-      "date": "2026-07-13",
-      "id": "2607.11807v1",
-      "abstract": "Virtual Reality (VR) offers potential for productivity work by creating expansive displays anywhere, yet current systems often rely on external input devices that limit the on-the-go use of mobile VR.",
-      "url": "https://arxiv.org/abs/2607.11807v1"
+      "title": "MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality",
+      "date": "2026-07-14",
+      "id": "2607.12965v1",
+      "abstract": "Reliable autonomous navigation in unstructured off-road environments remains a critical unsolved challenge due to extreme terrain diversity, drastic illumination variations and acute sensor degradatio",
+      "url": "https://arxiv.org/abs/2607.12965v1"
     },
     {
-      "title": "Universal scalings and switching entropy in yield-stress fluids",
-      "date": "2026-07-13",
-      "id": "2607.11799v1",
-      "abstract": "Yield-stress fluids undergo a singular solid-to-liquid transition at a critical stress threshold. While conventionally investigated under steady shear, large-amplitude oscillatory tests force these ma",
-      "url": "https://arxiv.org/abs/2607.11799v1"
+      "title": "Hy-Embodied-VLM-1.0: Efficient Physical-World Agents",
+      "date": "2026-07-14",
+      "id": "2607.12894v1",
+      "abstract": "Building capable embodied agents requires not only multimodal perception and understanding, but also agentic capabilities for reasoning about actions, adapting to evolving situations, and interacting ",
+      "url": "https://arxiv.org/abs/2607.12894v1"
     },
     {
-      "title": "Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems",
-      "date": "2026-07-13",
-      "id": "2607.11792v1",
-      "abstract": "Automatic speech recognition (ASR) has become a critical component of modern robotic systems because it is one of the most natural and intuitive ways for humans to interact with robots. A commonly use",
-      "url": "https://arxiv.org/abs/2607.11792v1"
+      "title": "Unveiling Complex Collective Behaviors from Simple Rewards",
+      "date": "2026-07-14",
+      "id": "2607.12861v1",
+      "abstract": "Multi-agent Reinforcement Learning (MARL) holds great potential for robot swarms, but the black-box nature of neural policies complicates strategic analysis, limiting multi-robot applications. Further",
+      "url": "https://arxiv.org/abs/2607.12861v1"
     },
     {
-      "title": "Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation",
-      "date": "2026-07-13",
-      "id": "2607.11884v1",
-      "abstract": "Robotic manipulation is inherently multi-frame: local actions may be simple in an end-effector frame, while transport, upright-object handling, and whole-body coordination are better represented in a ",
-      "url": "https://arxiv.org/abs/2607.11884v1"
+      "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+      "date": "2026-07-14",
+      "id": "2607.13028v1",
+      "abstract": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse eno",
+      "url": "https://arxiv.org/abs/2607.13028v1"
     },
     {
-      "title": "Optimal Parameter-Free First-Order Methods for Convex Optimization with Unknown Growth and Smoothness",
-      "date": "2026-07-13",
-      "id": "2607.11878v1",
-      "abstract": "We study deterministic first-order minimization of a convex function without prior knowledge of the objective's growth, smoothness regime, or associated parameters. We develop anytime, parameter-free ",
-      "url": "https://arxiv.org/abs/2607.11878v1"
+      "title": "Non-intrusive MEMS microphone sensing of acoustic field state in resonant acoustic levitators",
+      "date": "2026-07-14",
+      "id": "2607.13026v1",
+      "abstract": "Reliable operation of resonant acoustic levitators requires knowledge of the acoustic field state because the optimum transducer-reflector distance and resonant operating condition shift with waveleng",
+      "url": "https://arxiv.org/abs/2607.13026v1"
     },
     {
-      "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
-      "date": "2026-07-13",
-      "id": "2607.11874v1",
-      "abstract": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the",
-      "url": "https://arxiv.org/abs/2607.11874v1"
+      "title": "Breaking Déjà Vu: Independent Auditing of Visual Place Recognition through Vision-Language Reasoning",
+      "date": "2026-07-14",
+      "id": "2607.12818v1",
+      "abstract": "Visual place recognition (VPR) is a key enabler of accurate localization and long-term autonomous navigation in robotics applications, such as loop closure detection for simultaneous localisation and ",
+      "url": "https://arxiv.org/abs/2607.12818v1"
     },
     {
-      "title": "Signatures of $10-10^4\\,{\\rm M}_{\\odot}$ Dark Matter halos in LISA via Stochastic Diffraction",
-      "date": "2026-07-13",
-      "id": "2607.11887v1",
-      "abstract": "Cold Dark Matter predicts a population of low-mass halos which are sensitive to its fundamental nature and the primordial power spectrum, yet remain undetected. Although elusive, their discovery may b",
-      "url": "https://arxiv.org/abs/2607.11887v1"
+      "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+      "date": "2026-07-14",
+      "id": "2607.13017v1",
+      "abstract": "World Action Models (WAMs) are able to leverage pretrained video generators for both world modeling and action prediction. However, directly leveraging such video generators for control raises a new c",
+      "url": "https://arxiv.org/abs/2607.13017v1"
     },
     {
-      "title": "Robust bipedal locomotion on flowable slopes via foot-driven terrain manipulation",
-      "date": "2026-07-13",
-      "id": "2607.11855v1",
-      "abstract": "Bipedal robots are challenging to control because they operate close to instability, where small variations in foot-terrain contact can rapidly destabilize locomotion. On rigid terrain, bipedal robots",
-      "url": "https://arxiv.org/abs/2607.11855v1"
+      "title": "ChunkFlow: Towards Continuity-Consistent Chunked Policy Learning",
+      "date": "2026-07-14",
+      "id": "2607.12992v1",
+      "abstract": "Vision-language action (VLA) models increasingly adopt chunked action heads to satisfy real-time constraints; however, this introduces boundary jitter: overlapping regions between consecutive chunks o",
+      "url": "https://arxiv.org/abs/2607.12992v1"
     },
     {
-      "title": "Technical Report on the CVPR 2026@AdvML Workshop Challenge",
-      "date": "2026-07-13",
-      "id": "2607.11560v1",
-      "abstract": "Vision-language agents (VLAs) are increasingly used to interpret complex driving scenes and support safety-critical reasoning. This report presents the CVPR 2026@AdvML Workshop Challenge on adversaria",
-      "url": "https://arxiv.org/abs/2607.11560v1"
+      "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "date": "2026-07-14",
+      "id": "2607.13027v1",
+      "abstract": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys",
+      "url": "https://arxiv.org/abs/2607.13027v1"
     },
     {
-      "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
-      "date": "2026-07-13",
-      "id": "2607.11883v1",
-      "abstract": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functio",
-      "url": "https://arxiv.org/abs/2607.11883v1"
+      "title": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation",
+      "date": "2026-07-14",
+      "id": "2607.12986v1",
+      "abstract": "Plan evaluators can reward a strategic plan for becoming less explicit. This paper studies that failure in a staged expected-value scorer for LLM-generated venture routes. Proposition 1 gives the scor",
+      "url": "https://arxiv.org/abs/2607.12986v1"
     },
     {
-      "title": "Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias",
-      "date": "2026-07-13",
-      "id": "2607.11871v1",
-      "abstract": "Existing studies of LLM-as-judge scoring bias work predominantly at the input-output level: they perturb inputs, measure score deltas, and propose prompt-level mitigations. We argue that the same bias",
-      "url": "https://arxiv.org/abs/2607.11871v1"
+      "title": "Online Control via Counterfactual Tracking",
+      "date": "2026-07-14",
+      "id": "2607.13029v1",
+      "abstract": "We develop a method for online control that competes with general classes of causal policies, beyond the linear-controller classes used by most existing algorithms. Over a horizon of \\(T\\) rounds, we ",
+      "url": "https://arxiv.org/abs/2607.13029v1"
     },
     {
-      "title": "Direct Measurement of Diffusion Coefficients: Evidence for Diffusive Stochastic Heating in Collisionless Plasmas",
-      "date": "2026-07-13",
-      "id": "2607.11880v1",
-      "abstract": "Open questions in collisionless plasma dissipation can be addressed using space-based observations in different astrophysical environments, with implications for both astrophysical and laboratory plas",
-      "url": "https://arxiv.org/abs/2607.11880v1"
+      "title": "DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology",
+      "date": "2026-07-14",
+      "id": "2607.13010v1",
+      "abstract": "Dermatological practice routinely involves measuring and tracking lesion size, morphology and texture, as critical components of wound or skin cancer screening, monitoring and diagnosis. To accomplish",
+      "url": "https://arxiv.org/abs/2607.13010v1"
     },
     {
-      "title": "Slow is fast: raising barriers to accelerate thermal relaxation",
-      "date": "2026-07-13",
-      "id": "2607.11877v1",
-      "abstract": "For a reversible system relaxing to equilibrium, the obvious fastest strategy is to lower all kinetic barriers (open all gates). We find that such intuition holds at three levels: the all-open-gate st",
-      "url": "https://arxiv.org/abs/2607.11877v1"
+      "title": "The Balanced Four-Color Theorem",
+      "date": "2026-07-14",
+      "id": "2607.13025v1",
+      "abstract": "We show that every planar graph with $n \\geq 3$ vertices admits a 4-coloring in which each color is used on fewer than $n/2$ vertices. This bound is the best possible. Moreover, such a coloring can be",
+      "url": "https://arxiv.org/abs/2607.13025v1"
     },
     {
-      "title": "Paraparticles intrinsically exhibit Hardy-space breakdown",
-      "date": "2026-07-13",
-      "id": "2607.11867v1",
-      "abstract": "The memory kernel of an open quantum system obeys Kramers--Kronig (KK) relations if and only if its Laplace transform is analytic in the upper half-plane -- a property known as Hardy-space analyticity",
-      "url": "https://arxiv.org/abs/2607.11867v1"
+      "title": "Testing the Independent Set Property in Hypergraphs",
+      "date": "2026-07-14",
+      "id": "2607.13011v1",
+      "abstract": "The optimal sample complexity of testing if an $n$-vertex graph has an independent set of size $ρn$, or is $\\varepsilon$-far from having an independent set of size $ρn$, was established to be $\\wideti",
+      "url": "https://arxiv.org/abs/2607.13011v1"
     },
     {
-      "title": "Need for Speed Sort: A Recursive Distribution-Based Sorting Algorithm",
-      "date": "2026-07-13",
-      "id": "2607.11850v1",
-      "abstract": "We present Need for Speed Sort (NFS Sort), a recursive distribution-based sorting algorithm designed for numeric arrays. The algorithm partitions elements into equal-width value intervals, recursively",
-      "url": "https://arxiv.org/abs/2607.11850v1"
-    },
-    {
-      "title": "HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment",
-      "date": "2026-07-13",
-      "id": "2607.11838v1",
-      "abstract": "When a large disaster strikes, responders need a map of which buildings are damaged within hours. The models that do well on public benchmarks assume matched before-and-after imagery and a training se",
-      "url": "https://arxiv.org/abs/2607.11838v1"
-    },
-    {
-      "title": "Decision problem for Hamilton $2$-cycles in $4$-graphs",
-      "date": "2026-07-13",
-      "id": "2607.11872v1",
-      "abstract": "A $4$-uniform $2$-cycle in a $4$-uniform hypergraph of length $t$ is a cyclic ordering of $2t$ vertices $v_1v_2\\cdots v_{2t}v_1$ such that $v_{2i+1}v_{2i+2}v_{2i+3}v_{2i+4}$ are edges for $0\\le i\\le t",
-      "url": "https://arxiv.org/abs/2607.11872v1"
-    },
-    {
-      "title": "Magnitude homology of tope graphs",
-      "date": "2026-07-13",
-      "id": "2607.11863v1",
-      "abstract": "We completely determine the magnitude homology of tope graphs of real hyperplane arrangements. Their ranks can be described as the Hilbert functions of the Stanley--Reisner rings of certain simplicial",
-      "url": "https://arxiv.org/abs/2607.11863v1"
+      "title": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras",
+      "date": "2026-07-14",
+      "id": "2607.12993v1",
+      "abstract": "We present X-lens, a compact feed-forward model for metric depth estimation from a variable number of calibrated fisheye and pinhole views. To support real-time downstream perception, X-lens is built ",
+      "url": "https://arxiv.org/abs/2607.12993v1"
     }
   ]
 }
