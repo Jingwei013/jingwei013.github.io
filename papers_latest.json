@@ -1,161 +1,119 @@
 {
-  "updated": "2026-07-16 03:54 UTC",
-  "total": 22,
+  "updated": "2026-07-17 03:54 UTC",
+  "total": 16,
   "today_count": 0,
   "papers": [
     {
-      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
-      "date": "2026-07-15",
-      "id": "2607.14088v1",
-      "abstract": "Video generative models commonly rely on latent spaces learned by 3D Variational Autoencoders (3D-VAEs). However, conventional 3D-VAEs are mainly optimized for pixel-level reconstruction, which can li",
-      "url": "https://arxiv.org/abs/2607.14088v1"
+      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+      "date": "2026-07-16",
+      "id": "2607.15278v1",
+      "abstract": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bi",
+      "url": "https://arxiv.org/abs/2607.15278v1"
     },
     {
-      "title": "Leveraging unlabelled data for generalizable neural population decoding",
-      "date": "2026-07-15",
-      "id": "2607.14086v1",
-      "abstract": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve",
-      "url": "https://arxiv.org/abs/2607.14086v1"
+      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "date": "2026-07-16",
+      "id": "2607.15277v1",
+      "abstract": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
+      "url": "https://arxiv.org/abs/2607.15277v1"
     },
     {
-      "title": "Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256",
-      "date": "2026-07-15",
-      "id": "2607.14082v1",
-      "abstract": "Large language models are increasingly assisting with demanding formal theorem-proving tasks, particularly when grounded in machine-checked libraries such as Lean. Agentic systems further amplify this",
-      "url": "https://arxiv.org/abs/2607.14082v1"
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "date": "2026-07-16",
+      "id": "2607.15275v1",
+      "abstract": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
+      "url": "https://arxiv.org/abs/2607.15275v1"
     },
     {
-      "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
-      "date": "2026-07-15",
-      "id": "2607.14018v1",
-      "abstract": "We investigate how each component of the Transformer feedforward block architecture design determines how much rank survives across depth at initialization. We reinterpret skip connections and normali",
-      "url": "https://arxiv.org/abs/2607.14018v1"
+      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "date": "2026-07-16",
+      "id": "2607.15263v1",
+      "abstract": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio",
+      "url": "https://arxiv.org/abs/2607.15263v1"
     },
     {
-      "title": "AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors",
-      "date": "2026-07-15",
-      "id": "2607.14009v1",
-      "abstract": "We present AeroMap3D, a monocular 6-DoF UAV localization system that anchors onboard imagery to visual, geometric, and semantic map priors for GNSS-denied navigation. AeroMap3D addresses two fundament",
-      "url": "https://arxiv.org/abs/2607.14009v1"
+      "title": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
+      "date": "2026-07-16",
+      "id": "2607.15218v1",
+      "abstract": "Large language models (LLMs) increasingly serve as high-level planners for embodied agents, where linguistically benign instructions can become unsafe once grounded in the physical world. We study whe",
+      "url": "https://arxiv.org/abs/2607.15218v1"
     },
     {
-      "title": "The Dynamic Verifiable Multi-Agent Human Agentic Loyalty Loop (DVM-HALL) Model and the Net Human-Agent Score (NHAS) in Autonomous Commerce",
-      "date": "2026-07-15",
-      "id": "2607.13998v1",
-      "abstract": "The rapid proliferation of Agentic Artificial Intelligence fundamentally disrupts traditional customer loyalty paradigms. As AI evolves from passive recommendation algorithms to autonomous, goal-direc",
-      "url": "https://arxiv.org/abs/2607.13998v1"
+      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "date": "2026-07-16",
+      "id": "2607.15273v1",
+      "abstract": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power",
+      "url": "https://arxiv.org/abs/2607.15273v1"
     },
     {
-      "title": "Investigating anomalous microwave emission near G107.2+5.20 in Ku-band with the Green Bank Telescope",
-      "date": "2026-07-15",
-      "id": "2607.14084v1",
-      "abstract": "Anomalous microwave emission (AME) is 30 GHz-peaking continuum emission thought to arise from spinning dust grains. Observations suggest that the local environment shapes the AME spectral energy distr",
-      "url": "https://arxiv.org/abs/2607.14084v1"
+      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+      "date": "2026-07-16",
+      "id": "2607.15265v1",
+      "abstract": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instanc",
+      "url": "https://arxiv.org/abs/2607.15265v1"
     },
     {
-      "title": "Benchmarking trigonometric continuous-variable gate primitives with trapped ions",
-      "date": "2026-07-15",
-      "id": "2607.14085v1",
-      "abstract": "Hybrid continuous-discrete-variable quantum processors can represent bosonic degrees of freedom directly in oscillator modes, or qumodes, while using qubits for control, readout, and nonlinear operati",
-      "url": "https://arxiv.org/abs/2607.14085v1"
+      "title": "Particle production from bubble collisions",
+      "date": "2026-07-16",
+      "id": "2607.15279v1",
+      "abstract": "Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell de",
+      "url": "https://arxiv.org/abs/2607.15279v1"
     },
     {
-      "title": "PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections",
-      "date": "2026-07-15",
-      "id": "2607.14047v1",
-      "abstract": "Autonomous data collection governs the volume and quality of real-world trajectories for manipulation policy learning. Existing pipelines reduce human effort via self-resetting, VLM verification, or l",
-      "url": "https://arxiv.org/abs/2607.14047v1"
+      "title": "Navigating the Socio-Technical Complexity Challenge in Quantum Software Ecosystems",
+      "date": "2026-07-16",
+      "id": "2607.15135v1",
+      "abstract": "Quantum computing environments are composed of heterogeneous layers spanning hardware, software development kits, and applications. Practitioners curating these environments face a fragmented and rapi",
+      "url": "https://arxiv.org/abs/2607.15135v1"
     },
     {
-      "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
-      "date": "2026-07-15",
-      "id": "2607.14046v1",
-      "abstract": "This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-A",
-      "url": "https://arxiv.org/abs/2607.14046v1"
+      "title": "Catalytic Crosstalk: Cooperative Enzyme Dynamics in Artificial Crowded Environments",
+      "date": "2026-07-16",
+      "id": "2607.15234v1",
+      "abstract": "In cellular environments, enzymes operate under densely crowded conditions that often hinder catalytic efficiency by limiting substrate diffusion and essential conformational dynamics. While reports s",
+      "url": "https://arxiv.org/abs/2607.15234v1"
     },
     {
-      "title": "Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation",
-      "date": "2026-07-15",
-      "id": "2607.14021v1",
-      "abstract": "Dexterous manipulation remains a critical bottleneck in industrial automation; tasks such as cable routing, connector insertion, and precision assembly still rely heavily on manual labor despite decad",
-      "url": "https://arxiv.org/abs/2607.14021v1"
+      "title": "Integrated Discovery and State-Aware Servicing for Mobile AUVs With UOWC: Modeling and Performance Analysis",
+      "date": "2026-07-16",
+      "id": "2607.15183v1",
+      "abstract": "Underwater wireless optical communication (UWOC) is an enabling technology for high-throughput subsea networks, yet its long-term deployment is constrained by the finite energy budget of underwater no",
+      "url": "https://arxiv.org/abs/2607.15183v1"
     },
     {
-      "title": "S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving",
-      "date": "2026-07-15",
-      "id": "2607.13926v1",
-      "abstract": "Vision-Language Models (VLMs) have demonstrated remarkable potential for high-level reasoning in autonomous driving, yet they fundamentally struggle to generate precise, low-level control actions. Thi",
-      "url": "https://arxiv.org/abs/2607.13926v1"
+      "title": "Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults",
+      "date": "2026-07-16",
+      "id": "2607.15156v1",
+      "abstract": "Frailty assessments are crucial to evaluate the risk of adverse events and the health and social care needs of older adults, yet their administration remains resource-intensive and typically relies on",
+      "url": "https://arxiv.org/abs/2607.15156v1"
     },
     {
-      "title": "Learning Robust Execution in Robotic Manipulation with Agentic Reinforcement Learning",
-      "date": "2026-07-15",
-      "id": "2607.13818v1",
-      "abstract": "Robotic manipulation poses fundamental challenges due to uncertainty, long-horizon execution, and compounding errors, which can easily destabilize execution and lead to task failure. Although recent v",
-      "url": "https://arxiv.org/abs/2607.13818v1"
+      "title": "Single-component twisted $\\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid",
+      "date": "2026-07-16",
+      "id": "2607.15274v1",
+      "abstract": "We propose an unconventional metallic phase emerging on doping the $1/3$ Fractional Chern insulator, which can serve as a parent state to anyon superconductivity with arbitrary chiral central charge. ",
+      "url": "https://arxiv.org/abs/2607.15274v1"
     },
     {
-      "title": "Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation",
-      "date": "2026-07-15",
-      "id": "2607.13653v1",
-      "abstract": "Real-world deployment of embodied agents requires active exploration, visual grounding, and interactive intent disambiguation. However, existing frameworks often rely on privileged simulator states or",
-      "url": "https://arxiv.org/abs/2607.13653v1"
+      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+      "date": "2026-07-16",
+      "id": "2607.15267v1",
+      "abstract": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources suc",
+      "url": "https://arxiv.org/abs/2607.15267v1"
     },
     {
-      "title": "VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair",
-      "date": "2026-07-15",
-      "id": "2607.14075v1",
-      "abstract": "Automated Program Repair (APR) has witnessed significant progress with the advent of Large Language Models (LLMs). However, as modern software systems increasingly expose rich graphical user interface",
-      "url": "https://arxiv.org/abs/2607.14075v1"
+      "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+      "date": "2026-07-16",
+      "id": "2607.15271v1",
+      "abstract": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating un",
+      "url": "https://arxiv.org/abs/2607.15271v1"
     },
     {
-      "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
-      "date": "2026-07-15",
-      "id": "2607.14051v1",
-      "abstract": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe",
-      "url": "https://arxiv.org/abs/2607.14051v1"
-    },
-    {
-      "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
-      "date": "2026-07-15",
-      "id": "2607.14049v1",
-      "abstract": "The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current intera",
-      "url": "https://arxiv.org/abs/2607.14049v1"
-    },
-    {
-      "title": "Open surfaces with a triangle at infinity",
-      "date": "2026-07-15",
-      "id": "2607.14055v1",
-      "abstract": "A triangle surface is an open algebraic surface completed by a triangle of contractible $(-1)$-curves. We establish a combinatorial description of their completions. We also show that affine triangle ",
-      "url": "https://arxiv.org/abs/2607.14055v1"
-    },
-    {
-      "title": "Early Adoption of Agentic Coding Tools by GitHub Projects",
-      "date": "2026-07-15",
-      "id": "2607.14037v1",
-      "abstract": "Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While p",
-      "url": "https://arxiv.org/abs/2607.14037v1"
-    },
-    {
-      "title": "Recovery of Schrödinger nonlinearity from the large-data scattering behavior",
-      "date": "2026-07-15",
-      "id": "2607.14080v1",
-      "abstract": "In this article, we study scattering and inverse scattering problems for 3D nonlinear Schrödinger equations of the form, $$ \\mathrm{i}\\partial_t u + Δu = a(x)|u|^2u.$$ For $a(x)$ in a suitable class, ",
-      "url": "https://arxiv.org/abs/2607.14080v1"
-    },
-    {
-      "title": "Quantum Transport and Apparent Work Function Distributions of Atomic Contacts via a 3D-Printed High-Vacuum Platform",
-      "date": "2026-07-15",
-      "id": "2607.14074v1",
-      "abstract": "We present a low-cost, 3D-printed high-vacuum platform integrating a mechanically controllable break-junction system and a custom logarithmic amplifier for room-temperature quantum transport measureme",
-      "url": "https://arxiv.org/abs/2607.14074v1"
-    },
-    {
-      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
-      "date": "2026-07-15",
-      "id": "2607.14076v1",
-      "abstract": "Building interactive worlds that respond coherently to player actions has long been a shared goal of computer graphics, games, and artificial intelligence. Recent video generative models provide a dat",
-      "url": "https://arxiv.org/abs/2607.14076v1"
+      "title": "A Census of New Snake-in-the-Box Records",
+      "date": "2026-07-16",
+      "id": "2607.15270v1",
+      "abstract": "The snake-in-the-box problem, introduced by Kautz in 1958, asks for the longest induced (chordless) path, called a snake, in the hypercube graph $Q_n$. The maximum length $a(n)$ is known in each dimen",
+      "url": "https://arxiv.org/abs/2607.15270v1"
     }
   ]
 }
