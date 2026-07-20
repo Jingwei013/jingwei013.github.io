@@ -1,119 +1,70 @@
 {
-  "updated": "2026-07-19 04:16 UTC",
-  "total": 16,
+  "updated": "2026-07-20 04:29 UTC",
+  "total": 9,
   "today_count": 0,
   "papers": [
     {
-      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
-      "date": "2026-07-16",
-      "id": "2607.15278v1",
-      "abstract": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bi",
-      "url": "https://arxiv.org/abs/2607.15278v1"
+      "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+      "date": "2026-07-17",
+      "id": "2607.16193v1",
+      "abstract": "Multimodal large language models have achieved strong performance across diverse vision-language tasks, yet their capabilities in UAV scenarios remain insufficiently explored. Recent UAV-oriented benc",
+      "url": "https://arxiv.org/abs/2607.16193v1"
     },
     {
-      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "date": "2026-07-16",
-      "id": "2607.15277v1",
-      "abstract": "In-context learning is commonly interpreted as a form of conditional inference, in which the prompt specifies a context and the model's output is treated as an estimate of the corresponding conditiona",
-      "url": "https://arxiv.org/abs/2607.15277v1"
+      "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+      "date": "2026-07-17",
+      "id": "2607.16192v1",
+      "abstract": "Humans can infer how objects are likely to move from passive observation: a cup may be lifted, a drawer may slide, and a lid may rotate shut. Such predictions expose the physical consequences of inter",
+      "url": "https://arxiv.org/abs/2607.16192v1"
     },
     {
-      "title": "RoboTTT: Context Scaling for Robot Policies",
-      "date": "2026-07-16",
-      "id": "2607.15275v1",
-      "abstract": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu",
-      "url": "https://arxiv.org/abs/2607.15275v1"
+      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+      "date": "2026-07-17",
+      "id": "2607.16190v1",
+      "abstract": "Video Diffusion Transformers process long spatio-temporal sequences, making self-attention the main bottleneck in high-resolution video generation. Training-free sparse attention reduces this cost, bu",
+      "url": "https://arxiv.org/abs/2607.16190v1"
     },
     {
-      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
-      "date": "2026-07-16",
-      "id": "2607.15263v1",
-      "abstract": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completio",
-      "url": "https://arxiv.org/abs/2607.15263v1"
+      "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
+      "date": "2026-07-17",
+      "id": "2607.16189v1",
+      "abstract": "Grounded long-video question answering (Grounded LVQA) requires answering a question about a long video while localizing the short evidence interval that supports the answer. Recent agentic methods fr",
+      "url": "https://arxiv.org/abs/2607.16189v1"
     },
     {
-      "title": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
-      "date": "2026-07-16",
-      "id": "2607.15218v1",
-      "abstract": "Large language models (LLMs) increasingly serve as high-level planners for embodied agents, where linguistically benign instructions can become unsafe once grounded in the physical world. We study whe",
-      "url": "https://arxiv.org/abs/2607.15218v1"
+      "title": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
+      "date": "2026-07-17",
+      "id": "2607.16191v1",
+      "abstract": "Interactions between dark matter and dark energy can lead to an apparent phantom-crossing behavior that mimics the expansion history preferred by the latest cosmological observations from DESI baryon ",
+      "url": "https://arxiv.org/abs/2607.16191v1"
     },
     {
-      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-      "date": "2026-07-16",
-      "id": "2607.15273v1",
-      "abstract": "MeanFlow generators achieve fast few-step sampling by predicting average velocities over time intervals, making them attractive for efficient generation. Reinforcement learning (RL) has become a power",
-      "url": "https://arxiv.org/abs/2607.15273v1"
+      "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+      "date": "2026-07-17",
+      "id": "2607.16184v1",
+      "abstract": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe",
+      "url": "https://arxiv.org/abs/2607.16184v1"
     },
     {
-      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
-      "date": "2026-07-16",
-      "id": "2607.15265v1",
-      "abstract": "We present SceneBind, an omni-modal representation of realistic scenes with joint semantic and 3D spatial understanding across vision, audio and language. Existing omni-modal encoders excel at instanc",
-      "url": "https://arxiv.org/abs/2607.15265v1"
+      "title": "Handroid: Bridging Dexterous Hand and Humanoid",
+      "date": "2026-07-17",
+      "id": "2607.16187v1",
+      "abstract": "Dexterous hands and humanoid robots are typically developed as distinct embodiments: the former enable contact-rich manipulation at the object scale, whereas the latter provide mobility and whole-body",
+      "url": "https://arxiv.org/abs/2607.16187v1"
     },
     {
-      "title": "Particle production from bubble collisions",
-      "date": "2026-07-16",
-      "id": "2607.15279v1",
-      "abstract": "Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell de",
-      "url": "https://arxiv.org/abs/2607.15279v1"
+      "title": "Atomistic mechanism of corrosion-induced grain boundary migration in NiCr alloys in molten FLiNaK",
+      "date": "2026-07-17",
+      "id": "2607.16167v1",
+      "abstract": "Corrosion of Ni-Cr structural alloys in molten fluoride salts is a persistent material degradation problem, yet the atomistic role of grain boundaries in this process remains poorly understood. Here w",
+      "url": "https://arxiv.org/abs/2607.16167v1"
     },
     {
-      "title": "Navigating the Socio-Technical Complexity Challenge in Quantum Software Ecosystems",
-      "date": "2026-07-16",
-      "id": "2607.15135v1",
-      "abstract": "Quantum computing environments are composed of heterogeneous layers spanning hardware, software development kits, and applications. Practitioners curating these environments face a fragmented and rapi",
-      "url": "https://arxiv.org/abs/2607.15135v1"
-    },
-    {
-      "title": "Catalytic Crosstalk: Cooperative Enzyme Dynamics in Artificial Crowded Environments",
-      "date": "2026-07-16",
-      "id": "2607.15234v1",
-      "abstract": "In cellular environments, enzymes operate under densely crowded conditions that often hinder catalytic efficiency by limiting substrate diffusion and essential conformational dynamics. While reports s",
-      "url": "https://arxiv.org/abs/2607.15234v1"
-    },
-    {
-      "title": "Integrated Discovery and State-Aware Servicing for Mobile AUVs With UOWC: Modeling and Performance Analysis",
-      "date": "2026-07-16",
-      "id": "2607.15183v1",
-      "abstract": "Underwater wireless optical communication (UWOC) is an enabling technology for high-throughput subsea networks, yet its long-term deployment is constrained by the finite energy budget of underwater no",
-      "url": "https://arxiv.org/abs/2607.15183v1"
-    },
-    {
-      "title": "Assessing Physical Frailty and Fall-Risk Indicators with Social Robots: An in situ Evaluation with Older Adults",
-      "date": "2026-07-16",
-      "id": "2607.15156v1",
-      "abstract": "Frailty assessments are crucial to evaluate the risk of adverse events and the health and social care needs of older adults, yet their administration remains resource-intensive and typically relies on",
-      "url": "https://arxiv.org/abs/2607.15156v1"
-    },
-    {
-      "title": "Single-component twisted $\\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid",
-      "date": "2026-07-16",
-      "id": "2607.15274v1",
-      "abstract": "We propose an unconventional metallic phase emerging on doping the $1/3$ Fractional Chern insulator, which can serve as a parent state to anyon superconductivity with arbitrary chiral central charge. ",
-      "url": "https://arxiv.org/abs/2607.15274v1"
-    },
-    {
-      "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
-      "date": "2026-07-16",
-      "id": "2607.15267v1",
-      "abstract": "Poisoning pretraining data can introduce harmful behaviors to LMs that are difficult to detect and mitigate. Prior work on poisoning pretraining data has largely exploited established data sources suc",
-      "url": "https://arxiv.org/abs/2607.15267v1"
-    },
-    {
-      "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
-      "date": "2026-07-16",
-      "id": "2607.15271v1",
-      "abstract": "Online novel view synthesis from multi-view streaming videos faces a fundamental trade-off: maintaining a persistent, long-horizon memory to reconstruct temporarily occluded regions while operating un",
-      "url": "https://arxiv.org/abs/2607.15271v1"
-    },
-    {
-      "title": "A Census of New Snake-in-the-Box Records",
-      "date": "2026-07-16",
-      "id": "2607.15270v1",
-      "abstract": "The snake-in-the-box problem, introduced by Kautz in 1958, asks for the longest induced (chordless) path, called a snake, in the hypercube graph $Q_n$. The maximum length $a(n)$ is known in each dimen",
-      "url": "https://arxiv.org/abs/2607.15270v1"
+      "title": "Toward Semantic Communication for Real-time Mobile 3D Reconstruction",
+      "date": "2026-07-17",
+      "id": "2607.16128v1",
+      "abstract": "Real-time mobile 3D reconstruction is fundamental to many emerging applications such as autonomous navigation and digital twin construction, where a moving platform continuously captures an image stre",
+      "url": "https://arxiv.org/abs/2607.16128v1"
     }
   ]
 }
