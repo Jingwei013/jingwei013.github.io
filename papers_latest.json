@@ -1,119 +1,161 @@
 {
-  "updated": "2026-07-22 04:10 UTC",
-  "total": 16,
+  "updated": "2026-07-23 04:08 UTC",
+  "total": 22,
   "today_count": 0,
   "papers": [
     {
-      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
-      "date": "2026-07-21",
-      "id": "2607.19345v1",
-      "abstract": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H",
-      "url": "https://arxiv.org/abs/2607.19345v1"
+      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+      "date": "2026-07-22",
+      "id": "2607.20417v1",
+      "abstract": "3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-",
+      "url": "https://arxiv.org/abs/2607.20417v1"
     },
     {
-      "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
-      "date": "2026-07-21",
-      "id": "2607.19344v1",
-      "abstract": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli",
-      "url": "https://arxiv.org/abs/2607.19344v1"
+      "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+      "date": "2026-07-22",
+      "id": "2607.20410v1",
+      "abstract": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka",
+      "url": "https://arxiv.org/abs/2607.20410v1"
     },
     {
-      "title": "Masked Visual Actions for Unified World Modeling",
-      "date": "2026-07-21",
-      "id": "2607.19343v1",
-      "abstract": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to commun",
-      "url": "https://arxiv.org/abs/2607.19343v1"
+      "title": "Generating Fibonacci Words via the Prefix--Suffix Duplication Operation",
+      "date": "2026-07-22",
+      "id": "2607.20405v1",
+      "abstract": "The finite and infinite Fibonacci words are classical objects in combinatorics on words. Bio-inspired language operations provide a useful tool for studying how finite and infinite words can arise via",
+      "url": "https://arxiv.org/abs/2607.20405v1"
     },
     {
-      "title": "From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs",
-      "date": "2026-07-21",
-      "id": "2607.19306v1",
-      "abstract": "Autonomous flight in cluttered environments requires a robot to build a geometric map of its surroundings and plan safe, dynamically feasible trajectories, all onboard and in real time. Conventional a",
-      "url": "https://arxiv.org/abs/2607.19306v1"
+      "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+      "date": "2026-07-22",
+      "id": "2607.20399v1",
+      "abstract": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilize",
+      "url": "https://arxiv.org/abs/2607.20399v1"
     },
     {
-      "title": "PAGE-RAG: Evidence-Grounded Adaptive Graph Retrieval for Long-Document Question Answering",
-      "date": "2026-07-21",
-      "id": "2607.19301v1",
-      "abstract": "GraphRAG improves long-document question answering by introducing structured representations beyond conventional retrieval. However, automatically constructed graphs are inherently incomplete projecti",
-      "url": "https://arxiv.org/abs/2607.19301v1"
+      "title": "DINS-IO: Learned Inertial Odometry via Differentiable INS Consistency",
+      "date": "2026-07-22",
+      "id": "2607.20232v1",
+      "abstract": "The training of learned inertial odometry depends on dense, high-precision position ground truth from motion capture, visual-inertial odometry or SLAM, which is costly and hard to acquire at scale. We",
+      "url": "https://arxiv.org/abs/2607.20232v1"
     },
     {
-      "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
-      "date": "2026-07-21",
-      "id": "2607.19341v1",
-      "abstract": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus ",
-      "url": "https://arxiv.org/abs/2607.19341v1"
+      "title": "surprisal is Not a Theory",
+      "date": "2026-07-22",
+      "id": "2607.20208v1",
+      "abstract": "Surprisal Theory is often characterized as a computational-level explanation per (Marr, 1982). We argue in this work that, even though a computational level narrative has been used to support \"represe",
+      "url": "https://arxiv.org/abs/2607.20208v1"
     },
     {
-      "title": "No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation",
-      "date": "2026-07-21",
-      "id": "2607.19288v1",
-      "abstract": "Test-time scaling offers a promising method to improve the inference performance of Vision-Language Models (VLMs) without additional training. Existing approaches to vision-language navigation (VLN) f",
-      "url": "https://arxiv.org/abs/2607.19288v1"
+      "title": "PercepCap: Video Captioner with Structured Spatio-Temporal Perception",
+      "date": "2026-07-22",
+      "id": "2607.20389v1",
+      "abstract": "Video captioning requires fine-grained spatio-temporal understanding of videos, including spatial perception of where objects are located and temporal perception of when events occur. Existing MLLMs u",
+      "url": "https://arxiv.org/abs/2607.20389v1"
     },
     {
-      "title": "Design and stability analysis of an underactuated hand with passively rotating fingers",
-      "date": "2026-07-21",
-      "id": "2607.18950v1",
-      "abstract": "This paper presents an innovative design and stability analysis of an underactuated robotic finger with spatial mobility, designed to enhance gripping dexterity in robotic hands. The finger architectu",
-      "url": "https://arxiv.org/abs/2607.18950v1"
+      "title": "Quantum Fisher Information in semiclassical magnon systems",
+      "date": "2026-07-22",
+      "id": "2607.20424v1",
+      "abstract": "Quantum Fisher Information (QFI) is a powerful spectroscopic tool to witness many-body quantum entanglement in solid state materials, but it is not always obvious how to relate it to other characteris",
+      "url": "https://arxiv.org/abs/2607.20424v1"
     },
     {
-      "title": "The Twist Decomposition of Serial Robots Under Lower-Mobility Tasks",
-      "date": "2026-07-21",
-      "id": "2607.18940v1",
-      "abstract": "This paper introduces a twist decomposition framework for serial manipulators performing lower mobility tasks. Rather than relying on Jacobian null-space projections, the method separates the end-effe",
-      "url": "https://arxiv.org/abs/2607.18940v1"
+      "title": "Primordial black holes forming during kination: the trapped, the overdense, and the void",
+      "date": "2026-07-22",
+      "id": "2607.20423v1",
+      "abstract": "We study primordial black-hole (PBH) formation in a single-field model which passes from slow roll, through a transient ultra-slow-roll phase, into kination. Nonlinear numerical-relativity simulations",
+      "url": "https://arxiv.org/abs/2607.20423v1"
     },
     {
-      "title": "Low-Altitude UAV-Assisted Bistatic ISAC: Closed-form 3D CRLB and Coverage Analysis",
-      "date": "2026-07-21",
-      "id": "2607.18766v1",
-      "abstract": "This paper investigates the fundamental performance limits of three-dimensional (3D) localization in unmanned aerial vehicle (UAV)-assisted integrated sensing and communication (ISAC) systems. Specifi",
-      "url": "https://arxiv.org/abs/2607.18766v1"
+      "title": "Stable valleys in the glassy landscape of a low-density parity-check (LDPC) code",
+      "date": "2026-07-22",
+      "id": "2607.20421v1",
+      "abstract": "Classical low-density parity-check (cLDPC) codes defined on expander graphs are a fundamental ingredient in the construction of good quantum LDPC codes, a recent milestone in quantum error correction.",
+      "url": "https://arxiv.org/abs/2607.20421v1"
     },
     {
-      "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
-      "date": "2026-07-21",
-      "id": "2607.19339v1",
-      "abstract": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce O",
-      "url": "https://arxiv.org/abs/2607.19339v1"
+      "title": "OLEDLM: A Unified Language Model for OLED Molecular Design",
+      "date": "2026-07-22",
+      "id": "2607.20194v1",
+      "abstract": "The development of organic light-emitting diode (OLED) materials faces the compounded challenges of an astronomically large chemical space, stringent quantum-chemical constraints, and a scarcity of la",
+      "url": "https://arxiv.org/abs/2607.20194v1"
     },
     {
-      "title": "Agents in the Wild: Where Research Meets Deployment",
-      "date": "2026-07-21",
-      "id": "2607.19336v1",
-      "abstract": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t",
-      "url": "https://arxiv.org/abs/2607.19336v1"
+      "title": "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot",
+      "date": "2026-07-22",
+      "id": "2607.20392v1",
+      "abstract": "Soft robot exteroception is increasingly being explored for a variety of field applications. In this work, we present a sound-based system for localizing disaster victims in confined and unstructured ",
+      "url": "https://arxiv.org/abs/2607.20392v1"
     },
     {
-      "title": "Associative Emotional Learning in Convolutional Neural Networks",
-      "date": "2026-07-21",
-      "id": "2607.19327v1",
-      "abstract": "Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner mode",
-      "url": "https://arxiv.org/abs/2607.19327v1"
+      "title": "Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats",
+      "date": "2026-07-22",
+      "id": "2607.20352v1",
+      "abstract": "Aquatic self-reconfigurable robots must assemble into desired shapes while ensuring safe interactions among multiple agents. This paper proposes a hybrid framework that combines distributed Model Pred",
+      "url": "https://arxiv.org/abs/2607.20352v1"
     },
     {
-      "title": "Eccentricity-Constrained CNN Training Reveals Adaptive Information Coding Around the Visual Field",
-      "date": "2026-07-21",
-      "id": "2607.19316v1",
-      "abstract": "In the primate visual system, center-preferring cortical populations have higher spatial resolution and overlap face- and word-selective regions while periphery-preferring populations have lower spati",
-      "url": "https://arxiv.org/abs/2607.19316v1"
+      "title": "Arnold--Nielsen Geometry for Complexity-Deformed Noncommutative Transport",
+      "date": "2026-07-22",
+      "id": "2607.20388v1",
+      "abstract": "We deform the Carlen--Maas--Wirth framework for noncommutative dynamical optimal transport by an Arnold--Nielsen type complexity operator. A positive state-independent operator $G$ compatible with the",
+      "url": "https://arxiv.org/abs/2607.20388v1"
     },
     {
-      "title": "Bellman-Ford in Almost-Linear Time",
-      "date": "2026-07-21",
-      "id": "2607.19346v1",
-      "abstract": "We consider the single-source shortest paths problem on a directed graph with real-valued (possibly negative) edge weights and solve this problem in $m^{1+o(1)}$ time.",
-      "url": "https://arxiv.org/abs/2607.19346v1"
+      "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+      "date": "2026-07-22",
+      "id": "2607.20345v1",
+      "abstract": "Closing the gap between benchmark performance and reliable real-world operation remains a central challenge for Vision-Language-Action (VLA) humanoid robots, which must handle execution errors, distri",
+      "url": "https://arxiv.org/abs/2607.20345v1"
     },
     {
-      "title": "Improved Strongly Polynomial Work-Span Tradeoffs for Directed Single Source Shortest Paths",
-      "date": "2026-07-21",
-      "id": "2607.19342v1",
-      "abstract": "We revisit the single-source shortest paths (SSSP) problem on directed graphs with nonnegative real weights and give a deterministic parallel algorithm with $O(n^{1+o(1)}t^2 + m^{1+o(1)})$ work and $\\",
-      "url": "https://arxiv.org/abs/2607.19342v1"
+      "title": "MR-Compare: A Mixed-Reality Framework for Spatially Grounded Visual Comparison of 3D Gaussian Splatting and Mesh Reconstructions with the Physical Environment",
+      "date": "2026-07-22",
+      "id": "2607.20325v1",
+      "abstract": "We introduce MR-Compare, a mixed reality framework for spatially grounded visual comparison between 3D Gaussian splatting and mesh reconstructions with live video see-through (VST). Implemented on a P",
+      "url": "https://arxiv.org/abs/2607.20325v1"
+    },
+    {
+      "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
+      "date": "2026-07-22",
+      "id": "2607.20372v1",
+      "abstract": "Humans distill experience into reusable abstractions, e.g., strategies and cautionary reminders, and apply them to gradually solve problems more effectively. We study whether Large Language Models (LL",
+      "url": "https://arxiv.org/abs/2607.20372v1"
+    },
+    {
+      "title": "Optimal Finite-Time Control of Nonreciprocal Brownian Dimers: Thermodynamic Anomaly and Multiple Transitions",
+      "date": "2026-07-22",
+      "id": "2607.20420v1",
+      "abstract": "We solve exactly a finite-time thermodynamic optimal control problem for two nonreciprocally interacting Brownian particles translated by two harmonic traps. The controller manipulates both the center",
+      "url": "https://arxiv.org/abs/2607.20420v1"
+    },
+    {
+      "title": "The road towards precision measurements of $H_0$ with bright sirens in the Einstein Telescope era",
+      "date": "2026-07-22",
+      "id": "2607.20413v1",
+      "abstract": "Gravitational-wave standard sirens provide an independent probe of cosmic expansion since their luminosity distances are inferred directly from the gravitational-wave signal and, for bright sirens (BS",
+      "url": "https://arxiv.org/abs/2607.20413v1"
+    },
+    {
+      "title": "Fermionic pairs, from the surface to the bulk",
+      "date": "2026-07-22",
+      "id": "2607.20412v1",
+      "abstract": "Fermion pairing underlies collective quantum phenomena across widely different forms of matter. In extended systems such as ultracold Fermi gases, pairing is commonly understood through the BCS--BEC c",
+      "url": "https://arxiv.org/abs/2607.20412v1"
+    },
+    {
+      "title": "Split Radiance Cascades: Real-Time Global Illumination via Sparse Radiance Probes",
+      "date": "2026-07-22",
+      "id": "2607.20384v1",
+      "abstract": "Radiance probe methods are a popular and well-tested approach for approximating diffuse global illumination for real-time graphics, but they commonly suffer from a lack of detail due to the large spac",
+      "url": "https://arxiv.org/abs/2607.20384v1"
+    },
+    {
+      "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+      "date": "2026-07-22",
+      "id": "2607.20402v1",
+      "abstract": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evi",
+      "url": "https://arxiv.org/abs/2607.20402v1"
     }
   ]
 }
