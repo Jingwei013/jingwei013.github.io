@@ -1,133 +1,35 @@
 {
-  "updated": "2026-07-26 04:21 UTC",
-  "total": 18,
+  "updated": "2026-07-27 04:35 UTC",
+  "total": 4,
   "today_count": 0,
   "papers": [
     {
-      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-      "date": "2026-07-23",
-      "id": "2607.21595v1",
-      "abstract": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason",
-      "url": "https://arxiv.org/abs/2607.21595v1"
+      "title": "Robot-Factored World Models via Robot Rendering",
+      "date": "2026-07-24",
+      "id": "2607.22535v1",
+      "abstract": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: t",
+      "url": "https://arxiv.org/abs/2607.22535v1"
     },
     {
-      "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
-      "date": "2026-07-23",
-      "id": "2607.21594v1",
-      "abstract": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video ",
-      "url": "https://arxiv.org/abs/2607.21594v1"
+      "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+      "date": "2026-07-24",
+      "id": "2607.22534v1",
+      "abstract": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti",
+      "url": "https://arxiv.org/abs/2607.22534v1"
     },
     {
-      "title": "Unified Video Dense Prediction from Disjoint Data",
-      "date": "2026-07-23",
-      "id": "2607.21592v1",
-      "abstract": "Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets",
-      "url": "https://arxiv.org/abs/2607.21592v1"
+      "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+      "date": "2026-07-24",
+      "id": "2607.22530v1",
+      "abstract": "Contact-rich robot manipulation requires physical interaction cues that are often invisible to cameras, making tactile sensing essential for robust control. However, scaling visuo-tactile robot learni",
+      "url": "https://arxiv.org/abs/2607.22530v1"
     },
     {
-      "title": "Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering",
-      "date": "2026-07-23",
-      "id": "2607.21571v1",
-      "abstract": "Embodied question answering (EQA) is traditionally evaluated under an episodic formulation, where agents solve each task independently and reset internal state between episodes. However, real-world ro",
-      "url": "https://arxiv.org/abs/2607.21571v1"
-    },
-    {
-      "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
-      "date": "2026-07-23",
-      "id": "2607.21522v1",
-      "abstract": "Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fascinating and challenging. Traditional computer graphics methods rely on manual creation, requiring ext",
-      "url": "https://arxiv.org/abs/2607.21522v1"
-    },
-    {
-      "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
-      "date": "2026-07-23",
-      "id": "2607.21488v1",
-      "abstract": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action sp",
-      "url": "https://arxiv.org/abs/2607.21488v1"
-    },
-    {
-      "title": "XMM-Newton and Swift Unveil Another X-Ray Transient in NGC 4945, XMM J130514.64-493311.27",
-      "date": "2026-07-23",
-      "id": "2607.21587v1",
-      "abstract": "NGC 4945 hosts a Compton-thick, low luminosity AGN and a nuclear starburst in its core and has been the subject of many previous X-ray investigations of the AGN emission structure, nuclear starburst p",
-      "url": "https://arxiv.org/abs/2607.21587v1"
-    },
-    {
-      "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
-      "date": "2026-07-23",
-      "id": "2607.21582v1",
-      "abstract": "Compositional generalization is essential for robot to follow diverse instructions. However, pretrained policies are known to take shortcuts, deferring to salient cues rather than grounding language. ",
-      "url": "https://arxiv.org/abs/2607.21582v1"
-    },
-    {
-      "title": "GraphVid: Interactive Graph-Controllable Video Generation",
-      "date": "2026-07-23",
-      "id": "2607.21580v1",
-      "abstract": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem",
-      "url": "https://arxiv.org/abs/2607.21580v1"
-    },
-    {
-      "title": "On the strong coupling limit of Yang-Mills matrix models",
-      "date": "2026-07-23",
-      "id": "2607.21593v1",
-      "abstract": "We study the strong coupling limit of mass deformed Yang--Mills matrix models, with the aim of understanding when the matrices become effectively commuting. The Yang--Mills interaction classically dri",
-      "url": "https://arxiv.org/abs/2607.21593v1"
-    },
-    {
-      "title": "DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV",
-      "date": "2026-07-23",
-      "id": "2607.21438v1",
-      "abstract": "Monocular depth estimation is a fundamental prerequisite for 3D reconstruction and autonomous navigation in Unmanned Aerial Vehicles (UAVs). In practical deployments, UAVs operate under highly dynamic",
-      "url": "https://arxiv.org/abs/2607.21438v1"
-    },
-    {
-      "title": "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
-      "date": "2026-07-23",
-      "id": "2607.21588v1",
-      "abstract": "Learning effective robot manipulation policies requires diverse, high-quality demonstrations, yet existing data pipelines are often difficult to scale because they rely on specialized hardware, centra",
-      "url": "https://arxiv.org/abs/2607.21588v1"
-    },
-    {
-      "title": "Climate-resilient electric vehicle charging infrastructure for sustainable cities: An interpretable causal-ensemble framework for preventive maintenance and low-carbon mobility",
-      "date": "2026-07-23",
-      "id": "2607.21444v1",
-      "abstract": "Reliable electric vehicle (EV) charging infrastructure is a cornerstone of sustainable, low-carbon cities, yet urban climate stress such as extreme heat, heavy precipitation, and humidity increasingly",
-      "url": "https://arxiv.org/abs/2607.21444v1"
-    },
-    {
-      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-      "date": "2026-07-23",
-      "id": "2607.21570v1",
-      "abstract": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an",
-      "url": "https://arxiv.org/abs/2607.21570v1"
-    },
-    {
-      "title": "Where You Tap Matters: A Probe-and-Model Benchmark for Open-Set RF Fingerprinting",
-      "date": "2026-07-23",
-      "id": "2607.21564v1",
-      "abstract": "Radio Frequency Fingerprint Identification (RFFI) enables transmitter identification at the physical layer by learning device-specific impairments from received signals, yet the literature is inconsis",
-      "url": "https://arxiv.org/abs/2607.21564v1"
-    },
-    {
-      "title": "Flow-based Phase-space Tomography of Continuous-variable Quantum States",
-      "date": "2026-07-23",
-      "id": "2607.21584v1",
-      "abstract": "Continuous-variable quantum state tomography is limited by the cost of resolving non-Gaussian structure in high-dimensional phase space. We introduce QST-Flow, a quantum state tomography framework via",
-      "url": "https://arxiv.org/abs/2607.21584v1"
-    },
-    {
-      "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
-      "date": "2026-07-23",
-      "id": "2607.21579v1",
-      "abstract": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is",
-      "url": "https://arxiv.org/abs/2607.21579v1"
-    },
-    {
-      "title": "Expanding Flow Maps",
-      "date": "2026-07-23",
-      "id": "2607.21585v1",
-      "abstract": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d",
-      "url": "https://arxiv.org/abs/2607.21585v1"
+      "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+      "date": "2026-07-24",
+      "id": "2607.22531v1",
+      "abstract": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continu",
+      "url": "https://arxiv.org/abs/2607.22531v1"
     }
   ]
 }
