@@ -1,147 +1,147 @@
 {
-  "updated": "2026-08-04 03:56 UTC",
+  "updated": "2026-08-05 03:52 UTC",
   "total": 20,
   "today_count": 0,
   "papers": [
     {
-      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
-      "date": "2026-08-03",
-      "id": "2608.02603v1",
-      "abstract": "Controllable video generation models are increasingly being developed as world models. Accordingly, evaluating them in this role extends beyond the apparent appearance of generated videos to the inher",
-      "url": "https://arxiv.org/abs/2608.02603v1"
+      "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+      "date": "2026-08-04",
+      "id": "2608.04010v1",
+      "abstract": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead.",
+      "url": "https://arxiv.org/abs/2608.04010v1"
     },
     {
-      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
-      "date": "2026-08-03",
-      "id": "2608.02602v1",
-      "abstract": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. ",
-      "url": "https://arxiv.org/abs/2608.02602v1"
+      "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
+      "date": "2026-08-04",
+      "id": "2608.04009v1",
+      "abstract": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ab",
+      "url": "https://arxiv.org/abs/2608.04009v1"
     },
     {
-      "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
-      "date": "2026-08-03",
-      "id": "2608.02599v1",
-      "abstract": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized application",
-      "url": "https://arxiv.org/abs/2608.02599v1"
+      "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
+      "date": "2026-08-04",
+      "id": "2608.04008v1",
+      "abstract": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend its",
+      "url": "https://arxiv.org/abs/2608.04008v1"
     },
     {
-      "title": "Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data",
-      "date": "2026-08-03",
-      "id": "2608.02580v1",
-      "abstract": "Learning generalizable robot manipulation policies requires large-scale and diverse demonstration data. Egocentric human manipulation videos offer rich scene and task diversity, and prior work has sho",
-      "url": "https://arxiv.org/abs/2608.02580v1"
+      "title": "ETA: A New Agentic Paradigm for Embodied Tasks",
+      "date": "2026-08-04",
+      "id": "2608.03924v1",
+      "abstract": "When will robots have their ChatGPT moment? Such a breakthrough requires a general-purpose robot that can handle unfamiliar tasks in unfamiliar environments, remain controllable over long interactions",
+      "url": "https://arxiv.org/abs/2608.03924v1"
     },
     {
-      "title": "Situation Aware Frontier Prioritization for Quadruped Search and Rescue",
-      "date": "2026-08-03",
-      "id": "2608.02571v1",
-      "abstract": "Quadruped robots are a promising platform for search and rescue missions because they can navigate cluttered indoor environments that may be restrictive for wheeled systems. However, in unknown rescue",
-      "url": "https://arxiv.org/abs/2608.02571v1"
+      "title": "MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning",
+      "date": "2026-08-04",
+      "id": "2608.03882v1",
+      "abstract": "Geospatial reasoning, i.e., computing distances, containment, and other spatial relations over real-world entities, is central to navigation and logistics, yet large language models (LLMs) struggle wi",
+      "url": "https://arxiv.org/abs/2608.03882v1"
     },
     {
-      "title": "Magnetic Skyrmion Interacting with Optical Skyrmion",
-      "date": "2026-08-03",
-      "id": "2608.02552v1",
-      "abstract": "Magnetic skyrmions (MSks) and optical skyrmions (OSks) embody topology in matter and in light, respectively. Here we investigate the interaction between a single MSk and an OSk beam. Three distinct no",
-      "url": "https://arxiv.org/abs/2608.02552v1"
+      "title": "LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation",
+      "date": "2026-08-04",
+      "id": "2608.03851v1",
+      "abstract": "Real-time 3D perception is crucial for robotics, augmented reality, and embodied intelligence applications. Existing multi-view stereo (MVS) methods primarily rely on geometric correspondences, which ",
+      "url": "https://arxiv.org/abs/2608.03851v1"
     },
     {
-      "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
-      "date": "2026-08-03",
-      "id": "2608.02589v1",
-      "abstract": "Captions serve as a primary supervision signal for both multimodal understanding and text-to-image generation. However, previous evaluations treat the caption quality as a single scalar objective, whi",
-      "url": "https://arxiv.org/abs/2608.02589v1"
+      "title": "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education",
+      "date": "2026-08-04",
+      "id": "2608.04006v1",
+      "abstract": "LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technolog",
+      "url": "https://arxiv.org/abs/2608.04006v1"
     },
     {
-      "title": "The Condition-Number Barrier in Sparse Least Squares",
-      "date": "2026-08-03",
-      "id": "2608.02588v1",
-      "abstract": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establis",
-      "url": "https://arxiv.org/abs/2608.02588v1"
+      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+      "date": "2026-08-04",
+      "id": "2608.04001v1",
+      "abstract": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend del",
+      "url": "https://arxiv.org/abs/2608.04001v1"
     },
     {
-      "title": "Safe and robust tube-based path-following for robot navigation",
-      "date": "2026-08-03",
-      "id": "2608.02530v1",
-      "abstract": "In this paper, we propose a new robust navigation framework for path following tasks in robots operating within unknown, cluttered environments. Our approach ensures reactive safety through obstacle a",
-      "url": "https://arxiv.org/abs/2608.02530v1"
+      "title": "Designing and Evaluating Granular Consent for Data Sharing in Cardiac Disease Prevention",
+      "date": "2026-08-04",
+      "id": "2608.03533v1",
+      "abstract": "Dynamic consent can promise end users with greater control, but little is known about how older adults with chronic conditions navigate the tradeoff between control and burden in granular consent mech",
+      "url": "https://arxiv.org/abs/2608.03533v1"
     },
     {
-      "title": "NeuroInspector: A Local-First Environment for Inspecting and Annotating Hierarchical Neuroscience Datasets",
-      "date": "2026-08-03",
-      "id": "2608.02465v1",
-      "abstract": "The growing scale and structural complexity of neuroscience datasets have made dataset inspection an increasingly distinct stage of the research workflow. Existing inspection workflows, however, remai",
-      "url": "https://arxiv.org/abs/2608.02465v1"
+      "title": "Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation",
+      "date": "2026-08-04",
+      "id": "2608.03490v1",
+      "abstract": "3D object detection using light detection and ranging (LiDAR) sensors requires a balance between accuracy and computational efficiency for onboard perception in autonomous driving and robotic navigati",
+      "url": "https://arxiv.org/abs/2608.03490v1"
     },
     {
-      "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
-      "date": "2026-08-03",
-      "id": "2608.02578v1",
-      "abstract": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We ",
-      "url": "https://arxiv.org/abs/2608.02578v1"
+      "title": "Stochastic Multiple Shooting Trajectory Optimization via Sequential Local Policy Evaluation",
+      "date": "2026-08-04",
+      "id": "2608.03978v1",
+      "abstract": "Stochastic single shooting trajectory optimization methods such as Model Predictive Path Integral control (MPPI) have been widely adopted in robotics due to their ability to reason about probabilistic",
+      "url": "https://arxiv.org/abs/2608.03978v1"
     },
     {
-      "title": "Strain engineering of transient exciton diffusion in WSe2 monolayers at cryogenic temperatures",
-      "date": "2026-08-03",
-      "id": "2608.02513v1",
-      "abstract": "Tungsten-based transition metal dichalcogenides exhibit dark excitons as the energetically lowest states. These are crucial for exciton thermalization and propagation and they dominate low-temperature",
-      "url": "https://arxiv.org/abs/2608.02513v1"
+      "title": "Data-Driven Online Slice Admission Control and Resource Allocation in NextG Mobile Networks",
+      "date": "2026-08-04",
+      "id": "2608.03954v1",
+      "abstract": "Virtualization in 5G and beyond networks enables the creation of virtual networks (i.e., network slices) tailored to the needs of different applications. To maximize revenue under limited infrastructu",
+      "url": "https://arxiv.org/abs/2608.03954v1"
     },
     {
-      "title": "Grounded Semantic Re-Binding for Robust Instruction Generalization in Vision-Language-Action Models",
-      "date": "2026-08-03",
-      "id": "2608.02497v1",
-      "abstract": "Vision-Language-Action (VLA) models excel in robotic manipulation but suffer catastrophic performance drops when canonical instructions are simply paraphrased. Although this brittleness is typically a",
-      "url": "https://arxiv.org/abs/2608.02497v1"
+      "title": "Structured-Sparsity-Aware Joint User Activity Detection and Channel Estimation for OTFS-Based Grant-Free Random Access",
+      "date": "2026-08-04",
+      "id": "2608.03896v1",
+      "abstract": "Grant-free random access (GFRA) is a promising solution for massive machine-type communications (mMTC) in future wireless networks. However, reliable user activity detection and channel estimation are",
+      "url": "https://arxiv.org/abs/2608.03896v1"
     },
     {
-      "title": "Age of Information in Non-Terrestrial Networks with Energy Harvesting",
-      "date": "2026-08-03",
-      "id": "2608.02485v1",
-      "abstract": "We analyze the timeliness of status-update delivery in a low Earth orbit (LEO) satellite-assisted energy-harvesting Internet of Things network using the Age of Information (AoI) metric. A ground sourc",
-      "url": "https://arxiv.org/abs/2608.02485v1"
+      "title": "Design and Evaluation of an AI-Enabled Cloud-Edge Architecture for Connected Precision Agriculture Farms",
+      "date": "2026-08-04",
+      "id": "2608.03816v1",
+      "abstract": "Plant diseases cause significant yield losses worldwide, with tomato crops particularly susceptible to early blight, late blight, and leaf mold. Manual monitoring is practical only for small-scale far",
+      "url": "https://arxiv.org/abs/2608.03816v1"
     },
     {
-      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
-      "date": "2026-08-03",
-      "id": "2608.02585v1",
-      "abstract": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, howeve",
-      "url": "https://arxiv.org/abs/2608.02585v1"
+      "title": "Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark",
+      "date": "2026-08-04",
+      "id": "2608.03996v1",
+      "abstract": "We study reduced-order modeling for inverse problems in layered media, focusing on the recovery of impedance profiles from time-domain measurements. Using the Goupillaud structure, we formulate the fo",
+      "url": "https://arxiv.org/abs/2608.03996v1"
     },
     {
-      "title": "ACEM: A Cost Estimation Model for Agentic Software Engineering",
-      "date": "2026-08-03",
-      "id": "2608.02582v1",
-      "abstract": "Traditional software cost estimation models, such as COCOMO II, Function Points, and Story Points, assume that development effort is primarily driven by human labor in design, coding, and testing. Age",
-      "url": "https://arxiv.org/abs/2608.02582v1"
+      "title": "Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models",
+      "date": "2026-08-04",
+      "id": "2608.04002v1",
+      "abstract": "We present Semantic Bundling, a visual analytics technique for making sense of text documents represented as knowledge graphs (KGs). Representing a document corpus as a KG makes relationships between ",
+      "url": "https://arxiv.org/abs/2608.04002v1"
     },
     {
-      "title": "An autonomous Lipschitz fast dynamo on the three-torus",
-      "date": "2026-08-03",
-      "id": "2608.02586v1",
-      "abstract": "We construct a single real-valued, divergence-free, time-independent velocity field $u\\in\\mathrm{W}^{1,\\infty}(\\mathbb{T}^3;\\mathbb{R}^3) $ that is a fast dynamo for the kinematic induction equation o",
-      "url": "https://arxiv.org/abs/2608.02586v1"
+      "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
+      "date": "2026-08-04",
+      "id": "2608.03999v1",
+      "abstract": "Text-to-music language models begin with a choice usually made by default: how to tokenize music. Normally entangled with backbone, data, and recipe, its effect has never been measured in isolation. W",
+      "url": "https://arxiv.org/abs/2608.03999v1"
     },
     {
-      "title": "Nearly tight lower bounds for estimating quantum functionals: Uhlmann fidelity, trace distance, and von Neumann entropy",
-      "date": "2026-08-03",
-      "id": "2608.02600v1",
-      "abstract": "In this paper, we present a unified framework for proving lower bounds for estimating functionals of quantum states. We therefore resolve several open problems by establishing lower bounds that match ",
-      "url": "https://arxiv.org/abs/2608.02600v1"
+      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+      "date": "2026-08-04",
+      "id": "2608.04003v1",
+      "abstract": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain pref",
+      "url": "https://arxiv.org/abs/2608.04003v1"
     },
     {
-      "title": "Optimal Quantum de Finetti Theorems via Argmax Rounding",
-      "date": "2026-08-03",
-      "id": "2608.02590v1",
-      "abstract": "We prove optimal finite quantum de Finetti upper bounds. Given a bosonic state $ρ_N\\in D(\\mathrm{Sym}^N(\\mathbb C^d))$, there is a probability measure $ν$ on the unit sphere such that \\[   \\left\\|   ρ",
-      "url": "https://arxiv.org/abs/2608.02590v1"
+      "title": "Asymptotic classes via definable quotients",
+      "date": "2026-08-04",
+      "id": "2608.03993v1",
+      "abstract": "We study when finite-dimensional asymptoticity transfers through uniform interpretations and definable quotients. Ambient counting yields finitely many asymptotic alternatives, but the corresponding p",
+      "url": "https://arxiv.org/abs/2608.03993v1"
     },
     {
-      "title": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
-      "date": "2026-08-03",
-      "id": "2608.02598v1",
-      "abstract": "Aerial-ground person re-identification is a challenging task due to cross-platform viewpoint variations, which cause severe occlusion and geometric deformation. Existing methods attempt to learn view-",
-      "url": "https://arxiv.org/abs/2608.02598v1"
+      "title": "Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation",
+      "date": "2026-08-04",
+      "id": "2608.03991v1",
+      "abstract": "Training-free open-vocabulary semantic segmentation (OVSS) partitions an image into semantically distinct regions based on arbitrary text descriptions, without learning any additional parameters. Howe",
+      "url": "https://arxiv.org/abs/2608.03991v1"
     }
   ]
 }
