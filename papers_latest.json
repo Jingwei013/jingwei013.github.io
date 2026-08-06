@@ -1,147 +1,140 @@
 {
-  "updated": "2026-08-05 03:52 UTC",
-  "total": 20,
+  "updated": "2026-08-06 03:57 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
-      "date": "2026-08-04",
-      "id": "2608.04010v1",
-      "abstract": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead.",
-      "url": "https://arxiv.org/abs/2608.04010v1"
+      "title": "CoCo-IR: Contextual Composed Image Retrieval",
+      "date": "2026-08-05",
+      "id": "2608.05149v1",
+      "abstract": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this",
+      "url": "https://arxiv.org/abs/2608.05149v1"
     },
     {
-      "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
-      "date": "2026-08-04",
-      "id": "2608.04009v1",
-      "abstract": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ab",
-      "url": "https://arxiv.org/abs/2608.04009v1"
+      "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+      "date": "2026-08-05",
+      "id": "2608.05148v1",
+      "abstract": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection o",
+      "url": "https://arxiv.org/abs/2608.05148v1"
     },
     {
-      "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
-      "date": "2026-08-04",
-      "id": "2608.04008v1",
-      "abstract": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend its",
-      "url": "https://arxiv.org/abs/2608.04008v1"
+      "title": "Objects as Audio-Visual Modal Sound Fields",
+      "date": "2026-08-05",
+      "id": "2608.05145v1",
+      "abstract": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material,",
+      "url": "https://arxiv.org/abs/2608.05145v1"
     },
     {
-      "title": "ETA: A New Agentic Paradigm for Embodied Tasks",
-      "date": "2026-08-04",
-      "id": "2608.03924v1",
-      "abstract": "When will robots have their ChatGPT moment? Such a breakthrough requires a general-purpose robot that can handle unfamiliar tasks in unfamiliar environments, remain controllable over long interactions",
-      "url": "https://arxiv.org/abs/2608.03924v1"
+      "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
+      "date": "2026-08-05",
+      "id": "2608.05137v1",
+      "abstract": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the re",
+      "url": "https://arxiv.org/abs/2608.05137v1"
     },
     {
-      "title": "MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning",
-      "date": "2026-08-04",
-      "id": "2608.03882v1",
-      "abstract": "Geospatial reasoning, i.e., computing distances, containment, and other spatial relations over real-world entities, is central to navigation and logistics, yet large language models (LLMs) struggle wi",
-      "url": "https://arxiv.org/abs/2608.03882v1"
+      "title": "SpikingNav: Robust Embodied Navigation with Spiking Neural Policies",
+      "date": "2026-08-05",
+      "id": "2608.05078v1",
+      "abstract": "Embodied navigation requires an agent to make sequential decisions from egocentric observations in a physical environment. Existing Artificial Neural Network (ANN)-based navigation models have achieve",
+      "url": "https://arxiv.org/abs/2608.05078v1"
     },
     {
-      "title": "LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation",
-      "date": "2026-08-04",
-      "id": "2608.03851v1",
-      "abstract": "Real-time 3D perception is crucial for robotics, augmented reality, and embodied intelligence applications. Existing multi-view stereo (MVS) methods primarily rely on geometric correspondences, which ",
-      "url": "https://arxiv.org/abs/2608.03851v1"
+      "title": "Algorithm-Driven SVARs: Navigating the Wilderness of Big Data",
+      "date": "2026-08-05",
+      "id": "2608.05017v1",
+      "abstract": "Every SVAR result is conditional on two choices: the restrictions that identify the shock and the variables on which they operate. The literature disciplines the first; the second is chosen by hand. W",
+      "url": "https://arxiv.org/abs/2608.05017v1"
     },
     {
-      "title": "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education",
-      "date": "2026-08-04",
-      "id": "2608.04006v1",
-      "abstract": "LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technolog",
-      "url": "https://arxiv.org/abs/2608.04006v1"
+      "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+      "date": "2026-08-05",
+      "id": "2608.05144v1",
+      "abstract": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified object",
+      "url": "https://arxiv.org/abs/2608.05144v1"
     },
     {
-      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-      "date": "2026-08-04",
-      "id": "2608.04001v1",
-      "abstract": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend del",
-      "url": "https://arxiv.org/abs/2608.04001v1"
+      "title": "DeepConnect: A Visual Analytics System for Bridging Interdisciplinary Research Collaborations",
+      "date": "2026-08-05",
+      "id": "2608.05134v1",
+      "abstract": "Interdisciplinary research collaboration is crucial for scientific innovation, but it remains difficult to initiate in practice. Existing collaborator discovery approaches are often constrained by dis",
+      "url": "https://arxiv.org/abs/2608.05134v1"
     },
     {
-      "title": "Designing and Evaluating Granular Consent for Data Sharing in Cardiac Disease Prevention",
-      "date": "2026-08-04",
-      "id": "2608.03533v1",
-      "abstract": "Dynamic consent can promise end users with greater control, but little is known about how older adults with chronic conditions navigate the tradeoff between control and burden in granular consent mech",
-      "url": "https://arxiv.org/abs/2608.03533v1"
+      "title": "The QCD Axion and Neutrino Masses",
+      "date": "2026-08-05",
+      "id": "2608.05150v1",
+      "abstract": "The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the",
+      "url": "https://arxiv.org/abs/2608.05150v1"
     },
     {
-      "title": "Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation",
-      "date": "2026-08-04",
-      "id": "2608.03490v1",
-      "abstract": "3D object detection using light detection and ranging (LiDAR) sensors requires a balance between accuracy and computational efficiency for onboard perception in autonomous driving and robotic navigati",
-      "url": "https://arxiv.org/abs/2608.03490v1"
+      "title": "Deliberate Before You Fly: Vision-Guided Spatial Deliberation for UAV See-and-Reach Navigation",
+      "date": "2026-08-05",
+      "id": "2608.04825v1",
+      "abstract": "UAV see-and-reach navigation requires an aerial agent to approach a language-specified target visible in its initial view and stop reliably near it. Existing methods typically map vision-language repr",
+      "url": "https://arxiv.org/abs/2608.04825v1"
     },
     {
-      "title": "Stochastic Multiple Shooting Trajectory Optimization via Sequential Local Policy Evaluation",
-      "date": "2026-08-04",
-      "id": "2608.03978v1",
-      "abstract": "Stochastic single shooting trajectory optimization methods such as Model Predictive Path Integral control (MPPI) have been widely adopted in robotics due to their ability to reason about probabilistic",
-      "url": "https://arxiv.org/abs/2608.03978v1"
+      "title": "AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance",
+      "date": "2026-08-05",
+      "id": "2608.05109v1",
+      "abstract": "Significance. Accurate intraoperative depth perception is important for autonomous and semi-autonomous robotic laparoscopic surgery. Conventional fringe projection profilometry can achieve millimeter-",
+      "url": "https://arxiv.org/abs/2608.05109v1"
     },
     {
-      "title": "Data-Driven Online Slice Admission Control and Resource Allocation in NextG Mobile Networks",
-      "date": "2026-08-04",
-      "id": "2608.03954v1",
-      "abstract": "Virtualization in 5G and beyond networks enables the creation of virtual networks (i.e., network slices) tailored to the needs of different applications. To maximize revenue under limited infrastructu",
-      "url": "https://arxiv.org/abs/2608.03954v1"
+      "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
+      "date": "2026-08-05",
+      "id": "2608.05042v1",
+      "abstract": "Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation. However, existing 3D VLA methods re",
+      "url": "https://arxiv.org/abs/2608.05042v1"
     },
     {
-      "title": "Structured-Sparsity-Aware Joint User Activity Detection and Channel Estimation for OTFS-Based Grant-Free Random Access",
-      "date": "2026-08-04",
-      "id": "2608.03896v1",
-      "abstract": "Grant-free random access (GFRA) is a promising solution for massive machine-type communications (mMTC) in future wireless networks. However, reliable user activity detection and channel estimation are",
-      "url": "https://arxiv.org/abs/2608.03896v1"
+      "title": "Micro-randomized Trials with Categorical Treatments and Binary Proximal Outcome: Causal Effect Estimation and Sample Size Calculation",
+      "date": "2026-08-05",
+      "id": "2608.05135v1",
+      "abstract": "Micro-randomized trials (MRTs) provide a framework for evaluating the marginal and moderated effects of mobile health (mHealth) interventions. In many applications, treatments take the form of categor",
+      "url": "https://arxiv.org/abs/2608.05135v1"
     },
     {
-      "title": "Design and Evaluation of an AI-Enabled Cloud-Edge Architecture for Connected Precision Agriculture Farms",
-      "date": "2026-08-04",
-      "id": "2608.03816v1",
-      "abstract": "Plant diseases cause significant yield losses worldwide, with tomato crops particularly susceptible to early blight, late blight, and leaf mold. Manual monitoring is practical only for small-scale far",
-      "url": "https://arxiv.org/abs/2608.03816v1"
+      "title": "Deployment Feasibility Analysis of Post-Quantum Digital Signatures in Safety-Critical C-V2X Communication for Urban Mobility Scenario",
+      "date": "2026-08-05",
+      "id": "2608.05087v1",
+      "abstract": "The transition from the classical ECDSA to PQC creates substantially larger authentication payloads for safety-critical C-V2X sidelink communication. This study determines which NIST post-quantum sign",
+      "url": "https://arxiv.org/abs/2608.05087v1"
     },
     {
-      "title": "Reduced-order modeling for electromagnetic inverse problems: a layered medium benchmark",
-      "date": "2026-08-04",
-      "id": "2608.03996v1",
-      "abstract": "We study reduced-order modeling for inverse problems in layered media, focusing on the recovery of impedance profiles from time-domain measurements. Using the Goupillaud structure, we formulate the fo",
-      "url": "https://arxiv.org/abs/2608.03996v1"
+      "title": "Analyzing the daily flows: Exploring shared micro-mobility factors in Venice",
+      "date": "2026-08-05",
+      "id": "2608.05065v1",
+      "abstract": "Shared micro-mobility has emerged as a key component of a sustainable urban transportation system, however, limited research exists on how environmental factors influence the mobility demand between s",
+      "url": "https://arxiv.org/abs/2608.05065v1"
     },
     {
-      "title": "Semantic Bundling: Interactive Node and Edge Bundling to Simplify Knowledge Graphs using Large Language Models",
-      "date": "2026-08-04",
-      "id": "2608.04002v1",
-      "abstract": "We present Semantic Bundling, a visual analytics technique for making sense of text documents represented as knowledge graphs (KGs). Representing a document corpus as a KG makes relationships between ",
-      "url": "https://arxiv.org/abs/2608.04002v1"
+      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+      "date": "2026-08-05",
+      "id": "2608.05139v1",
+      "abstract": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. W",
+      "url": "https://arxiv.org/abs/2608.05139v1"
     },
     {
-      "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
-      "date": "2026-08-04",
-      "id": "2608.03999v1",
-      "abstract": "Text-to-music language models begin with a choice usually made by default: how to tokenize music. Normally entangled with backbone, data, and recipe, its effect has never been measured in isolation. W",
-      "url": "https://arxiv.org/abs/2608.03999v1"
+      "title": "A fractional quantum Hall factory on quantum processors: constant-depth preparation of clustered non-Abelian states",
+      "date": "2026-08-05",
+      "id": "2608.05140v1",
+      "abstract": "Non-Abelian anyons arise as exotic excitations in fractional quantum Hall (FQH) matter and have proved very elusive to realize in conventional platforms. In this work, we show that on a programmable q",
+      "url": "https://arxiv.org/abs/2608.05140v1"
     },
     {
-      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-      "date": "2026-08-04",
-      "id": "2608.04003v1",
-      "abstract": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain pref",
-      "url": "https://arxiv.org/abs/2608.04003v1"
+      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+      "date": "2026-08-05",
+      "id": "2608.05141v1",
+      "abstract": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora",
+      "url": "https://arxiv.org/abs/2608.05141v1"
     },
     {
-      "title": "Asymptotic classes via definable quotients",
-      "date": "2026-08-04",
-      "id": "2608.03993v1",
-      "abstract": "We study when finite-dimensional asymptoticity transfers through uniform interpretations and definable quotients. Ambient counting yields finitely many asymptotic alternatives, but the corresponding p",
-      "url": "https://arxiv.org/abs/2608.03993v1"
-    },
-    {
-      "title": "Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation",
-      "date": "2026-08-04",
-      "id": "2608.03991v1",
-      "abstract": "Training-free open-vocabulary semantic segmentation (OVSS) partitions an image into semantically distinct regions based on arbitrary text descriptions, without learning any additional parameters. Howe",
-      "url": "https://arxiv.org/abs/2608.03991v1"
+      "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
+      "date": "2026-08-05",
+      "id": "2608.05132v1",
+      "abstract": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape ",
+      "url": "https://arxiv.org/abs/2608.05132v1"
     }
   ]
 }
