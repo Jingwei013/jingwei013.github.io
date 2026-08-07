@@ -1,140 +1,112 @@
 {
-  "updated": "2026-08-06 03:57 UTC",
-  "total": 19,
+  "updated": "2026-08-07 03:42 UTC",
+  "total": 15,
   "today_count": 0,
   "papers": [
     {
-      "title": "CoCo-IR: Contextual Composed Image Retrieval",
-      "date": "2026-08-05",
-      "id": "2608.05149v1",
-      "abstract": "Current instruction-based image retrieval systems are powerful but limited to single-turn interactions, failing to capture the iterative nature of complex, real-world visual searches. To overcome this",
-      "url": "https://arxiv.org/abs/2608.05149v1"
+      "title": "Learning When to Trust via Selective Context Preference Optimization",
+      "date": "2026-08-06",
+      "id": "2608.06377v1",
+      "abstract": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides",
+      "url": "https://arxiv.org/abs/2608.06377v1"
     },
     {
-      "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
-      "date": "2026-08-05",
-      "id": "2608.05148v1",
-      "abstract": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection o",
-      "url": "https://arxiv.org/abs/2608.05148v1"
+      "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+      "date": "2026-08-06",
+      "id": "2608.06375v1",
+      "abstract": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing ",
+      "url": "https://arxiv.org/abs/2608.06375v1"
     },
     {
-      "title": "Objects as Audio-Visual Modal Sound Fields",
-      "date": "2026-08-05",
-      "id": "2608.05145v1",
-      "abstract": "While modern 3D reconstruction excels at modeling object geometry and appearance, it largely ignores the rich acoustic cues revealed through physical interaction. Object impact sounds convey material,",
-      "url": "https://arxiv.org/abs/2608.05145v1"
+      "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+      "date": "2026-08-06",
+      "id": "2608.06374v1",
+      "abstract": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existin",
+      "url": "https://arxiv.org/abs/2608.06374v1"
     },
     {
-      "title": "SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding",
-      "date": "2026-08-05",
-      "id": "2608.05137v1",
-      "abstract": "Understanding 3D scenes is fundamental to embodied intelligence, requiring joint reasoning over heterogeneous information from multiple modalities, including visual and geometric cues. However, the re",
-      "url": "https://arxiv.org/abs/2608.05137v1"
+      "title": "GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions",
+      "date": "2026-08-06",
+      "id": "2608.06332v1",
+      "abstract": "Generalist robot policies exhibit strong capabilities, but their robustness in complex and unseen environments remains limited. Scaling robot learning and evaluation in diverse real-world environments",
+      "url": "https://arxiv.org/abs/2608.06332v1"
     },
     {
-      "title": "SpikingNav: Robust Embodied Navigation with Spiking Neural Policies",
-      "date": "2026-08-05",
-      "id": "2608.05078v1",
-      "abstract": "Embodied navigation requires an agent to make sequential decisions from egocentric observations in a physical environment. Existing Artificial Neural Network (ANN)-based navigation models have achieve",
-      "url": "https://arxiv.org/abs/2608.05078v1"
+      "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations",
+      "date": "2026-08-06",
+      "id": "2608.06305v1",
+      "abstract": "Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed the chunks, and surface the top-k nearest neighbours of the query. We argue that for an important c",
+      "url": "https://arxiv.org/abs/2608.06305v1"
     },
     {
-      "title": "Algorithm-Driven SVARs: Navigating the Wilderness of Big Data",
-      "date": "2026-08-05",
-      "id": "2608.05017v1",
-      "abstract": "Every SVAR result is conditional on two choices: the restrictions that identify the shock and the variables on which they operate. The literature disciplines the first; the second is chosen by hand. W",
-      "url": "https://arxiv.org/abs/2608.05017v1"
+      "title": "Dual-Faraday-laser-pumped cesium beam clock with $7.7\\times 10^{-13}/\\sqrtτ$ frequency stability",
+      "date": "2026-08-06",
+      "id": "2608.06169v1",
+      "abstract": "Compact cesium beam clocks are major frequency references for deployable timing systems. However, further improvement of their short-term frequency stability is limited by the clock signal-to-noise ra",
+      "url": "https://arxiv.org/abs/2608.06169v1"
     },
     {
-      "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
-      "date": "2026-08-05",
-      "id": "2608.05144v1",
-      "abstract": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified object",
-      "url": "https://arxiv.org/abs/2608.05144v1"
+      "title": "Does Latent Context Help? A Controlled Evaluation of Inverse Reinforcement Learning in Arctic Shipping",
+      "date": "2026-08-06",
+      "id": "2608.06105v1",
+      "abstract": "Artificial Intelligence (AI)-assisted navigation can help Arctic shipping adapt to rapidly changing sea-ice conditions, but reliable deployment requires reward models that are interpretable and robust",
+      "url": "https://arxiv.org/abs/2608.06105v1"
     },
     {
-      "title": "DeepConnect: A Visual Analytics System for Bridging Interdisciplinary Research Collaborations",
-      "date": "2026-08-05",
-      "id": "2608.05134v1",
-      "abstract": "Interdisciplinary research collaboration is crucial for scientific innovation, but it remains difficult to initiate in practice. Existing collaborator discovery approaches are often constrained by dis",
-      "url": "https://arxiv.org/abs/2608.05134v1"
+      "title": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
+      "date": "2026-08-06",
+      "id": "2608.06354v1",
+      "abstract": "We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slav",
+      "url": "https://arxiv.org/abs/2608.06354v1"
     },
     {
-      "title": "The QCD Axion and Neutrino Masses",
-      "date": "2026-08-05",
-      "id": "2608.05150v1",
-      "abstract": "The strong CP problem and the origin of neutrino masses are among the clearest motivations for physics beyond the Standard Model. The Peccei-Quinn mechanism offers an elegant dynamical solution to the",
-      "url": "https://arxiv.org/abs/2608.05150v1"
+      "title": "Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion",
+      "date": "2026-08-06",
+      "id": "2608.06371v1",
+      "abstract": "We study the initial-boundary value problem for the Cahn-Hilliard equation with degenerate mobility and singular diffusion at pure phases. This model describes the dynamics of phase separation in poly",
+      "url": "https://arxiv.org/abs/2608.06371v1"
     },
     {
-      "title": "Deliberate Before You Fly: Vision-Guided Spatial Deliberation for UAV See-and-Reach Navigation",
-      "date": "2026-08-05",
-      "id": "2608.04825v1",
-      "abstract": "UAV see-and-reach navigation requires an aerial agent to approach a language-specified target visible in its initial view and stop reliably near it. Existing methods typically map vision-language repr",
-      "url": "https://arxiv.org/abs/2608.04825v1"
+      "title": "The Bitter Lesson of Tool Calling",
+      "date": "2026-08-06",
+      "id": "2608.06370v1",
+      "abstract": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch",
+      "url": "https://arxiv.org/abs/2608.06370v1"
     },
     {
-      "title": "AI-based single-shot structured-light depth reconstruction for real-time laparoscopic surgical guidance",
-      "date": "2026-08-05",
-      "id": "2608.05109v1",
-      "abstract": "Significance. Accurate intraoperative depth perception is important for autonomous and semi-autonomous robotic laparoscopic surgery. Conventional fringe projection profilometry can achieve millimeter-",
-      "url": "https://arxiv.org/abs/2608.05109v1"
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "date": "2026-08-06",
+      "id": "2608.06366v1",
+      "abstract": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure",
+      "url": "https://arxiv.org/abs/2608.06366v1"
     },
     {
-      "title": "BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation",
-      "date": "2026-08-05",
-      "id": "2608.05042v1",
-      "abstract": "Leveraging pre-trained vision-language models (VLMs) to construct vision-language-action (VLA) models has emerged as a promising paradigm for 3D robot manipulation. However, existing 3D VLA methods re",
-      "url": "https://arxiv.org/abs/2608.05042v1"
+      "title": "PyOMES: an open-source framework for biochemical process modelling",
+      "date": "2026-08-06",
+      "id": "2608.06360v1",
+      "abstract": "PyOMES is a Python-based, Open-source Modelling Environment for (bio)chemical process Simulation that aims to simplify the modelling of dynamic (including steady state) processes. This is done in a ge",
+      "url": "https://arxiv.org/abs/2608.06360v1"
     },
     {
-      "title": "Micro-randomized Trials with Categorical Treatments and Binary Proximal Outcome: Causal Effect Estimation and Sample Size Calculation",
-      "date": "2026-08-05",
-      "id": "2608.05135v1",
-      "abstract": "Micro-randomized trials (MRTs) provide a framework for evaluating the marginal and moderated effects of mobile health (mHealth) interventions. In many applications, treatments take the form of categor",
-      "url": "https://arxiv.org/abs/2608.05135v1"
+      "title": "Width Laws and Spectral Geometry",
+      "date": "2026-08-06",
+      "id": "2608.06348v1",
+      "abstract": "We develop a common framework for random width laws, spectral populations, and geometric reconstruction. For a $d$-dimensional orthotope, we prove an exact parity law for the maximal $π^{-1}$-grade of",
+      "url": "https://arxiv.org/abs/2608.06348v1"
     },
     {
-      "title": "Deployment Feasibility Analysis of Post-Quantum Digital Signatures in Safety-Critical C-V2X Communication for Urban Mobility Scenario",
-      "date": "2026-08-05",
-      "id": "2608.05087v1",
-      "abstract": "The transition from the classical ECDSA to PQC creates substantially larger authentication payloads for safety-critical C-V2X sidelink communication. This study determines which NIST post-quantum sign",
-      "url": "https://arxiv.org/abs/2608.05087v1"
+      "title": "Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links",
+      "date": "2026-08-06",
+      "id": "2608.06372v1",
+      "abstract": "We give weighted-matrix formulas for the components of the $CWR$ invariant of oriented non-split alternating links. After recalling the known trace formulas for $CWR_{2}$ and $CWR_{3}$, we give a cons",
+      "url": "https://arxiv.org/abs/2608.06372v1"
     },
     {
-      "title": "Analyzing the daily flows: Exploring shared micro-mobility factors in Venice",
-      "date": "2026-08-05",
-      "id": "2608.05065v1",
-      "abstract": "Shared micro-mobility has emerged as a key component of a sustainable urban transportation system, however, limited research exists on how environmental factors influence the mobility demand between s",
-      "url": "https://arxiv.org/abs/2608.05065v1"
-    },
-    {
-      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
-      "date": "2026-08-05",
-      "id": "2608.05139v1",
-      "abstract": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. W",
-      "url": "https://arxiv.org/abs/2608.05139v1"
-    },
-    {
-      "title": "A fractional quantum Hall factory on quantum processors: constant-depth preparation of clustered non-Abelian states",
-      "date": "2026-08-05",
-      "id": "2608.05140v1",
-      "abstract": "Non-Abelian anyons arise as exotic excitations in fractional quantum Hall (FQH) matter and have proved very elusive to realize in conventional platforms. In this work, we show that on a programmable q",
-      "url": "https://arxiv.org/abs/2608.05140v1"
-    },
-    {
-      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-      "date": "2026-08-05",
-      "id": "2608.05141v1",
-      "abstract": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora",
-      "url": "https://arxiv.org/abs/2608.05141v1"
-    },
-    {
-      "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
-      "date": "2026-08-05",
-      "id": "2608.05132v1",
-      "abstract": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape ",
-      "url": "https://arxiv.org/abs/2608.05132v1"
+      "title": "A proof of Andersen's rainbow path conjecture for large $n$",
+      "date": "2026-08-06",
+      "id": "2608.06369v1",
+      "abstract": "We show that, for sufficiently large $n$, every properly edge-coloured $n$-vertex complete graph contains a path with $n-1$ vertices which uses each colour at most once (that is, a rainbow path). This",
+      "url": "https://arxiv.org/abs/2608.06369v1"
     }
   ]
 }
