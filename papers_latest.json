@@ -1,112 +1,140 @@
 {
-  "updated": "2026-08-09 02:56 UTC",
-  "total": 15,
+  "updated": "2026-08-10 03:06 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "Learning When to Trust via Selective Context Preference Optimization",
-      "date": "2026-08-06",
-      "id": "2608.06377v1",
-      "abstract": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides",
-      "url": "https://arxiv.org/abs/2608.06377v1"
+      "title": "SimWAM: A Simple World Action Model for End-to-End Autonomous Driving",
+      "date": "2026-08-07",
+      "id": "2608.07468v1",
+      "abstract": "World-Action Models (WAMs) improve end-to-end autonomous driving by transferring video dynamics priors to action prediction, but existing methods require costly future generation at inference. We pres",
+      "url": "https://arxiv.org/abs/2608.07468v1"
     },
     {
-      "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
-      "date": "2026-08-06",
-      "id": "2608.06375v1",
-      "abstract": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing ",
-      "url": "https://arxiv.org/abs/2608.06375v1"
+      "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+      "date": "2026-08-07",
+      "id": "2608.07463v1",
+      "abstract": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ",
+      "url": "https://arxiv.org/abs/2608.07463v1"
     },
     {
-      "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
-      "date": "2026-08-06",
-      "id": "2608.06374v1",
-      "abstract": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existin",
-      "url": "https://arxiv.org/abs/2608.06374v1"
+      "title": "SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation",
+      "date": "2026-08-07",
+      "id": "2608.07462v1",
+      "abstract": "Continuous-latent autoregressive speech generation has emerged as a promising alternative to discrete-token modeling by avoiding quantization loss and preserving richer acoustic information. However, ",
+      "url": "https://arxiv.org/abs/2608.07462v1"
     },
     {
-      "title": "GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions",
-      "date": "2026-08-06",
-      "id": "2608.06332v1",
-      "abstract": "Generalist robot policies exhibit strong capabilities, but their robustness in complex and unseen environments remains limited. Scaling robot learning and evaluation in diverse real-world environments",
-      "url": "https://arxiv.org/abs/2608.06332v1"
+      "title": "Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model",
+      "date": "2026-08-07",
+      "id": "2608.07361v1",
+      "abstract": "Vision-language-action (VLA) models route driving decisions through a deep language model, but it is unclear how much of that depth the action itself requires. We study a representative driving VLA wh",
+      "url": "https://arxiv.org/abs/2608.07361v1"
     },
     {
-      "title": "Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations",
-      "date": "2026-08-06",
-      "id": "2608.06305v1",
-      "abstract": "Retrieval-augmented generation over long documents is dominated by one design: chunk the text, embed the chunks, and surface the top-k nearest neighbours of the query. We argue that for an important c",
-      "url": "https://arxiv.org/abs/2608.06305v1"
+      "title": "WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN",
+      "date": "2026-08-07",
+      "id": "2608.07267v1",
+      "abstract": "Recent vision-language navigation (VLN) systems increasingly adapt pretrained vision-language models (VLMs) into vision-language-action (VLA) policies that map egocentric observations and language ins",
+      "url": "https://arxiv.org/abs/2608.07267v1"
     },
     {
-      "title": "Dual-Faraday-laser-pumped cesium beam clock with $7.7\\times 10^{-13}/\\sqrtτ$ frequency stability",
-      "date": "2026-08-06",
-      "id": "2608.06169v1",
-      "abstract": "Compact cesium beam clocks are major frequency references for deployable timing systems. However, further improvement of their short-term frequency stability is limited by the clock signal-to-noise ra",
-      "url": "https://arxiv.org/abs/2608.06169v1"
+      "title": "Quantum sensing of radiofrequency fields using cold Rydberg atoms in a super-molasses trap",
+      "date": "2026-08-07",
+      "id": "2608.07260v1",
+      "abstract": "We demonstrate the quantum sensing of radiofrequency fields based on cold Rydberg atoms in a super-molasses trap, without the need for magnetic coils. Our approach combines the metrological advantages",
+      "url": "https://arxiv.org/abs/2608.07260v1"
     },
     {
-      "title": "Does Latent Context Help? A Controlled Evaluation of Inverse Reinforcement Learning in Arctic Shipping",
-      "date": "2026-08-06",
-      "id": "2608.06105v1",
-      "abstract": "Artificial Intelligence (AI)-assisted navigation can help Arctic shipping adapt to rapidly changing sea-ice conditions, but reliable deployment requires reward models that are interpretable and robust",
-      "url": "https://arxiv.org/abs/2608.06105v1"
+      "title": "Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics",
+      "date": "2026-08-07",
+      "id": "2608.07453v1",
+      "abstract": "Neutrinos and other light relics leave characteristic imprints in the cosmic microwave background anisotropies, making their observation a sensitive probe of the particle content and thermal history o",
+      "url": "https://arxiv.org/abs/2608.07453v1"
     },
     {
-      "title": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
-      "date": "2026-08-06",
-      "id": "2608.06354v1",
-      "abstract": "We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slav",
-      "url": "https://arxiv.org/abs/2608.06354v1"
+      "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+      "date": "2026-08-07",
+      "id": "2608.07449v1",
+      "abstract": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context witho",
+      "url": "https://arxiv.org/abs/2608.07449v1"
     },
     {
-      "title": "Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion",
-      "date": "2026-08-06",
-      "id": "2608.06371v1",
-      "abstract": "We study the initial-boundary value problem for the Cahn-Hilliard equation with degenerate mobility and singular diffusion at pure phases. This model describes the dynamics of phase separation in poly",
-      "url": "https://arxiv.org/abs/2608.06371v1"
+      "title": "HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars",
+      "date": "2026-08-07",
+      "id": "2608.07470v1",
+      "abstract": "The Hubble-Lemaître tension remains a significant challenge in modern cosmology, exhibiting a discrepancy between early-Universe cosmic microwave background measurements and local distance ladder obse",
+      "url": "https://arxiv.org/abs/2608.07470v1"
     },
     {
-      "title": "The Bitter Lesson of Tool Calling",
-      "date": "2026-08-06",
-      "id": "2608.06370v1",
-      "abstract": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch",
-      "url": "https://arxiv.org/abs/2608.06370v1"
+      "title": "Efficient three-dimensional variational data assimilation of multi-plane PIV data",
+      "date": "2026-08-07",
+      "id": "2608.07469v1",
+      "abstract": "We perform three-dimensional variational data assimilation (3DVar) using a discrete adjoint approach to optimise the time-averaged momentum equations. The experimental data consist of sparse stereosco",
+      "url": "https://arxiv.org/abs/2608.07469v1"
     },
     {
-      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
-      "date": "2026-08-06",
-      "id": "2608.06366v1",
-      "abstract": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure",
-      "url": "https://arxiv.org/abs/2608.06366v1"
+      "title": "Active movement of foraging sea turtles generates anomalous looping",
+      "date": "2026-08-07",
+      "id": "2608.07448v1",
+      "abstract": "Animals inhabiting diverse environments by moving across different spatial scales, from insects to birds, marine predators, mammals and even humans, often display apparently random movement paths. Ove",
+      "url": "https://arxiv.org/abs/2608.07448v1"
     },
     {
-      "title": "PyOMES: an open-source framework for biochemical process modelling",
-      "date": "2026-08-06",
-      "id": "2608.06360v1",
-      "abstract": "PyOMES is a Python-based, Open-source Modelling Environment for (bio)chemical process Simulation that aims to simplify the modelling of dynamic (including steady state) processes. This is done in a ge",
-      "url": "https://arxiv.org/abs/2608.06360v1"
+      "title": "Learning Fault-Tolerant Locomotion with Adaptive Gait Timing",
+      "date": "2026-08-07",
+      "id": "2608.07328v1",
+      "abstract": "Hardware failures require legged robots to rapidly reorganize coordination and gait timing to maintain stability and mobility. This is particularly challenging for larger quadrupeds, where increased m",
+      "url": "https://arxiv.org/abs/2608.07328v1"
     },
     {
-      "title": "Width Laws and Spectral Geometry",
-      "date": "2026-08-06",
-      "id": "2608.06348v1",
-      "abstract": "We develop a common framework for random width laws, spectral populations, and geometric reconstruction. For a $d$-dimensional orthotope, we prove an exact parity law for the maximal $π^{-1}$-grade of",
-      "url": "https://arxiv.org/abs/2608.06348v1"
+      "title": "TEMPO: Semantic-Action Decoupled RL Post-Training for Vision-Language-Action Models",
+      "date": "2026-08-07",
+      "id": "2608.07314v1",
+      "abstract": "Vision-language-action (VLA) models are commonly adapted to downstream manipulation tasks via supervised fine-tuning (SFT) or online reinforcement learning (RL) post-training. SFT is prone to distribu",
+      "url": "https://arxiv.org/abs/2608.07314v1"
     },
     {
-      "title": "Squarefree Matrix Formulas for the CWR Invariant of Alternating Knots and Links",
-      "date": "2026-08-06",
-      "id": "2608.06372v1",
-      "abstract": "We give weighted-matrix formulas for the components of the $CWR$ invariant of oriented non-split alternating links. After recalling the known trace formulas for $CWR_{2}$ and $CWR_{3}$, we give a cons",
-      "url": "https://arxiv.org/abs/2608.06372v1"
+      "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+      "date": "2026-08-07",
+      "id": "2608.07460v1",
+      "abstract": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ",
+      "url": "https://arxiv.org/abs/2608.07460v1"
     },
     {
-      "title": "A proof of Andersen's rainbow path conjecture for large $n$",
-      "date": "2026-08-06",
-      "id": "2608.06369v1",
-      "abstract": "We show that, for sufficiently large $n$, every properly edge-coloured $n$-vertex complete graph contains a path with $n-1$ vertices which uses each colour at most once (that is, a rainbow path). This",
-      "url": "https://arxiv.org/abs/2608.06369v1"
+      "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+      "date": "2026-08-07",
+      "id": "2608.07446v1",
+      "abstract": "Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual ha",
+      "url": "https://arxiv.org/abs/2608.07446v1"
+    },
+    {
+      "title": "Entanglement Mpemba Effect",
+      "date": "2026-08-07",
+      "id": "2608.07465v1",
+      "abstract": "Generating entanglement rapidly and reliably is essential for quantum information processing, communication, and metrology. Dissipative preparation is attractive because engineered reservoirs robustly",
+      "url": "https://arxiv.org/abs/2608.07465v1"
+    },
+    {
+      "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+      "date": "2026-08-07",
+      "id": "2608.07457v1",
+      "abstract": "What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a ",
+      "url": "https://arxiv.org/abs/2608.07457v1"
+    },
+    {
+      "title": "Strategy-first synthesis planning for complex natural products",
+      "date": "2026-08-07",
+      "id": "2608.07454v1",
+      "abstract": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks ",
+      "url": "https://arxiv.org/abs/2608.07454v1"
+    },
+    {
+      "title": "Maximal estimates for perturbations of the Schrödinger operator on $\\mathbb{T}^d$",
+      "date": "2026-08-07",
+      "id": "2608.07464v1",
+      "abstract": "We study $L^p_x L^\\infty_t$ maximal estimates for exponential sums associated to $C^2$ graph hypersurfaces, motivated by Schrödinger maximal estimates on $\\mathbb{T}^d$. We show that the conjectured m",
+      "url": "https://arxiv.org/abs/2608.07464v1"
     }
   ]
 }
