@@ -1,126 +1,126 @@
 {
-  "updated": "2026-08-11 02:59 UTC",
+  "updated": "2026-08-12 03:17 UTC",
   "total": 17,
   "today_count": 0,
   "papers": [
     {
-      "title": "ADPSO-ERLS: A Hybrid Discrete PSO with Enhanced Local Search for the Traveling Salesman Problem",
-      "date": "2026-08-10",
-      "id": "2608.09786v1",
-      "abstract": "The Traveling Salesman Problem is a canonical setting for studying how a   population-based method should allocate a fixed search budget between   exploration and progressively stronger local intensif",
-      "url": "https://arxiv.org/abs/2608.09786v1"
+      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+      "date": "2026-08-11",
+      "id": "2608.11205v1",
+      "abstract": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However,",
+      "url": "https://arxiv.org/abs/2608.11205v1"
     },
     {
-      "title": "NTIRE 2026 Low-light Enhancement: Twilight Cowboy Challenge",
-      "date": "2026-08-10",
-      "id": "2608.09782v1",
-      "abstract": "This paper presents a review of the NTIRE 2026 Low-light Enhancement: Twilight Cowboy Challenge. The objective of the competition was to merge a set of misaligned smartphone images in the raw domain, ",
-      "url": "https://arxiv.org/abs/2608.09782v1"
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "date": "2026-08-11",
+      "id": "2608.11204v1",
+      "abstract": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar",
+      "url": "https://arxiv.org/abs/2608.11204v1"
     },
     {
-      "title": "KGCaRe: Explainable Complex Conditional Question Answering using Automatic Knowledge Graph Construction and Context Retrieval with LLMs",
-      "date": "2026-08-10",
-      "id": "2608.09779v1",
-      "abstract": "Answering complex conditional questions using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) remains a challenge, particularly in domain-specific contexts where general-purpose ",
-      "url": "https://arxiv.org/abs/2608.09779v1"
+      "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
+      "date": "2026-08-11",
+      "id": "2608.11203v1",
+      "abstract": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since huma",
+      "url": "https://arxiv.org/abs/2608.11203v1"
     },
     {
-      "title": "SLIM-0.5B: Learning Action-Grounded Predictive Latents for Robot Manipulation",
-      "date": "2026-08-10",
-      "id": "2608.09771v1",
-      "abstract": "Vision-language-action policies rely on large multimodal backbones to jointly perform perception, language conditioning, and action generation at every control step. Much of this capacity supports ope",
-      "url": "https://arxiv.org/abs/2608.09771v1"
+      "title": "Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments",
+      "date": "2026-08-11",
+      "id": "2608.11175v1",
+      "abstract": "For autonomous space exploration, robotic agents need to perform motion planning in which environmental interactions may be unknown. Learning these interactions, such as terrain mechanics for wheeled ",
+      "url": "https://arxiv.org/abs/2608.11175v1"
     },
     {
-      "title": "World Tokens: Enhancing Embodied Policies with Training-Time World Modeling",
-      "date": "2026-08-10",
-      "id": "2608.09730v1",
-      "abstract": "Vision-language-action (VLA) models are a widely adopted paradigm for embodied policies. They excel at efficient closed-loop control but do not explicitly model how physical scenes evolve as a task un",
-      "url": "https://arxiv.org/abs/2608.09730v1"
+      "title": "CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting",
+      "date": "2026-08-11",
+      "id": "2608.11150v1",
+      "abstract": "While 3D Gaussian Splatting (3DGS) has advanced open vocabulary scene understanding, existing methods remain confined to explicit queries. They struggle to interpret implicit intents, complex spatial ",
+      "url": "https://arxiv.org/abs/2608.11150v1"
     },
     {
-      "title": "From Semantic Grounding to Decision Optimization: A Unified Framework for Long-Horizon UAV Vision-Language Navigation",
-      "date": "2026-08-10",
-      "id": "2608.09564v1",
-      "abstract": "UAV vision-language navigation (UAV-VLN) focuses on enabling an aerial agent to follow natural-language instructions in open 3D environments from egocentric visual observations. Current approaches suf",
-      "url": "https://arxiv.org/abs/2608.09564v1"
+      "title": "HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation",
+      "date": "2026-08-11",
+      "id": "2608.11051v1",
+      "abstract": "As robots increasingly operate in human-populated environments, anticipating human intentions is essential for enabling proactive and socially aware behavior. Automatic anticipation of human-robot int",
+      "url": "https://arxiv.org/abs/2608.11051v1"
     },
     {
-      "title": "EEG-Based Characterization of Samatha and Vipassana Meditation States",
-      "date": "2026-08-10",
-      "id": "2608.09784v1",
-      "abstract": "Meditation has been associated with a range of cognitive and physiological benefits. However, the underlying neural mechanisms of different meditation practices are not yet fully understood. This stud",
-      "url": "https://arxiv.org/abs/2608.09784v1"
+      "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
+      "date": "2026-08-11",
+      "id": "2608.11201v1",
+      "abstract": "Recent advances in video generation models have significantly improved the realism of synthetic videos, blurring the boundary between generated and authentic content and raising concerns about misinfo",
+      "url": "https://arxiv.org/abs/2608.11201v1"
     },
     {
-      "title": "RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera",
-      "date": "2026-08-10",
-      "id": "2608.09778v1",
-      "abstract": "Robotic manipulation requires perception systemsthat identify actionable parts such as handles, rims, triggers,and tool tips, not merely object categories or point clouds. This paper presents RoboSeg,",
-      "url": "https://arxiv.org/abs/2608.09778v1"
+      "title": "Seeing above the waves: A modular sensing framework for data acquisition at sea",
+      "date": "2026-08-11",
+      "id": "2608.10997v1",
+      "abstract": "Advancing autonomy for surface vessels requires systematic evaluation of their sensing and perception subsystems. Yet, maritime environments impose unique challenges: sensor installation is constraine",
+      "url": "https://arxiv.org/abs/2608.10997v1"
     },
     {
-      "title": "Superconductivity, pseudogap and marginal Fermi liquid in a relative-momentum-local theory",
-      "date": "2026-08-10",
-      "id": "2608.09785v1",
-      "abstract": "Cuprate superconductors host \\(d\\)-wave superconductivity (SC), a pseudogap (PG) with Fermi arcs and a strange metal (SM) with incoherent excitations and temperature-linear resistivity. These regimes ",
-      "url": "https://arxiv.org/abs/2608.09785v1"
+      "title": "Laser-Diode LiFi With Diffused-Beam Optics: System-Level Modeling and a Cross-Validated ns-3 Simulation Framework",
+      "date": "2026-08-11",
+      "id": "2608.10950v1",
+      "abstract": "Laser diodes (LDs) promise an order-of-magnitude bandwidth advantage over light-emitting diodes for indoor optical wireless access, but reported prototype studies frequently leave the gap between hard",
+      "url": "https://arxiv.org/abs/2608.10950v1"
     },
     {
-      "title": "Adiabatic Perturbations in GW170817-Compatible Einstein-Gauss-Bonnet Inflation",
-      "date": "2026-08-10",
-      "id": "2608.09783v1",
-      "abstract": "We study the adiabaticity of the cosmological perturbations in the context of inflationary Einstein-Gauss-Bonnet theories. We focus on viable inflationary Einstein-Gauss-Bonnet theories which are comp",
-      "url": "https://arxiv.org/abs/2608.09783v1"
+      "title": "Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads",
+      "date": "2026-08-11",
+      "id": "2608.11063v1",
+      "abstract": "The tight coupling of subsystems in most robots, though a natural consequence of their complexity, leads to monolithic designs that are time-consuming and difficult to adapt after initial deployment. ",
+      "url": "https://arxiv.org/abs/2608.11063v1"
     },
     {
-      "title": "Model-Based Systems Engineering Framework for SysML-Driven Design of Autonomous UAVs",
-      "date": "2026-08-10",
-      "id": "2608.09547v1",
-      "abstract": "Autonomous Unmanned Aerial Vehicles (UAVs) are complex cyber-physical systems that require the coordinated integration of flight control, navigation, perception, communication, power management, and m",
-      "url": "https://arxiv.org/abs/2608.09547v1"
+      "title": "Using Deposition Rate and Substrate Temperature to Manipulate Liquid Crystal-like Order in a Vapor-deposited Hexagonal Columnar Glass",
+      "date": "2026-08-11",
+      "id": "2608.11081v1",
+      "abstract": "We investigate vapor-deposited glasses of a phenanthroperylene-ester, known to form an equilibrium hexagonal columnar phase, and show that liquid crystal-like order can be manipulated by the choice of",
+      "url": "https://arxiv.org/abs/2608.11081v1"
     },
     {
-      "title": "Graph-Guided Safe Diffuser: Topological Graph Guidance for Safe Diffusion Planning",
-      "date": "2026-08-10",
-      "id": "2608.09484v1",
-      "abstract": "Many diffusion-based planners enforce safety through inference-time guidance, but such interleaved trajectory deformations often degrade kinematic feasibility due to manifold rupture. We propose Graph",
-      "url": "https://arxiv.org/abs/2608.09484v1"
+      "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
+      "date": "2026-08-11",
+      "id": "2608.11080v1",
+      "abstract": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban acces",
+      "url": "https://arxiv.org/abs/2608.11080v1"
     },
     {
-      "title": "Efficient Real-World Online Reinforcement Learning for Robot Manipulation via Centralized Training and Critic Decomposition",
-      "date": "2026-08-10",
-      "id": "2608.09762v1",
-      "abstract": "Real-world online reinforcement learning (RL) provides a promising approach for training robotic manipulation policies directly in the physical world, avoiding the sim-to-real gap and enabling continu",
-      "url": "https://arxiv.org/abs/2608.09762v1"
+      "title": "Multi-step deformation experiment and development of a model for the mechanical behavior of polymeric glasses",
+      "date": "2026-08-11",
+      "id": "2608.11069v1",
+      "abstract": "Traditional models for stress-strain behavior of glassy polymers are based on the assumption that the critical features of the stress-strain response can be explained by changes in the molecular mobil",
+      "url": "https://arxiv.org/abs/2608.11069v1"
     },
     {
-      "title": "Buried germanium quantum well proximitised by magnetic field-resilient superconducting platinum iridium germanosilicide",
-      "date": "2026-08-10",
-      "id": "2608.09611v1",
-      "abstract": "Hybrid superconductor-semiconductor systems provide a versatile platform for quantum technologies, ranging from superconducting-spin interfaces to topological quantum devices. Progress toward scalable",
-      "url": "https://arxiv.org/abs/2608.09611v1"
+      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+      "date": "2026-08-11",
+      "id": "2608.11200v1",
+      "abstract": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or",
+      "url": "https://arxiv.org/abs/2608.11200v1"
     },
     {
-      "title": "REFRAMED: Towards Realistic Audio Description Generation for Movies",
-      "date": "2026-08-10",
-      "id": "2608.09765v1",
-      "abstract": "Audio Description (AD) is a verbal narration of key visual content in videos, enabling access for visually impaired audiences. Unlike standard video captioning, AD is a structured editorial task: desc",
-      "url": "https://arxiv.org/abs/2608.09765v1"
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "date": "2026-08-11",
+      "id": "2608.11197v1",
+      "abstract": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dens",
+      "url": "https://arxiv.org/abs/2608.11197v1"
     },
     {
-      "title": "Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness",
-      "date": "2026-08-10",
-      "id": "2608.09766v1",
-      "abstract": "Multilingual translation benchmarks are typically sourced in English and translated into other languages, treating language pairs as the unit of evaluation---a design that is prone to contamination ov",
-      "url": "https://arxiv.org/abs/2608.09766v1"
+      "title": "Work distribution for strongly coupled many-body open quantum systems",
+      "date": "2026-08-11",
+      "id": "2608.11196v1",
+      "abstract": "The non-equilibrium quantum thermodynamics of many-body open systems is notoriously rich, especially in the strong-coupling regime where strong system-bath correlations develop and interactions produc",
+      "url": "https://arxiv.org/abs/2608.11196v1"
     },
     {
-      "title": "Quantized Stabilizer-Rényi Boundary Response across Fermionic SPT Transitions",
-      "date": "2026-08-10",
-      "id": "2608.09749v1",
-      "abstract": "Open boundaries host symmetry-protected Majorana modes, yet their imprint on the stabilizer Rényi entropy is obscured by a nonuniversal volume law. At Rényi index $α=1/2$, we isolate a bulk-subtracted",
-      "url": "https://arxiv.org/abs/2608.09749v1"
+      "title": "Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey",
+      "date": "2026-08-11",
+      "id": "2608.11156v1",
+      "abstract": "Conditional Independence (CI) tests are the statistical engine of constraint-based causal discovery: in algorithms such as PC (Peter-Clark) and FCI (Fast Causal Inference), skeleton pruning and key or",
+      "url": "https://arxiv.org/abs/2608.11156v1"
     }
   ]
 }
