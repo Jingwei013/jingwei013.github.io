@@ -1,126 +1,112 @@
 {
-  "updated": "2026-08-12 03:17 UTC",
-  "total": 17,
+  "updated": "2026-08-13 03:21 UTC",
+  "total": 15,
   "today_count": 0,
   "papers": [
     {
-      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
-      "date": "2026-08-11",
-      "id": "2608.11205v1",
-      "abstract": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However,",
-      "url": "https://arxiv.org/abs/2608.11205v1"
+      "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+      "date": "2026-08-12",
+      "id": "2608.12314v1",
+      "abstract": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-tempora",
+      "url": "https://arxiv.org/abs/2608.12314v1"
     },
     {
-      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-      "date": "2026-08-11",
-      "id": "2608.11204v1",
-      "abstract": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar",
-      "url": "https://arxiv.org/abs/2608.11204v1"
+      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+      "date": "2026-08-12",
+      "id": "2608.12313v1",
+      "abstract": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre",
+      "url": "https://arxiv.org/abs/2608.12313v1"
     },
     {
-      "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
-      "date": "2026-08-11",
-      "id": "2608.11203v1",
-      "abstract": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since huma",
-      "url": "https://arxiv.org/abs/2608.11203v1"
+      "title": "The Role Specialization Model (RSM): Coordinating LLM-Based Tools in Agentic Software Development - An Exploratory Case Study",
+      "date": "2026-08-12",
+      "id": "2608.12311v1",
+      "abstract": "The integration of large language models (LLMs) into software development workflows has given rise to a paradigm known as Agentic Software Engineering (SE 3.0), in which autonomous agents manage full ",
+      "url": "https://arxiv.org/abs/2608.12311v1"
     },
     {
-      "title": "Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments",
-      "date": "2026-08-11",
-      "id": "2608.11175v1",
-      "abstract": "For autonomous space exploration, robotic agents need to perform motion planning in which environmental interactions may be unknown. Learning these interactions, such as terrain mechanics for wheeled ",
-      "url": "https://arxiv.org/abs/2608.11175v1"
+      "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+      "date": "2026-08-12",
+      "id": "2608.12308v1",
+      "abstract": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ",
+      "url": "https://arxiv.org/abs/2608.12308v1"
     },
     {
-      "title": "CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting",
-      "date": "2026-08-11",
-      "id": "2608.11150v1",
-      "abstract": "While 3D Gaussian Splatting (3DGS) has advanced open vocabulary scene understanding, existing methods remain confined to explicit queries. They struggle to interpret implicit intents, complex spatial ",
-      "url": "https://arxiv.org/abs/2608.11150v1"
+      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+      "date": "2026-08-12",
+      "id": "2608.12290v1",
+      "abstract": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in profes",
+      "url": "https://arxiv.org/abs/2608.12290v1"
     },
     {
-      "title": "HUI360: A 360° Egocentric Dataset and Baselines for Human-Robot Interaction Anticipation",
-      "date": "2026-08-11",
-      "id": "2608.11051v1",
-      "abstract": "As robots increasingly operate in human-populated environments, anticipating human intentions is essential for enabling proactive and socially aware behavior. Automatic anticipation of human-robot int",
-      "url": "https://arxiv.org/abs/2608.11051v1"
+      "title": "Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs",
+      "date": "2026-08-12",
+      "id": "2608.12179v1",
+      "abstract": "Metric 3D object detection is a core capability for embodied agents, yet most reliable systems lean on depth sensors, trading away cost, power, and integration simplicity. This motivates monocular 3D ",
+      "url": "https://arxiv.org/abs/2608.12179v1"
     },
     {
-      "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
-      "date": "2026-08-11",
-      "id": "2608.11201v1",
-      "abstract": "Recent advances in video generation models have significantly improved the realism of synthetic videos, blurring the boundary between generated and authentic content and raising concerns about misinfo",
-      "url": "https://arxiv.org/abs/2608.11201v1"
+      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+      "date": "2026-08-12",
+      "id": "2608.12304v1",
+      "abstract": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically re",
+      "url": "https://arxiv.org/abs/2608.12304v1"
     },
     {
-      "title": "Seeing above the waves: A modular sensing framework for data acquisition at sea",
-      "date": "2026-08-11",
-      "id": "2608.10997v1",
-      "abstract": "Advancing autonomy for surface vessels requires systematic evaluation of their sensing and perception subsystems. Yet, maritime environments impose unique challenges: sensor installation is constraine",
-      "url": "https://arxiv.org/abs/2608.10997v1"
+      "title": "Emergent heavy fermion and superconductivity near Mott transition in twisted bilayer graphene",
+      "date": "2026-08-12",
+      "id": "2608.12319v1",
+      "abstract": "Near a bandwidth-tuned Mott transition, the Fermi velocity $v_F$ and quasiparticle residue $Z$ of a metal often vanish. Here, we show that analogous phenomena emerge in twisted bilayer graphene (TBG) ",
+      "url": "https://arxiv.org/abs/2608.12319v1"
     },
     {
-      "title": "Laser-Diode LiFi With Diffused-Beam Optics: System-Level Modeling and a Cross-Validated ns-3 Simulation Framework",
-      "date": "2026-08-11",
-      "id": "2608.10950v1",
-      "abstract": "Laser diodes (LDs) promise an order-of-magnitude bandwidth advantage over light-emitting diodes for indoor optical wireless access, but reported prototype studies frequently leave the gap between hard",
-      "url": "https://arxiv.org/abs/2608.10950v1"
+      "title": "Probing Impurity Quantum Criticality with Entanglement Witnesses",
+      "date": "2026-08-12",
+      "id": "2608.12317v1",
+      "abstract": "Entanglement is a defining feature of quantum mechanics, and its relation to quantum criticality is of considerable current interest. Here we show that measurable spin and charge fluctuations provide ",
+      "url": "https://arxiv.org/abs/2608.12317v1"
     },
     {
-      "title": "Deployment Is Not Destiny: Robot Recomposition in the Field with Unseen Software, Hardware, and Compute Payloads",
-      "date": "2026-08-11",
-      "id": "2608.11063v1",
-      "abstract": "The tight coupling of subsystems in most robots, though a natural consequence of their complexity, leads to monolithic designs that are time-consuming and difficult to adapt after initial deployment. ",
-      "url": "https://arxiv.org/abs/2608.11063v1"
+      "title": "Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation",
+      "date": "2026-08-12",
+      "id": "2608.12125v1",
+      "abstract": "As LLM-based agents with user-instructed goals are becoming widely deployed, they increasingly encounter each other in strategic interactions, and face challenges of finding mutually beneficial outcom",
+      "url": "https://arxiv.org/abs/2608.12125v1"
     },
     {
-      "title": "Using Deposition Rate and Substrate Temperature to Manipulate Liquid Crystal-like Order in a Vapor-deposited Hexagonal Columnar Glass",
-      "date": "2026-08-11",
-      "id": "2608.11081v1",
-      "abstract": "We investigate vapor-deposited glasses of a phenanthroperylene-ester, known to form an equilibrium hexagonal columnar phase, and show that liquid crystal-like order can be manipulated by the choice of",
-      "url": "https://arxiv.org/abs/2608.11081v1"
+      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+      "date": "2026-08-12",
+      "id": "2608.12306v1",
+      "abstract": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi",
+      "url": "https://arxiv.org/abs/2608.12306v1"
     },
     {
-      "title": "RTSKG: Building a Rail Transit Station Knowledge Graph Dataset",
-      "date": "2026-08-11",
-      "id": "2608.11080v1",
-      "abstract": "Rail transit systems play a vital role in urban mobility and economic development. As key components of such systems, rail transit stations function as critical transport hubs that enhance urban acces",
-      "url": "https://arxiv.org/abs/2608.11080v1"
+      "title": "Oil price shocks reveal unequal capacities for mobility adaptation",
+      "date": "2026-08-12",
+      "id": "2608.12281v1",
+      "abstract": "Urban decarbonization often raises the cost of travel, yet which neighbourhoods can adapt remains largely invisible under normal conditions. We leverage the 2026 US-Iran oil shock as a natural experim",
+      "url": "https://arxiv.org/abs/2608.12281v1"
     },
     {
-      "title": "Multi-step deformation experiment and development of a model for the mechanical behavior of polymeric glasses",
-      "date": "2026-08-11",
-      "id": "2608.11069v1",
-      "abstract": "Traditional models for stress-strain behavior of glassy polymers are based on the assumption that the critical features of the stress-strain response can be explained by changes in the molecular mobil",
-      "url": "https://arxiv.org/abs/2608.11069v1"
+      "title": "Digital Twin Networks for 6G Wireless Systems: Architecture, Enabling Technologies, Intelligent Control, and Open Challenges",
+      "date": "2026-08-12",
+      "id": "2608.12267v1",
+      "abstract": "The transition to the Sixth Generation (6G) of mobile networks requires proactive and deterministic orchestration to satisfy the stringent key performance indicators of future services, including ultr",
+      "url": "https://arxiv.org/abs/2608.12267v1"
     },
     {
-      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-      "date": "2026-08-11",
-      "id": "2608.11200v1",
-      "abstract": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or",
-      "url": "https://arxiv.org/abs/2608.11200v1"
+      "title": "Teaching a Large Language Model Tutor to Withhold the Answer: A Supervisor Architecture and an Evidence-Driven Method for Tuning Socratic Behavior",
+      "date": "2026-08-12",
+      "id": "2608.12292v1",
+      "abstract": "An effective large language model (LLM) tutor must often decline to give an answer it could easily produce. In a randomized study, students who used an unguarded chatbot scored higher while practicing",
+      "url": "https://arxiv.org/abs/2608.12292v1"
     },
     {
-      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-      "date": "2026-08-11",
-      "id": "2608.11197v1",
-      "abstract": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dens",
-      "url": "https://arxiv.org/abs/2608.11197v1"
-    },
-    {
-      "title": "Work distribution for strongly coupled many-body open quantum systems",
-      "date": "2026-08-11",
-      "id": "2608.11196v1",
-      "abstract": "The non-equilibrium quantum thermodynamics of many-body open systems is notoriously rich, especially in the strong-coupling regime where strong system-bath correlations develop and interactions produc",
-      "url": "https://arxiv.org/abs/2608.11196v1"
-    },
-    {
-      "title": "Conditional Independence Tests for Constraint-Based Causal Discovery: A Survey",
-      "date": "2026-08-11",
-      "id": "2608.11156v1",
-      "abstract": "Conditional Independence (CI) tests are the statistical engine of constraint-based causal discovery: in algorithms such as PC (Peter-Clark) and FCI (Fast Causal Inference), skeleton pruning and key or",
-      "url": "https://arxiv.org/abs/2608.11156v1"
+      "title": "Quantum-limited imaging using diffractive optical neural networks",
+      "date": "2026-08-12",
+      "id": "2608.12300v1",
+      "abstract": "We cast general imaging as multiparameter quantum estimation of band-limited spatial-frequency amplitudes. For separable (single-copy) measurements, we compute precision limits using semidefinite prog",
+      "url": "https://arxiv.org/abs/2608.12300v1"
     }
   ]
 }
