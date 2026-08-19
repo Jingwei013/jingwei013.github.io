@@ -1,126 +1,147 @@
 {
-  "updated": "2026-08-18 02:08 UTC",
-  "total": 17,
+  "updated": "2026-08-19 02:13 UTC",
+  "total": 20,
   "today_count": 0,
   "papers": [
     {
-      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-      "date": "2026-08-17",
-      "id": "2608.16889v1",
-      "abstract": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err",
-      "url": "https://arxiv.org/abs/2608.16889v1"
+      "title": "Hydra-0: Action Flow for Generalist World Modeling and Control",
+      "date": "2026-08-18",
+      "id": "2608.18077v1",
+      "abstract": "We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by",
+      "url": "https://arxiv.org/abs/2608.18077v1"
     },
     {
-      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-      "date": "2026-08-17",
-      "id": "2608.16887v1",
-      "abstract": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-con",
-      "url": "https://arxiv.org/abs/2608.16887v1"
+      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+      "date": "2026-08-18",
+      "id": "2608.18076v1",
+      "abstract": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen",
+      "url": "https://arxiv.org/abs/2608.18076v1"
     },
     {
-      "title": "$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
-      "date": "2026-08-17",
-      "id": "2608.16885v1",
-      "abstract": "Long-horizon robot manipulation requires a robot to both execute individual skills reliably and sequence them coherently over extended tasks. Most hierarchical vision-language-action (VLA) models make",
-      "url": "https://arxiv.org/abs/2608.16885v1"
+      "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+      "date": "2026-08-18",
+      "id": "2608.18072v1",
+      "abstract": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology",
+      "url": "https://arxiv.org/abs/2608.18072v1"
     },
     {
-      "title": "FlexWorm: Primitive-augmented Hybrid Contact-motion Planning for Suction-based Multi-segment Deformable Robots",
-      "date": "2026-08-17",
-      "id": "2608.16853v1",
-      "abstract": "Multi-segment suction-based soft robots are promising for inspection and maintenance in confined or fragile environments, but existing approaches still depend heavily on manually designed gaits and en",
-      "url": "https://arxiv.org/abs/2608.16853v1"
+      "title": "Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving",
+      "date": "2026-08-18",
+      "id": "2608.18035v1",
+      "abstract": "Traffic elements such as traffic lights and road signs play a fundamental role in human driving decisions and should naturally influence end-to-end driving performance. However, existing end-to-end dr",
+      "url": "https://arxiv.org/abs/2608.18035v1"
     },
     {
-      "title": "Security of Foundation-Model-Powered Embodied Agents: Attack Surfaces, Attacks, Defenses, and Evaluation",
-      "date": "2026-08-17",
-      "id": "2608.16843v1",
-      "abstract": "Foundation models are increasingly used for perception, reasoning, planning, and action generation in embodied agents, creating security risks that can propagate from digital inputs to physical behavi",
-      "url": "https://arxiv.org/abs/2608.16843v1"
+      "title": "Dressed magnon dynamics in a Bose-Hubbard bath: retardation, pairing, entanglement and two-magnon scattering",
+      "date": "2026-08-18",
+      "id": "2608.17980v1",
+      "abstract": "We study one- and two-magnon dynamics in a spin-$1/2$ XX chain coupled to a tunable Bose-Hubbard bath. The XX Hamiltonian transports the magnons, while the bath dresses their motion and mediates an ef",
+      "url": "https://arxiv.org/abs/2608.17980v1"
     },
     {
-      "title": "Impression Share Prediction: An Offline Evaluation Task for Ranking Systems",
-      "date": "2026-08-17",
-      "id": "2608.16872v1",
-      "abstract": "Offline evaluation is a major gateway before online evaluation of ranking models in A/B testing. Standard offline metrics measure predictive accuracy, but are only a surrogate for downstream utility: ",
-      "url": "https://arxiv.org/abs/2608.16872v1"
+      "title": "Observations of Disrupted CME Material Falling Back Into the Low Corona",
+      "date": "2026-08-18",
+      "id": "2608.17951v1",
+      "abstract": "We present an empirical study of a disrupted CME, parts of which fall back to the Sun, using observations from SOHO, STEREO-A, and SDO. At UT 18:00 on 2024 August 16, a slow CME is overtaken by a fast",
+      "url": "https://arxiv.org/abs/2608.17951v1"
     },
     {
-      "title": "Topology-Aware Differentiable Triangle-Soup Reconstruction via Persistent Homology",
-      "date": "2026-08-17",
-      "id": "2608.16848v1",
-      "abstract": "Differentiable triangle-soup reconstruction inherits a limitation from its objective: photometric and geometric losses cannot measure topology, so a reconstruction with a collapsed loop or a punctured",
-      "url": "https://arxiv.org/abs/2608.16848v1"
+      "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
+      "date": "2026-08-18",
+      "id": "2608.18058v1",
+      "abstract": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only dele",
+      "url": "https://arxiv.org/abs/2608.18058v1"
     },
     {
-      "title": "HAPS through the Lens of Satellites and UAVs: A Function-Level Perspective on the Emerging High Altitude Economy",
-      "date": "2026-08-17",
-      "id": "2608.16828v1",
-      "abstract": "High-Altitude Platform Stations (HAPS) operate in the lower stratosphere at 17-27 km, between satellites and Unmanned Aerial Vehicles (UAVs). For this third tier the architectural case has long outpac",
-      "url": "https://arxiv.org/abs/2608.16828v1"
+      "title": "Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry",
+      "date": "2026-08-18",
+      "id": "2608.18033v1",
+      "abstract": "Categorising invoices into the correct General Ledger (GL) code underpins financial reporting and tax compliance. This is a skilled accounting judgement rather than a routine task: the correct categor",
+      "url": "https://arxiv.org/abs/2608.18033v1"
     },
     {
-      "title": "Adaptive Repulsive Pheromone Clustering for Foraging Robot Swarms",
-      "date": "2026-08-17",
-      "id": "2608.16822v1",
-      "abstract": "The Central Place Foraging Algorithm (CPFA) combines site fidelity, pheromone-guided navigation, and uninformed random search to enable decentralized resource collection in robot swarms. However, CPFA",
-      "url": "https://arxiv.org/abs/2608.16822v1"
+      "title": "Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds",
+      "date": "2026-08-18",
+      "id": "2608.17950v1",
+      "abstract": "Large Language Models (LLMs) demonstrate remarkable multi-hop reasoning capabilities over long contexts, yet the internal mechanisms enabling these distant cognitive leaps remain poorly understood. Tr",
+      "url": "https://arxiv.org/abs/2608.17950v1"
     },
     {
-      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
-      "date": "2026-08-17",
-      "id": "2608.16837v1",
-      "abstract": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-",
-      "url": "https://arxiv.org/abs/2608.16837v1"
+      "title": "Whether LLMs Can Navigate Beliefs and Facts Depends on How You Phrase It",
+      "date": "2026-08-18",
+      "id": "2608.17809v1",
+      "abstract": "Humans naturally form and express beliefs in daily communication, e.g., \"I think the answer is 3\" or \"I suppose that's right.\" Such beliefs inevitably intertwine with fact and knowledge, making the ab",
+      "url": "https://arxiv.org/abs/2608.17809v1"
     },
     {
-      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
-      "date": "2026-08-17",
-      "id": "2608.16859v1",
-      "abstract": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollo",
-      "url": "https://arxiv.org/abs/2608.16859v1"
+      "title": "Edge-Native Embodied Intelligence for Action-Aware Wireless Edge Networks",
+      "date": "2026-08-18",
+      "id": "2608.17774v1",
+      "abstract": "Embodied intelligence is shifting artificial intelligence from passive digital perception toward active physical interaction. However, foundation-model-enabled embodied agents face a fundamental tensi",
+      "url": "https://arxiv.org/abs/2608.17774v1"
     },
     {
-      "title": "Fault-Tolerant Quantum Computation with Adversarial Errors",
-      "date": "2026-08-17",
-      "id": "2608.16857v1",
-      "abstract": "We prove a fault-tolerance theorem for quantum computation against adversarial noise. For every quantum circuit on $\\bar{N}$ logical qudits of depth $\\bar{T}$, we construct a fault-tolerant circuit on",
-      "url": "https://arxiv.org/abs/2608.16857v1"
+      "title": "Planning Against Learning in Rank-1 Games",
+      "date": "2026-08-18",
+      "id": "2608.18067v1",
+      "abstract": "Learning algorithms are often used to make decisions in repeated multi-agent environments. When another player understands how a learner adapts from past experience, that player can plan strategically",
+      "url": "https://arxiv.org/abs/2608.18067v1"
     },
     {
-      "title": "A Local Central Limit Theorem for Clique Counts in Sparse Random Graphs",
-      "date": "2026-08-17",
-      "id": "2608.16882v1",
-      "abstract": "Let $X_H$ denote the number of copies of a fixed graph $H$ in $G_{n, p}$. Gilmer and Kopparty conjectured that $X_H$ satisfies a local central limit theorem (LCLT) provided that $H$ is connected, $p \\",
-      "url": "https://arxiv.org/abs/2608.16882v1"
+      "title": "The concentration game: Bayesian updating, regret, and information",
+      "date": "2026-08-18",
+      "id": "2608.18061v1",
+      "abstract": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies th",
+      "url": "https://arxiv.org/abs/2608.18061v1"
     },
     {
-      "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
-      "date": "2026-08-17",
-      "id": "2608.16878v1",
-      "abstract": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the ",
-      "url": "https://arxiv.org/abs/2608.16878v1"
+      "title": "Ultrafast and high resolution spatial light modulation for cold atoms",
+      "date": "2026-08-18",
+      "id": "2608.18071v1",
+      "abstract": "Programmable arrays of ultracold atoms are a leading platform for quantum computation and simulation, enabling state-of-the-art implementations of quantum error correction, and analog simulations of H",
+      "url": "https://arxiv.org/abs/2608.18071v1"
     },
     {
-      "title": "Truncation of the Radial Ladder in Heavy Quarkonia",
-      "date": "2026-08-17",
-      "id": "2608.16875v1",
-      "abstract": "A fundamental open question in hadron spectroscopy is whether the radial excitation ladder of quarkonia truncates at a finite level---a possibility that would challenge the conventional quark-antiquar",
-      "url": "https://arxiv.org/abs/2608.16875v1"
+      "title": "Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States",
+      "date": "2026-08-18",
+      "id": "2608.18065v1",
+      "abstract": "Neural Quantum States (NQS) provide a powerful neural network-based variational framework for representing many-body wave functions and solving for ground states. Recurrent Neural Networks (RNNs) are ",
+      "url": "https://arxiv.org/abs/2608.18065v1"
     },
     {
-      "title": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
-      "date": "2026-08-17",
-      "id": "2608.16863v1",
-      "abstract": "Generating photorealistic novel views from unposed images requires both 3D geometric understanding and the ability to synthesize unseen content. A natural strategy combines feed-forward 3DGS reconstru",
-      "url": "https://arxiv.org/abs/2608.16863v1"
+      "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+      "date": "2026-08-18",
+      "id": "2608.18066v1",
+      "abstract": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ",
+      "url": "https://arxiv.org/abs/2608.18066v1"
     },
     {
-      "title": "Simplicial Actions for Distributed Protocols",
-      "date": "2026-08-17",
-      "id": "2608.16881v1",
-      "abstract": "This paper captures and extends some of the core results from the tech memo \"A New Semantics for Belief Revision in Simplicial Complexes\". As such, we set out to explore the implementation of action m",
-      "url": "https://arxiv.org/abs/2608.16881v1"
+      "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+      "date": "2026-08-18",
+      "id": "2608.18063v1",
+      "abstract": "High-resolution image editing is increasingly demanded in professional workflows, yet existing diffusion-based models remain constrained to resolutions below 1K due to quadratic attention complexity a",
+      "url": "https://arxiv.org/abs/2608.18063v1"
+    },
+    {
+      "title": "Achieving Long Retention in Area-Dependent Resistive Memory with Phase-Separated Amorphous Tantalum Oxide",
+      "date": "2026-08-18",
+      "id": "2608.18059v1",
+      "abstract": "Resistive random-access memory (ReRAM) is a promising future nonvolatile memory technology. Most ReRAM exhibit a fundamental tradeoff: filament-type ReRAM provides long data retention but suffers from",
+      "url": "https://arxiv.org/abs/2608.18059v1"
+    },
+    {
+      "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+      "date": "2026-08-18",
+      "id": "2608.18041v1",
+      "abstract": "Language has two parameters. Count how often words occur together and you estimate amplitude, the strength of association. Word embeddings and attention weights refine that count, which sums every wri",
+      "url": "https://arxiv.org/abs/2608.18041v1"
+    },
+    {
+      "title": "Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation",
+      "date": "2026-08-18",
+      "id": "2608.18034v1",
+      "abstract": "Academic surveys play a central role in organizing rapidly expanding scholarly literature, yet their construction requires extensive paper analysis, coherent knowledge organization, fine-grained citat",
+      "url": "https://arxiv.org/abs/2608.18034v1"
     }
   ]
 }
