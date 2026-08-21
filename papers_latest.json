@@ -1,140 +1,147 @@
 {
-  "updated": "2026-08-20 02:12 UTC",
-  "total": 19,
+  "updated": "2026-08-21 02:16 UTC",
+  "total": 20,
   "today_count": 0,
   "papers": [
     {
-      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-      "date": "2026-08-19",
-      "id": "2608.19197v1",
-      "abstract": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ",
-      "url": "https://arxiv.org/abs/2608.19197v1"
+      "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+      "date": "2026-08-20",
+      "id": "2608.20338v1",
+      "abstract": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel",
+      "url": "https://arxiv.org/abs/2608.20338v1"
     },
     {
-      "title": "Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act",
-      "date": "2026-08-19",
-      "id": "2608.19194v1",
-      "abstract": "Legal cross-references are commonly represented as links between instruments or provisions. For a curated legal knowledge base, the existence of a link is only the beginning of the claim: it must also",
-      "url": "https://arxiv.org/abs/2608.19194v1"
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "date": "2026-08-20",
+      "id": "2608.20335v1",
+      "abstract": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla",
+      "url": "https://arxiv.org/abs/2608.20335v1"
     },
     {
-      "title": "SiNMULI: Novel Signed Network Approach for Malicious URL Identification",
-      "date": "2026-08-19",
-      "id": "2608.19190v1",
-      "abstract": "In today's era of rapid advancements in artificial intelligence, computer security and online safeguarding measures have undergone significant improvements. However, malicious websites continue to fac",
-      "url": "https://arxiv.org/abs/2608.19190v1"
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "date": "2026-08-20",
+      "id": "2608.20336v1",
+      "abstract": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct ",
+      "url": "https://arxiv.org/abs/2608.20336v1"
     },
     {
-      "title": "Autonomous Agricultural Tractor: Integrated Weed Detection and LiDAR Navigation for Precision Paddy Farming",
-      "date": "2026-08-19",
-      "id": "2608.19004v1",
-      "abstract": "Site-specific weed management in paddy farming offers substantial reductions in herbicide use over conventional broadcast spraying, but field deployment has been limited by three persistent challenges",
-      "url": "https://arxiv.org/abs/2608.19004v1"
+      "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery",
+      "date": "2026-08-20",
+      "id": "2608.20308v1",
+      "abstract": "Egocentric video offers scalable manipulation data for embodied AI, yet recovering metric 3D hand trajectories remains challenging due to severe object occlusion and frequent out-of-sight gaps. Existi",
+      "url": "https://arxiv.org/abs/2608.20308v1"
     },
     {
-      "title": "Hydrodynamic Brachistochrone: Conflicting Paths of Time and Energy Minima within Viscous Media",
-      "date": "2026-08-19",
-      "id": "2608.18871v1",
-      "abstract": "We experimentally and theoretically study the hydrodynamic analog of the classical brachistochrone problem: the {\\it time-} and {\\it energy-minimizing} paths for a spherical particle rolling down an i",
-      "url": "https://arxiv.org/abs/2608.18871v1"
+      "title": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
+      "date": "2026-08-20",
+      "id": "2608.20237v1",
+      "abstract": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints ",
+      "url": "https://arxiv.org/abs/2608.20237v1"
     },
     {
-      "title": "Comparing Probabilistic Influence-Spreading Centralities to Commonly-Used Centrality Measures in Directed and Weighted Networks",
-      "date": "2026-08-19",
-      "id": "2608.18797v1",
-      "abstract": "The Influence-Spreading Model (ISM) introduces three probabilistic centrality measures: out-centrality, in-centrality, and ISM betweenness centrality. Out-centrality measures the average probability t",
-      "url": "https://arxiv.org/abs/2608.18797v1"
+      "title": "Electronic Navigational Chart Change Classification",
+      "date": "2026-08-20",
+      "id": "2608.20218v1",
+      "abstract": "Electronic Navigational Charts (ENCs) are geospatial vector datasets used in maritime navigation systems that represent hydrographic and navigational information such as depths, navigational aids, tra",
+      "url": "https://arxiv.org/abs/2608.20218v1"
     },
     {
-      "title": "PartialBiGrasp: Inferring Hidden Local Geometry for Bimanual Grasping from Partial Views",
-      "date": "2026-08-19",
-      "id": "2608.19188v1",
-      "abstract": "Dual-arm robotic grasping is essential for manipulating large, heavy, and geometrically complex objects that cannot be reliably handled using a single manipulator. These large objects often contain on",
-      "url": "https://arxiv.org/abs/2608.19188v1"
+      "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
+      "date": "2026-08-20",
+      "id": "2608.20334v1",
+      "abstract": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image editing. Our goal is to explore how far a relatively small visual generator can be p",
+      "url": "https://arxiv.org/abs/2608.20334v1"
     },
     {
-      "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
-      "date": "2026-08-19",
-      "id": "2608.19182v1",
-      "abstract": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) ro",
-      "url": "https://arxiv.org/abs/2608.19182v1"
+      "title": "Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations",
+      "date": "2026-08-20",
+      "id": "2608.20340v1",
+      "abstract": "Strong light-matter interactions in optical microcavities give rise to hybrid light-matter states known as polaritons. While actively used in modern technologies, theoretical descriptions of such syst",
+      "url": "https://arxiv.org/abs/2608.20340v1"
     },
     {
-      "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
-      "date": "2026-08-19",
-      "id": "2608.19161v1",
-      "abstract": "Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent ",
-      "url": "https://arxiv.org/abs/2608.19161v1"
+      "title": "Information on trajectories: martingales and random times",
+      "date": "2026-08-20",
+      "id": "2608.20337v1",
+      "abstract": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ",
+      "url": "https://arxiv.org/abs/2608.20337v1"
     },
     {
-      "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
-      "date": "2026-08-19",
-      "id": "2608.19181v1",
-      "abstract": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor local",
-      "url": "https://arxiv.org/abs/2608.19181v1"
+      "title": "Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study",
+      "date": "2026-08-20",
+      "id": "2608.20128v1",
+      "abstract": "Digital engineering uses many models from different perspectives, creating a connected set of digital artefacts across a product's life cycle. Designers seeking a holistic view must navigate numerous ",
+      "url": "https://arxiv.org/abs/2608.20128v1"
     },
     {
-      "title": "Local Structure and Dynamics of Three-Dimensional Covalent Organic Frameworks",
-      "date": "2026-08-19",
-      "id": "2608.19106v1",
-      "abstract": "Resolving and controlling the local dynamical properties of covalent organic frameworks (COFs) remains a central challenge, particularly when assembled from large, flexible building units. Here, we co",
-      "url": "https://arxiv.org/abs/2608.19106v1"
+      "title": "Video2DoorTraversal: Push Door Traversal via Simulated Door Twins",
+      "date": "2026-08-20",
+      "id": "2608.20251v1",
+      "abstract": "Door opening and traversal is a long-horizon loco-manipulation task that requires precise handle interaction and coordinated base-arm control. We present Video2DoorTraversal, a single-video real-to-si",
+      "url": "https://arxiv.org/abs/2608.20251v1"
     },
     {
-      "title": "GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting",
-      "date": "2026-08-19",
-      "id": "2608.19066v1",
-      "abstract": "This paper proposes a lightweight, plug-and-play framework that improves robustness to viewpoint shifts in Vision-Language-Action (VLA) policies without policy retraining. To our knowledge, this is th",
-      "url": "https://arxiv.org/abs/2608.19066v1"
+      "title": "Synchronization and Channel Estimation of OTFS with RF Impairments",
+      "date": "2026-08-20",
+      "id": "2608.20257v1",
+      "abstract": "Orthogonal Time Frequency Space (OTFS) modulation is a promising waveform for future wireless networks. However, its resilience to RF impairments remains relatively understudied. Low-cost RF front end",
+      "url": "https://arxiv.org/abs/2608.20257v1"
     },
     {
-      "title": "Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets",
-      "date": "2026-08-19",
-      "id": "2608.19147v1",
-      "abstract": "Modern Intel AI PCs ship capable integrated GPUs and NPUs with 16+ GB of unified memory, and they spend considerable time idle. That is not enough memory to fit a large model such as a 70B-parameter L",
-      "url": "https://arxiv.org/abs/2608.19147v1"
+      "title": "Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation",
+      "date": "2026-08-20",
+      "id": "2608.20226v1",
+      "abstract": "We study the translocation of a polymer chain through a nanopore where the chain length fluctuates stochastically due to the polymerization-depolymerization processes at the chain ends. We map this pr",
+      "url": "https://arxiv.org/abs/2608.20226v1"
     },
     {
-      "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
-      "date": "2026-08-19",
-      "id": "2608.19171v1",
-      "abstract": "Deep models for irregularly-sampled time series answer queries at arbitrary continuous timestamps, yet report nothing about how far each answer should be trusted. We show the attention layer itself ca",
-      "url": "https://arxiv.org/abs/2608.19171v1"
+      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+      "date": "2026-08-20",
+      "id": "2608.20320v1",
+      "abstract": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl",
+      "url": "https://arxiv.org/abs/2608.20320v1"
     },
     {
-      "title": "Entry growth in Gaussian elimination",
-      "date": "2026-08-19",
-      "id": "2608.19189v1",
-      "abstract": "Gaussian elimination is one of the oldest algorithms in mathematics, and the most popular method for solving an unstructured linear system. Its stability in finite precision is controlled by its growt",
-      "url": "https://arxiv.org/abs/2608.19189v1"
+      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+      "date": "2026-08-20",
+      "id": "2608.20318v1",
+      "abstract": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a",
+      "url": "https://arxiv.org/abs/2608.20318v1"
     },
     {
-      "title": "A Fast Deterministic Algorithm for $(Δ+1)$-edge coloring in CONGEST",
-      "date": "2026-08-19",
-      "id": "2608.19184v1",
-      "abstract": "Vizing's theorem states that any graph of maximum degree $Δ$ can be properly edge-colored with $Δ+ 1$ colors (which is optimal in general). A recent breakthrough result by Bernshteyn showed that such ",
-      "url": "https://arxiv.org/abs/2608.19184v1"
+      "title": "Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy",
+      "date": "2026-08-20",
+      "id": "2608.20333v1",
+      "abstract": "For an untwisted Wess--Zumino--Witten modular tensor category $\\cC(\\mathfrak g,k)$, let $r(\\mathfrak g,k)$ be the number of simple objects and $\\cD(\\mathfrak g,k)$ its total quantum dimension. The vac",
+      "url": "https://arxiv.org/abs/2608.20333v1"
     },
     {
-      "title": "Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture",
-      "date": "2026-08-19",
-      "id": "2608.19177v1",
-      "abstract": "Ground Penetrating Radar (GPR) is a widely adopted non-destructive sensing technology for subsurface inspection in civil and transportation engineering. Despite its potential for pavement condition as",
-      "url": "https://arxiv.org/abs/2608.19177v1"
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "date": "2026-08-20",
+      "id": "2608.20331v1",
+      "abstract": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende",
+      "url": "https://arxiv.org/abs/2608.20331v1"
     },
     {
-      "title": "Continuous-Time Reinforcement Learning for Controlled Hawkes Jump-Diffusions",
-      "date": "2026-08-19",
-      "id": "2608.19151v1",
-      "abstract": "We study stochastic control of multivariate Hawkes-driven stochastic differential equations with machine learning algorithms in a non-Markovian setting. Due to the path dependence of the memory of the",
-      "url": "https://arxiv.org/abs/2608.19151v1"
+      "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+      "date": "2026-08-20",
+      "id": "2608.20314v1",
+      "abstract": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive a",
+      "url": "https://arxiv.org/abs/2608.20314v1"
     },
     {
-      "title": "Sweep-based, implicit solutions of the multidimensional BGK equation on unstructured grids",
-      "date": "2026-08-19",
-      "id": "2608.19150v1",
-      "abstract": "We present a nodal discontinuous Galerkin method for solving the Bhatnagar-Gross-Krook (BGK) kinetic equation on multi-dimensional, unstructured grids. The method uses implicit, sweep-based solvers an",
-      "url": "https://arxiv.org/abs/2608.19150v1"
+      "title": "The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics",
+      "date": "2026-08-20",
+      "id": "2608.20328v1",
+      "abstract": "Modern experiments often record nonequilibrium dynamics as sequences of discrete events whose rates depend on the realized past. We develop a fluctuation-response theory for such non-Markovian jump pr",
+      "url": "https://arxiv.org/abs/2608.20328v1"
+    },
+    {
+      "title": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
+      "date": "2026-08-20",
+      "id": "2608.20312v1",
+      "abstract": "The capability to perceive and synthesize human-human interactions is fundamental to developing intelligent digital human systems. However, existing datasets and modeling approaches are fundamentally ",
+      "url": "https://arxiv.org/abs/2608.20312v1"
     }
   ]
 }
