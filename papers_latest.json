@@ -1,147 +1,133 @@
 {
-  "updated": "2026-08-23 02:17 UTC",
-  "total": 20,
+  "updated": "2026-08-24 02:15 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-      "date": "2026-08-20",
-      "id": "2608.20338v1",
-      "abstract": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel",
-      "url": "https://arxiv.org/abs/2608.20338v1"
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "date": "2026-08-21",
+      "id": "2608.21360v1",
+      "abstract": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike tradi",
+      "url": "https://arxiv.org/abs/2608.21360v1"
     },
     {
-      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-      "date": "2026-08-20",
-      "id": "2608.20335v1",
-      "abstract": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consistent videos and lifting them into 4D Gaussian Spla",
-      "url": "https://arxiv.org/abs/2608.20335v1"
+      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "date": "2026-08-21",
+      "id": "2608.21357v1",
+      "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc",
+      "url": "https://arxiv.org/abs/2608.21357v1"
     },
     {
-      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-      "date": "2026-08-20",
-      "id": "2608.20336v1",
-      "abstract": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct ",
-      "url": "https://arxiv.org/abs/2608.20336v1"
+      "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
+      "date": "2026-08-21",
+      "id": "2608.21355v1",
+      "abstract": "Recent vision-based action models have demonstrated strong capabilities in complex manipulation, but they rarely leverage explicit object physical properties to adapt their policies. We introduce ViTa",
+      "url": "https://arxiv.org/abs/2608.21355v1"
     },
     {
-      "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery",
-      "date": "2026-08-20",
-      "id": "2608.20308v1",
-      "abstract": "Egocentric video offers scalable manipulation data for embodied AI, yet recovering metric 3D hand trajectories remains challenging due to severe object occlusion and frequent out-of-sight gaps. Existi",
-      "url": "https://arxiv.org/abs/2608.20308v1"
+      "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+      "date": "2026-08-21",
+      "id": "2608.21332v1",
+      "abstract": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in whic",
+      "url": "https://arxiv.org/abs/2608.21332v1"
     },
     {
-      "title": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
-      "date": "2026-08-20",
-      "id": "2608.20237v1",
-      "abstract": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints ",
-      "url": "https://arxiv.org/abs/2608.20237v1"
+      "title": "NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility",
+      "date": "2026-08-21",
+      "id": "2608.21330v1",
+      "abstract": "Accurate prediction of off-road vehicle motion over deformable terrain remains challenging because sinkage, slip, and traction vary with local soil conditions. Existing learning-based kinodynamic mode",
+      "url": "https://arxiv.org/abs/2608.21330v1"
     },
     {
-      "title": "Electronic Navigational Chart Change Classification",
-      "date": "2026-08-20",
-      "id": "2608.20218v1",
-      "abstract": "Electronic Navigational Charts (ENCs) are geospatial vector datasets used in maritime navigation systems that represent hydrographic and navigational information such as depths, navigational aids, tra",
-      "url": "https://arxiv.org/abs/2608.20218v1"
+      "title": "Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models",
+      "date": "2026-08-21",
+      "id": "2608.21247v1",
+      "abstract": "Token compression has become a key technique for reducing the inference cost of large foundation models, with approaches such as token pruning and KV-cache reuse widely adopted in vision-language mode",
+      "url": "https://arxiv.org/abs/2608.21247v1"
     },
     {
-      "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
-      "date": "2026-08-20",
-      "id": "2608.20334v1",
-      "abstract": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image editing. Our goal is to explore how far a relatively small visual generator can be p",
-      "url": "https://arxiv.org/abs/2608.20334v1"
+      "title": "Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction",
+      "date": "2026-08-21",
+      "id": "2608.21358v1",
+      "abstract": "Space resource acquisition and utilization, commonly referred to as Space Mining, represent critical pathways for enabling sustained human exploration and unlocking commercial opportunities in space. ",
+      "url": "https://arxiv.org/abs/2608.21358v1"
     },
     {
-      "title": "Group-theoretic treatment of strong light-matter coupling with an arbitrary number of excitations",
-      "date": "2026-08-20",
-      "id": "2608.20340v1",
-      "abstract": "Strong light-matter interactions in optical microcavities give rise to hybrid light-matter states known as polaritons. While actively used in modern technologies, theoretical descriptions of such syst",
-      "url": "https://arxiv.org/abs/2608.20340v1"
+      "title": "Indexing Long Documents for LLM-Based Analysis",
+      "date": "2026-08-21",
+      "id": "2608.21237v1",
+      "abstract": "Long documents such as clinical records, legal contracts, and scientific papers are increasingly analyzed with large language models (LLMs). Naturally, feeding the full document to the model for every",
+      "url": "https://arxiv.org/abs/2608.21237v1"
     },
     {
-      "title": "Information on trajectories: martingales and random times",
-      "date": "2026-08-20",
-      "id": "2608.20337v1",
-      "abstract": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ",
-      "url": "https://arxiv.org/abs/2608.20337v1"
+      "title": "Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs",
+      "date": "2026-08-21",
+      "id": "2608.21333v1",
+      "abstract": "A first-principles and device-level study of the quasi-two-dimensional transition-metal chalcogenide Mo$_2$SeTe$_3$ is performed. The material is found to be a weak topological semiconductor with a fi",
+      "url": "https://arxiv.org/abs/2608.21333v1"
     },
     {
-      "title": "Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study",
-      "date": "2026-08-20",
-      "id": "2608.20128v1",
-      "abstract": "Digital engineering uses many models from different perspectives, creating a connected set of digital artefacts across a product's life cycle. Designers seeking a holistic view must navigate numerous ",
-      "url": "https://arxiv.org/abs/2608.20128v1"
+      "title": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
+      "date": "2026-08-21",
+      "id": "2608.21326v1",
+      "abstract": "Autonomous AI diagnostic agents, systems that analyse patient-specific clinical data and produce diagnostic outputs or triage decisions without mandatory real-time human review, are increasingly deplo",
+      "url": "https://arxiv.org/abs/2608.21326v1"
     },
     {
-      "title": "Video2DoorTraversal: Push Door Traversal via Simulated Door Twins",
-      "date": "2026-08-20",
-      "id": "2608.20251v1",
-      "abstract": "Door opening and traversal is a long-horizon loco-manipulation task that requires precise handle interaction and coordinated base-arm control. We present Video2DoorTraversal, a single-video real-to-si",
-      "url": "https://arxiv.org/abs/2608.20251v1"
+      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+      "date": "2026-08-21",
+      "id": "2608.21345v1",
+      "abstract": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the thre",
+      "url": "https://arxiv.org/abs/2608.21345v1"
     },
     {
-      "title": "Synchronization and Channel Estimation of OTFS with RF Impairments",
-      "date": "2026-08-20",
-      "id": "2608.20257v1",
-      "abstract": "Orthogonal Time Frequency Space (OTFS) modulation is a promising waveform for future wireless networks. However, its resilience to RF impairments remains relatively understudied. Low-cost RF front end",
-      "url": "https://arxiv.org/abs/2608.20257v1"
+      "title": "Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution",
+      "date": "2026-08-21",
+      "id": "2608.21341v1",
+      "abstract": "Natural-language workflows offer a software-like interface for agents: domain experts can write reusable procedures, and agents can execute them as instructions. This promise is not yet reliable. Work",
+      "url": "https://arxiv.org/abs/2608.21341v1"
     },
     {
-      "title": "Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation",
-      "date": "2026-08-20",
-      "id": "2608.20226v1",
-      "abstract": "We study the translocation of a polymer chain through a nanopore where the chain length fluctuates stochastically due to the polymerization-depolymerization processes at the chain ends. We map this pr",
-      "url": "https://arxiv.org/abs/2608.20226v1"
+      "title": "AI with Authority, from Application to Silicon",
+      "date": "2026-08-21",
+      "id": "2608.21356v1",
+      "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif",
+      "url": "https://arxiv.org/abs/2608.21356v1"
     },
     {
-      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-      "date": "2026-08-20",
-      "id": "2608.20320v1",
-      "abstract": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workfl",
-      "url": "https://arxiv.org/abs/2608.20320v1"
+      "title": "Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism",
+      "date": "2026-08-21",
+      "id": "2608.21352v1",
+      "abstract": "We develop a reduction and transfer framework for cohomological, variational, and thermodynamic problems in fiber-contracting extensions of local homeomorphisms. Under uniform contraction along the fi",
+      "url": "https://arxiv.org/abs/2608.21352v1"
     },
     {
-      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
-      "date": "2026-08-20",
-      "id": "2608.20318v1",
-      "abstract": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a",
-      "url": "https://arxiv.org/abs/2608.20318v1"
+      "title": "Truthful Calibration Measures for Sequential Prediction",
+      "date": "2026-08-21",
+      "id": "2608.21348v1",
+      "abstract": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e",
+      "url": "https://arxiv.org/abs/2608.21348v1"
     },
     {
-      "title": "Maximal Torus Topological Entanglement Entropy in WZW Theories at Bounded Ground-State Degeneracy",
-      "date": "2026-08-20",
-      "id": "2608.20333v1",
-      "abstract": "For an untwisted Wess--Zumino--Witten modular tensor category $\\cC(\\mathfrak g,k)$, let $r(\\mathfrak g,k)$ be the number of simple objects and $\\cD(\\mathfrak g,k)$ its total quantum dimension. The vac",
-      "url": "https://arxiv.org/abs/2608.20333v1"
+      "title": "High-Energy Neutrino Constraints on memory burdened Bardeen and Kerr Primordial Black Holes",
+      "date": "2026-08-21",
+      "id": "2608.21353v1",
+      "abstract": "The quantum memory burden effect can suppress the late-time Hawking evaporation of primordial black holes (PBHs), allowing PBHs below the standard evaporation threshold of approximately $10^{15}\\,\\mat",
+      "url": "https://arxiv.org/abs/2608.21353v1"
     },
     {
-      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-      "date": "2026-08-20",
-      "id": "2608.20331v1",
-      "abstract": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende",
-      "url": "https://arxiv.org/abs/2608.20331v1"
+      "title": "Efficient Event Generation for High-Multiplicity LHC Processes: An End-to-End GPU Workflow with Normalizing Flows",
+      "date": "2026-08-21",
+      "id": "2608.21338v1",
+      "abstract": "Producing very large unweighted event samples for high-multiplicity processes is limited by expensive matrix-element evaluations and low unweighting efficiencies. We present the first end-to-end GPU-r",
+      "url": "https://arxiv.org/abs/2608.21338v1"
     },
     {
-      "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
-      "date": "2026-08-20",
-      "id": "2608.20314v1",
-      "abstract": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive a",
-      "url": "https://arxiv.org/abs/2608.20314v1"
-    },
-    {
-      "title": "The Memory Hidden in Response Fluctuations: Trajectory-Level Fluctuation-Response Theory and Inequalities for Non-Markovian Jump Dynamics",
-      "date": "2026-08-20",
-      "id": "2608.20328v1",
-      "abstract": "Modern experiments often record nonequilibrium dynamics as sequences of discrete events whose rates depend on the realized past. We develop a fluctuation-response theory for such non-Markovian jump pr",
-      "url": "https://arxiv.org/abs/2608.20328v1"
-    },
-    {
-      "title": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
-      "date": "2026-08-20",
-      "id": "2608.20312v1",
-      "abstract": "The capability to perceive and synthesize human-human interactions is fundamental to developing intelligent digital human systems. However, existing datasets and modeling approaches are fundamentally ",
-      "url": "https://arxiv.org/abs/2608.20312v1"
+      "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+      "date": "2026-08-21",
+      "id": "2608.21343v1",
+      "abstract": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many cont",
+      "url": "https://arxiv.org/abs/2608.21343v1"
     }
   ]
 }
