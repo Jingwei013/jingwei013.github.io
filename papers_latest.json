@@ -1,133 +1,168 @@
 {
-  "updated": "2026-08-24 02:15 UTC",
-  "total": 18,
+  "updated": "2026-08-25 02:11 UTC",
+  "total": 23,
   "today_count": 0,
   "papers": [
     {
-      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
-      "date": "2026-08-21",
-      "id": "2608.21360v1",
-      "abstract": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and guide users to achieve specific goals. Unlike tradi",
-      "url": "https://arxiv.org/abs/2608.21360v1"
+      "title": "How to Train a Critic Stably and Efficiently",
+      "date": "2026-08-24",
+      "id": "2608.23566v1",
+      "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token",
+      "url": "https://arxiv.org/abs/2608.23566v1"
     },
     {
-      "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-      "date": "2026-08-21",
-      "id": "2608.21357v1",
-      "abstract": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc",
-      "url": "https://arxiv.org/abs/2608.21357v1"
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "date": "2026-08-24",
+      "id": "2608.23564v1",
+      "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ",
+      "url": "https://arxiv.org/abs/2608.23564v1"
     },
     {
-      "title": "ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations",
-      "date": "2026-08-21",
-      "id": "2608.21355v1",
-      "abstract": "Recent vision-based action models have demonstrated strong capabilities in complex manipulation, but they rarely leverage explicit object physical properties to adapt their policies. We introduce ViTa",
-      "url": "https://arxiv.org/abs/2608.21355v1"
+      "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "date": "2026-08-24",
+      "id": "2608.23563v1",
+      "abstract": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th",
+      "url": "https://arxiv.org/abs/2608.23563v1"
     },
     {
-      "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
-      "date": "2026-08-21",
-      "id": "2608.21332v1",
-      "abstract": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in whic",
-      "url": "https://arxiv.org/abs/2608.21332v1"
+      "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+      "date": "2026-08-24",
+      "id": "2608.23524v1",
+      "abstract": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitiv",
+      "url": "https://arxiv.org/abs/2608.23524v1"
     },
     {
-      "title": "NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility",
-      "date": "2026-08-21",
-      "id": "2608.21330v1",
-      "abstract": "Accurate prediction of off-road vehicle motion over deformable terrain remains challenging because sinkage, slip, and traction vary with local soil conditions. Existing learning-based kinodynamic mode",
-      "url": "https://arxiv.org/abs/2608.21330v1"
+      "title": "Energy and CO2 Footprint of Climate Model Intercomparison Projects",
+      "date": "2026-08-24",
+      "id": "2608.23509v1",
+      "abstract": "Earth System Models (ESMs) rely heavily on High-Performance Computing (HPC) resources to simulate global climate. As these models evolve, their computational demands continue to grow, driven by three ",
+      "url": "https://arxiv.org/abs/2608.23509v1"
     },
     {
-      "title": "Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models",
-      "date": "2026-08-21",
-      "id": "2608.21247v1",
-      "abstract": "Token compression has become a key technique for reducing the inference cost of large foundation models, with approaches such as token pruning and KV-cache reuse widely adopted in vision-language mode",
-      "url": "https://arxiv.org/abs/2608.21247v1"
+      "title": "Reward-Free Continual Adaptation for Resilient Space Robots",
+      "date": "2026-08-24",
+      "id": "2608.23452v1",
+      "abstract": "Space robots operate in extreme environments where hardware degradation can critically compromise traditional control strategies. While continual reinforcement learning offers a promising mechanism fo",
+      "url": "https://arxiv.org/abs/2608.23452v1"
     },
     {
-      "title": "Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction",
-      "date": "2026-08-21",
-      "id": "2608.21358v1",
-      "abstract": "Space resource acquisition and utilization, commonly referred to as Space Mining, represent critical pathways for enabling sustained human exploration and unlocking commercial opportunities in space. ",
-      "url": "https://arxiv.org/abs/2608.21358v1"
+      "title": "The descendants of $z \\gtrsim 10$ JWST galaxies in the COLIBRE simulations",
+      "date": "2026-08-24",
+      "id": "2608.23558v1",
+      "abstract": "Recent observations with JWST have revealed a population of UV-bright galaxies at $z\\gtrsim 10$. This discovery naturally raises the question: what do such early galaxies evolve into by the present da",
+      "url": "https://arxiv.org/abs/2608.23558v1"
     },
     {
-      "title": "Indexing Long Documents for LLM-Based Analysis",
-      "date": "2026-08-21",
-      "id": "2608.21237v1",
-      "abstract": "Long documents such as clinical records, legal contracts, and scientific papers are increasingly analyzed with large language models (LLMs). Naturally, feeding the full document to the model for every",
-      "url": "https://arxiv.org/abs/2608.21237v1"
+      "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+      "date": "2026-08-24",
+      "id": "2608.23551v1",
+      "abstract": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders sup",
+      "url": "https://arxiv.org/abs/2608.23551v1"
     },
     {
-      "title": "Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs",
-      "date": "2026-08-21",
-      "id": "2608.21333v1",
-      "abstract": "A first-principles and device-level study of the quasi-two-dimensional transition-metal chalcogenide Mo$_2$SeTe$_3$ is performed. The material is found to be a weak topological semiconductor with a fi",
-      "url": "https://arxiv.org/abs/2608.21333v1"
+      "title": "When \"Do Not\" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls",
+      "date": "2026-08-24",
+      "id": "2608.23550v1",
+      "abstract": "In CLAUDE.md, \"do not\" is a natural-language instruction that the model interprets. Claude Code's deny is a built-in control that blocks an action before the agent can take it. Both can express the sa",
+      "url": "https://arxiv.org/abs/2608.23550v1"
     },
     {
-      "title": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
-      "date": "2026-08-21",
-      "id": "2608.21326v1",
-      "abstract": "Autonomous AI diagnostic agents, systems that analyse patient-specific clinical data and produce diagnostic outputs or triage decisions without mandatory real-time human review, are increasingly deplo",
-      "url": "https://arxiv.org/abs/2608.21326v1"
+      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "date": "2026-08-24",
+      "id": "2608.23565v1",
+      "abstract": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde",
+      "url": "https://arxiv.org/abs/2608.23565v1"
     },
     {
-      "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
-      "date": "2026-08-21",
-      "id": "2608.21345v1",
-      "abstract": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the thre",
-      "url": "https://arxiv.org/abs/2608.21345v1"
+      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
+      "date": "2026-08-24",
+      "id": "2608.23383v1",
+      "abstract": "Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended",
+      "url": "https://arxiv.org/abs/2608.23383v1"
     },
     {
-      "title": "Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution",
-      "date": "2026-08-21",
-      "id": "2608.21341v1",
-      "abstract": "Natural-language workflows offer a software-like interface for agents: domain experts can write reusable procedures, and agents can execute them as instructions. This promise is not yet reliable. Work",
-      "url": "https://arxiv.org/abs/2608.21341v1"
+      "title": "The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State",
+      "date": "2026-08-24",
+      "id": "2608.23527v1",
+      "abstract": "Massive stars characteristically form in clustered environments. Characterising young massive 'protoclusters' is therefore crucial to constraining the mechanism(s) of massive star formation, and of th",
+      "url": "https://arxiv.org/abs/2608.23527v1"
     },
     {
-      "title": "AI with Authority, from Application to Silicon",
-      "date": "2026-08-21",
-      "id": "2608.21356v1",
-      "abstract": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif",
-      "url": "https://arxiv.org/abs/2608.21356v1"
+      "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
+      "date": "2026-08-24",
+      "id": "2608.23478v1",
+      "abstract": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was dem",
+      "url": "https://arxiv.org/abs/2608.23478v1"
     },
     {
-      "title": "Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism",
-      "date": "2026-08-21",
-      "id": "2608.21352v1",
-      "abstract": "We develop a reduction and transfer framework for cohomological, variational, and thermodynamic problems in fiber-contracting extensions of local homeomorphisms. Under uniform contraction along the fi",
-      "url": "https://arxiv.org/abs/2608.21352v1"
+      "title": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
+      "date": "2026-08-24",
+      "id": "2608.23531v1",
+      "abstract": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their join",
+      "url": "https://arxiv.org/abs/2608.23531v1"
     },
     {
-      "title": "Truthful Calibration Measures for Sequential Prediction",
-      "date": "2026-08-21",
-      "id": "2608.21348v1",
-      "abstract": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e",
-      "url": "https://arxiv.org/abs/2608.21348v1"
+      "title": "Post-diffusion cooling effects on Hall-derived active lithium donor profiles in high-purity germanium",
+      "date": "2026-08-24",
+      "id": "2608.23511v1",
+      "abstract": "Lithium (Li) diffusion is commonly used to form $n^{+}$ contacts in high-purity germanium (HPGe) detectors, but the final electrically active donor profile can be sensitive to the post-diffusion therm",
+      "url": "https://arxiv.org/abs/2608.23511v1"
     },
     {
-      "title": "High-Energy Neutrino Constraints on memory burdened Bardeen and Kerr Primordial Black Holes",
-      "date": "2026-08-21",
-      "id": "2608.21353v1",
-      "abstract": "The quantum memory burden effect can suppress the late-time Hawking evaporation of primordial black holes (PBHs), allowing PBHs below the standard evaporation threshold of approximately $10^{15}\\,\\mat",
-      "url": "https://arxiv.org/abs/2608.21353v1"
+      "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+      "date": "2026-08-24",
+      "id": "2608.23541v1",
+      "abstract": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while oth",
+      "url": "https://arxiv.org/abs/2608.23541v1"
     },
     {
-      "title": "Efficient Event Generation for High-Multiplicity LHC Processes: An End-to-End GPU Workflow with Normalizing Flows",
-      "date": "2026-08-21",
-      "id": "2608.21338v1",
-      "abstract": "Producing very large unweighted event samples for high-multiplicity processes is limited by expensive matrix-element evaluations and low unweighting efficiencies. We present the first end-to-end GPU-r",
-      "url": "https://arxiv.org/abs/2608.21338v1"
+      "title": "Power-saving bounds for Thue--Mahler and Mordell equations",
+      "date": "2026-08-24",
+      "id": "2608.23559v1",
+      "abstract": "We prove a new effective bound for cubic Thue--Mahler equations with power-saving dependence on the regulator. This has some applications. First, we improve Stark's bound $\\log \\max\\{|x|,|y|\\} \\ll_ε|k",
+      "url": "https://arxiv.org/abs/2608.23559v1"
     },
     {
-      "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-      "date": "2026-08-21",
-      "id": "2608.21343v1",
-      "abstract": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many cont",
-      "url": "https://arxiv.org/abs/2608.21343v1"
+      "title": "Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics",
+      "date": "2026-08-24",
+      "id": "2608.23557v1",
+      "abstract": "We show that cavity quantum electrodynamics (QED) devices can realize dissipative Sachdev-Ye-Kitaev (SYK) physics, a paradigmatic setting for quantum chaos in open many-body systems. Ultracold fermion",
+      "url": "https://arxiv.org/abs/2608.23557v1"
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "date": "2026-08-24",
+      "id": "2608.23552v1",
+      "abstract": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long",
+      "url": "https://arxiv.org/abs/2608.23552v1"
+    },
+    {
+      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "date": "2026-08-24",
+      "id": "2608.23562v1",
+      "abstract": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed intera",
+      "url": "https://arxiv.org/abs/2608.23562v1"
+    },
+    {
+      "title": "Chimera: Efficient Multi-Vector Retrieval via GPU-CPU Co-Processing",
+      "date": "2026-08-24",
+      "id": "2608.23553v1",
+      "abstract": "Multi-vector retrieval has become a core primitive in semantic search applications that require fine-grained matching, such as information retrieval, recommender systems and bioinformatics. However, i",
+      "url": "https://arxiv.org/abs/2608.23553v1"
+    },
+    {
+      "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
+      "date": "2026-08-24",
+      "id": "2608.23549v1",
+      "abstract": "Rendering views using 3D scene representations such as Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), meshes, or even point clouds produces artifacts when input views are sparse or target v",
+      "url": "https://arxiv.org/abs/2608.23549v1"
+    },
+    {
+      "title": "The number and average length of subpaths in graphs",
+      "date": "2026-08-24",
+      "id": "2608.23542v1",
+      "abstract": "We study extremal questions on the average length and the number of subpaths in a graph. In particular, we prove the questions of Jamison (from $1983, 1984$) for the analogous concept of the average l",
+      "url": "https://arxiv.org/abs/2608.23542v1"
     }
   ]
 }
