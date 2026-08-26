@@ -1,168 +1,154 @@
 {
-  "updated": "2026-08-25 02:11 UTC",
-  "total": 23,
+  "updated": "2026-08-26 02:18 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "How to Train a Critic Stably and Efficiently",
-      "date": "2026-08-24",
-      "id": "2608.23566v1",
-      "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token",
-      "url": "https://arxiv.org/abs/2608.23566v1"
+      "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+      "date": "2026-08-25",
+      "id": "2608.24885v1",
+      "abstract": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithful",
+      "url": "https://arxiv.org/abs/2608.24885v1"
     },
     {
-      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-      "date": "2026-08-24",
-      "id": "2608.23564v1",
-      "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ",
-      "url": "https://arxiv.org/abs/2608.23564v1"
+      "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
+      "date": "2026-08-25",
+      "id": "2608.24877v1",
+      "abstract": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-bod",
+      "url": "https://arxiv.org/abs/2608.24877v1"
     },
     {
-      "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
-      "date": "2026-08-24",
-      "id": "2608.23563v1",
-      "abstract": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th",
-      "url": "https://arxiv.org/abs/2608.23563v1"
+      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "date": "2026-08-25",
+      "id": "2608.24876v1",
+      "abstract": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin",
+      "url": "https://arxiv.org/abs/2608.24876v1"
     },
     {
-      "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
-      "date": "2026-08-24",
-      "id": "2608.23524v1",
-      "abstract": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitiv",
-      "url": "https://arxiv.org/abs/2608.23524v1"
+      "title": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
+      "date": "2026-08-25",
+      "id": "2608.24764v1",
+      "abstract": "Large language model agents are moving beyond conventional retrieval-augmented generation toward direct interaction with external corpora. Direct Corpus Interaction (DCI) keeps the full corpus accessi",
+      "url": "https://arxiv.org/abs/2608.24764v1"
     },
     {
-      "title": "Energy and CO2 Footprint of Climate Model Intercomparison Projects",
-      "date": "2026-08-24",
-      "id": "2608.23509v1",
-      "abstract": "Earth System Models (ESMs) rely heavily on High-Performance Computing (HPC) resources to simulate global climate. As these models evolve, their computational demands continue to grow, driven by three ",
-      "url": "https://arxiv.org/abs/2608.23509v1"
+      "title": "Constrained Hyperparameter Optimization for Streaming Data",
+      "date": "2026-08-25",
+      "id": "2608.24712v1",
+      "abstract": "Optimization of hyperparameters is a critical factor to obtain optimal model performance. While existing research has predominantly concentrated on batch-learning scenarios, addressing the complexitie",
+      "url": "https://arxiv.org/abs/2608.24712v1"
     },
     {
-      "title": "Reward-Free Continual Adaptation for Resilient Space Robots",
-      "date": "2026-08-24",
-      "id": "2608.23452v1",
-      "abstract": "Space robots operate in extreme environments where hardware degradation can critically compromise traditional control strategies. While continual reinforcement learning offers a promising mechanism fo",
-      "url": "https://arxiv.org/abs/2608.23452v1"
+      "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
+      "date": "2026-08-25",
+      "id": "2608.24858v1",
+      "abstract": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing mini",
+      "url": "https://arxiv.org/abs/2608.24858v1"
     },
     {
-      "title": "The descendants of $z \\gtrsim 10$ JWST galaxies in the COLIBRE simulations",
-      "date": "2026-08-24",
-      "id": "2608.23558v1",
-      "abstract": "Recent observations with JWST have revealed a population of UV-bright galaxies at $z\\gtrsim 10$. This discovery naturally raises the question: what do such early galaxies evolve into by the present da",
-      "url": "https://arxiv.org/abs/2608.23558v1"
+      "title": "LeFlow: Generative Latent Flow Planning for World Models",
+      "date": "2026-08-25",
+      "id": "2608.24855v1",
+      "abstract": "Latent world models are inherently strong encoders that transform image pixel to latent embedding, yet existing world models still rely on online trajectory optimization for action planning: for every",
+      "url": "https://arxiv.org/abs/2608.24855v1"
     },
     {
-      "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
-      "date": "2026-08-24",
-      "id": "2608.23551v1",
-      "abstract": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders sup",
-      "url": "https://arxiv.org/abs/2608.23551v1"
+      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
+      "date": "2026-08-25",
+      "id": "2608.24882v1",
+      "abstract": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for effi",
+      "url": "https://arxiv.org/abs/2608.24882v1"
     },
     {
-      "title": "When \"Do Not\" Is Not Deny: Security Rules in CLAUDE.md vs Built-In Controls",
-      "date": "2026-08-24",
-      "id": "2608.23550v1",
-      "abstract": "In CLAUDE.md, \"do not\" is a natural-language instruction that the model interprets. Claude Code's deny is a built-in control that blocks an action before the agent can take it. Both can express the sa",
-      "url": "https://arxiv.org/abs/2608.23550v1"
+      "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+      "date": "2026-08-25",
+      "id": "2608.24881v1",
+      "abstract": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc",
+      "url": "https://arxiv.org/abs/2608.24881v1"
     },
     {
-      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-      "date": "2026-08-24",
-      "id": "2608.23565v1",
-      "abstract": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde",
-      "url": "https://arxiv.org/abs/2608.23565v1"
+      "title": "VIP: Variation-based Iterative-learning Planning for Robotic Navigation",
+      "date": "2026-08-25",
+      "id": "2608.24618v1",
+      "abstract": "Over the past decade, autonomous robotic systems have been increasingly deployed in applications such as surveying, search and rescue, and last-mile delivery. These applications require robots to gene",
+      "url": "https://arxiv.org/abs/2608.24618v1"
     },
     {
-      "title": "Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds",
-      "date": "2026-08-24",
-      "id": "2608.23383v1",
-      "abstract": "Video generation is progressing beyond isolated clips toward long-form narratives and interactive worlds, requiring models to preserve identities, follow user controls, and remain stable over extended",
-      "url": "https://arxiv.org/abs/2608.23383v1"
+      "title": "Security Education in Higher Education through AI-Powered Gamification",
+      "date": "2026-08-25",
+      "id": "2608.24778v1",
+      "abstract": "Cybersecurity education is facing more challenges as AI-driven attacks are becoming increasingly realistic and difficult to detect. Traditional video-based cybersecurity training in higher education o",
+      "url": "https://arxiv.org/abs/2608.24778v1"
     },
     {
-      "title": "The ALMA EGO-10 Survey of Massive Protoclusters: Correlation of 1.3 mm Continuum Source Clustering with Evolutionary State",
-      "date": "2026-08-24",
-      "id": "2608.23527v1",
-      "abstract": "Massive stars characteristically form in clustered environments. Characterising young massive 'protoclusters' is therefore crucial to constraining the mechanism(s) of massive star formation, and of th",
-      "url": "https://arxiv.org/abs/2608.23527v1"
+      "title": "Federated Sharing and Continuous Improvement of Medical Device Knowledge Artifacts: A Conceptual Model",
+      "date": "2026-08-25",
+      "id": "2608.24761v1",
+      "abstract": "Healthcare organisations use digital systems to exchange information from clinical cases. Medical centres with digital production facilities create device designs during care. These designs and produc",
+      "url": "https://arxiv.org/abs/2608.24761v1"
     },
     {
-      "title": "Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models",
-      "date": "2026-08-24",
-      "id": "2608.23478v1",
-      "abstract": "Vision-Language-Action (VLA) models can turn multimodal context into robot actions, but their action decoders are still trained largely by behavior cloning. This supervises which motor command was dem",
-      "url": "https://arxiv.org/abs/2608.23478v1"
+      "title": "Who Falls for SMiSh? Learning Through Survey Data Where to Best Target Awareness Training for Mobile Messaging Attacks",
+      "date": "2026-08-25",
+      "id": "2608.24669v1",
+      "abstract": "As mobile phone adoption has surged, so have scams involving these devices. One such scam, known as SMiShing (or smishing) after Short Message Service (SMS), involves fraudsters sending phishing links",
+      "url": "https://arxiv.org/abs/2608.24669v1"
     },
     {
-      "title": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
-      "date": "2026-08-24",
-      "id": "2608.23531v1",
-      "abstract": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their join",
-      "url": "https://arxiv.org/abs/2608.23531v1"
+      "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+      "date": "2026-08-25",
+      "id": "2608.24865v1",
+      "abstract": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this proble",
+      "url": "https://arxiv.org/abs/2608.24865v1"
     },
     {
-      "title": "Post-diffusion cooling effects on Hall-derived active lithium donor profiles in high-purity germanium",
-      "date": "2026-08-24",
-      "id": "2608.23511v1",
-      "abstract": "Lithium (Li) diffusion is commonly used to form $n^{+}$ contacts in high-purity germanium (HPGe) detectors, but the final electrically active donor profile can be sensitive to the post-diffusion therm",
-      "url": "https://arxiv.org/abs/2608.23511v1"
+      "title": "Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code",
+      "date": "2026-08-25",
+      "id": "2608.24857v1",
+      "abstract": "Large Language Models (LLMs) increasingly generate code from natural-language prompts, making prompt engineering a key mechanism for shaping the security of generated software. Structured and security",
+      "url": "https://arxiv.org/abs/2608.24857v1"
     },
     {
-      "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
-      "date": "2026-08-24",
-      "id": "2608.23541v1",
-      "abstract": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Chen et al., 2025), and mixture-of-agents synthesis (Wang et al., 2025), while oth",
-      "url": "https://arxiv.org/abs/2608.23541v1"
+      "title": "Coherent Direct D-MIMO Localization",
+      "date": "2026-08-25",
+      "id": "2608.24880v1",
+      "abstract": "Distributed multiple-input multiple-output (D-MIMO) is envisioned as a key deployment architecture for future wireless systems, offering improved coverage and robustness through spatial separation, an",
+      "url": "https://arxiv.org/abs/2608.24880v1"
     },
     {
-      "title": "Power-saving bounds for Thue--Mahler and Mordell equations",
-      "date": "2026-08-24",
-      "id": "2608.23559v1",
-      "abstract": "We prove a new effective bound for cubic Thue--Mahler equations with power-saving dependence on the regulator. This has some applications. First, we improve Stark's bound $\\log \\max\\{|x|,|y|\\} \\ll_ε|k",
-      "url": "https://arxiv.org/abs/2608.23559v1"
+      "title": "Oscillation of partial sums of the Möbius function and zeros of Riemann's zeta function",
+      "date": "2026-08-25",
+      "id": "2608.24878v1",
+      "abstract": "The oscillation of M(x), the partial sum of the Möbius function has been in the focus of researchers in the theory of primes since the famous conjecture of Mertens in 1905 (formulated in a weaker form",
+      "url": "https://arxiv.org/abs/2608.24878v1"
     },
     {
-      "title": "Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics",
-      "date": "2026-08-24",
-      "id": "2608.23557v1",
-      "abstract": "We show that cavity quantum electrodynamics (QED) devices can realize dissipative Sachdev-Ye-Kitaev (SYK) physics, a paradigmatic setting for quantum chaos in open many-body systems. Ultracold fermion",
-      "url": "https://arxiv.org/abs/2608.23557v1"
+      "title": "Common tiling functions with small support",
+      "date": "2026-08-25",
+      "id": "2608.24879v1",
+      "abstract": "For $N$ lattices in $\\R^d$ with volume $1$ and pairwise trivial intersections, every nonzero common tiling function has support diameter $Ω(N^{1/d})$, while for lattice families whose fundamental doma",
+      "url": "https://arxiv.org/abs/2608.24879v1"
     },
     {
-      "title": "Prime Agent: A Self-Improving RLM Harness",
-      "date": "2026-08-24",
-      "id": "2608.23552v1",
-      "abstract": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long",
-      "url": "https://arxiv.org/abs/2608.23552v1"
+      "title": "Flyby-induced high-eccentricity migration and the prevalence of hot Jupiters in M67",
+      "date": "2026-08-25",
+      "id": "2608.24874v1",
+      "abstract": "Few planetary systems form in isolation. Rather, interactions in their birth environments may sculpt their architectures or drive them into unstable configurations. Here we study the role of environme",
+      "url": "https://arxiv.org/abs/2608.24874v1"
     },
     {
-      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
-      "date": "2026-08-24",
-      "id": "2608.23562v1",
-      "abstract": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed intera",
-      "url": "https://arxiv.org/abs/2608.23562v1"
+      "title": "Fast generation of spectrally-shaped disorder, on the sphere",
+      "date": "2026-08-25",
+      "id": "2608.24867v1",
+      "abstract": "The design of disordered point patterns with desirable properties is an exciting and ongoing research endeavor, with applications ranging from materials to computer science. A successful approach in r",
+      "url": "https://arxiv.org/abs/2608.24867v1"
     },
     {
-      "title": "Chimera: Efficient Multi-Vector Retrieval via GPU-CPU Co-Processing",
-      "date": "2026-08-24",
-      "id": "2608.23553v1",
-      "abstract": "Multi-vector retrieval has become a core primitive in semantic search applications that require fine-grained matching, such as information retrieval, recommender systems and bioinformatics. However, i",
-      "url": "https://arxiv.org/abs/2608.23553v1"
-    },
-    {
-      "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
-      "date": "2026-08-24",
-      "id": "2608.23549v1",
-      "abstract": "Rendering views using 3D scene representations such as Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), meshes, or even point clouds produces artifacts when input views are sparse or target v",
-      "url": "https://arxiv.org/abs/2608.23549v1"
-    },
-    {
-      "title": "The number and average length of subpaths in graphs",
-      "date": "2026-08-24",
-      "id": "2608.23542v1",
-      "abstract": "We study extremal questions on the average length and the number of subpaths in a graph. In particular, we prove the questions of Jamison (from $1983, 1984$) for the analogous concept of the average l",
-      "url": "https://arxiv.org/abs/2608.23542v1"
+      "title": "Mod 2 magnitude cohomology ring of real hyperplane arrangements",
+      "date": "2026-08-25",
+      "id": "2608.24869v1",
+      "abstract": "Let $\\mathcal{A}$ be a finite central real hyperplane arrangement and let $\\mathcal{G}(\\mathcal{A})$ be its tope graph. Koizumi recently proved that the crossing-graded magnitude homology of $\\mathcal",
+      "url": "https://arxiv.org/abs/2608.24869v1"
     }
   ]
 }
