@@ -1,154 +1,112 @@
 {
-  "updated": "2026-08-26 02:18 UTC",
-  "total": 21,
+  "updated": "2026-08-27 10:44 UTC",
+  "total": 15,
   "today_count": 0,
   "papers": [
     {
-      "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
-      "date": "2026-08-25",
-      "id": "2608.24885v1",
-      "abstract": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithful",
-      "url": "https://arxiv.org/abs/2608.24885v1"
+      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
+      "date": "2026-08-26",
+      "id": "2608.26105v1",
+      "abstract": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c",
+      "url": "https://arxiv.org/abs/2608.26105v1"
     },
     {
-      "title": "From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms",
-      "date": "2026-08-25",
-      "id": "2608.24877v1",
-      "abstract": "Smart glasses are evolving from capture and display accessories into first-person intelligence platforms that connect human perception, persistent context, and digital or physical action. Their on-bod",
-      "url": "https://arxiv.org/abs/2608.24877v1"
+      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+      "date": "2026-08-26",
+      "id": "2608.26103v1",
+      "abstract": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task ca",
+      "url": "https://arxiv.org/abs/2608.26103v1"
     },
     {
-      "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
-      "date": "2026-08-25",
-      "id": "2608.24876v1",
-      "abstract": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin",
-      "url": "https://arxiv.org/abs/2608.24876v1"
+      "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
+      "date": "2026-08-26",
+      "id": "2608.26101v1",
+      "abstract": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are com",
+      "url": "https://arxiv.org/abs/2608.26101v1"
     },
     {
-      "title": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
-      "date": "2026-08-25",
-      "id": "2608.24764v1",
-      "abstract": "Large language model agents are moving beyond conventional retrieval-augmented generation toward direct interaction with external corpora. Direct Corpus Interaction (DCI) keeps the full corpus accessi",
-      "url": "https://arxiv.org/abs/2608.24764v1"
+      "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
+      "date": "2026-08-26",
+      "id": "2608.26074v1",
+      "abstract": "Intent misinterpretation during vehicle interactions causes recurring planning failures. We study a decision layer in which a language-guided intent module reads structured descriptors, computes a smo",
+      "url": "https://arxiv.org/abs/2608.26074v1"
     },
     {
-      "title": "Constrained Hyperparameter Optimization for Streaming Data",
-      "date": "2026-08-25",
-      "id": "2608.24712v1",
-      "abstract": "Optimization of hyperparameters is a critical factor to obtain optimal model performance. While existing research has predominantly concentrated on batch-learning scenarios, addressing the complexitie",
-      "url": "https://arxiv.org/abs/2608.24712v1"
+      "title": "VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots",
+      "date": "2026-08-26",
+      "id": "2608.26066v1",
+      "abstract": "In this paper, we present VirTooS, a Python/C# toolkit designed to implement fleet-management tasks on teams of Autonomous Mobile Robots (AMRs). VirTooS leverages the Robot Operating System (ROS) 2 an",
+      "url": "https://arxiv.org/abs/2608.26066v1"
     },
     {
-      "title": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning",
-      "date": "2026-08-25",
-      "id": "2608.24858v1",
-      "abstract": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing mini",
-      "url": "https://arxiv.org/abs/2608.24858v1"
+      "title": "One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation",
+      "date": "2026-08-26",
+      "id": "2608.26058v1",
+      "abstract": "Scaling generalist vision-language-action (VLA) policies is severely bottlenecked by the inherent heterogeneity of embodied data, which spans diverse robot morphologies, camera configurations, and low",
+      "url": "https://arxiv.org/abs/2608.26058v1"
     },
     {
-      "title": "LeFlow: Generative Latent Flow Planning for World Models",
-      "date": "2026-08-25",
-      "id": "2608.24855v1",
-      "abstract": "Latent world models are inherently strong encoders that transform image pixel to latent embedding, yet existing world models still rely on online trajectory optimization for action planning: for every",
-      "url": "https://arxiv.org/abs/2608.24855v1"
+      "title": "Multicomponent Magnetic Domain Walls in Rhombohedral Graphene",
+      "date": "2026-08-26",
+      "id": "2608.26104v1",
+      "abstract": "Spatial textures of magnetic order, such as domain walls and skyrmions, are fundamental objects in magnetism. In rhombohedral multilayer graphene, magnetic order involves spin and valley degrees of fr",
+      "url": "https://arxiv.org/abs/2608.26104v1"
     },
     {
-      "title": "Latent Action as Intention Enables Efficient Future Imagination for World Action Models",
-      "date": "2026-08-25",
-      "id": "2608.24882v1",
-      "abstract": "World action models (WAMs) improve robot control by modeling how observations evolve, but generating future observations at test time incurs substantial latency. Fast-WAM removes this process for effi",
-      "url": "https://arxiv.org/abs/2608.24882v1"
+      "title": "Fast Generative Grasping via Lie Group-Constrained MeanFlow",
+      "date": "2026-08-26",
+      "id": "2608.26076v1",
+      "abstract": "Grasp synthesis is a core task in robotic manipulation, for which the solution typically forms a multimodal distribution rather than a point estimate. Generative robotic grasping aims to learn this di",
+      "url": "https://arxiv.org/abs/2608.26076v1"
     },
     {
-      "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
-      "date": "2026-08-25",
-      "id": "2608.24881v1",
-      "abstract": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc",
-      "url": "https://arxiv.org/abs/2608.24881v1"
+      "title": "When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics",
+      "date": "2026-08-26",
+      "id": "2608.26050v1",
+      "abstract": "Autonomous robots operating in natural environments must often interact with vegetation rather than simply avoid it. In this context, traversability is typically defined from the robot's perspective, ",
+      "url": "https://arxiv.org/abs/2608.26050v1"
     },
     {
-      "title": "VIP: Variation-based Iterative-learning Planning for Robotic Navigation",
-      "date": "2026-08-25",
-      "id": "2608.24618v1",
-      "abstract": "Over the past decade, autonomous robotic systems have been increasingly deployed in applications such as surveying, search and rescue, and last-mile delivery. These applications require robots to gene",
-      "url": "https://arxiv.org/abs/2608.24618v1"
+      "title": "Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs",
+      "date": "2026-08-26",
+      "id": "2608.26069v1",
+      "abstract": "Large-kernel Convolutional Neural Networks (CNNs) deliver remarkable performance in vision tasks by significantly expanding receptive fields, yet their quadratic parameter growth critically impedes st",
+      "url": "https://arxiv.org/abs/2608.26069v1"
     },
     {
-      "title": "Security Education in Higher Education through AI-Powered Gamification",
-      "date": "2026-08-25",
-      "id": "2608.24778v1",
-      "abstract": "Cybersecurity education is facing more challenges as AI-driven attacks are becoming increasingly realistic and difficult to detect. Traditional video-based cybersecurity training in higher education o",
-      "url": "https://arxiv.org/abs/2608.24778v1"
+      "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
+      "date": "2026-08-26",
+      "id": "2608.26067v1",
+      "abstract": "Vision-Language-Action (VLA) models have demonstrated effectiveness in robot manipulation, yet state-of-the-art models such as pi0.5 operate under a single-frame paradigm, limiting their ability to re",
+      "url": "https://arxiv.org/abs/2608.26067v1"
     },
     {
-      "title": "Federated Sharing and Continuous Improvement of Medical Device Knowledge Artifacts: A Conceptual Model",
-      "date": "2026-08-25",
-      "id": "2608.24761v1",
-      "abstract": "Healthcare organisations use digital systems to exchange information from clinical cases. Medical centres with digital production facilities create device designs during care. These designs and produc",
-      "url": "https://arxiv.org/abs/2608.24761v1"
+      "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
+      "date": "2026-08-26",
+      "id": "2608.26081v1",
+      "abstract": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new su",
+      "url": "https://arxiv.org/abs/2608.26081v1"
     },
     {
-      "title": "Who Falls for SMiSh? Learning Through Survey Data Where to Best Target Awareness Training for Mobile Messaging Attacks",
-      "date": "2026-08-25",
-      "id": "2608.24669v1",
-      "abstract": "As mobile phone adoption has surged, so have scams involving these devices. One such scam, known as SMiShing (or smishing) after Short Message Service (SMS), involves fraudsters sending phishing links",
-      "url": "https://arxiv.org/abs/2608.24669v1"
+      "title": "Optimal differentiability of isotropic positive definite functions on even-dimensional spheres",
+      "date": "2026-08-26",
+      "id": "2608.26092v1",
+      "abstract": "We prove optimality of the differentiability bound for isotropic positive definite functions on every even-dimensional sphere. If the even continuation of such a function on the $d$-dimensional sphere",
+      "url": "https://arxiv.org/abs/2608.26092v1"
     },
     {
-      "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
-      "date": "2026-08-25",
-      "id": "2608.24865v1",
-      "abstract": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this proble",
-      "url": "https://arxiv.org/abs/2608.24865v1"
+      "title": "Probing the Properties of Neutral Clouds in the Vicinity of the Local Bubble: Linking three-dimensional Dust with Neutral Hydrogen Absorption",
+      "date": "2026-08-26",
+      "id": "2608.26098v1",
+      "abstract": "The Local Bubble (LB) contains significant internal structure, with many interstellar clouds lying within or on its walls. By observing time variability of atomic neutral hydrogen (HI) absorption prof",
+      "url": "https://arxiv.org/abs/2608.26098v1"
     },
     {
-      "title": "Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code",
-      "date": "2026-08-25",
-      "id": "2608.24857v1",
-      "abstract": "Large Language Models (LLMs) increasingly generate code from natural-language prompts, making prompt engineering a key mechanism for shaping the security of generated software. Structured and security",
-      "url": "https://arxiv.org/abs/2608.24857v1"
-    },
-    {
-      "title": "Coherent Direct D-MIMO Localization",
-      "date": "2026-08-25",
-      "id": "2608.24880v1",
-      "abstract": "Distributed multiple-input multiple-output (D-MIMO) is envisioned as a key deployment architecture for future wireless systems, offering improved coverage and robustness through spatial separation, an",
-      "url": "https://arxiv.org/abs/2608.24880v1"
-    },
-    {
-      "title": "Oscillation of partial sums of the Möbius function and zeros of Riemann's zeta function",
-      "date": "2026-08-25",
-      "id": "2608.24878v1",
-      "abstract": "The oscillation of M(x), the partial sum of the Möbius function has been in the focus of researchers in the theory of primes since the famous conjecture of Mertens in 1905 (formulated in a weaker form",
-      "url": "https://arxiv.org/abs/2608.24878v1"
-    },
-    {
-      "title": "Common tiling functions with small support",
-      "date": "2026-08-25",
-      "id": "2608.24879v1",
-      "abstract": "For $N$ lattices in $\\R^d$ with volume $1$ and pairwise trivial intersections, every nonzero common tiling function has support diameter $Ω(N^{1/d})$, while for lattice families whose fundamental doma",
-      "url": "https://arxiv.org/abs/2608.24879v1"
-    },
-    {
-      "title": "Flyby-induced high-eccentricity migration and the prevalence of hot Jupiters in M67",
-      "date": "2026-08-25",
-      "id": "2608.24874v1",
-      "abstract": "Few planetary systems form in isolation. Rather, interactions in their birth environments may sculpt their architectures or drive them into unstable configurations. Here we study the role of environme",
-      "url": "https://arxiv.org/abs/2608.24874v1"
-    },
-    {
-      "title": "Fast generation of spectrally-shaped disorder, on the sphere",
-      "date": "2026-08-25",
-      "id": "2608.24867v1",
-      "abstract": "The design of disordered point patterns with desirable properties is an exciting and ongoing research endeavor, with applications ranging from materials to computer science. A successful approach in r",
-      "url": "https://arxiv.org/abs/2608.24867v1"
-    },
-    {
-      "title": "Mod 2 magnitude cohomology ring of real hyperplane arrangements",
-      "date": "2026-08-25",
-      "id": "2608.24869v1",
-      "abstract": "Let $\\mathcal{A}$ be a finite central real hyperplane arrangement and let $\\mathcal{G}(\\mathcal{A})$ be its tope graph. Koizumi recently proved that the crossing-graded magnitude homology of $\\mathcal",
-      "url": "https://arxiv.org/abs/2608.24869v1"
+      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
+      "date": "2026-08-26",
+      "id": "2608.26094v1",
+      "abstract": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio",
+      "url": "https://arxiv.org/abs/2608.26094v1"
     }
   ]
 }
