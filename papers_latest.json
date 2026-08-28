@@ -1,112 +1,140 @@
 {
-  "updated": "2026-08-27 10:44 UTC",
-  "total": 15,
+  "updated": "2026-08-28 12:22 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-      "date": "2026-08-26",
-      "id": "2608.26105v1",
-      "abstract": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c",
-      "url": "https://arxiv.org/abs/2608.26105v1"
+      "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+      "date": "2026-08-27",
+      "id": "2608.27456v1",
+      "abstract": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investiga",
+      "url": "https://arxiv.org/abs/2608.27456v1"
     },
     {
-      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
-      "date": "2026-08-26",
-      "id": "2608.26103v1",
-      "abstract": "Zero-shot cross-task generalization, where a policy must execute manipulation tasks never seen during training, remains a central challenge in robot learning. In large language models, a novel task ca",
-      "url": "https://arxiv.org/abs/2608.26103v1"
+      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+      "date": "2026-08-27",
+      "id": "2608.27455v1",
+      "abstract": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa",
+      "url": "https://arxiv.org/abs/2608.27455v1"
     },
     {
-      "title": "RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing",
-      "date": "2026-08-26",
-      "id": "2608.26101v1",
-      "abstract": "Recent advances in video editing have been largely driven by large-scale instruction-based datasets. However, existing datasets still suffer from two critical limitations. First, target videos are com",
-      "url": "https://arxiv.org/abs/2608.26101v1"
+      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "date": "2026-08-27",
+      "id": "2608.27454v1",
+      "abstract": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables",
+      "url": "https://arxiv.org/abs/2608.27454v1"
     },
     {
-      "title": "Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving",
-      "date": "2026-08-26",
-      "id": "2608.26074v1",
-      "abstract": "Intent misinterpretation during vehicle interactions causes recurring planning failures. We study a decision layer in which a language-guided intent module reads structured descriptors, computes a smo",
-      "url": "https://arxiv.org/abs/2608.26074v1"
+      "title": "Reconstructing Humans and Objects in Interaction using Large Reconstruction Models",
+      "date": "2026-08-27",
+      "id": "2608.27407v1",
+      "abstract": "Estimation of Human-Object Interactions in 3D (3D HOI) is a fundamental problem in 3D computer vision with applications in AR/VR, robotics, and embodied AI. However, reconstructing these interactions ",
+      "url": "https://arxiv.org/abs/2608.27407v1"
     },
     {
-      "title": "VirTooS: A ROS 2 - Unity Virtualization Toolkit for Fleet Management of Autonomous Mobile Robots",
-      "date": "2026-08-26",
-      "id": "2608.26066v1",
-      "abstract": "In this paper, we present VirTooS, a Python/C# toolkit designed to implement fleet-management tasks on teams of Autonomous Mobile Robots (AMRs). VirTooS leverages the Robot Operating System (ROS) 2 an",
-      "url": "https://arxiv.org/abs/2608.26066v1"
+      "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+      "date": "2026-08-27",
+      "id": "2608.27406v1",
+      "abstract": "State-of-the-art action-conditioned video models are typically restricted to a single robot embodiment, preventing them from leveraging the vast corpus of heterogeneous video data that contains rich s",
+      "url": "https://arxiv.org/abs/2608.27406v1"
     },
     {
-      "title": "One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation",
-      "date": "2026-08-26",
-      "id": "2608.26058v1",
-      "abstract": "Scaling generalist vision-language-action (VLA) policies is severely bottlenecked by the inherent heterogeneity of embodied data, which spans diverse robot morphologies, camera configurations, and low",
-      "url": "https://arxiv.org/abs/2608.26058v1"
+      "title": "TTPO: Test-Time Policy Optimization",
+      "date": "2026-08-27",
+      "id": "2608.27448v1",
+      "abstract": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet ",
+      "url": "https://arxiv.org/abs/2608.27448v1"
     },
     {
-      "title": "Multicomponent Magnetic Domain Walls in Rhombohedral Graphene",
-      "date": "2026-08-26",
-      "id": "2608.26104v1",
-      "abstract": "Spatial textures of magnetic order, such as domain walls and skyrmions, are fundamental objects in magnetism. In rhombohedral multilayer graphene, magnetic order involves spin and valley degrees of fr",
-      "url": "https://arxiv.org/abs/2608.26104v1"
+      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+      "date": "2026-08-27",
+      "id": "2608.27427v1",
+      "abstract": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A si",
+      "url": "https://arxiv.org/abs/2608.27427v1"
     },
     {
-      "title": "Fast Generative Grasping via Lie Group-Constrained MeanFlow",
-      "date": "2026-08-26",
-      "id": "2608.26076v1",
-      "abstract": "Grasp synthesis is a core task in robotic manipulation, for which the solution typically forms a multimodal distribution rather than a point estimate. Generative robotic grasping aims to learn this di",
-      "url": "https://arxiv.org/abs/2608.26076v1"
+      "title": "The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6",
+      "date": "2026-08-27",
+      "id": "2608.27458v1",
+      "abstract": "While we have learned much from recent surveys of the mm-wave sky, many secondary anisotropies of the CMB remain under-explored. We consider two of these here: the anisotropic screening induced by Tho",
+      "url": "https://arxiv.org/abs/2608.27458v1"
     },
     {
-      "title": "When Obstacles Bend: Modeling Vegetation Deformation in the context of Field Robotics",
-      "date": "2026-08-26",
-      "id": "2608.26050v1",
-      "abstract": "Autonomous robots operating in natural environments must often interact with vegetation rather than simply avoid it. In this context, traversability is typically defined from the robot's perspective, ",
-      "url": "https://arxiv.org/abs/2608.26050v1"
+      "title": "Spectral Fingerprints of Gauge Theories on a Quantum Computer",
+      "date": "2026-08-27",
+      "id": "2608.27457v1",
+      "abstract": "Maximally mixed state spectral sampling is an unbiased quantum algorithm that allows for extraction of a finite-resolution spectral distribution from a Hamiltonian over potentially the entire allowed ",
+      "url": "https://arxiv.org/abs/2608.27457v1"
     },
     {
-      "title": "Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs",
-      "date": "2026-08-26",
-      "id": "2608.26069v1",
-      "abstract": "Large-kernel Convolutional Neural Networks (CNNs) deliver remarkable performance in vision tasks by significantly expanding receptive fields, yet their quadratic parameter growth critically impedes st",
-      "url": "https://arxiv.org/abs/2608.26069v1"
+      "title": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
+      "date": "2026-08-27",
+      "id": "2608.27367v1",
+      "abstract": "Joint-Embedding Predictive Architectures (JEPAs) for world modeling typically employ fixed-size Vision Transformer encoders that are over-provisioned for simple tasks and under-provisioned for complex",
+      "url": "https://arxiv.org/abs/2608.27367v1"
     },
     {
-      "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
-      "date": "2026-08-26",
-      "id": "2608.26067v1",
-      "abstract": "Vision-Language-Action (VLA) models have demonstrated effectiveness in robot manipulation, yet state-of-the-art models such as pi0.5 operate under a single-frame paradigm, limiting their ability to re",
-      "url": "https://arxiv.org/abs/2608.26067v1"
+      "title": "Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation",
+      "date": "2026-08-27",
+      "id": "2608.27158v1",
+      "abstract": "Robot crowd navigation requires safe and efficient decision-making under dense, dynamic, and multimodal human--robot interactions. Existing reinforcement-learning methods typically output a single rea",
+      "url": "https://arxiv.org/abs/2608.27158v1"
     },
     {
-      "title": "SwarmWorld: Stigmergic technological evolution in societies of language-model agents",
-      "date": "2026-08-26",
-      "id": "2608.26081v1",
-      "abstract": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new su",
-      "url": "https://arxiv.org/abs/2608.26081v1"
+      "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions",
+      "date": "2026-08-27",
+      "id": "2608.27392v1",
+      "abstract": "Camera-derived remote photoplethysmography (rPPG) is commonly validated through endpoint accuracy, but endpoint performance does not establish whether other physiological properties of source contact ",
+      "url": "https://arxiv.org/abs/2608.27392v1"
     },
     {
-      "title": "Optimal differentiability of isotropic positive definite functions on even-dimensional spheres",
-      "date": "2026-08-26",
-      "id": "2608.26092v1",
-      "abstract": "We prove optimality of the differentiability bound for isotropic positive definite functions on every even-dimensional sphere. If the even continuation of such a function on the $d$-dimensional sphere",
-      "url": "https://arxiv.org/abs/2608.26092v1"
+      "title": "FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference",
+      "date": "2026-08-27",
+      "id": "2608.27384v1",
+      "abstract": "Vision-Language-Action (VLA) models are increasingly promising for robotic manipulation, yet their real-world deployment remains bottlenecked by high inference latency and unstable asynchronous execut",
+      "url": "https://arxiv.org/abs/2608.27384v1"
     },
     {
-      "title": "Probing the Properties of Neutral Clouds in the Vicinity of the Local Bubble: Linking three-dimensional Dust with Neutral Hydrogen Absorption",
-      "date": "2026-08-26",
-      "id": "2608.26098v1",
-      "abstract": "The Local Bubble (LB) contains significant internal structure, with many interstellar clouds lying within or on its walls. By observing time variability of atomic neutral hydrogen (HI) absorption prof",
-      "url": "https://arxiv.org/abs/2608.26098v1"
+      "title": "Mobility Enhancement in Si/SiGe Quantum Well Enabled by a Buried Si Layer Trapping Oxygen Impurities",
+      "date": "2026-08-27",
+      "id": "2608.27377v1",
+      "abstract": "Reducing disorder in undoped Si/SiGe field-effect heterostructures remains an important materials challenge for scalable quantum devices, particularly electron spin qubits. Background impurities such ",
+      "url": "https://arxiv.org/abs/2608.27377v1"
     },
     {
-      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-      "date": "2026-08-26",
-      "id": "2608.26094v1",
-      "abstract": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio",
-      "url": "https://arxiv.org/abs/2608.26094v1"
+      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+      "date": "2026-08-27",
+      "id": "2608.27442v1",
+      "abstract": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al",
+      "url": "https://arxiv.org/abs/2608.27442v1"
+    },
+    {
+      "title": "Distinguishing Quantum Capacitance Signatures of a Topological Majorana Wire from a Normal Wire Segment",
+      "date": "2026-08-27",
+      "id": "2608.27452v1",
+      "abstract": "Majorana zero modes (MZMs) are spatially separated, near-zero-energy excitations expected at the ends of a topological superconducting (TS) wire. A quantum-dot interferometer can be used to probe the ",
+      "url": "https://arxiv.org/abs/2608.27452v1"
+    },
+    {
+      "title": "Leading term strandings for webs",
+      "date": "2026-08-27",
+      "id": "2608.27425v1",
+      "abstract": "A web is a plane graph encoding an invariant vector in a tensor product of fundamental representations of a quantum group. A stranding of an $\\mathfrak{sl}_n$ web is a system of colored oriented curve",
+      "url": "https://arxiv.org/abs/2608.27425v1"
+    },
+    {
+      "title": "misi: a Metric Inverted Sample Index",
+      "date": "2026-08-27",
+      "id": "2608.27422v1",
+      "abstract": "We present misi, an inverted index for approximate nearest-neighbor search over general metric spaces whose vocabulary is a random sample of the database, of size proportional to $n$. Each object is r",
+      "url": "https://arxiv.org/abs/2608.27422v1"
+    },
+    {
+      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+      "date": "2026-08-27",
+      "id": "2608.27449v1",
+      "abstract": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT",
+      "url": "https://arxiv.org/abs/2608.27449v1"
     }
   ]
 }
