@@ -1,210 +1,196 @@
 {
-  "updated": "2026-08-31 06:23 UTC",
-  "total": 29,
+  "updated": "2026-09-01 05:51 UTC",
+  "total": 27,
   "today_count": 0,
   "papers": [
     {
-      "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
-      "date": "2026-08-28",
-      "id": "2608.28576v1",
-      "abstract": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a genera",
-      "url": "https://arxiv.org/abs/2608.28576v1"
+      "title": "Context-Aware Interleaved Batching for WhisperX",
+      "date": "2026-08-31",
+      "id": "2608.31170v1",
+      "abstract": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conve",
+      "url": "https://arxiv.org/abs/2608.31170v1"
     },
     {
-      "title": "PULSAR: Pooled Unified Late-Interaction Search and Retrieval for Enterprise Visual Document RAG",
-      "date": "2026-08-28",
-      "id": "2608.28572v1",
-      "abstract": "Institutional investors search visually dense pitch decks, board packs, and diligence materials that change hourly near deal closing. OCR followed by figure verbalisation is costly to refresh at this ",
-      "url": "https://arxiv.org/abs/2608.28572v1"
+      "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "date": "2026-08-31",
+      "id": "2608.31167v1",
+      "abstract": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reacti",
+      "url": "https://arxiv.org/abs/2608.31167v1"
     },
     {
-      "title": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
-      "date": "2026-08-28",
-      "id": "2608.28568v1",
-      "abstract": "Sign language production (SLP) aims to generate continuous signing motion from spoken language, often through gloss-to-pose generation. Prior work mainly follows two paradigms. Generative models synth",
-      "url": "https://arxiv.org/abs/2608.28568v1"
+      "title": "Agentic research is oxymoronic",
+      "date": "2026-08-31",
+      "id": "2608.31161v1",
+      "abstract": "The use of agentic large language models obviates human interpretation of scientific results, and will lead to substantial distrust in the literature.",
+      "url": "https://arxiv.org/abs/2608.31161v1"
     },
     {
-      "title": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
-      "date": "2026-08-28",
-      "id": "2608.28518v1",
-      "abstract": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions being ",
-      "url": "https://arxiv.org/abs/2608.28518v1"
+      "title": "Detecting AI Impostors: How Do Middle Schoolers Identify LLM Agents in a Live Collaborative Setting?",
+      "date": "2026-08-31",
+      "id": "2608.30948v1",
+      "abstract": "LLMs can imitate how people write, which raises concerns about impersonation, trust, and detection in social settings. These concerns are especially important for adolescents, who use generative AI fr",
+      "url": "https://arxiv.org/abs/2608.30948v1"
     },
     {
-      "title": "Every Article Deserves a Video: Contextual Video Matching for Digital Publishers",
-      "date": "2026-08-28",
-      "id": "2608.28359v1",
-      "abstract": "As digital publishers face the challenge of managing massive content catalogs, the ability to effectively embed relevant video within text-based articles has become critical for both monetization and ",
-      "url": "https://arxiv.org/abs/2608.28359v1"
+      "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+      "date": "2026-08-31",
+      "id": "2608.30935v1",
+      "abstract": "Embodied navigation requires agents to translate heterogeneous goals and visual observations into actions across tasks, environments, and robot embodiments. Modern vision-language models (VLMs) alread",
+      "url": "https://arxiv.org/abs/2608.30935v1"
     },
     {
-      "title": "MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry",
-      "date": "2026-08-28",
-      "id": "2608.28315v1",
-      "abstract": "The ever-expanding volume of the chemical literature offers unprecedented opportunities to generate novel and impactful hypotheses. However, the bottleneck lies in efficiently navigating this vast kno",
-      "url": "https://arxiv.org/abs/2608.28315v1"
+      "title": "CAER: Causal Action Effect Reweighting for World Model Training",
+      "date": "2026-08-31",
+      "id": "2608.30897v1",
+      "abstract": "World models are becoming core infrastructure for embodied intelligence, with action-conditioned video generation providing controllable predictions of how scenes evolve after agent interventions. Yet",
+      "url": "https://arxiv.org/abs/2608.30897v1"
     },
     {
-      "title": "ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos",
-      "date": "2026-08-28",
-      "id": "2608.28570v1",
-      "abstract": "Identifying the underlying dynamics and 3D geometry of deformable linear objects (DLOs), such as cables, ropes, and hoses, is essential for accurate robotic manipulation, but remains challenging due t",
-      "url": "https://arxiv.org/abs/2608.28570v1"
+      "title": "Slysh haloes: the waste heat of cold computing as a submillimetre technosignature",
+      "date": "2026-08-31",
+      "id": "2608.31153v1",
+      "abstract": "Searches for Dysonian waste heat have operated almost exclusively in the mid-infrared and are therefore sensitive primarily to technology radiating at 100-600K. We argue that mature, computation-domin",
+      "url": "https://arxiv.org/abs/2608.31153v1"
     },
     {
-      "title": "Closest Normal Matrix Found Again Using Riemannian Optimization",
-      "date": "2026-08-28",
-      "id": "2608.28545v1",
-      "abstract": "We propose an approach based on Riemannian optimization to compute a nearest normal matrix to a given one. The problem can be formulated as the minimization of a smooth function either on the manifold",
-      "url": "https://arxiv.org/abs/2608.28545v1"
+      "title": "Semantic Freshness Optimal Sampling and Transmission for Gossiping Receivers",
+      "date": "2026-08-31",
+      "id": "2608.31140v1",
+      "abstract": "We study the optimal joint sampling and transmission policy for a transmitter communicating with two gossiping receivers that share information with each other, with the objective of tracking a source",
+      "url": "https://arxiv.org/abs/2608.31140v1"
     },
     {
-      "title": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
-      "date": "2026-08-28",
-      "id": "2608.28524v1",
-      "abstract": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted feat",
-      "url": "https://arxiv.org/abs/2608.28524v1"
+      "title": "Finite-energy spacetimes with torus symmetry. Cauchy stability of Einstein-Euler and Einstein-Navier-Stokes areal flows",
+      "date": "2026-08-31",
+      "id": "2608.31171v1",
+      "abstract": "We establish finite-energy Cauchy stability for vacuum and matter spacetimes with $T^2$ symmetry on $T^3$, under general constitutive equations satisfying hyperbolicity and mild asymptotic conditions ",
+      "url": "https://arxiv.org/abs/2608.31171v1"
     },
     {
-      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
-      "date": "2026-08-28",
-      "id": "2608.28589v1",
-      "abstract": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a gen",
-      "url": "https://arxiv.org/abs/2608.28589v1"
+      "title": "Strain-Tunable Spin Relaxation in Germanium from First Principles",
+      "date": "2026-08-31",
+      "id": "2608.31169v1",
+      "abstract": "Germanium is a leading platform for semiconductor spin qubits and spintronics. Yet its electron and hole spin dynamics remain understood primarily through phenomenological models. Here, we predict ele",
+      "url": "https://arxiv.org/abs/2608.31169v1"
     },
     {
-      "title": "Bounds for inertialess dynamo",
-      "date": "2026-08-28",
-      "id": "2608.28584v1",
-      "abstract": "We derive necessary conditions for instantaneous dynamo action for rotating convection. A magnetohydrodynamic model is considered in two settings: the rapidly rotating plane layer where inertia and vi",
-      "url": "https://arxiv.org/abs/2608.28584v1"
+      "title": "GAFT: Geo-Anchored Fine-Tuning for Hazard Identification from Rare Failures",
+      "date": "2026-08-31",
+      "id": "2608.30858v1",
+      "abstract": "Off-road navigation can fail when physical structures induce irrecoverable states such as high-centering or entrapment, requiring human interventions. Identifying these structures is crucial, yet chal",
+      "url": "https://arxiv.org/abs/2608.30858v1"
     },
     {
-      "title": "Layer-Controlled Intermolecular Coupling and Many-Body Effects in C$_{60}$ Films",
-      "date": "2026-08-28",
-      "id": "2608.28583v1",
-      "abstract": "Crystalline C$_{60}$ is a molecular solid whose electronic properties emerge from the interplay of intermolecular hopping, electron correlations, and electron-vibration coupling. Unlike moir$\\rm\\acute",
-      "url": "https://arxiv.org/abs/2608.28583v1"
+      "title": "LipCoder: Voice-Enabled Coding Toolkit",
+      "date": "2026-08-31",
+      "id": "2608.30793v1",
+      "abstract": "AI-assisted programming environments have accelerated software development, giving rise to new paradigms like vibe coding. However, their benefits remain largely inaccessible to visually impaired prog",
+      "url": "https://arxiv.org/abs/2608.30793v1"
     },
     {
-      "title": "STEGNav: Spatio-Temporal Event Graph Reasoning for Multimodal Lifelong Object Navigation",
-      "date": "2026-08-28",
-      "id": "2608.28279v1",
-      "abstract": "Multimodal lifelong navigation requires an agent to autonomously explore unseen environments while sequentially completing navigation tasks specified by object categories, language descriptions, or re",
-      "url": "https://arxiv.org/abs/2608.28279v1"
+      "title": "OmniRAS: Standardizing Foundation Model Training and Evaluation in Robot-Assisted Surgery",
+      "date": "2026-08-31",
+      "id": "2608.31048v1",
+      "abstract": "Few foundation models exist for robot-assisted surgery, partly because large robotic-surgery video corpora are difficult to assemble and existing models are evaluated mostly on laparoscopic benchmarks",
+      "url": "https://arxiv.org/abs/2608.31048v1"
     },
     {
-      "title": "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction",
-      "date": "2026-08-28",
-      "id": "2608.28491v1",
-      "abstract": "Predicting robot videos requires both precise motion reasoning and preservation of high-frequency appearance, yet monolithic pixel models entangle these objectives and often conceal their progress beh",
-      "url": "https://arxiv.org/abs/2608.28491v1"
+      "title": "DARP: A Calibrated Dual-Arm RGB-D-IR Dataset for Multi-View Robotic Perception",
+      "date": "2026-08-31",
+      "id": "2608.31002v1",
+      "abstract": "Robotic perception from a single viewpoint is often limited by self-occlusion and incomplete surface visibility. This paper presents DARP(Dual-Arm Robotic Perception) https://doi.org/10.21227/rmv3-be4",
+      "url": "https://arxiv.org/abs/2608.31002v1"
     },
     {
-      "title": "Renormalization-guided inverse blocking for lattice field generation: construction and validation",
-      "date": "2026-08-28",
-      "id": "2608.28580v1",
-      "abstract": "We propose an algorithm for generating lattice field configurations based on the approximate inversion of a renormalization-group blocking transformation. We optimize the blocking transformation using",
-      "url": "https://arxiv.org/abs/2608.28580v1"
+      "title": "Constant Individual Regret in General Games",
+      "date": "2026-08-31",
+      "id": "2608.31166v1",
+      "abstract": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for ",
+      "url": "https://arxiv.org/abs/2608.31166v1"
     },
     {
-      "title": "Distributed Cross-Layer Optimization for Covert Multi-Hop, Multi-Modal Networks: Exponentially Fast Convergence and Robust Tracking",
-      "date": "2026-08-28",
-      "id": "2608.28469v1",
-      "abstract": "This paper develops the first distributed cross-layer algorithm for joint congestion control, routing, scheduling, and power control in covert multi-hop, multi-modal wireless networks, where adversari",
-      "url": "https://arxiv.org/abs/2608.28469v1"
+      "title": "Semi-Autonomous Prosthesis Control Empowered by 5G and Mobile Edge Computing",
+      "date": "2026-08-31",
+      "id": "2608.31021v1",
+      "abstract": "Prosthetic hands equipped with cameras can use computer vision to plan grasps automatically, reducing cognitive effort. However, running modern vision models on wearable devices is impractical due to ",
+      "url": "https://arxiv.org/abs/2608.31021v1"
     },
     {
-      "title": "Transparency Rendering in Computer-Aided Design: Methodologies, Trade-offs, and Challenges",
-      "date": "2026-08-28",
-      "id": "2608.28310v1",
-      "abstract": "This paper surveys the state of transparency rendering in Computer-Aided Design (CAD), with a focus on both practical deployment in industrial systems and the underlying algorithms. We first review cu",
-      "url": "https://arxiv.org/abs/2608.28310v1"
+      "title": "A Universal Context-Reuse Layer for Cross-Model KV Sharing",
+      "date": "2026-08-31",
+      "id": "2608.30963v1",
+      "abstract": "Modern large language model (LLM) serving systems increasingly operate over repeated or shared context, yet each model typically performs its own prefill computation even when another model has alread",
+      "url": "https://arxiv.org/abs/2608.30963v1"
     },
     {
-      "title": "Learning to Transfer Across Modes: Towards Unified Urban Mobility Forecasting",
-      "date": "2026-08-28",
-      "id": "2608.28273v1",
-      "abstract": "Urban transportation systems consist of multiple mobility modes that coexist within the same city and exhibit complex interdependencies, leading to correlated demand dynamics across modes. However, fo",
-      "url": "https://arxiv.org/abs/2608.28273v1"
+      "title": "OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
+      "date": "2026-08-31",
+      "id": "2608.31137v1",
+      "abstract": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language ",
+      "url": "https://arxiv.org/abs/2608.31137v1"
     },
     {
-      "title": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging",
-      "date": "2026-08-28",
-      "id": "2608.28547v1",
-      "abstract": "Model merging combines multiple task-specific fine-tuned LLMs into a single multi-task model without additional training. However, merged models are known to suffer from representation bias: systemati",
-      "url": "https://arxiv.org/abs/2608.28547v1"
+      "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+      "date": "2026-08-31",
+      "id": "2608.31128v1",
+      "abstract": "Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on",
+      "url": "https://arxiv.org/abs/2608.31128v1"
     },
     {
-      "title": "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models",
-      "date": "2026-08-28",
-      "id": "2608.28541v1",
-      "abstract": "A code world model accepted by a sampling gate can be exactly right on everything the gate can see and arbitrarily wrong beyond it. We characterize what a certified model can know, and what its errors",
-      "url": "https://arxiv.org/abs/2608.28541v1"
+      "title": "When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning",
+      "date": "2026-08-31",
+      "id": "2608.31118v1",
+      "abstract": "The effect of Large Language Model (LLM) scale on ontology learning (OL) performance remains insufficiently characterized. We present a controlled evaluation of 13 models spanning dense and Mixture-of",
+      "url": "https://arxiv.org/abs/2608.31118v1"
     },
     {
-      "title": "xTRUCE: A Provably Safe Arbiter for Multi-xApp Conflict Mitigation in Agentic O-RAN",
-      "date": "2026-08-28",
-      "id": "2608.28532v1",
-      "abstract": "The open radio access network (O-RAN) is evolving toward agentic operation, where large language model (LLM)-driven xApps/rApps generate control proposals under operator intents. However, such proposa",
-      "url": "https://arxiv.org/abs/2608.28532v1"
+      "title": "Efficient search for excitable zero-modes in constrained systems",
+      "date": "2026-08-31",
+      "id": "2608.31165v1",
+      "abstract": "Kinetically constrained systems, such as those representing Rydberg atom arrays in the blockade regime, have gathered considerable attention due to the presence of atypical eigenstates in their spectr",
+      "url": "https://arxiv.org/abs/2608.31165v1"
     },
     {
-      "title": "A Formal Limitation on Learning Human Language From Textual Corpora",
-      "date": "2026-08-28",
-      "id": "2608.28560v1",
-      "abstract": "Can a listener recover what a speaker means from the form of an utterance alone? We answer this question information-theoretically, and for a listener given by any featurizer of text, including the hi",
-      "url": "https://arxiv.org/abs/2608.28560v1"
+      "title": "Trinomial containment in polynomial ideals is undecidable",
+      "date": "2026-08-31",
+      "id": "2608.31162v1",
+      "abstract": "We prove that deciding whether an ideal in a polynomial ring contains a trinomial is impossible on a Turing machine. More precisely, from an integer polynomial $P$ we compute generators of an ideal $I",
+      "url": "https://arxiv.org/abs/2608.31162v1"
     },
     {
-      "title": "Video Generative Models as Geometry Learner",
-      "date": "2026-08-28",
-      "id": "2608.28549v1",
-      "abstract": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they ei",
-      "url": "https://arxiv.org/abs/2608.28549v1"
+      "title": "Quantum Simulation of Markovian and Non-Markovian Open Quantum Dynamics in Heavy-Ion Collisions",
+      "date": "2026-08-31",
+      "id": "2608.31173v1",
+      "abstract": "We present a quantum computing framework for simulating open-quantum-system approaches based on Markovian and non-Markovian dynamics, which is relevant to heavy-ion collisions. To simulate the non-Mar",
+      "url": "https://arxiv.org/abs/2608.31173v1"
     },
     {
-      "title": "Some quartic control results for scalar-input systems",
-      "date": "2026-08-28",
-      "id": "2608.28582v1",
-      "abstract": "We investigate the role of quartic terms in the small-time local controllability of scalar-input systems. First, we prove a new sufficient condition for controllability, which exploits simultaneously ",
-      "url": "https://arxiv.org/abs/2608.28582v1"
+      "title": "Exactly flat bands beyond the chiral limit in Bistritzer--MacDonald Hamiltonians",
+      "date": "2026-08-31",
+      "id": "2608.31147v1",
+      "abstract": "The chiral limit of the Bistritzer--MacDonald model for twisted bilayer graphene has exactly flat bands at magic angles. We show that exact flatness can persist beyond the chiral limit with nonchiral ",
+      "url": "https://arxiv.org/abs/2608.31147v1"
     },
     {
-      "title": "Modular Functors with Singularities from Vertex Operator Algebras Beyond Rigidity and Finiteness",
-      "date": "2026-08-28",
-      "id": "2608.28579v1",
-      "abstract": "For a vertex operator algebra $V$ and a suitable category of its modules, we propose a construction for spaces of conformal blocks organized into an open-closed modular functor with singularities. Thi",
-      "url": "https://arxiv.org/abs/2608.28579v1"
+      "title": "Superfluid memory effect",
+      "date": "2026-08-31",
+      "id": "2608.31172v1",
+      "abstract": "We identify a memory effect produced by phonon scattering in a superfluid: a localized scattering event generates a far-field pressure pulse with vanishing time integral but a nonzero first temporal m",
+      "url": "https://arxiv.org/abs/2608.31172v1"
     },
     {
-      "title": "Blog: Survey of Optimizers",
-      "date": "2026-08-28",
-      "id": "2608.28557v1",
-      "abstract": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training ho",
-      "url": "https://arxiv.org/abs/2608.28557v1"
+      "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting",
+      "date": "2026-08-31",
+      "id": "2608.31159v1",
+      "abstract": "The bidirectional reflectance factor (BRF) characterizes the directional radiative properties of terrestrial surfaces. However, existing three-dimensional (3D) radiative transfer models require comple",
+      "url": "https://arxiv.org/abs/2608.31159v1"
     },
     {
-      "title": "ExoMOD II. A Statistical Model of Transit Timing Variations in Kepler Multi-Planet Systems",
-      "date": "2026-08-28",
-      "id": "2608.28550v1",
-      "abstract": "In Paper I (Nesvorný et al. 2026), we forward modeled transit observations of the Kepler telescope to characterize the orbital properties of close-in planetary systems. The new population model, ExoMO",
-      "url": "https://arxiv.org/abs/2608.28550v1"
-    },
-    {
-      "title": "The Erdős-Hajnal Property for the six-vertex Graph with Edge Set $\\{ab,bc,cd,de,af,bf,df\\}$",
-      "date": "2026-08-28",
-      "id": "2608.28551v1",
-      "abstract": "We prove that the six-vertex graph with edge set $\\{ab,bc,cd,de,af,bf,df\\}$ has the Erdős-Hajnal property. The proof adapts the iterative-sparsification method of Nguyen, Scott, and Seymour within the",
-      "url": "https://arxiv.org/abs/2608.28551v1"
-    },
-    {
-      "title": "Offline-Verifiable Accountability for Cross-Organization Agent Messaging: A Preserved Evidence-Bundle Approach",
-      "date": "2026-08-28",
-      "id": "2608.28542v1",
-      "abstract": "Cross-organization agent workflows require preserved evidence that remains independently verifiable during later audit or dispute review. They may involve multiple organizations, delegated actions, po",
-      "url": "https://arxiv.org/abs/2608.28542v1"
+      "title": "Local Private Information Retrieval for Graph-Based Replicated Systems",
+      "date": "2026-08-31",
+      "id": "2608.31150v1",
+      "abstract": "We rethink the definition of privacy in multi-server, graph-replicated private information retrieval (PIR) systems, by introducing a novel setting where the user's privacy is governed by the servers' ",
+      "url": "https://arxiv.org/abs/2608.31150v1"
     }
   ]
 }
