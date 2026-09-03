@@ -1,154 +1,140 @@
 {
-  "updated": "2026-09-02 05:13 UTC",
-  "total": 21,
+  "updated": "2026-09-03 05:19 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
-      "date": "2026-09-01",
-      "id": "2609.01607v1",
-      "abstract": "While unified multimodal models (UMMs) jointly perform visual understanding and generation within a single model, functional unification does not guarantee learning synergy: the two objectives may rei",
-      "url": "https://arxiv.org/abs/2609.01607v1"
+      "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+      "date": "2026-09-02",
+      "id": "2609.02887v1",
+      "abstract": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu",
+      "url": "https://arxiv.org/abs/2609.02887v1"
     },
     {
-      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
-      "date": "2026-09-01",
-      "id": "2609.01604v1",
-      "abstract": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai",
-      "url": "https://arxiv.org/abs/2609.01604v1"
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "date": "2026-09-02",
+      "id": "2609.02886v1",
+      "abstract": "We introduce SolarWM, a fully open foundation for building interactive video world models from data preparation through long-horizon inference. Training across heterogeneous data sources and video bac",
+      "url": "https://arxiv.org/abs/2609.02886v1"
     },
     {
-      "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
-      "date": "2026-09-01",
-      "id": "2609.01603v1",
-      "abstract": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation metho",
-      "url": "https://arxiv.org/abs/2609.01603v1"
+      "title": "Learning CNN Filters via Generalized Stein's Method",
+      "date": "2026-09-02",
+      "id": "2609.02875v1",
+      "abstract": "Convolutional Neural Networks (CNNs) have undoubtedly revolutionized image data analysis and the field of computer vision. As the cornerstone of CNNs, the convolution operation enables the networks to",
+      "url": "https://arxiv.org/abs/2609.02875v1"
     },
     {
-      "title": "Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation",
-      "date": "2026-09-01",
-      "id": "2609.01596v1",
-      "abstract": "Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that predi",
-      "url": "https://arxiv.org/abs/2609.01596v1"
+      "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+      "date": "2026-09-02",
+      "id": "2609.02861v1",
+      "abstract": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents",
+      "url": "https://arxiv.org/abs/2609.02861v1"
     },
     {
-      "title": "Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers",
-      "date": "2026-09-01",
-      "id": "2609.01567v1",
-      "abstract": "Vision-Language Models (VLMs) provide useful priors for interactive decision-making, but using them directly as policies is expensive and brittle: they must be queried at every step, do not improve fr",
-      "url": "https://arxiv.org/abs/2609.01567v1"
+      "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+      "date": "2026-09-02",
+      "id": "2609.02780v1",
+      "abstract": "Streaming video understanding is a critical capability for real-world applications, including embodied intelligence, autonomous driving, industrial monitoring, surveillance and early warning, and wear",
+      "url": "https://arxiv.org/abs/2609.02780v1"
     },
     {
-      "title": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
-      "date": "2026-09-01",
-      "id": "2609.01556v1",
-      "abstract": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protoco",
-      "url": "https://arxiv.org/abs/2609.01556v1"
+      "title": "HyperStyler: Low-resource Authorship Style Transfer via Context-aware Style Navigation and Hypernetworks",
+      "date": "2026-09-02",
+      "id": "2609.02772v1",
+      "abstract": "Low-resource authorship style transfer (LAST) aims to rewrite text into the style of an arbitrary target author using only a few reference examples while preserving the original meaning. Existing meth",
+      "url": "https://arxiv.org/abs/2609.02772v1"
     },
     {
-      "title": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
-      "date": "2026-09-01",
-      "id": "2609.01598v1",
-      "abstract": "Accurate segmentation of vascular structures in digital subtraction angiography (DSA) images remains challenging due to the thin, elongated, and branching nature of blood vessels. Pixel-wise deep lear",
-      "url": "https://arxiv.org/abs/2609.01598v1"
+      "title": "Discriminative World Models for Web Agents",
+      "date": "2026-09-02",
+      "id": "2609.02885v1",
+      "abstract": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR",
+      "url": "https://arxiv.org/abs/2609.02885v1"
     },
     {
-      "title": "The Rise of Verbal Reinforcement Learning",
-      "date": "2026-09-01",
-      "id": "2609.01597v1",
-      "abstract": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and moder",
-      "url": "https://arxiv.org/abs/2609.01597v1"
+      "title": "Graph Machine: Towards Better Pretraining via Edges",
+      "date": "2026-09-02",
+      "id": "2609.02881v1",
+      "abstract": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static ro",
+      "url": "https://arxiv.org/abs/2609.02881v1"
     },
     {
-      "title": "Observable- and state-selective prethermalization and bounds on prethermal lifetimes",
-      "date": "2026-09-01",
-      "id": "2609.01606v1",
-      "abstract": "Prethermalization describes long-lived intermediate regimes that precede equilibrium and can dominate experimentally accessible dynamics. Here, we show that a separation of spectral energy scales, des",
-      "url": "https://arxiv.org/abs/2609.01606v1"
+      "title": "Repairing PBE-Spurious Metallicity for HSE06-Level Screening of 2D Photocatalysts for Green Hydrogen Production",
+      "date": "2026-09-02",
+      "id": "2609.02883v1",
+      "abstract": "Semilocal PBE calculations can remove viable photocatalysts before screening by labeling narrow-gap semiconductors as metals. We address this failure mode in the Computational 2D Materials Database (C",
+      "url": "https://arxiv.org/abs/2609.02883v1"
     },
     {
-      "title": "Project management of the Canadian Hydrogen Observatory and Radio-transient Detector",
-      "date": "2026-09-01",
-      "id": "2609.01452v1",
-      "abstract": "The Canadian Hydrogen Observatory and Radio-transient Detector (CHORD) is a new drift-scan radio interferometer operating from 300-1500 MHz, optimized for 21cm intensity mapping, 21cm galaxy detection",
-      "url": "https://arxiv.org/abs/2609.01452v1"
+      "title": "Advancing Accessible Underwater Robotics: The Mini-Girona I-AUV at RAMI 2025",
+      "date": "2026-09-02",
+      "id": "2609.02605v1",
+      "abstract": "The Mini-Girona Intervention Autonomous Underwater Vehicle (I-AUV) represents an advancement in accessible underwater robotics, designed to bridge the gap between costly, specialized research AUVs and",
+      "url": "https://arxiv.org/abs/2609.02605v1"
     },
     {
-      "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
-      "date": "2026-09-01",
-      "id": "2609.01404v1",
-      "abstract": "Multimodal Large Language Models (MLLMs) are strong perceivers of images and video. We ask how far that reach extends into acting: dropping an MLLM directly into a drone's control loop, with its entir",
-      "url": "https://arxiv.org/abs/2609.01404v1"
+      "title": "Toward Robust LiDAR Semantic Segmentation for Real-World Deployment: Evaluation under Coarse Labels, Adverse Conditions, and Domain Shifts",
+      "date": "2026-09-02",
+      "id": "2609.02830v1",
+      "abstract": "LiDAR-based semantic segmentation is a core perception module for autonomous vehicles and mobile robots. Despite the strong performance of recent state-of-the-art methods on standard benchmarks, exist",
+      "url": "https://arxiv.org/abs/2609.02830v1"
     },
     {
-      "title": "A System for Fast, Resilient, and Adaptable Loco-Manipulation Behaviors on Humanoid Robots",
-      "date": "2026-09-01",
-      "id": "2609.01518v1",
-      "abstract": "There is tremendous value in humanoid robots taking on physically demanding, hazardous, and repetitive work in spaces built for humans. However, a useful robot for these spaces must coordinate locomot",
-      "url": "https://arxiv.org/abs/2609.01518v1"
+      "title": "Do Better Imagined Rollouts Mean Better Robot Control? A Controlled Study of World-Model Evaluation Under Feedback",
+      "date": "2026-09-02",
+      "id": "2609.02811v1",
+      "abstract": "Predictive models are increasingly used in robotics for state estimation, planning, control, and policy evaluation, yet they are often judged by open-loop prediction accuracy over a fixed horizon. In ",
+      "url": "https://arxiv.org/abs/2609.02811v1"
     },
     {
-      "title": "Understanding the superconducting proximity effect in semiconductors through quantum oscillations",
-      "date": "2026-09-01",
-      "id": "2609.01593v1",
-      "abstract": "Superconductor-semiconductor hybrids host emergent states of matter and offer a platform for new qubits, but the superconducting metal shunts electrical transport, which rules out conventional semicon",
-      "url": "https://arxiv.org/abs/2609.01593v1"
+      "title": "MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion",
+      "date": "2026-09-02",
+      "id": "2609.02854v1",
+      "abstract": "The 3D center of mass (CoM) is a primary quantity in the biomechanical analysis of sport, rehabilitation, and clinical movement, yet existing 3D pose tracking, mesh recovery, and multi-view triangulat",
+      "url": "https://arxiv.org/abs/2609.02854v1"
     },
     {
-      "title": "Mobile Backscatter Communication for the Battery-less Internet of Things",
-      "date": "2026-09-01",
-      "id": "2609.01465v1",
-      "abstract": "We enable backscatter communication in the battery-less mobile Internet of Things (IoT). Backscatter communication is extensively studied in static settings. Existing designs are, however, fundamental",
-      "url": "https://arxiv.org/abs/2609.01465v1"
+      "title": "HINT: Human-Intent Inception for Long-Horizon Robot Manipulation",
+      "date": "2026-09-02",
+      "id": "2609.02653v1",
+      "abstract": "Humans can perform complex manipulations given a simple intent through an overall instruction, while continuously adapting to evolving visual observations. However, current vision-language action (VLA",
+      "url": "https://arxiv.org/abs/2609.02653v1"
     },
     {
-      "title": "Better Situational Awareness in AR-HRC? A Comparative Study of Augmented Reality and Mobile Interfaces for Human-Robot Collaboration",
-      "date": "2026-09-01",
-      "id": "2609.01461v1",
-      "abstract": "Augmented reality (AR) facilitates human-robot collaboration (HRC) by enabling in-situ spatial visualizations of the robot and the joint task. However, in safety-critical HRC scenarios such as search-",
-      "url": "https://arxiv.org/abs/2609.01461v1"
+      "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+      "date": "2026-09-02",
+      "id": "2609.02859v1",
+      "abstract": "Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy an",
+      "url": "https://arxiv.org/abs/2609.02859v1"
     },
     {
-      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
-      "date": "2026-09-01",
-      "id": "2609.01601v1",
-      "abstract": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often",
-      "url": "https://arxiv.org/abs/2609.01601v1"
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "date": "2026-09-02",
+      "id": "2609.02852v1",
+      "abstract": "LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an u",
+      "url": "https://arxiv.org/abs/2609.02852v1"
     },
     {
-      "title": "Singular Weak-Field Thermodynamics of 2D Superconductors",
-      "date": "2026-09-01",
-      "id": "2609.01602v1",
-      "abstract": "In a bulk 3D type-II superconductor, the lower critical field at which an isolated vortex becomes thermodynamically favorable is a size-independent material property. We show that the situation is dif",
-      "url": "https://arxiv.org/abs/2609.01602v1"
+      "title": "Chebyshev's method applied to polynomials with rotational symmetry",
+      "date": "2026-09-02",
+      "id": "2609.02884v1",
+      "abstract": "We investigate the dynamics of Chebyshev's method applied to the polynomial family $p_n(z)=z(z^n-1)$ for $n>1$. The resulting map is denoted by $C_n$. It is proved that the immediate basins correspond",
+      "url": "https://arxiv.org/abs/2609.02884v1"
     },
     {
-      "title": "SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation",
-      "date": "2026-09-01",
-      "id": "2609.01582v1",
-      "abstract": "Complex 3D spatial text to image generation requires models to convert natural language into stable visual geometry, not merely semantic appearance. Existing prompt-driven or layout-conditioned method",
-      "url": "https://arxiv.org/abs/2609.01582v1"
+      "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+      "date": "2026-09-02",
+      "id": "2609.02876v1",
+      "abstract": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajec",
+      "url": "https://arxiv.org/abs/2609.02876v1"
     },
     {
-      "title": "Depth-1 expanders on the unitary group and applications",
-      "date": "2026-09-01",
-      "id": "2609.01605v1",
-      "abstract": "We construct a constant-degree and constant-gap quantum expander on $n$ qubits where each unitary can be implemented by a depth-$1$ and 1D circuit of Pauli or CNOT gates. We provide two applications o",
-      "url": "https://arxiv.org/abs/2609.01605v1"
-    },
-    {
-      "title": "The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally",
-      "date": "2026-09-01",
-      "id": "2609.01587v1",
-      "abstract": "Post-training quantization (PTQ) is widely used to reduce the cost of serving large language models (LLMs), but its accuracy cost is uneven and is often tuned per model. We study where quantization da",
-      "url": "https://arxiv.org/abs/2609.01587v1"
-    },
-    {
-      "title": "SG-AMP: Scene-Graph-Guided Active Perception and Semantics-Aware Motion Planning for Pepper Plants",
-      "date": "2026-09-01",
-      "id": "2609.01579v1",
-      "abstract": "We present SG-AMP, integrating robust depth completion with input-conditioned uncertainty, persistent panoptic mapping, plant scene-graph reasoning, and semantics-aware active view-motion planning. Be",
-      "url": "https://arxiv.org/abs/2609.01579v1"
+      "title": "PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation",
+      "date": "2026-09-02",
+      "id": "2609.02860v1",
+      "abstract": "Modern crop breeding demands precise organ-level analysis for trait quantification, making plant point cloud segmentation (PPCS) increasingly important. However, conventional deep learning approaches ",
+      "url": "https://arxiv.org/abs/2609.02860v1"
     }
   ]
 }
