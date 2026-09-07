@@ -1,140 +1,133 @@
 {
-  "updated": "2026-09-06 05:17 UTC",
-  "total": 19,
+  "updated": "2026-09-07 05:26 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
-      "date": "2026-09-03",
-      "id": "2609.04203v1",
-      "abstract": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method trea",
-      "url": "https://arxiv.org/abs/2609.04203v1"
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "date": "2026-09-04",
+      "id": "2609.05416v1",
+      "abstract": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes",
+      "url": "https://arxiv.org/abs/2609.05416v1"
     },
     {
-      "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
-      "date": "2026-09-03",
-      "id": "2609.04202v1",
-      "abstract": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Exist",
-      "url": "https://arxiv.org/abs/2609.04202v1"
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "date": "2026-09-04",
+      "id": "2609.05415v1",
+      "abstract": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ",
+      "url": "https://arxiv.org/abs/2609.05415v1"
     },
     {
-      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
-      "date": "2026-09-03",
-      "id": "2609.04201v1",
-      "abstract": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. S",
-      "url": "https://arxiv.org/abs/2609.04201v1"
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "date": "2026-09-04",
+      "id": "2609.05405v1",
+      "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
+      "url": "https://arxiv.org/abs/2609.05405v1"
     },
     {
-      "title": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
-      "date": "2026-09-03",
-      "id": "2609.04168v1",
-      "abstract": "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing ",
-      "url": "https://arxiv.org/abs/2609.04168v1"
+      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+      "date": "2026-09-04",
+      "id": "2609.05404v1",
+      "abstract": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences ",
+      "url": "https://arxiv.org/abs/2609.05404v1"
     },
     {
-      "title": "A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle",
-      "date": "2026-09-03",
-      "id": "2609.04147v1",
-      "abstract": "This paper presents a low-cost, open experimental platform for research in end-to-end autonomous driving with miniature Ackermann vehicles. The platform combines a physical vehicle, a printed urban tr",
-      "url": "https://arxiv.org/abs/2609.04147v1"
+      "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
+      "date": "2026-09-04",
+      "id": "2609.05324v1",
+      "abstract": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefin",
+      "url": "https://arxiv.org/abs/2609.05324v1"
     },
     {
-      "title": "MulDP: Multimodal Diffusion Policy for Autonomous Quadruped Parkour Navigation across Complex Terrains",
-      "date": "2026-09-03",
-      "id": "2609.03984v1",
-      "abstract": "Quadruped robots have demonstrated impressive agility in parkour locomotion across complex terrains. However, most systems still rely on human intervention for high-level planning, and autonomous park",
-      "url": "https://arxiv.org/abs/2609.03984v1"
+      "title": "Human-Human & Human-Robot Interaction Transformer (H2INT) for Robot Navigation in Dense and Uncertain Crowds",
+      "date": "2026-09-04",
+      "id": "2609.05300v1",
+      "abstract": "Safe robot navigation in dense crowds requires reasoning about pedestrian motion and how it may change in response to a robot. However, many learning-based approaches generate pedestrian motion indepe",
+      "url": "https://arxiv.org/abs/2609.05300v1"
     },
     {
-      "title": "Principia: Relational Physics Tests for Video Models",
-      "date": "2026-09-03",
-      "id": "2609.04200v1",
-      "abstract": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavaila",
-      "url": "https://arxiv.org/abs/2609.04200v1"
+      "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+      "date": "2026-09-04",
+      "id": "2609.05401v1",
+      "abstract": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantical",
+      "url": "https://arxiv.org/abs/2609.05401v1"
     },
     {
-      "title": "GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation",
-      "date": "2026-09-03",
-      "id": "2609.04193v1",
-      "abstract": "Vision-language pre-training and predictive world modeling provide robot policies with rich semantic and dynamic visual features, but their native action and visual-prediction objectives may omit crit",
-      "url": "https://arxiv.org/abs/2609.04193v1"
+      "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert",
+      "date": "2026-09-04",
+      "id": "2609.05413v1",
+      "abstract": "Using TESS photometry and 147 HARPS radial velocities, we confirm two extremely irradiated, volatile-rich sub-Neptunes near the lower edge of the Neptunian desert: TOI-426 b and TOI-1839 b, orbiting t",
+      "url": "https://arxiv.org/abs/2609.05413v1"
     },
     {
-      "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
-      "date": "2026-09-03",
-      "id": "2609.04190v1",
-      "abstract": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a t",
-      "url": "https://arxiv.org/abs/2609.04190v1"
+      "title": "Context-Enriched Performance Boosting via Operator Decomposition",
+      "date": "2026-09-04",
+      "id": "2609.05158v1",
+      "abstract": "Performance Boosting (PB) is a control framework that, for a pre-stabilized system subject to $\\mathcal L_p$ process disturbances, parametrizes the controllers that preserve closed-loop $\\mathcal L_p$",
+      "url": "https://arxiv.org/abs/2609.05158v1"
     },
     {
-      "title": "Reciprocity can halve what a mechanical network can learn",
-      "date": "2026-09-03",
-      "id": "2609.04169v1",
-      "abstract": "Tunable mechanical networks are being developed as materials that learn in place. Capacity is estimated by counting tunable parameters against target constraints, ignoring Maxwell-Betti reciprocity, t",
-      "url": "https://arxiv.org/abs/2609.04169v1"
+      "title": "A Schema Bounded Language Model for Refining Robot Policies Without Destabilizing Local Learning",
+      "date": "2026-09-04",
+      "id": "2609.05133v1",
+      "abstract": "This paper addresses navigation by composite heterogeneous robots in a decentralized system when policy reasoning and local control operate at different update levels. In a NetLogo--Python implementat",
+      "url": "https://arxiv.org/abs/2609.05133v1"
     },
     {
-      "title": "Wavefunctions for Anyon Superconductors",
-      "date": "2026-09-03",
-      "id": "2609.04187v1",
-      "abstract": "Anyon superconductivity arises from the condensation of mobile anyons rather than from a conventional Cooper instability, yet a systematic wavefunction description remains lacking. We develop a hierar",
-      "url": "https://arxiv.org/abs/2609.04187v1"
+      "title": "Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation",
+      "date": "2026-09-04",
+      "id": "2609.05369v1",
+      "abstract": "Vision-language-action (VLA) models can execute short manipulation skills, but remain brittle in long-horizon procedures requiring persistent task state, dependency-aware reasoning, conditional decisi",
+      "url": "https://arxiv.org/abs/2609.05369v1"
     },
     {
-      "title": "Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving",
-      "date": "2026-09-03",
-      "id": "2609.04070v1",
-      "abstract": "Bridging the gap between the discrete reasoning of Vision-Language Models and the continuous, physics-constrained nature of autonomous driving remains a significant challenge. In this work, we introdu",
-      "url": "https://arxiv.org/abs/2609.04070v1"
+      "title": "Solutions to fourth order degenerate parabolic equations obtained via weighted energy dissipation",
+      "date": "2026-09-04",
+      "id": "2609.05293v1",
+      "abstract": "We apply the variational method of Weighted Energy Dissipation (WED) to obtain a global-in-time approximation of solutions to fourth order degenerate parabolic equations of Cahn-Hilliard type. Differe",
+      "url": "https://arxiv.org/abs/2609.05293v1"
     },
     {
-      "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-      "date": "2026-09-03",
-      "id": "2609.04198v1",
-      "abstract": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to ",
-      "url": "https://arxiv.org/abs/2609.04198v1"
+      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+      "date": "2026-09-04",
+      "id": "2609.05395v1",
+      "abstract": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mode",
+      "url": "https://arxiv.org/abs/2609.05395v1"
     },
     {
-      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-      "date": "2026-09-03",
-      "id": "2609.04194v1",
-      "abstract": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, ",
-      "url": "https://arxiv.org/abs/2609.04194v1"
+      "title": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
+      "date": "2026-09-04",
+      "id": "2609.05406v1",
+      "abstract": "Grid studies often represent data-center flexibility as a fixed percentage of load, although no public production trace has shown how much eligible load persists across event durations or co-moves acr",
+      "url": "https://arxiv.org/abs/2609.05406v1"
     },
     {
-      "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
-      "date": "2026-09-03",
-      "id": "2609.04183v1",
-      "abstract": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliar",
-      "url": "https://arxiv.org/abs/2609.04183v1"
+      "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+      "date": "2026-09-04",
+      "id": "2609.05403v1",
+      "abstract": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserv",
+      "url": "https://arxiv.org/abs/2609.05403v1"
     },
     {
-      "title": "Baby-universe state dependence of the wormhole-induced gravi-axion mass gap",
-      "date": "2026-09-03",
-      "id": "2609.04191v1",
-      "abstract": "Euclidean wormholes can break the axion shift symmetry, and when this symmetry is broken, a periodic potential is created for the axion, and the curvature of this potential at a minimum point can give",
-      "url": "https://arxiv.org/abs/2609.04191v1"
+      "title": "Parametric and feedback-controlled multiparameter quantum estimation in a double cavity optomechanics: steady and dynamical state",
+      "date": "2026-09-04",
+      "id": "2609.05402v1",
+      "abstract": "Multiparameter quantum estimation in open optomechanical systems is fundamentally constrained by dissipation, thermal fluctuations, and measurement incompatibility. In this work, we investigate a coup",
+      "url": "https://arxiv.org/abs/2609.05402v1"
     },
     {
-      "title": "Toward Frontier-Quality Declarative UI Generation at Small-Model Cost",
-      "date": "2026-09-03",
-      "id": "2609.04184v1",
-      "abstract": "Declarative UI protocols such as A2UI let applications generate interactive UIs by selecting pre-built components from a catalog and binding their props to application data, rather than emitting front",
-      "url": "https://arxiv.org/abs/2609.04184v1"
+      "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
+      "date": "2026-09-04",
+      "id": "2609.05400v1",
+      "abstract": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer",
+      "url": "https://arxiv.org/abs/2609.05400v1"
     },
     {
-      "title": "Catalan's constant is irrational",
-      "date": "2026-09-03",
-      "id": "2609.04176v1",
-      "abstract": "Whether the constant $$G=\\sum_{k=0}^\\infty\\frac{(-1)^k}{(2k+1)^2}=\\frac1{1^2}-\\frac1{3^2}+\\frac1{5^2}-\\frac1{7^2}+\\cdots$$ introduced by Catalan in the nineteen century is irrational, is a long-standi",
-      "url": "https://arxiv.org/abs/2609.04176v1"
-    },
-    {
-      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-      "date": "2026-09-03",
-      "id": "2609.04199v1",
-      "abstract": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov",
-      "url": "https://arxiv.org/abs/2609.04199v1"
+      "title": "The Erd\\H os-Sós conjecture in dense graphs",
+      "date": "2026-09-04",
+      "id": "2609.05417v1",
+      "abstract": "The Erd\\H os--Sós conjecture states that every $n$-vertex graph with more than $(k-2)n/2$ edges contains every $k$-vertex tree. We prove that for every $γ$ there is an $n_0$ such that for all $n\\ge n_",
+      "url": "https://arxiv.org/abs/2609.05417v1"
     }
   ]
 }
