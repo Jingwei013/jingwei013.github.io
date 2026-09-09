@@ -1,133 +1,77 @@
 {
-  "updated": "2026-09-08 05:26 UTC",
-  "total": 18,
+  "updated": "2026-09-09 05:31 UTC",
+  "total": 10,
   "today_count": 0,
   "papers": [
     {
-      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
-      "date": "2026-09-04",
-      "id": "2609.05416v1",
-      "abstract": "We study the problem of generating a compositional 3D representation of a cluttered scene containing hundreds of objects. The goal is to represent the scene as a collection of individual object meshes",
-      "url": "https://arxiv.org/abs/2609.05416v1"
+      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+      "date": "2026-09-08",
+      "id": "2609.09158v1",
+      "abstract": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered",
+      "url": "https://arxiv.org/abs/2609.09158v1"
     },
     {
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-      "date": "2026-09-04",
-      "id": "2609.05415v1",
-      "abstract": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ",
-      "url": "https://arxiv.org/abs/2609.05415v1"
+      "title": "Learning Length-Extrapolatable Recurrent Models",
+      "date": "2026-09-08",
+      "id": "2609.09157v1",
+      "abstract": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gra",
+      "url": "https://arxiv.org/abs/2609.09157v1"
     },
     {
-      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-      "date": "2026-09-04",
-      "id": "2609.05405v1",
-      "abstract": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
-      "url": "https://arxiv.org/abs/2609.05405v1"
+      "title": "ReCite: Agentic Reasoning for Faithful Citation",
+      "date": "2026-09-08",
+      "id": "2609.09156v1",
+      "abstract": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is incr",
+      "url": "https://arxiv.org/abs/2609.09156v1"
     },
     {
-      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
-      "date": "2026-09-04",
-      "id": "2609.05404v1",
-      "abstract": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences ",
-      "url": "https://arxiv.org/abs/2609.05404v1"
+      "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+      "date": "2026-09-08",
+      "id": "2609.09155v1",
+      "abstract": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle ",
+      "url": "https://arxiv.org/abs/2609.09155v1"
     },
     {
-      "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
-      "date": "2026-09-04",
-      "id": "2609.05324v1",
-      "abstract": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefin",
-      "url": "https://arxiv.org/abs/2609.05324v1"
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "date": "2026-09-08",
+      "id": "2609.09153v1",
+      "abstract": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating ",
+      "url": "https://arxiv.org/abs/2609.09153v1"
     },
     {
-      "title": "Human-Human & Human-Robot Interaction Transformer (H2INT) for Robot Navigation in Dense and Uncertain Crowds",
-      "date": "2026-09-04",
-      "id": "2609.05300v1",
-      "abstract": "Safe robot navigation in dense crowds requires reasoning about pedestrian motion and how it may change in response to a robot. However, many learning-based approaches generate pedestrian motion indepe",
-      "url": "https://arxiv.org/abs/2609.05300v1"
+      "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+      "date": "2026-09-08",
+      "id": "2609.09113v1",
+      "abstract": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to u",
+      "url": "https://arxiv.org/abs/2609.09113v1"
     },
     {
-      "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
-      "date": "2026-09-04",
-      "id": "2609.05401v1",
-      "abstract": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantical",
-      "url": "https://arxiv.org/abs/2609.05401v1"
+      "title": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+      "date": "2026-09-08",
+      "id": "2609.09119v1",
+      "abstract": "Dexterous manipulation involves contact-rich and fine-grained interactions with the physical world, posing significant challenges for existing vision-language-action (VLA) models due to severe visual ",
+      "url": "https://arxiv.org/abs/2609.09119v1"
     },
     {
-      "title": "Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert",
-      "date": "2026-09-04",
-      "id": "2609.05413v1",
-      "abstract": "Using TESS photometry and 147 HARPS radial velocities, we confirm two extremely irradiated, volatile-rich sub-Neptunes near the lower edge of the Neptunian desert: TOI-426 b and TOI-1839 b, orbiting t",
-      "url": "https://arxiv.org/abs/2609.05413v1"
+      "title": "Travel Package Booking Application with API Bot",
+      "date": "2026-09-08",
+      "id": "2609.09112v1",
+      "abstract": "These days we are witnessing many mobile applications based on the recommended systems, which have become a great technology which is been used by the various mobile applications according to the situ",
+      "url": "https://arxiv.org/abs/2609.09112v1"
     },
     {
-      "title": "Context-Enriched Performance Boosting via Operator Decomposition",
-      "date": "2026-09-04",
-      "id": "2609.05158v1",
-      "abstract": "Performance Boosting (PB) is a control framework that, for a pre-stabilized system subject to $\\mathcal L_p$ process disturbances, parametrizes the controllers that preserve closed-loop $\\mathcal L_p$",
-      "url": "https://arxiv.org/abs/2609.05158v1"
+      "title": "Speed and stability of segregated waves in a pressure-based model of heterogeneous cell populations",
+      "date": "2026-09-08",
+      "id": "2609.09043v1",
+      "abstract": "We consider a minimal pressure-based model of heterogeneous cell populations consisting of proliferative and non-proliferative cells with different mobilities. The model is formulated as a system of r",
+      "url": "https://arxiv.org/abs/2609.09043v1"
     },
     {
-      "title": "A Schema Bounded Language Model for Refining Robot Policies Without Destabilizing Local Learning",
-      "date": "2026-09-04",
-      "id": "2609.05133v1",
-      "abstract": "This paper addresses navigation by composite heterogeneous robots in a decentralized system when policy reasoning and local control operate at different update levels. In a NetLogo--Python implementat",
-      "url": "https://arxiv.org/abs/2609.05133v1"
-    },
-    {
-      "title": "Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation",
-      "date": "2026-09-04",
-      "id": "2609.05369v1",
-      "abstract": "Vision-language-action (VLA) models can execute short manipulation skills, but remain brittle in long-horizon procedures requiring persistent task state, dependency-aware reasoning, conditional decisi",
-      "url": "https://arxiv.org/abs/2609.05369v1"
-    },
-    {
-      "title": "Solutions to fourth order degenerate parabolic equations obtained via weighted energy dissipation",
-      "date": "2026-09-04",
-      "id": "2609.05293v1",
-      "abstract": "We apply the variational method of Weighted Energy Dissipation (WED) to obtain a global-in-time approximation of solutions to fourth order degenerate parabolic equations of Cahn-Hilliard type. Differe",
-      "url": "https://arxiv.org/abs/2609.05293v1"
-    },
-    {
-      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
-      "date": "2026-09-04",
-      "id": "2609.05395v1",
-      "abstract": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mode",
-      "url": "https://arxiv.org/abs/2609.05395v1"
-    },
-    {
-      "title": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
-      "date": "2026-09-04",
-      "id": "2609.05406v1",
-      "abstract": "Grid studies often represent data-center flexibility as a fixed percentage of load, although no public production trace has shown how much eligible load persists across event durations or co-moves acr",
-      "url": "https://arxiv.org/abs/2609.05406v1"
-    },
-    {
-      "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-      "date": "2026-09-04",
-      "id": "2609.05403v1",
-      "abstract": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserv",
-      "url": "https://arxiv.org/abs/2609.05403v1"
-    },
-    {
-      "title": "Parametric and feedback-controlled multiparameter quantum estimation in a double cavity optomechanics: steady and dynamical state",
-      "date": "2026-09-04",
-      "id": "2609.05402v1",
-      "abstract": "Multiparameter quantum estimation in open optomechanical systems is fundamentally constrained by dissipation, thermal fluctuations, and measurement incompatibility. In this work, we investigate a coup",
-      "url": "https://arxiv.org/abs/2609.05402v1"
-    },
-    {
-      "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
-      "date": "2026-09-04",
-      "id": "2609.05400v1",
-      "abstract": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer",
-      "url": "https://arxiv.org/abs/2609.05400v1"
-    },
-    {
-      "title": "The Erd\\H os-Sós conjecture in dense graphs",
-      "date": "2026-09-04",
-      "id": "2609.05417v1",
-      "abstract": "The Erd\\H os--Sós conjecture states that every $n$-vertex graph with more than $(k-2)n/2$ edges contains every $k$-vertex tree. We prove that for every $γ$ there is an $n_0$ such that for all $n\\ge n_",
-      "url": "https://arxiv.org/abs/2609.05417v1"
+      "title": "The exact asymptotic constant in the metric dimension of Jaccard space",
+      "date": "2026-09-08",
+      "id": "2609.09146v1",
+      "abstract": "Let $X$ be a finite set with $|X|=n$ and let $\\mathrm{Jac}(a,b)=|a\\,\\triangle\\, b|/|a\\cup b|$ be the Jaccard distance on the power set $2^X$. Lladser and Paradise recently proved that the metric dimen",
+      "url": "https://arxiv.org/abs/2609.09146v1"
     }
   ]
 }
