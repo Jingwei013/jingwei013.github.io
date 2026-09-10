@@ -1,77 +1,140 @@
 {
-  "updated": "2026-09-09 05:31 UTC",
-  "total": 10,
+  "updated": "2026-09-10 05:25 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
-      "date": "2026-09-08",
-      "id": "2609.09158v1",
-      "abstract": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered",
-      "url": "https://arxiv.org/abs/2609.09158v1"
+      "title": "Programmable World Model",
+      "date": "2026-09-09",
+      "id": "2609.10540v1",
+      "abstract": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over ",
+      "url": "https://arxiv.org/abs/2609.10540v1"
     },
     {
-      "title": "Learning Length-Extrapolatable Recurrent Models",
-      "date": "2026-09-08",
-      "id": "2609.09157v1",
-      "abstract": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gra",
-      "url": "https://arxiv.org/abs/2609.09157v1"
+      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+      "date": "2026-09-09",
+      "id": "2609.10539v1",
+      "abstract": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of im",
+      "url": "https://arxiv.org/abs/2609.10539v1"
     },
     {
-      "title": "ReCite: Agentic Reasoning for Faithful Citation",
-      "date": "2026-09-08",
-      "id": "2609.09156v1",
-      "abstract": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is incr",
-      "url": "https://arxiv.org/abs/2609.09156v1"
+      "title": "Towards Tackling Application Logic Flaws through Autonomous Formal-Logic Modeling and Automated Reasoning",
+      "date": "2026-09-09",
+      "id": "2609.10537v1",
+      "abstract": "Logic flaws pose significant challenges in the design and implementation of modern, semantically rich systems and applications, impacting security, privacy, and trust. These flaws are inherently tied ",
+      "url": "https://arxiv.org/abs/2609.10537v1"
     },
     {
-      "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
-      "date": "2026-09-08",
-      "id": "2609.09155v1",
-      "abstract": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle ",
-      "url": "https://arxiv.org/abs/2609.09155v1"
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "date": "2026-09-09",
+      "id": "2609.10522v1",
+      "abstract": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn",
+      "url": "https://arxiv.org/abs/2609.10522v1"
     },
     {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "date": "2026-09-08",
-      "id": "2609.09153v1",
-      "abstract": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating ",
-      "url": "https://arxiv.org/abs/2609.09153v1"
+      "title": "Multi-Agent Reinforcement Learning for Autonomous UAV Exploration in Wildfire Response",
+      "date": "2026-09-09",
+      "id": "2609.10433v1",
+      "abstract": "This study develops a deep reinforcement learning framework for training Unmanned Aerial Vehicle (UAV) agents to navigate and monitor simulated wildfire environments. Results show that agents learn in",
+      "url": "https://arxiv.org/abs/2609.10433v1"
     },
     {
-      "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
-      "date": "2026-09-08",
-      "id": "2609.09113v1",
-      "abstract": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to u",
-      "url": "https://arxiv.org/abs/2609.09113v1"
+      "title": "Efficient LOS-Sampled GNSS Direct Position Estimation: An Information-Loss CRB Analysis",
+      "date": "2026-09-09",
+      "id": "2609.10279v1",
+      "abstract": "Conventional Global Navigation Satellite System (GNSS) Direct Position Estimation (DPE) exploits raw intermediate-frequency (IF) data and provides a full-information Cramér-Rao Bound (CRB) benchmark, ",
+      "url": "https://arxiv.org/abs/2609.10279v1"
     },
     {
-      "title": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
-      "date": "2026-09-08",
-      "id": "2609.09119v1",
-      "abstract": "Dexterous manipulation involves contact-rich and fine-grained interactions with the physical world, posing significant challenges for existing vision-language-action (VLA) models due to severe visual ",
-      "url": "https://arxiv.org/abs/2609.09119v1"
+      "title": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
+      "date": "2026-09-09",
+      "id": "2609.10531v1",
+      "abstract": "Image-to-3D models can generate visually compelling 3D assets from a single RGB image, but their geometry is often only loosely constrained by the available observations, limiting their use in applica",
+      "url": "https://arxiv.org/abs/2609.10531v1"
     },
     {
-      "title": "Travel Package Booking Application with API Bot",
-      "date": "2026-09-08",
-      "id": "2609.09112v1",
-      "abstract": "These days we are witnessing many mobile applications based on the recommended systems, which have become a great technology which is been used by the various mobile applications according to the situ",
-      "url": "https://arxiv.org/abs/2609.09112v1"
+      "title": "Fluctuations of additive martingale limits of branching Brownian motion",
+      "date": "2026-09-09",
+      "id": "2609.10530v1",
+      "abstract": "Consider a one-dimensional branching Brownian motion. Let $W_\\infty(β)$ denote the limit of the additive martingale in the subcritical regime $\\lvert β\\rvert < β_c$ and $Z_\\infty$ be the limit of the ",
+      "url": "https://arxiv.org/abs/2609.10530v1"
     },
     {
-      "title": "Speed and stability of segregated waves in a pressure-based model of heterogeneous cell populations",
-      "date": "2026-09-08",
-      "id": "2609.09043v1",
-      "abstract": "We consider a minimal pressure-based model of heterogeneous cell populations consisting of proliferative and non-proliferative cells with different mobilities. The model is formulated as a system of r",
-      "url": "https://arxiv.org/abs/2609.09043v1"
+      "title": "Symplectic Hopf Insulator: Delicate Topology in Bosonic Bogoliubov-de Gennes Systems",
+      "date": "2026-09-09",
+      "id": "2609.10541v1",
+      "abstract": "Recent advances in topological phases have highlighted the role of symplectic (Krein-space) topology in the classification of bosonic Bogoliubov-de Gennes (BBdG) systems. In this work, we construct a ",
+      "url": "https://arxiv.org/abs/2609.10541v1"
     },
     {
-      "title": "The exact asymptotic constant in the metric dimension of Jaccard space",
-      "date": "2026-09-08",
-      "id": "2609.09146v1",
-      "abstract": "Let $X$ be a finite set with $|X|=n$ and let $\\mathrm{Jac}(a,b)=|a\\,\\triangle\\, b|/|a\\cup b|$ be the Jaccard distance on the power set $2^X$. Lladser and Paradise recently proved that the metric dimen",
-      "url": "https://arxiv.org/abs/2609.09146v1"
+      "title": "Spatial sparse sampling-based iterative optimization framework for GNSS Direct Position Estimation",
+      "date": "2026-09-09",
+      "id": "2609.10241v1",
+      "abstract": "Direct position estimation (DPE), a promising technique in Global Navigation Satellite Systems (GNSS) receivers, enables estimation of position, velocity, and time (PVT) solutions directly from correl",
+      "url": "https://arxiv.org/abs/2609.10241v1"
+    },
+    {
+      "title": "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation",
+      "date": "2026-09-09",
+      "id": "2609.10506v1",
+      "abstract": "Action-conditioned latent world models predict future visual representations, enabling zero-shot goal-conditioned robot planning and control. However, their predictions for fine-grained spatial and ro",
+      "url": "https://arxiv.org/abs/2609.10506v1"
+    },
+    {
+      "title": "Coastal Environment Generation with HoloOcean",
+      "date": "2026-09-09",
+      "id": "2609.10484v1",
+      "abstract": "Marine robotic simulation provides a safe and inexpensive method of developing and testing algorithms for unmanned underwater vehicle (UUV) and unmanned surface vessel (USV) autonomy and perception be",
+      "url": "https://arxiv.org/abs/2609.10484v1"
+    },
+    {
+      "title": "Precision in Rice Variety Classification using Stacking-Based Ensemble Learning",
+      "date": "2026-09-09",
+      "id": "2609.10524v1",
+      "abstract": "Rice, a staple food for a significant portion of the global population, exhibits remarkable diversity in its varieties, presenting substantial challenges for accurate identification by consumers, trad",
+      "url": "https://arxiv.org/abs/2609.10524v1"
+    },
+    {
+      "title": "Hydrodynamic magnetotransport in a GaAs Corbino geometry",
+      "date": "2026-09-09",
+      "id": "2609.10511v1",
+      "abstract": "We report the observation of positive magnetoresistance in high-mobility GaAs Corbino devices. Over a broad intermediate-temperature range, the resistance exhibits a quadratic dependence on perpendicu",
+      "url": "https://arxiv.org/abs/2609.10511v1"
+    },
+    {
+      "title": "Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs",
+      "date": "2026-09-09",
+      "id": "2609.10509v1",
+      "abstract": "Scientific workflow management (WMSs) systems automate execution, yet orchestrate using fixed, hand-tuned rules. LLM agents promise more autonomous orchestration, but it remains unclear where to intro",
+      "url": "https://arxiv.org/abs/2609.10509v1"
+    },
+    {
+      "title": "The Ding--Song--Sun inequality via a maximum principle",
+      "date": "2026-09-09",
+      "id": "2609.10528v1",
+      "abstract": "We prove the Ding--Song--Sun inequality for continuous spin models on finite ferromagnetic graphs whose even single-site potentials have convex derivatives on the positive half of their domain. This c",
+      "url": "https://arxiv.org/abs/2609.10528v1"
+    },
+    {
+      "title": "Performance Comparison of the Nonlinear Curvature and Shack-Hartmann Wavefront Sensors in Strong Turbulence",
+      "date": "2026-09-09",
+      "id": "2609.10536v1",
+      "abstract": "Strong turbulence induces spatial variations in beam intensity that hinder the reconstruction process of many commonly deployed adaptive optics (AO) systems that use gradient-based wavefront sensors (",
+      "url": "https://arxiv.org/abs/2609.10536v1"
+    },
+    {
+      "title": "Point particles in general relativity: beyond linear perturbation theory",
+      "date": "2026-09-09",
+      "id": "2609.10521v1",
+      "abstract": "Point particles are generically ill defined in fully nonlinear general relativity, although they are naturally well defined in linear perturbation theory. In a previous paper, two of us showed how the",
+      "url": "https://arxiv.org/abs/2609.10521v1"
+    },
+    {
+      "title": "PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans",
+      "date": "2026-09-09",
+      "id": "2609.10515v1",
+      "abstract": "In modern AI Accelerators and GPGPUs, many concurrent cores repeatedly access the same shared data. This pattern occurs in attention, where different query tiles share the same K/V block, GEMM, where ",
+      "url": "https://arxiv.org/abs/2609.10515v1"
     }
   ]
 }
