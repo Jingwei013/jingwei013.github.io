@@ -1,6 +1,161 @@
 {
-  "updated": "2026-09-15 05:36 UTC",
-  "total": 0,
+  "updated": "2026-09-16 05:27 UTC",
+  "total": 22,
   "today_count": 0,
-  "papers": []
+  "papers": [
+    {
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "date": "2026-09-15",
+      "id": "2609.17523v1",
+      "abstract": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese",
+      "url": "https://arxiv.org/abs/2609.17523v1"
+    },
+    {
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "date": "2026-09-15",
+      "id": "2609.17521v1",
+      "abstract": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f",
+      "url": "https://arxiv.org/abs/2609.17521v1"
+    },
+    {
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "date": "2026-09-15",
+      "id": "2609.17516v1",
+      "abstract": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit",
+      "url": "https://arxiv.org/abs/2609.17516v1"
+    },
+    {
+      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "date": "2026-09-15",
+      "id": "2609.17499v1",
+      "abstract": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decision",
+      "url": "https://arxiv.org/abs/2609.17499v1"
+    },
+    {
+      "title": "FlashVector: Agent for Hierarchical Model Serving Stack Optimization",
+      "date": "2026-09-15",
+      "id": "2609.17391v1",
+      "abstract": "Model serving is one of the largest cost drivers in production recommender systems. Maximizing its throughput requires navigating a deeply layered hierarchy: GPU kernels, the ML framework computation ",
+      "url": "https://arxiv.org/abs/2609.17391v1"
+    },
+    {
+      "title": "XPACE: Joint World and Action Modeling from Heterogeneous Experience",
+      "date": "2026-09-15",
+      "id": "2609.17372v1",
+      "abstract": "A general-purpose robot needs to draw on diverse experience, choose actions, and anticipate how those actions will change the world. We introduce XPACE, a unified embodied world model that serves as b",
+      "url": "https://arxiv.org/abs/2609.17372v1"
+    },
+    {
+      "title": "$B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations",
+      "date": "2026-09-15",
+      "id": "2609.17531v1",
+      "abstract": "Galactic foregrounds represent a major contamination to the measurement of primordial $B$-modes from observations of the Cosmic Microwave Background polarisation. Even after the application of compone",
+      "url": "https://arxiv.org/abs/2609.17531v1"
+    },
+    {
+      "title": "Agentic Societies Need a Social Harness",
+      "date": "2026-09-15",
+      "id": "2609.17527v1",
+      "abstract": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall",
+      "url": "https://arxiv.org/abs/2609.17527v1"
+    },
+    {
+      "title": "Vanilla Scotogenic Model at the future Muon Collider",
+      "date": "2026-09-15",
+      "id": "2609.17530v1",
+      "abstract": "The vanilla scotogenic model (VSM) featuring three right-handed neutrinos and an inert scalar doublet, offers a unified explanation of neutrino masses, dark matter (DM), and the baryon asymmetry of th",
+      "url": "https://arxiv.org/abs/2609.17530v1"
+    },
+    {
+      "title": "An Alon-Boppana Bound for the Non-Backtracking Operator",
+      "date": "2026-09-15",
+      "id": "2609.17529v1",
+      "abstract": "For any fixed $k$, we prove a lower bound on the $k$th largest modulus of an eigenvalue of the non-backtracking matrix $B$. Specifically, consider any deterministic or random family of graphs that con",
+      "url": "https://arxiv.org/abs/2609.17529v1"
+    },
+    {
+      "title": "Modality-Autoregressive World-Action Models",
+      "date": "2026-09-15",
+      "id": "2609.17524v1",
+      "abstract": "World-action models (WAMs) jointly model future observations and actions, typically predicting the future as RGB images. Other visual modalities such as depth, pretrained visual features, and point tr",
+      "url": "https://arxiv.org/abs/2609.17524v1"
+    },
+    {
+      "title": "Lexplorer: Navigating the Complexity of Legal Document Landscapes",
+      "date": "2026-09-15",
+      "id": "2609.17366v1",
+      "abstract": "As technological and social innovations create novel regulatory challenges, legal systems grow in complexity - increasing the need for interfaces that enable effective interactions with legal document",
+      "url": "https://arxiv.org/abs/2609.17366v1"
+    },
+    {
+      "title": "Dissecting Motion-Prior Regularization for Data-Scarce Robotic Insertion",
+      "date": "2026-09-15",
+      "id": "2609.17484v1",
+      "abstract": "This study asks whether training-time motion-prior regularization can improve insertion success when a diffusion policy is learned from only 15 demonstrations. Minimum jerk discourages abrupt changes ",
+      "url": "https://arxiv.org/abs/2609.17484v1"
+    },
+    {
+      "title": "Gaussian Processes for Modelling Spatial Fields with Robot Swarms",
+      "date": "2026-09-15",
+      "id": "2609.17463v1",
+      "abstract": "Robot swarms, by virtue of their decentralised architecture, are a natural tool for scalable, robust modelling of spatial fields, such as water temperature, wind velocity, or terrain elevation. Howeve",
+      "url": "https://arxiv.org/abs/2609.17463v1"
+    },
+    {
+      "title": "Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging",
+      "date": "2026-09-15",
+      "id": "2609.17429v1",
+      "abstract": "Many learned sequential decision systems map the current state directly to an action. That shortcut becomes brittle when candidate actions are numerous, geometrically structured, and rebuilt with the ",
+      "url": "https://arxiv.org/abs/2609.17429v1"
+    },
+    {
+      "title": "Pinching Antennas for Next-Generation Wireless Communications: A Network Perspective",
+      "date": "2026-09-15",
+      "id": "2609.17332v1",
+      "abstract": "Pinching antennas enable radiation points to be created and reconfigured along extended waveguides, making the physical locations of wireless transmission and reception controllable after infrastructu",
+      "url": "https://arxiv.org/abs/2609.17332v1"
+    },
+    {
+      "title": "FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence",
+      "date": "2026-09-15",
+      "id": "2609.17210v1",
+      "abstract": "Vision-language-action (VLA) models, world-action models (WAMs), and offline reinforcement learning methods are rapidly expanding the design space of embodied policies, yet turning these algorithms in",
+      "url": "https://arxiv.org/abs/2609.17210v1"
+    },
+    {
+      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "date": "2026-09-15",
+      "id": "2609.17515v1",
+      "abstract": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation i",
+      "url": "https://arxiv.org/abs/2609.17515v1"
+    },
+    {
+      "title": "Exact Black Branes in General Dimensions in Higher-Curvature Scalar-Tensor Gravity",
+      "date": "2026-09-15",
+      "id": "2609.17528v1",
+      "abstract": "We obtain two families of neutral planar black branes in a potential-free dilaton-coupled Lovelock--Horndeski theory. Heterotic compactification relates higher-dimensional curvature to scalar dynamics",
+      "url": "https://arxiv.org/abs/2609.17528v1"
+    },
+    {
+      "title": "Secular evolution of viscous and self-gravitating protoplanetary discs with magnetic winds",
+      "date": "2026-09-15",
+      "id": "2609.17526v1",
+      "abstract": "Traditionally, the disc is believed to evolve under the influence of turbulent viscosity, although the importance of this mechanism has recently been questioned. Alternatively, magnetic disc wind or g",
+      "url": "https://arxiv.org/abs/2609.17526v1"
+    },
+    {
+      "title": "Coupling spherical p-spin systems",
+      "date": "2026-09-15",
+      "id": "2609.17522v1",
+      "abstract": "Spherical p-spin models provide a mean-field framework for glassy dynamics. Coupling such systems opens a controlled way to probe how they evolve jointly, develop cross correlations, and possibly shar",
+      "url": "https://arxiv.org/abs/2609.17522v1"
+    },
+    {
+      "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+      "date": "2026-09-15",
+      "id": "2609.17479v1",
+      "abstract": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classifi",
+      "url": "https://arxiv.org/abs/2609.17479v1"
+    }
+  ]
 }
