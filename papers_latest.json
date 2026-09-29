@@ -1,6 +1,154 @@
 {
-  "updated": "2026-09-28 06:05 UTC",
-  "total": 0,
+  "updated": "2026-09-29 06:23 UTC",
+  "total": 21,
   "today_count": 0,
-  "papers": []
+  "papers": [
+    {
+      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "date": "2026-09-28",
+      "id": "2609.35770v1",
+      "abstract": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets",
+      "url": "https://arxiv.org/abs/2609.35770v1"
+    },
+    {
+      "title": "Telescopic Language Models",
+      "date": "2026-09-28",
+      "id": "2609.35769v1",
+      "abstract": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b",
+      "url": "https://arxiv.org/abs/2609.35769v1"
+    },
+    {
+      "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "date": "2026-09-28",
+      "id": "2609.35768v1",
+      "abstract": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ",
+      "url": "https://arxiv.org/abs/2609.35768v1"
+    },
+    {
+      "title": "DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations",
+      "date": "2026-09-28",
+      "id": "2609.35761v1",
+      "abstract": "Mobile bimanual dexterous manipulation requires continuous coordination of locomotion, whole-body motion, and finger-level dexterity within a single trajectory, creating a severe robot demonstration b",
+      "url": "https://arxiv.org/abs/2609.35761v1"
+    },
+    {
+      "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+      "date": "2026-09-28",
+      "id": "2609.35715v1",
+      "abstract": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe expl",
+      "url": "https://arxiv.org/abs/2609.35715v1"
+    },
+    {
+      "title": "Humanoid Loco-Manipulation With Discrete VLA Model",
+      "date": "2026-09-28",
+      "id": "2609.35709v1",
+      "abstract": "Vision-language-action (VLA) models using discrete action tokens have proven effective for controling robotic arms on manipulation tasks. For a humanoid, however, the whole-body action space -- legs, ",
+      "url": "https://arxiv.org/abs/2609.35709v1"
+    },
+    {
+      "title": "From Density to Mass: A New Parametrized Framework for Dark Matter Environment Around Black Holes",
+      "date": "2026-09-28",
+      "id": "2609.35771v1",
+      "abstract": "Astrophysical black holes (BHs) are not isolated vacuum objects but are expected to reside within complex environments, such as dark matter (DM) halos and baryonic distributions. Such environments can",
+      "url": "https://arxiv.org/abs/2609.35771v1"
+    },
+    {
+      "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
+      "date": "2026-09-28",
+      "id": "2609.35764v1",
+      "abstract": "Sparse inertial pose estimation promises camera-free motion capture from consumer devices, but consumer sensors are unreliable: firmware-fused orientations are biased, mounting varies between sessions",
+      "url": "https://arxiv.org/abs/2609.35764v1"
+    },
+    {
+      "title": "LQR-ArUco Fusion: Robust Hierarchical Control for Navigation and Asymmetric Manipulation in Two-Wheeled Robots",
+      "date": "2026-09-28",
+      "id": "2609.35700v1",
+      "abstract": "We propose a hierarchical control framework to address severe dynamic instabilities and navigational drift that arise when a two-wheeled inverted pendulum (TWIP) robot attempts asymmetric object manip",
+      "url": "https://arxiv.org/abs/2609.35700v1"
+    },
+    {
+      "title": "PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents",
+      "date": "2026-09-28",
+      "id": "2609.35671v1",
+      "abstract": "Mobile GUI agents operate through a perception--action loop: at each step they screenshot the device, invoke a vision--language model (VLM), and emit an action. It is slow, costly, and brittle, yet mo",
+      "url": "https://arxiv.org/abs/2609.35671v1"
+    },
+    {
+      "title": "CollisionSplatting: Collision-Aware Motion Planning in 3DGS Scenes with Image-Conditioned Objectives and Adjustable Conservatism",
+      "date": "2026-09-28",
+      "id": "2609.35619v1",
+      "abstract": "Incorporating dense visual information into motion planning remains challenging, as geometric planners rely on abstracted scene representations that discard visual richness, while learned visual model",
+      "url": "https://arxiv.org/abs/2609.35619v1"
+    },
+    {
+      "title": "RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation",
+      "date": "2026-09-28",
+      "id": "2609.35717v1",
+      "abstract": "Robots with kinematic loops, coupled actuators, and changing contacts require consistent models of configuration, motion, force, and dynamics. Yet these interfaces are often reconstructed separately f",
+      "url": "https://arxiv.org/abs/2609.35717v1"
+    },
+    {
+      "title": "Structure and Dynamics of Bose Polarons across the Mott-Insulator to Superfluid Transition",
+      "date": "2026-09-28",
+      "id": "2609.35696v1",
+      "abstract": "A mobile impurity particle immersed in a quantum degenerate gas leads to the formation of a quasiparticle, which can   serve as a sensor for its environment. Here, we develop a unified wave function d",
+      "url": "https://arxiv.org/abs/2609.35696v1"
+    },
+    {
+      "title": "Peppy: An AI-Assisted Workflow for Tight Convergence Analysis of Optimization Algorithms",
+      "date": "2026-09-28",
+      "id": "2609.35762v1",
+      "abstract": "This paper presents Peppy, an AI-assisted workflow for discovering tight, analytic convergence proofs for first-order optimization algorithms. Generic approaches to using LLMs to conduct mathematical ",
+      "url": "https://arxiv.org/abs/2609.35762v1"
+    },
+    {
+      "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+      "date": "2026-09-28",
+      "id": "2609.35759v1",
+      "abstract": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex",
+      "url": "https://arxiv.org/abs/2609.35759v1"
+    },
+    {
+      "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+      "date": "2026-09-28",
+      "id": "2609.35765v1",
+      "abstract": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla",
+      "url": "https://arxiv.org/abs/2609.35765v1"
+    },
+    {
+      "title": "Covariant Contrastive Learning for Uncertainty-Aware Anomaly Detection",
+      "date": "2026-09-28",
+      "id": "2609.35755v1",
+      "abstract": "Machine-learning-based anomaly detection (AD) offers a promising, model-agnostic alternative to traditional LHC analyses, allowing to search for many signals at once. Recent advances in representation",
+      "url": "https://arxiv.org/abs/2609.35755v1"
+    },
+    {
+      "title": "MINT: Modeling GenAI Impact on Network Traffic",
+      "date": "2026-09-28",
+      "id": "2609.35742v1",
+      "abstract": "Generative AI (GenAI) is becoming a mainstream network workload, yet packet-level simulators lack measure\\-ment-driven GenAI traffic models. Currently researchers must approximate GenAI services using",
+      "url": "https://arxiv.org/abs/2609.35742v1"
+    },
+    {
+      "title": "Neural Harmonic Measure Operator",
+      "date": "2026-09-28",
+      "id": "2609.35752v1",
+      "abstract": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution tha",
+      "url": "https://arxiv.org/abs/2609.35752v1"
+    },
+    {
+      "title": "Hamiltonicity of mildly pseudorandom regular graphs",
+      "date": "2026-09-28",
+      "id": "2609.35766v1",
+      "abstract": "We show that if an $(n,d,λ)$-graph satisfies $λ\\leq (1-δ)d$ and $d\\gg δ^{-6}(\\log n)^{3}$ for some $δ>0$, then it is Hamiltonian. A qualitatively similar result was recently proven by Bradač and Janze",
+      "url": "https://arxiv.org/abs/2609.35766v1"
+    },
+    {
+      "title": "GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space",
+      "date": "2026-09-28",
+      "id": "2609.35734v1",
+      "abstract": "Novel view synthesis from sparse images must reconcile faithful reconstruction of observed regions with plausible completion of unseen content, while maintaining world consistency across viewpoints. E",
+      "url": "https://arxiv.org/abs/2609.35734v1"
+    }
+  ]
 }
