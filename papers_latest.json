@@ -1,126 +1,133 @@
 {
-  "updated": "2026-09-30 06:08 UTC",
-  "total": 17,
+  "updated": "2026-10-01 06:40 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
-      "date": "2026-09-29",
-      "id": "2609.38180v1",
-      "abstract": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downst",
-      "url": "https://arxiv.org/abs/2609.38180v1"
+      "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+      "date": "2026-09-30",
+      "id": "2609.40362v1",
+      "abstract": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine dis",
+      "url": "https://arxiv.org/abs/2609.40362v1"
     },
     {
-      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
-      "date": "2026-09-29",
-      "id": "2609.38177v1",
-      "abstract": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg",
-      "url": "https://arxiv.org/abs/2609.38177v1"
+      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "date": "2026-09-30",
+      "id": "2609.40361v1",
+      "abstract": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc",
+      "url": "https://arxiv.org/abs/2609.40361v1"
     },
     {
-      "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
-      "date": "2026-09-29",
-      "id": "2609.38172v1",
-      "abstract": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction ",
-      "url": "https://arxiv.org/abs/2609.38172v1"
+      "title": "Semifactual Credit-Augmented Policy Optimization",
+      "date": "2026-09-30",
+      "id": "2609.40360v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features",
+      "url": "https://arxiv.org/abs/2609.40360v1"
     },
     {
-      "title": "Rho: A Foundation for Efficiently Adaptable VLA Models",
-      "date": "2026-09-29",
-      "id": "2609.38164v1",
-      "abstract": "General-purpose physical AI models must combine broad visual and linguistic capabilities with precise control across robot embodiments and efficient adaptation to downstream tasks. We introduce Rho, a",
-      "url": "https://arxiv.org/abs/2609.38164v1"
+      "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+      "date": "2026-09-30",
+      "id": "2609.40325v1",
+      "abstract": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as flo",
+      "url": "https://arxiv.org/abs/2609.40325v1"
     },
     {
-      "title": "Rethinking Representations for World-Action Modeling",
-      "date": "2026-09-29",
-      "id": "2609.38163v1",
-      "abstract": "World-action models jointly learn robot policies and predict future observations, making the representation space an interface between control and prediction. We study the design of this space through",
-      "url": "https://arxiv.org/abs/2609.38163v1"
+      "title": "STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction",
+      "date": "2026-09-30",
+      "id": "2609.40245v1",
+      "abstract": "Robot navigation in dynamic, human-centered environments requires socially-compliant decisions grounded in robust scene understanding. Recent Vision-Language Models (VLMs) exhibit promising capabiliti",
+      "url": "https://arxiv.org/abs/2609.40245v1"
     },
     {
-      "title": "CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments",
-      "date": "2026-09-29",
-      "id": "2609.38087v1",
-      "abstract": "Behavior Foundation Models (BFMs) give humanoids a promptable policy over a latent behavior space, enabling one single vector to represent a motion to imitate, a pose to reach, or a reward to maximize",
-      "url": "https://arxiv.org/abs/2609.38087v1"
+      "title": "Learning Skills from Historical Action Trajectories: Action Experience Dictionary for World Action Models",
+      "date": "2026-09-30",
+      "id": "2609.40219v1",
+      "abstract": "World Action Models (WAMs) couple visual dynamics prediction with action generation, yet they do not explicitly support the reuse of action experience across manipulation tasks. Furthermore, existing ",
+      "url": "https://arxiv.org/abs/2609.40219v1"
     },
     {
-      "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
-      "date": "2026-09-29",
-      "id": "2609.38173v1",
-      "abstract": "We study robotic in-context learning (ICL), an emerging paradigm that enables robots to infer and execute tasks from visual demonstrations. Despite its growing promise, the problem itself remains unde",
-      "url": "https://arxiv.org/abs/2609.38173v1"
+      "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+      "date": "2026-09-30",
+      "id": "2609.40353v1",
+      "abstract": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained general-purpose agents assemble objects through visual ",
+      "url": "https://arxiv.org/abs/2609.40353v1"
     },
     {
-      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
-      "date": "2026-09-29",
-      "id": "2609.38178v1",
-      "abstract": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe",
-      "url": "https://arxiv.org/abs/2609.38178v1"
+      "title": "Probing the Reionization History and Bubble Sizes with JWST Lyman-$α$ Fraction Measurements",
+      "date": "2026-09-30",
+      "id": "2609.40363v1",
+      "abstract": "Recent James Webb Space Telescope (JWST) measurements quantify the fraction of ultraviolet-selected galaxies showing detectable Lyman-alpha (Ly-$α$) lines at $z \\sim 6-14$. These Ly-$α$ fractions are ",
+      "url": "https://arxiv.org/abs/2609.40363v1"
     },
     {
-      "title": "Traversing the solution space of neural networks with Hessian Null Space Continuation",
-      "date": "2026-09-29",
-      "id": "2609.38081v1",
-      "abstract": "On a single task, deep networks can learn many solutions, depending on their optimizer, training data, architecture, and hyperparameters. Many of these solutions are mode-connected: rather than isolat",
-      "url": "https://arxiv.org/abs/2609.38081v1"
+      "title": "Centralized Multi-UAV Exploration and 3D Reconstruction Using Single-UAV Planners",
+      "date": "2026-09-30",
+      "id": "2609.40208v1",
+      "abstract": "Extending single Unmanned Aerial Vehicles (UAVs) exploration methods to multi-UAV teams can improve coverage speed and robustness, but introduces challenges such as consistent mapping, safe navigation",
+      "url": "https://arxiv.org/abs/2609.40208v1"
     },
     {
-      "title": "EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation",
-      "date": "2026-09-29",
-      "id": "2609.38046v1",
-      "abstract": "Egocentric human demonstrations offer an accessible source of task experience, but differences in body scale and controller response, together with missing robot states, limit their value as humanoid ",
-      "url": "https://arxiv.org/abs/2609.38046v1"
+      "title": "Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?",
+      "date": "2026-09-30",
+      "id": "2609.40341v1",
+      "abstract": "Egocentric human data provides a scalable source of experience for robot learning, but varies substantially in human-robot alignment, behavioral coverage, and available supervision. Existing work show",
+      "url": "https://arxiv.org/abs/2609.40341v1"
     },
     {
-      "title": "Comparing Utility of Inertial, Occupancy, Semantic, and Intent Information in Human Motion Prediction During Daily Tasks",
-      "date": "2026-09-29",
-      "id": "2609.37971v1",
-      "abstract": "Accurate human motion prediction is crucial for robotic systems operating around people, particularly in complex indoor spaces. In this study, we assess the relative importance of different sources of",
-      "url": "https://arxiv.org/abs/2609.37971v1"
+      "title": "DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents",
+      "date": "2026-09-30",
+      "id": "2609.40306v1",
+      "abstract": "Pretrained robot policies provide useful action priors, but long-horizon manipulation still requires coordination between semantic reasoning and physical execution. Semantic reasoning operates at a co",
+      "url": "https://arxiv.org/abs/2609.40306v1"
     },
     {
-      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
-      "date": "2026-09-29",
-      "id": "2609.38078v1",
-      "abstract": "Vision-language-action (VLA) models have advanced robotic manipulation, but their zero-shot generalization in new tasks and environments remains limited, and their reliance on specialized training kee",
-      "url": "https://arxiv.org/abs/2609.38078v1"
+      "title": "StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry",
+      "date": "2026-09-30",
+      "id": "2609.40244v1",
+      "abstract": "Mobile robots and vehicles carry synchronized multi-camera rigs, yet many streaming 3D foundation models are designed for monocular input, leaving efficient use of rig geometry a challenge. We present",
+      "url": "https://arxiv.org/abs/2609.40244v1"
     },
     {
-      "title": "WayFinder: Hierarchical Visual-Language-Action for Zero-Shot Waypoint Generation and Low-Level Kinematic Control",
-      "date": "2026-09-29",
-      "id": "2609.37922v1",
-      "abstract": "Visual Language Action (VLA) models offer unprecedented generalization for autonomous robots; however, their real-world deployment is frequently bottlenecked by unreliable execution and the prohibitiv",
-      "url": "https://arxiv.org/abs/2609.37922v1"
+      "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "date": "2026-09-30",
+      "id": "2609.40359v1",
+      "abstract": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s",
+      "url": "https://arxiv.org/abs/2609.40359v1"
     },
     {
-      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
-      "date": "2026-09-29",
-      "id": "2609.38166v1",
-      "abstract": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context int",
-      "url": "https://arxiv.org/abs/2609.38166v1"
+      "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+      "date": "2026-09-30",
+      "id": "2609.40340v1",
+      "abstract": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee",
+      "url": "https://arxiv.org/abs/2609.40340v1"
     },
     {
-      "title": "Imaging phase winding in topological superconductors with a fork-tip Josephson STM",
-      "date": "2026-09-29",
-      "id": "2609.38174v1",
-      "abstract": "The complex phase winding in a topological superconductor remains challenging to access by conventional real-space probes. We propose a scheme to probe this winding with a fork-tip Josephson STM near ",
-      "url": "https://arxiv.org/abs/2609.38174v1"
+      "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+      "date": "2026-09-30",
+      "id": "2609.40358v1",
+      "abstract": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume ",
+      "url": "https://arxiv.org/abs/2609.40358v1"
     },
     {
-      "title": "When Classical Correlations Certify Entanglement Recovery",
-      "date": "2026-09-29",
-      "id": "2609.38168v1",
-      "abstract": "Entanglement and state distinguishability have long been central topics in quantum foundations. While each has developed into a rich subject in its own right, they can be connected through measurement",
-      "url": "https://arxiv.org/abs/2609.38168v1"
+      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "date": "2026-09-30",
+      "id": "2609.40356v1",
+      "abstract": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video",
+      "url": "https://arxiv.org/abs/2609.40356v1"
     },
     {
-      "title": "Breakdown of Local Denoising as Semantic Speciation",
-      "date": "2026-09-29",
-      "id": "2609.38176v1",
-      "abstract": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context",
-      "url": "https://arxiv.org/abs/2609.38176v1"
+      "title": "Quantum hypothesis testing of non-mixed-unitarity: A multifaceted hierarchy of quantum channel discrimination",
+      "date": "2026-09-30",
+      "id": "2609.40355v1",
+      "abstract": "Given multiple uses of an unknown quantum channel, we determine whether it is a specified non-mixed-unitary channel or belongs to the set of mixed-unitary channels. Formulating this as a composite cha",
+      "url": "https://arxiv.org/abs/2609.40355v1"
+    },
+    {
+      "title": "Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms",
+      "date": "2026-09-30",
+      "id": "2609.40336v1",
+      "abstract": "Convex relaxation hierarchies provide lower bounds to the ground state energy of quantum many-body systems that can be computed in polynomial time on a classical computer, at any fixed hierarchy level",
+      "url": "https://arxiv.org/abs/2609.40336v1"
     }
   ]
 }
