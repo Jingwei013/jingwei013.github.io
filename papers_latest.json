@@ -1,140 +1,154 @@
 {
-  "updated": "2026-10-04 06:30 UTC",
-  "total": 19,
+  "updated": "2026-10-05 06:23 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-      "date": "2026-10-01",
-      "id": "2610.02210v1",
-      "abstract": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can th",
-      "url": "https://arxiv.org/abs/2610.02210v1"
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "date": "2026-10-02",
+      "id": "2610.03717v1",
+      "abstract": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom",
+      "url": "https://arxiv.org/abs/2610.03717v1"
     },
     {
-      "title": "Sphere Encoder 2",
-      "date": "2026-10-01",
-      "id": "2610.02208v1",
-      "abstract": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generati",
-      "url": "https://arxiv.org/abs/2610.02208v1"
+      "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+      "date": "2026-10-02",
+      "id": "2610.03716v1",
+      "abstract": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotatio",
+      "url": "https://arxiv.org/abs/2610.03716v1"
     },
     {
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "date": "2026-10-01",
-      "id": "2610.02207v1",
-      "abstract": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ",
-      "url": "https://arxiv.org/abs/2610.02207v1"
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "date": "2026-10-02",
+      "id": "2610.03715v1",
+      "abstract": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents",
+      "url": "https://arxiv.org/abs/2610.03715v1"
     },
     {
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "date": "2026-10-01",
-      "id": "2610.02204v1",
-      "abstract": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc",
-      "url": "https://arxiv.org/abs/2610.02204v1"
+      "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
+      "date": "2026-10-02",
+      "id": "2610.03664v1",
+      "abstract": "Autoregressive (AR) video models excel at causal generation, but their reliance on next-chunk prediction confines them to a short-sighted, reactive paradigm. This limitation is particularly consequent",
+      "url": "https://arxiv.org/abs/2610.03664v1"
     },
     {
-      "title": "Decoding Looped Transformers Better for (Almost) Free",
-      "date": "2026-10-01",
-      "id": "2610.02185v1",
-      "abstract": "Looped Transformers achieve parameter efficiency by repeatedly executing a shared block across recurrent loops. Each loop yields an intermediate representation decodable for the same next token, yet s",
-      "url": "https://arxiv.org/abs/2610.02185v1"
+      "title": "CORNAV: Construction-Aware Reasoning for Robot Navigation on Active Worksites",
+      "date": "2026-10-02",
+      "id": "2610.03622v1",
+      "abstract": "The construction industry faces persistent labor shortages, low productivity that costs the global economy over $1.6 trillion annually, and one of the highest injury rates among major industries. Thes",
+      "url": "https://arxiv.org/abs/2610.03622v1"
     },
     {
-      "title": "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
-      "date": "2026-10-01",
-      "id": "2610.02122v1",
-      "abstract": "Real-world enterprise data science and analytics workflows require reasoning across dozens of tables, performing statistical analyses, and acting on the results. Established text-to-SQL benchmarks eva",
-      "url": "https://arxiv.org/abs/2610.02122v1"
+      "title": "World Action Learning via Interaction-Centric Spectral Latent Guidance",
+      "date": "2026-10-02",
+      "id": "2610.03607v1",
+      "abstract": "Learning general-purpose robot policies requires large-scale real-world interaction data, yet collecting robot demonstrations remains expensive and difficult to scale. Egocentric videos offer abundant",
+      "url": "https://arxiv.org/abs/2610.03607v1"
     },
     {
-      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-      "date": "2026-10-01",
-      "id": "2610.02198v1",
-      "abstract": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict ",
-      "url": "https://arxiv.org/abs/2610.02198v1"
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "date": "2026-10-02",
+      "id": "2610.03713v1",
+      "abstract": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in",
+      "url": "https://arxiv.org/abs/2610.03713v1"
     },
     {
-      "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
-      "date": "2026-10-01",
-      "id": "2610.02197v1",
-      "abstract": "Video generation models have achieved remarkable visual fidelity and have strong potential to become general-purpose world simulators. Despite this progress, they still fail to generate videos which a",
-      "url": "https://arxiv.org/abs/2610.02197v1"
+      "title": "Mirror symmetry for gCICY threefolds (I): a $[3,-1]$ block and a non-Gorenstein toric phase",
+      "date": "2026-10-02",
+      "id": "2610.03719v1",
+      "abstract": "We construct and analyze a mirror family for the generalized complete intersection Calabi-Yau threefold $X_+=[\\mathbb{P}^1\\,|\\,3\\ {-1};\\ \\mathbb{P}^4\\,|\\,2\\ 3]$, with $(h^{1,1},h^{2,1})=(2,46)$. An au",
+      "url": "https://arxiv.org/abs/2610.03719v1"
     },
     {
-      "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-      "date": "2026-10-01",
-      "id": "2610.02196v1",
-      "abstract": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by repurposing its existing skills, improving from its own attempts, and retaining wh",
-      "url": "https://arxiv.org/abs/2610.02196v1"
+      "title": "Dark matter bound-states made easy",
+      "date": "2026-10-02",
+      "id": "2610.03718v1",
+      "abstract": "A light force carrier can mediate long-range interactions between dark matter particles and facilitate the formation of bound states. Models incorporating these features have attracted considerable at",
+      "url": "https://arxiv.org/abs/2610.03718v1"
     },
     {
-      "title": "GlassGuard: Verified Glass Plane Mapping for Robot Navigation",
-      "date": "2026-10-01",
-      "id": "2610.02110v1",
-      "abstract": "Transparent and specular surfaces pose a serious challenge to LiDAR-based SLAM and navigation because laser returns may pass through glass, leaving collision boundaries absent from the map. Prior work",
-      "url": "https://arxiv.org/abs/2610.02110v1"
+      "title": "Autonomous Robotic Navigation for Endovascular Brain-Computer Interface Access",
+      "date": "2026-10-02",
+      "id": "2610.03537v1",
+      "abstract": "Endovascular brain-computer interfaces (BCIs) avoid craniotomy but require precise device delivery through anatomically variable cerebral veins. This work presents the first demonstration of in vitro ",
+      "url": "https://arxiv.org/abs/2610.03537v1"
     },
     {
-      "title": "A Dynamic Generalized Kalman Consensus Filter for Switching Sensor Networks",
-      "date": "2026-10-01",
-      "id": "2610.02055v1",
-      "abstract": "Distributed state estimation is critical for applications such as surveillance, autonomous navigation, and wide-area monitoring, where sensor agents must cooperatively track targets using only local m",
-      "url": "https://arxiv.org/abs/2610.02055v1"
+      "title": "DR-IPC: Disturbance-Resilient Integrated Planning and Control for LiDAR-Based Quadrotor Navigation",
+      "date": "2026-10-02",
+      "id": "2610.03530v1",
+      "abstract": "LiDAR-based quadrotor navigation in cluttered environments remains challenging under external disturbances, particularly when obstacle-aware motion generation and disturbance-rejection control are han",
+      "url": "https://arxiv.org/abs/2610.03530v1"
     },
     {
-      "title": "Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination",
-      "date": "2026-10-01",
-      "id": "2610.02170v1",
-      "abstract": "Robots operating in the physical world will increasingly need to coordinate with other robots, particularly in manipulation tasks where an object may be too large or heavy for a single robot to carry ",
-      "url": "https://arxiv.org/abs/2610.02170v1"
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "date": "2026-10-02",
+      "id": "2610.03710v1",
+      "abstract": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation poi",
+      "url": "https://arxiv.org/abs/2610.03710v1"
     },
     {
-      "title": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
-      "date": "2026-10-01",
-      "id": "2610.02161v1",
-      "abstract": "Vision-language models (VLMs) and vision-language-action models (VLAs) have recently driven rapid progress in general-purpose robots, yet most progress has focused on single-robot settings. Extending ",
-      "url": "https://arxiv.org/abs/2610.02161v1"
+      "title": "Language Models that Play Chess and Explain Their Moves",
+      "date": "2026-10-02",
+      "id": "2610.03695v1",
+      "abstract": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explana",
+      "url": "https://arxiv.org/abs/2610.03695v1"
     },
     {
-      "title": "HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution",
-      "date": "2026-10-01",
-      "id": "2610.02089v1",
-      "abstract": "As robotic hardware and learning methods advance, humanoids need tools to perform tasks beyond their inherent physical limits. Successful tool use requires selecting a suitable tool and coordinating m",
-      "url": "https://arxiv.org/abs/2610.02089v1"
+      "title": "Melting phase diagram of the two-dimensional electron solid in a perpendicular magnetic field",
+      "date": "2026-10-02",
+      "id": "2610.03513v1",
+      "abstract": "We determine the thermal melting phase diagram of the electron solid by measuring the onset density of the double-threshold voltage-current curves in the insulating state in the ultra-high mobility tw",
+      "url": "https://arxiv.org/abs/2610.03513v1"
     },
     {
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "date": "2026-10-01",
-      "id": "2610.02206v1",
-      "abstract": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment",
-      "url": "https://arxiv.org/abs/2610.02206v1"
+      "title": "Detect and Suppress: A Mechanistic Defense against Adversarial Patches in VLA Models",
+      "date": "2026-10-02",
+      "id": "2610.03498v1",
+      "abstract": "Adversarial patches can disrupt Vision-Language-Action (VLA) models by manipulating visual observations, leading to failures in robot control. However, it remains poorly understood which internal mech",
+      "url": "https://arxiv.org/abs/2610.03498v1"
     },
     {
-      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
-      "date": "2026-10-01",
-      "id": "2610.02199v1",
-      "abstract": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress opt",
-      "url": "https://arxiv.org/abs/2610.02199v1"
+      "title": "MobiAgent: Dual-Loop Recursive Policy Self-Improvement for Long-Horizon Mobile Manipulation",
+      "date": "2026-10-02",
+      "id": "2610.03476v1",
+      "abstract": "Long-horizon mobile manipulation presents significant challenges due to compounding execution errors and capacity interference between locomotion and arm control. While recent Vision-Language-Action m",
+      "url": "https://arxiv.org/abs/2610.03476v1"
     },
     {
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "date": "2026-10-01",
-      "id": "2610.02202v1",
-      "abstract": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res",
-      "url": "https://arxiv.org/abs/2610.02202v1"
+      "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+      "date": "2026-10-02",
+      "id": "2610.03675v1",
+      "abstract": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically opt",
+      "url": "https://arxiv.org/abs/2610.03675v1"
     },
     {
-      "title": "Hyperbolic lattices with mass disorder: Phases and phase transitions",
-      "date": "2026-10-01",
-      "id": "2610.02192v1",
-      "abstract": "Nearest-neighbor (NN) tight-binding models (TBMs) on plaquette-centered $\\{ 10,3\\}$ (Schläfli symbol), $\\{ 8,3\\}$, and $\\{ 8,4\\}$ hyperbolic lattices on a Poincaré disk with open boundary conditions d",
-      "url": "https://arxiv.org/abs/2610.02192v1"
+      "title": "Planning to Learn",
+      "date": "2026-10-02",
+      "id": "2610.03667v1",
+      "abstract": "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. ",
+      "url": "https://arxiv.org/abs/2610.03667v1"
     },
     {
-      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-      "date": "2026-10-01",
-      "id": "2610.02205v1",
-      "abstract": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. However, their visual adherence to explicit rules and i",
-      "url": "https://arxiv.org/abs/2610.02205v1"
+      "title": "Unitary complexity in polynomial space",
+      "date": "2026-10-02",
+      "id": "2610.03705v1",
+      "abstract": "We show that if quantum commitments exist, then either there is no polynomial-time solution to the unitary synthesis problem, or $\\mathsf{BPP} \\neq \\mathsf{NEXP}$. Thus, showing unconditionally that q",
+      "url": "https://arxiv.org/abs/2610.03705v1"
+    },
+    {
+      "title": "How I Learned to Stop Worrying and Love the Redfield Equation: Completely-Positive Resummation of Non-Markovian Dynamics",
+      "date": "2026-10-02",
+      "id": "2610.03676v1",
+      "abstract": "The Redfield equation with time-dependent coefficients (or TCL2 equation) gives one of the simplest perturbative descriptions of open quantum system dynamics derived from a microscopic theory. Its sta",
+      "url": "https://arxiv.org/abs/2610.03676v1"
+    },
+    {
+      "title": "Classical Algorithms for Bipartite Quantum Max-Cut on Dense Expanders",
+      "date": "2026-10-02",
+      "id": "2610.03670v1",
+      "abstract": "Quantum Max-Cut is a well-studied local Hamiltonian problem for which the classical complexity of the bipartite case remains open. We give a polynomial-time classical randomized algorithm for the spin",
+      "url": "https://arxiv.org/abs/2610.03670v1"
     }
   ]
 }
