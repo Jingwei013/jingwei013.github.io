@@ -1,126 +1,154 @@
 {
-  "updated": "2026-10-06 06:59 UTC",
-  "total": 17,
+  "updated": "2026-10-07 06:40 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-      "date": "2026-10-05",
-      "id": "2610.06852v1",
-      "abstract": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ",
-      "url": "https://arxiv.org/abs/2610.06852v1"
+      "title": "World Models' Last Exam in Physics",
+      "date": "2026-10-06",
+      "id": "2610.08791v1",
+      "abstract": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluati",
+      "url": "https://arxiv.org/abs/2610.08791v1"
     },
     {
-      "title": "Base Models Can Reason By Taking a Cue From Training Data",
-      "date": "2026-10-05",
-      "id": "2610.06851v1",
-      "abstract": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par",
-      "url": "https://arxiv.org/abs/2610.06851v1"
+      "title": "Building Rome from a Single Image",
+      "date": "2026-10-06",
+      "id": "2610.08790v1",
+      "abstract": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape p",
+      "url": "https://arxiv.org/abs/2610.08790v1"
     },
     {
-      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
-      "date": "2026-10-05",
-      "id": "2610.06850v1",
-      "abstract": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a sel",
-      "url": "https://arxiv.org/abs/2610.06850v1"
+      "title": "PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation",
+      "date": "2026-10-06",
+      "id": "2610.08784v1",
+      "abstract": "Pretrained robotic policies can suffer substantial performance degradation under out-of-distribution (OOD) conditions encountered during deployment, motivating post-training through real-world interac",
+      "url": "https://arxiv.org/abs/2610.08784v1"
     },
     {
-      "title": "Recursive Video In-Context Learning for Agentic Robot",
-      "date": "2026-10-05",
-      "id": "2610.06843v1",
-      "abstract": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration vid",
-      "url": "https://arxiv.org/abs/2610.06843v1"
+      "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+      "date": "2026-10-06",
+      "id": "2610.08761v1",
+      "abstract": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery",
+      "url": "https://arxiv.org/abs/2610.08761v1"
     },
     {
-      "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
-      "date": "2026-10-05",
-      "id": "2610.06809v1",
-      "abstract": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive",
-      "url": "https://arxiv.org/abs/2610.06809v1"
+      "title": "Towards an Extensible Benchmark for Spoken Dialogue with Social Robots",
+      "date": "2026-10-06",
+      "id": "2610.08733v1",
+      "abstract": "Language models provide a plug-and-play interface between humans and robots, but important challenges remain when speech, dialogue, fast interaction, and collaboration are required. We propose a bench",
+      "url": "https://arxiv.org/abs/2610.08733v1"
     },
     {
-      "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
-      "date": "2026-10-05",
-      "id": "2610.06805v1",
-      "abstract": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with m",
-      "url": "https://arxiv.org/abs/2610.06805v1"
+      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+      "date": "2026-10-06",
+      "id": "2610.08782v1",
+      "abstract": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un",
+      "url": "https://arxiv.org/abs/2610.08782v1"
     },
     {
-      "title": "Goal-Oriented Wave Computing for Direction-of-Arrival Estimation",
-      "date": "2026-10-05",
-      "id": "2610.06839v1",
-      "abstract": "Programmable metasurfaces---arrays of elements whose electromagnetic response can be tuned electronically---can process signals as a wave propagates through or reflects off them, a paradigm known as w",
-      "url": "https://arxiv.org/abs/2610.06839v1"
+      "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+      "date": "2026-10-06",
+      "id": "2610.08779v1",
+      "abstract": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects",
+      "url": "https://arxiv.org/abs/2610.08779v1"
     },
     {
-      "title": "Pulsar Constellation Evolution and PPP Convergence using LEO GNSS",
-      "date": "2026-10-05",
-      "id": "2610.06759v1",
-      "abstract": "The objective of this paper is to demonstrate the future impact of a dedicated low-earth-orbit (LEO) Global Navigation Satellite System (GNSS) on positioning, navigation, and timing (PNT), in addition",
-      "url": "https://arxiv.org/abs/2610.06759v1"
+      "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+      "date": "2026-10-06",
+      "id": "2610.08789v1",
+      "abstract": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the",
+      "url": "https://arxiv.org/abs/2610.08789v1"
     },
     {
-      "title": "TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify",
-      "date": "2026-10-05",
-      "id": "2610.06848v1",
-      "abstract": "Membership is the root privacy primitive in machine learning: to date, no hardware-based out-of-distribution detection on black-box models has been demonstrated against constant-time, static neural ne",
-      "url": "https://arxiv.org/abs/2610.06848v1"
+      "title": "RIWANav: Recursive World-Action Models with Self-Improvement for Urban Navigation",
+      "date": "2026-10-06",
+      "id": "2610.08640v1",
+      "abstract": "Long-horizon urban navigation requires sequential local decisions whose errors can compound over time. Imitation learning (IL) rarely learns from failures, while physical trial-and-error reinforcement",
+      "url": "https://arxiv.org/abs/2610.08640v1"
     },
     {
-      "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
-      "date": "2026-10-05",
-      "id": "2610.06814v1",
-      "abstract": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipula",
-      "url": "https://arxiv.org/abs/2610.06814v1"
+      "title": "Demo: Closed-Loop Sionna-Isaac Sim Co-Simulation Framework for Wireless-Aware Robot Navigation over ROS 2",
+      "date": "2026-10-06",
+      "id": "2610.08618v1",
+      "abstract": "A robot that offloads its control loop to the network carries the receiver with it, so link quality is decided by where it goes. Simulating this requires both a physics engine and a site-specific prop",
+      "url": "https://arxiv.org/abs/2610.08618v1"
     },
     {
-      "title": "Continuous-Time Estimation-Aware Optimal Control of Mobile Sensors for Target Tracking",
-      "date": "2026-10-05",
-      "id": "2610.06654v1",
-      "abstract": "Target tracking is the problem of estimating the state of a target system using measurements collected (oftentimes) by mobile sensors. Trajectory optimization for mobile sensors must account not only ",
-      "url": "https://arxiv.org/abs/2610.06654v1"
+      "title": "Chiral Central Charge from Real-Space Twist Operator Correlator",
+      "date": "2026-10-06",
+      "id": "2610.08788v1",
+      "abstract": "Recent years have witnessed substantial progress in the entanglement-based characterization of quantum phases of matter, with growing interest in real-space formulas due to their theoretical and exper",
+      "url": "https://arxiv.org/abs/2610.08788v1"
     },
     {
-      "title": "Physics Residual Dynamics and Reduced Order Whole-Body Planning for Obstacle Aware Human Robot Cloth CoTransportation",
-      "date": "2026-10-05",
-      "id": "2610.06641v1",
-      "abstract": "Human--robot co-transportation of deformable objects requires predicting object deformation during motion, since obstacle clearance depends on both the grasp points and the unactuated interior. We pre",
-      "url": "https://arxiv.org/abs/2610.06641v1"
+      "title": "DepthWorld: 3D World Model for Robot Manipulation",
+      "date": "2026-10-06",
+      "id": "2610.08780v1",
+      "abstract": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D ge",
+      "url": "https://arxiv.org/abs/2610.08780v1"
     },
     {
-      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-      "date": "2026-10-05",
-      "id": "2610.06844v1",
-      "abstract": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi",
-      "url": "https://arxiv.org/abs/2610.06844v1"
+      "title": "PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones",
+      "date": "2026-10-06",
+      "id": "2610.08737v1",
+      "abstract": "The adoption of humanoid robots in education and research remains limited by high hardware costs, complex sensing systems, and substantial computational requirements. This paper presents PhoneBot, a l",
+      "url": "https://arxiv.org/abs/2610.08737v1"
     },
     {
-      "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
-      "date": "2026-10-05",
-      "id": "2610.06831v1",
-      "abstract": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter ",
-      "url": "https://arxiv.org/abs/2610.06831v1"
+      "title": "EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning",
+      "date": "2026-10-06",
+      "id": "2610.08726v1",
+      "abstract": "Egocentric human data offer a path to scaling robot learning beyond costly robot demonstrations, yet the embodiment gap makes raw human trajectories a poor supervisory target for control. Our key insi",
+      "url": "https://arxiv.org/abs/2610.08726v1"
     },
     {
-      "title": "On the Dirichlet problem for the degenerate $2$-Hessian equation",
-      "date": "2026-10-05",
-      "id": "2610.06853v1",
-      "abstract": "In this paper, we establish global $C^{1,1}$ solvability of the Dirichlet problem for the degenerate $2$-Hessian equation on bounded strictly mean convex $C^{3,1}$ domains $Ω$, with general $C^{3,1}$ ",
-      "url": "https://arxiv.org/abs/2610.06853v1"
+      "title": "WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses",
+      "date": "2026-10-06",
+      "id": "2610.08526v1",
+      "abstract": "Vision-Language-Action (VLA) models have achieved impressive results in robotic manipulation and ground-mobile navigation, yet language-conditioned control of unmanned aerial vehicles (UAVs) in smart ",
+      "url": "https://arxiv.org/abs/2610.08526v1"
     },
     {
-      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-      "date": "2026-10-05",
-      "id": "2610.06830v1",
-      "abstract": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic ",
-      "url": "https://arxiv.org/abs/2610.06830v1"
+      "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+      "date": "2026-10-06",
+      "id": "2610.08781v1",
+      "abstract": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-",
+      "url": "https://arxiv.org/abs/2610.08781v1"
     },
     {
-      "title": "Rewire and reset are all you need: Minimal resources for manipulating non-Abelions",
-      "date": "2026-10-05",
-      "id": "2610.06845v1",
-      "abstract": "Braiding and fusing anyons are fundamental to topological quantum computation, yet existing circuit protocols often employ ancillas and measurements. We determine the minimal circuit resources for per",
-      "url": "https://arxiv.org/abs/2610.06845v1"
+      "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+      "date": "2026-10-06",
+      "id": "2610.08778v1",
+      "abstract": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teac",
+      "url": "https://arxiv.org/abs/2610.08778v1"
+    },
+    {
+      "title": "Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators",
+      "date": "2026-10-06",
+      "id": "2610.08762v1",
+      "abstract": "Lead-free ferroelectric BaTiO3 (BTO) nanoparticles with stabilized tetragonal distortion were synthesized via a ligand-assisted sol-gel method to serve as the active piezoelectric phase in high-perfor",
+      "url": "https://arxiv.org/abs/2610.08762v1"
+    },
+    {
+      "title": "WorldSonus: Bringing Sound to Worlds",
+      "date": "2026-10-06",
+      "id": "2610.08760v1",
+      "abstract": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core chall",
+      "url": "https://arxiv.org/abs/2610.08760v1"
+    },
+    {
+      "title": "Energy-constrained two-way capacity bounds for noisy Gaussian channels",
+      "date": "2026-10-06",
+      "id": "2610.08786v1",
+      "abstract": "A gap between achievable rates and converse bounds persists for energy-constrained bosonic communication in the presence of excess noise. We derive a unified adaptive weak-converse bound for thermal a",
+      "url": "https://arxiv.org/abs/2610.08786v1"
+    },
+    {
+      "title": "Estimation and Recovery of a Planted Dense Subgraph from a Single Network Cascade",
+      "date": "2026-10-06",
+      "id": "2610.08766v1",
+      "abstract": "We study the inference of a planted dense component in a sparse random graph from a single spreading process. The graph has an Erdős-Rényi background with edge probability $p_n$ and contains a planted",
+      "url": "https://arxiv.org/abs/2610.08766v1"
     }
   ]
 }
