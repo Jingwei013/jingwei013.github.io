@@ -1,154 +1,140 @@
 {
-  "updated": "2026-10-07 06:40 UTC",
-  "total": 21,
+  "updated": "2026-10-08 06:47 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "World Models' Last Exam in Physics",
-      "date": "2026-10-06",
-      "id": "2610.08791v1",
-      "abstract": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluati",
-      "url": "https://arxiv.org/abs/2610.08791v1"
+      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+      "date": "2026-10-07",
+      "id": "2610.10539v1",
+      "abstract": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o",
+      "url": "https://arxiv.org/abs/2610.10539v1"
     },
     {
-      "title": "Building Rome from a Single Image",
-      "date": "2026-10-06",
-      "id": "2610.08790v1",
-      "abstract": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape p",
-      "url": "https://arxiv.org/abs/2610.08790v1"
+      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "date": "2026-10-07",
+      "id": "2610.10538v1",
+      "abstract": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,",
+      "url": "https://arxiv.org/abs/2610.10538v1"
     },
     {
-      "title": "PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation",
-      "date": "2026-10-06",
-      "id": "2610.08784v1",
-      "abstract": "Pretrained robotic policies can suffer substantial performance degradation under out-of-distribution (OOD) conditions encountered during deployment, motivating post-training through real-world interac",
-      "url": "https://arxiv.org/abs/2610.08784v1"
+      "title": "Decoupling Exploration from Optimization in RLVR",
+      "date": "2026-10-07",
+      "id": "2610.10536v1",
+      "abstract": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ",
+      "url": "https://arxiv.org/abs/2610.10536v1"
     },
     {
-      "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
-      "date": "2026-10-06",
-      "id": "2610.08761v1",
-      "abstract": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery",
-      "url": "https://arxiv.org/abs/2610.08761v1"
+      "title": "RoboJEPA: Scaling Robotic Latent World Models",
+      "date": "2026-10-07",
+      "id": "2610.10515v1",
+      "abstract": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with",
+      "url": "https://arxiv.org/abs/2610.10515v1"
     },
     {
-      "title": "Towards an Extensible Benchmark for Spoken Dialogue with Social Robots",
-      "date": "2026-10-06",
-      "id": "2610.08733v1",
-      "abstract": "Language models provide a plug-and-play interface between humans and robots, but important challenges remain when speech, dialogue, fast interaction, and collaboration are required. We propose a bench",
-      "url": "https://arxiv.org/abs/2610.08733v1"
+      "title": "HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion",
+      "date": "2026-10-07",
+      "id": "2610.10489v1",
+      "abstract": "Despite recent advances in humanoid locomotion, controllers optimized for command tracking and robustness tend to produce mechanical gaits, whereas controllers tied to human motion data often fail to ",
+      "url": "https://arxiv.org/abs/2610.10489v1"
     },
     {
-      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-      "date": "2026-10-06",
-      "id": "2610.08782v1",
-      "abstract": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un",
-      "url": "https://arxiv.org/abs/2610.08782v1"
+      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+      "date": "2026-10-07",
+      "id": "2610.10520v1",
+      "abstract": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use",
+      "url": "https://arxiv.org/abs/2610.10520v1"
     },
     {
-      "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
-      "date": "2026-10-06",
-      "id": "2610.08779v1",
-      "abstract": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects",
-      "url": "https://arxiv.org/abs/2610.08779v1"
+      "title": "A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology",
+      "date": "2026-10-07",
+      "id": "2610.10535v1",
+      "abstract": "We introduce a flexible mixture model for the joint source-frame component-mass distribution of compact binaries, inferred simultaneously with cosmology, together with a framework that identifies stru",
+      "url": "https://arxiv.org/abs/2610.10535v1"
     },
     {
-      "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
-      "date": "2026-10-06",
-      "id": "2610.08789v1",
-      "abstract": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the",
-      "url": "https://arxiv.org/abs/2610.08789v1"
+      "title": "ECHO: Embodied Camera Observations of Human Object Carrying",
+      "date": "2026-10-07",
+      "id": "2610.10438v1",
+      "abstract": "Embodied and assistive agents must do more than recognize objects: they must reason about where an object belongs given the layout of an environment and the habits of the people who live in it. Progre",
+      "url": "https://arxiv.org/abs/2610.10438v1"
     },
     {
-      "title": "RIWANav: Recursive World-Action Models with Self-Improvement for Urban Navigation",
-      "date": "2026-10-06",
-      "id": "2610.08640v1",
-      "abstract": "Long-horizon urban navigation requires sequential local decisions whose errors can compound over time. Imitation learning (IL) rarely learns from failures, while physical trial-and-error reinforcement",
-      "url": "https://arxiv.org/abs/2610.08640v1"
+      "title": "AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation",
+      "date": "2026-10-07",
+      "id": "2610.10421v1",
+      "abstract": "Goal-oriented Vision-and-Language Navigation (VLN) requires agents to locate and reach targets described in natural language without prescribed routes. Air--ground collaboration is valuable for tasks ",
+      "url": "https://arxiv.org/abs/2610.10421v1"
     },
     {
-      "title": "Demo: Closed-Loop Sionna-Isaac Sim Co-Simulation Framework for Wireless-Aware Robot Navigation over ROS 2",
-      "date": "2026-10-06",
-      "id": "2610.08618v1",
-      "abstract": "A robot that offloads its control loop to the network carries the receiver with it, so link quality is decided by where it goes. Simulating this requires both a physics engine and a site-specific prop",
-      "url": "https://arxiv.org/abs/2610.08618v1"
+      "title": "Semantic-Aware Predictive Mapping for Exploration and Navigation",
+      "date": "2026-10-07",
+      "id": "2610.10382v1",
+      "abstract": "Predictive mapping can support robotic exploration and navigation by estimating unseen geometric layouts from partial occupancy observations. However, occupancy-only representations may fail to distin",
+      "url": "https://arxiv.org/abs/2610.10382v1"
     },
     {
-      "title": "Chiral Central Charge from Real-Space Twist Operator Correlator",
-      "date": "2026-10-06",
-      "id": "2610.08788v1",
-      "abstract": "Recent years have witnessed substantial progress in the entanglement-based characterization of quantum phases of matter, with growing interest in real-space formulas due to their theoretical and exper",
-      "url": "https://arxiv.org/abs/2610.08788v1"
+      "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
+      "date": "2026-10-07",
+      "id": "2610.10534v1",
+      "abstract": "End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy meth",
+      "url": "https://arxiv.org/abs/2610.10534v1"
     },
     {
-      "title": "DepthWorld: 3D World Model for Robot Manipulation",
-      "date": "2026-10-06",
-      "id": "2610.08780v1",
-      "abstract": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D ge",
-      "url": "https://arxiv.org/abs/2610.08780v1"
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "date": "2026-10-07",
+      "id": "2610.10528v1",
+      "abstract": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con",
+      "url": "https://arxiv.org/abs/2610.10528v1"
     },
     {
-      "title": "PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones",
-      "date": "2026-10-06",
-      "id": "2610.08737v1",
-      "abstract": "The adoption of humanoid robots in education and research remains limited by high hardware costs, complex sensing systems, and substantial computational requirements. This paper presents PhoneBot, a l",
-      "url": "https://arxiv.org/abs/2610.08737v1"
+      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "date": "2026-10-07",
+      "id": "2610.10526v1",
+      "abstract": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo",
+      "url": "https://arxiv.org/abs/2610.10526v1"
     },
     {
-      "title": "EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning",
-      "date": "2026-10-06",
-      "id": "2610.08726v1",
-      "abstract": "Egocentric human data offer a path to scaling robot learning beyond costly robot demonstrations, yet the embodiment gap makes raw human trajectories a poor supervisory target for control. Our key insi",
-      "url": "https://arxiv.org/abs/2610.08726v1"
+      "title": "A Compositional Perspective on Communication-Control Co-Design for Mobile Broadband Systems Beyond 6G",
+      "date": "2026-10-07",
+      "id": "2610.10486v1",
+      "abstract": "Anticipated applications of beyond sixth-generation (B6G) mobile broadband networks will require the co-design of communication and control subsystems within the network architecture. Existing co-desi",
+      "url": "https://arxiv.org/abs/2610.10486v1"
     },
     {
-      "title": "WareFly-VLA: A Vision-Language-Action Framework for UAV Navigation and Human Tracking in Smart Warehouses",
-      "date": "2026-10-06",
-      "id": "2610.08526v1",
-      "abstract": "Vision-Language-Action (VLA) models have achieved impressive results in robotic manipulation and ground-mobile navigation, yet language-conditioned control of unmanned aerial vehicles (UAVs) in smart ",
-      "url": "https://arxiv.org/abs/2610.08526v1"
+      "title": "MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening",
+      "date": "2026-10-07",
+      "id": "2610.10448v1",
+      "abstract": "MemoCare is an interactive mobile system for automated multimodal cognitive screening. A React Native application combines spoken responses, temporal and spatial orientation, touchscreen actions, and ",
+      "url": "https://arxiv.org/abs/2610.10448v1"
     },
     {
-      "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-      "date": "2026-10-06",
-      "id": "2610.08781v1",
-      "abstract": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-",
-      "url": "https://arxiv.org/abs/2610.08781v1"
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "date": "2026-10-07",
+      "id": "2610.10533v1",
+      "abstract": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be",
+      "url": "https://arxiv.org/abs/2610.10533v1"
     },
     {
-      "title": "Sherpa: Teaching LLMs to Teach Adaptively",
-      "date": "2026-10-06",
-      "id": "2610.08778v1",
-      "abstract": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teac",
-      "url": "https://arxiv.org/abs/2610.08778v1"
+      "title": "Null string holography in AdS from local BRST descent",
+      "date": "2026-10-07",
+      "id": "2610.10540v1",
+      "abstract": "We show that the radial sector of a Carroll-Weyl gauged null string in Poincaré $\\mathrm{AdS}_D$ is locally trivial in BRST cohomology. In a quotient-adapted BFV basis, the radial coordinate, its conj",
+      "url": "https://arxiv.org/abs/2610.10540v1"
     },
     {
-      "title": "Small Distortions, Big Polarization: Tetragonal BaTiO3 Nanoparticles for High-Performance Piezoelectric Nanogenerators",
-      "date": "2026-10-06",
-      "id": "2610.08762v1",
-      "abstract": "Lead-free ferroelectric BaTiO3 (BTO) nanoparticles with stabilized tetragonal distortion were synthesized via a ligand-assisted sol-gel method to serve as the active piezoelectric phase in high-perfor",
-      "url": "https://arxiv.org/abs/2610.08762v1"
+      "title": "Symmetric Submodular Minimization from Comparisons",
+      "date": "2026-10-07",
+      "id": "2610.10518v1",
+      "abstract": "Given value-oracle access to a symmetric submodular function $f:2^V\\to\\mathbb{R}$ with $|V|=n$, a nontrivial minimizer can be found using $O(n^3)$ value queries. We study the weaker comparison model, ",
+      "url": "https://arxiv.org/abs/2610.10518v1"
     },
     {
-      "title": "WorldSonus: Bringing Sound to Worlds",
-      "date": "2026-10-06",
-      "id": "2610.08760v1",
-      "abstract": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core chall",
-      "url": "https://arxiv.org/abs/2610.08760v1"
-    },
-    {
-      "title": "Energy-constrained two-way capacity bounds for noisy Gaussian channels",
-      "date": "2026-10-06",
-      "id": "2610.08786v1",
-      "abstract": "A gap between achievable rates and converse bounds persists for energy-constrained bosonic communication in the presence of excess noise. We derive a unified adaptive weak-converse bound for thermal a",
-      "url": "https://arxiv.org/abs/2610.08786v1"
-    },
-    {
-      "title": "Estimation and Recovery of a Planted Dense Subgraph from a Single Network Cascade",
-      "date": "2026-10-06",
-      "id": "2610.08766v1",
-      "abstract": "We study the inference of a planted dense component in a sparse random graph from a single spreading process. The graph has an Erdős-Rényi background with edge probability $p_n$ and contains a planted",
-      "url": "https://arxiv.org/abs/2610.08766v1"
+      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+      "date": "2026-10-07",
+      "id": "2610.10513v1",
+      "abstract": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of w",
+      "url": "https://arxiv.org/abs/2610.10513v1"
     }
   ]
 }
