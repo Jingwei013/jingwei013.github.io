@@ -1,140 +1,140 @@
 {
-  "updated": "2026-10-08 06:47 UTC",
+  "updated": "2026-10-09 06:57 UTC",
   "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
-      "date": "2026-10-07",
-      "id": "2610.10539v1",
-      "abstract": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o",
-      "url": "https://arxiv.org/abs/2610.10539v1"
+      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+      "date": "2026-10-08",
+      "id": "2610.12470v1",
+      "abstract": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri",
+      "url": "https://arxiv.org/abs/2610.12470v1"
     },
     {
-      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
-      "date": "2026-10-07",
-      "id": "2610.10538v1",
-      "abstract": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,",
-      "url": "https://arxiv.org/abs/2610.10538v1"
+      "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+      "date": "2026-10-08",
+      "id": "2610.12469v1",
+      "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and",
+      "url": "https://arxiv.org/abs/2610.12469v1"
     },
     {
-      "title": "Decoupling Exploration from Optimization in RLVR",
-      "date": "2026-10-07",
-      "id": "2610.10536v1",
-      "abstract": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ",
-      "url": "https://arxiv.org/abs/2610.10536v1"
+      "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "date": "2026-10-08",
+      "id": "2610.12468v1",
+      "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl",
+      "url": "https://arxiv.org/abs/2610.12468v1"
     },
     {
-      "title": "RoboJEPA: Scaling Robotic Latent World Models",
-      "date": "2026-10-07",
-      "id": "2610.10515v1",
-      "abstract": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with",
-      "url": "https://arxiv.org/abs/2610.10515v1"
+      "title": "SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation",
+      "date": "2026-10-08",
+      "id": "2610.12457v1",
+      "abstract": "Frontier multimodal foundation models (e.g., GPT-6 Astra) have recently shown strong potential for direct robotic control, yet their performance on fine manipulation remains limited. We argue that an ",
+      "url": "https://arxiv.org/abs/2610.12457v1"
     },
     {
-      "title": "HuMBLE: Human Motion-Driven Behavior Learning for Embodied Locomotion",
-      "date": "2026-10-07",
-      "id": "2610.10489v1",
-      "abstract": "Despite recent advances in humanoid locomotion, controllers optimized for command tracking and robustness tend to produce mechanical gaits, whereas controllers tied to human motion data often fail to ",
-      "url": "https://arxiv.org/abs/2610.10489v1"
+      "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
+      "date": "2026-10-08",
+      "id": "2610.12440v1",
+      "abstract": "Human demonstrations are a scalable data source for learning dexterous manipulation, but the embodiment gap prevents human motion from being executed directly on robots. Inverse kinematics (IK) retarg",
+      "url": "https://arxiv.org/abs/2610.12440v1"
     },
     {
-      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
-      "date": "2026-10-07",
-      "id": "2610.10520v1",
-      "abstract": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use",
-      "url": "https://arxiv.org/abs/2610.10520v1"
+      "title": "Control-Ready Uncertainty for Trajectory Diffusion",
+      "date": "2026-10-08",
+      "id": "2610.12431v1",
+      "abstract": "Diffusion models can represent complex, multimodal trajectory distributions, but extracting uncertainty from them typically requires costly Monte Carlo sampling. This limits their use in real-time con",
+      "url": "https://arxiv.org/abs/2610.12431v1"
     },
     {
-      "title": "A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology",
-      "date": "2026-10-07",
-      "id": "2610.10535v1",
-      "abstract": "We introduce a flexible mixture model for the joint source-frame component-mass distribution of compact binaries, inferred simultaneously with cosmology, together with a framework that identifies stru",
-      "url": "https://arxiv.org/abs/2610.10535v1"
+      "title": "LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild",
+      "date": "2026-10-08",
+      "id": "2610.12368v1",
+      "abstract": "Direct visual navigation policies generate trajectories efficiently but do not explicitly evaluate their future consequences. Generative navigation world models provide this foresight through visual r",
+      "url": "https://arxiv.org/abs/2610.12368v1"
     },
     {
-      "title": "ECHO: Embodied Camera Observations of Human Object Carrying",
-      "date": "2026-10-07",
-      "id": "2610.10438v1",
-      "abstract": "Embodied and assistive agents must do more than recognize objects: they must reason about where an object belongs given the layout of an environment and the habits of the people who live in it. Progre",
-      "url": "https://arxiv.org/abs/2610.10438v1"
+      "title": "The Geometry of Hierarchical Navigation: Accuracy and Query Cost for Point Process Input",
+      "date": "2026-10-08",
+      "id": "2610.12312v1",
+      "abstract": "Large-scale information retrieval systems, including retrieval-augmented generation (RAG) and recommendation engines, widely use multi-layered hierarchical data structures for ultra-fast approximate n",
+      "url": "https://arxiv.org/abs/2610.12312v1"
     },
     {
-      "title": "AirGroundVLN: A Large-Scale Benchmark for Goal-Oriented Air-Ground Collaborative Vision-and-Language Navigation",
-      "date": "2026-10-07",
-      "id": "2610.10421v1",
-      "abstract": "Goal-oriented Vision-and-Language Navigation (VLN) requires agents to locate and reach targets described in natural language without prescribed routes. Air--ground collaboration is valuable for tasks ",
-      "url": "https://arxiv.org/abs/2610.10421v1"
+      "title": "CSF: Contextual Safety Filtering for Motion Generators",
+      "date": "2026-10-08",
+      "id": "2610.12467v1",
+      "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ",
+      "url": "https://arxiv.org/abs/2610.12467v1"
     },
     {
-      "title": "Semantic-Aware Predictive Mapping for Exploration and Navigation",
-      "date": "2026-10-07",
-      "id": "2610.10382v1",
-      "abstract": "Predictive mapping can support robotic exploration and navigation by estimating unseen geometric layouts from partial occupancy observations. However, occupancy-only representations may fail to distin",
-      "url": "https://arxiv.org/abs/2610.10382v1"
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "date": "2026-10-08",
+      "id": "2610.12465v1",
+      "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c",
+      "url": "https://arxiv.org/abs/2610.12465v1"
     },
     {
-      "title": "RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
-      "date": "2026-10-07",
-      "id": "2610.10534v1",
-      "abstract": "End-to-end robot policies trained through imitation learning remain constrained by limited data diversity, making reliable zero-shot deployment in real-world settings challenging. Shared-autonomy meth",
-      "url": "https://arxiv.org/abs/2610.10534v1"
+      "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
+      "date": "2026-10-08",
+      "id": "2610.12455v1",
+      "abstract": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered",
+      "url": "https://arxiv.org/abs/2610.12455v1"
     },
     {
-      "title": "Long-WAM: Scaling the Context of World-Action Models",
-      "date": "2026-10-07",
-      "id": "2610.10528v1",
-      "abstract": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con",
-      "url": "https://arxiv.org/abs/2610.10528v1"
+      "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+      "date": "2026-10-08",
+      "id": "2610.12451v1",
+      "abstract": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in ca",
+      "url": "https://arxiv.org/abs/2610.12451v1"
     },
     {
-      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-      "date": "2026-10-07",
-      "id": "2610.10526v1",
-      "abstract": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo",
-      "url": "https://arxiv.org/abs/2610.10526v1"
+      "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+      "date": "2026-10-08",
+      "id": "2610.12435v1",
+      "abstract": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps ",
+      "url": "https://arxiv.org/abs/2610.12435v1"
     },
     {
-      "title": "A Compositional Perspective on Communication-Control Co-Design for Mobile Broadband Systems Beyond 6G",
-      "date": "2026-10-07",
-      "id": "2610.10486v1",
-      "abstract": "Anticipated applications of beyond sixth-generation (B6G) mobile broadband networks will require the co-design of communication and control subsystems within the network architecture. Existing co-desi",
-      "url": "https://arxiv.org/abs/2610.10486v1"
+      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+      "date": "2026-10-08",
+      "id": "2610.12458v1",
+      "abstract": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual capt",
+      "url": "https://arxiv.org/abs/2610.12458v1"
     },
     {
-      "title": "MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening",
-      "date": "2026-10-07",
-      "id": "2610.10448v1",
-      "abstract": "MemoCare is an interactive mobile system for automated multimodal cognitive screening. A React Native application combines spoken responses, temporal and spatial orientation, touchscreen actions, and ",
-      "url": "https://arxiv.org/abs/2610.10448v1"
+      "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+      "date": "2026-10-08",
+      "id": "2610.12459v1",
+      "abstract": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model mu",
+      "url": "https://arxiv.org/abs/2610.12459v1"
     },
     {
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "date": "2026-10-07",
-      "id": "2610.10533v1",
-      "abstract": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be",
-      "url": "https://arxiv.org/abs/2610.10533v1"
+      "title": "Coupling Independence Implies Zero-Freeness",
+      "date": "2026-10-08",
+      "id": "2610.12456v1",
+      "abstract": "For $Δ\\ge2$ and $q\\ge11Δ/6$, we prove that the antiferromagnetic $q$-state Potts partition function on finite simple graphs of maximum degree at most $Δ$ has no Fisher zeros in a graph-uniform complex",
+      "url": "https://arxiv.org/abs/2610.12456v1"
     },
     {
-      "title": "Null string holography in AdS from local BRST descent",
-      "date": "2026-10-07",
-      "id": "2610.10540v1",
-      "abstract": "We show that the radial sector of a Carroll-Weyl gauged null string in Poincaré $\\mathrm{AdS}_D$ is locally trivial in BRST cohomology. In a quotient-adapted BFV basis, the radial coordinate, its conj",
-      "url": "https://arxiv.org/abs/2610.10540v1"
+      "title": "On PPT entanglement distillation",
+      "date": "2026-10-08",
+      "id": "2610.12454v1",
+      "abstract": "We study entanglement distillation under operations that remain completely positive under partial-transpose conjugation, a.k.a. PPT channels, in the standard quantum Shannon theory regime of asymptoti",
+      "url": "https://arxiv.org/abs/2610.12454v1"
     },
     {
-      "title": "Symmetric Submodular Minimization from Comparisons",
-      "date": "2026-10-07",
-      "id": "2610.10518v1",
-      "abstract": "Given value-oracle access to a symmetric submodular function $f:2^V\\to\\mathbb{R}$ with $|V|=n$, a nontrivial minimizer can be found using $O(n^3)$ value queries. We study the weaker comparison model, ",
-      "url": "https://arxiv.org/abs/2610.10518v1"
+      "title": "Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required",
+      "date": "2026-10-08",
+      "id": "2610.12462v1",
+      "abstract": "Variability is a crucial probe of active galactic nuclei (AGN) disks, but the impact of the structure and internal physics of the disk on this variability is poorly understood. We perform 3D multi-fre",
+      "url": "https://arxiv.org/abs/2610.12462v1"
     },
     {
-      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "date": "2026-10-07",
-      "id": "2610.10513v1",
-      "abstract": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of w",
-      "url": "https://arxiv.org/abs/2610.10513v1"
+      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "date": "2026-10-08",
+      "id": "2610.12464v1",
+      "abstract": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 h",
+      "url": "https://arxiv.org/abs/2610.12464v1"
     }
   ]
 }
