@@ -1,140 +1,70 @@
 {
-  "updated": "2026-10-11 06:36 UTC",
-  "total": 19,
+  "updated": "2026-10-12 06:44 UTC",
+  "total": 9,
   "today_count": 0,
   "papers": [
     {
-      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-      "date": "2026-10-08",
-      "id": "2610.12470v1",
-      "abstract": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri",
-      "url": "https://arxiv.org/abs/2610.12470v1"
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "date": "2026-10-09",
+      "id": "2610.13948v1",
+      "abstract": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled",
+      "url": "https://arxiv.org/abs/2610.13948v1"
     },
     {
-      "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-      "date": "2026-10-08",
-      "id": "2610.12469v1",
-      "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and",
-      "url": "https://arxiv.org/abs/2610.12469v1"
+      "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+      "date": "2026-10-09",
+      "id": "2610.13947v1",
+      "abstract": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on p",
+      "url": "https://arxiv.org/abs/2610.13947v1"
     },
     {
-      "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-      "date": "2026-10-08",
-      "id": "2610.12468v1",
-      "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl",
-      "url": "https://arxiv.org/abs/2610.12468v1"
+      "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+      "date": "2026-10-09",
+      "id": "2610.13945v1",
+      "abstract": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ ach",
+      "url": "https://arxiv.org/abs/2610.13945v1"
     },
     {
-      "title": "SpatialHarness: Test-Time Spatial Scaffolding for Fine Robotic Manipulation",
-      "date": "2026-10-08",
-      "id": "2610.12457v1",
-      "abstract": "Frontier multimodal foundation models (e.g., GPT-6 Astra) have recently shown strong potential for direct robotic control, yet their performance on fine manipulation remains limited. We argue that an ",
-      "url": "https://arxiv.org/abs/2610.12457v1"
+      "title": "BT-Agent: Deploying Onboard Robot Agents with Behavior Trees and Multi-Fidelity Evaluation",
+      "date": "2026-10-09",
+      "id": "2610.13862v1",
+      "abstract": "Deploying language-model agents onboard mobile robots requires task reasoning and responsive execution within limited compute and memory. We propose BT-Agent, an onboard architecture combining LLM-dri",
+      "url": "https://arxiv.org/abs/2610.13862v1"
     },
     {
-      "title": "Generative Neural Retargeting for Human-to-Robot Dexterous Manipulation",
-      "date": "2026-10-08",
-      "id": "2610.12440v1",
-      "abstract": "Human demonstrations are a scalable data source for learning dexterous manipulation, but the embodiment gap prevents human motion from being executed directly on robots. Inverse kinematics (IK) retarg",
-      "url": "https://arxiv.org/abs/2610.12440v1"
+      "title": "An entangling Hubbard quasiparticle collider on a digital quantum processor",
+      "date": "2026-10-09",
+      "id": "2610.13946v1",
+      "abstract": "Scattering of quasiparticles provides direct access to the interactions that govern strongly correlated systems. In this work, we realize the quasiparticle scattering experiment of the Fermi-Hubbard m",
+      "url": "https://arxiv.org/abs/2610.13946v1"
     },
     {
-      "title": "Control-Ready Uncertainty for Trajectory Diffusion",
-      "date": "2026-10-08",
-      "id": "2610.12431v1",
-      "abstract": "Diffusion models can represent complex, multimodal trajectory distributions, but extracting uncertainty from them typically requires costly Monte Carlo sampling. This limits their use in real-time con",
-      "url": "https://arxiv.org/abs/2610.12431v1"
+      "title": "Noise Space Learning for VLA Adaptation",
+      "date": "2026-10-09",
+      "id": "2610.13943v1",
+      "abstract": "Pretrained vision-language-action (VLA) models encode broad manipulation priors, yet adapting them to specific tasks requires balancing limited robot interaction, computational resources, and safety c",
+      "url": "https://arxiv.org/abs/2610.13943v1"
     },
     {
-      "title": "LiteNWM: Efficient Latent World Models for Onboard Visual Navigation in the Wild",
-      "date": "2026-10-08",
-      "id": "2610.12368v1",
-      "abstract": "Direct visual navigation policies generate trajectories efficiently but do not explicitly evaluate their future consequences. Generative navigation world models provide this foresight through visual r",
-      "url": "https://arxiv.org/abs/2610.12368v1"
+      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+      "date": "2026-10-09",
+      "id": "2610.13886v1",
+      "abstract": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes",
+      "url": "https://arxiv.org/abs/2610.13886v1"
     },
     {
-      "title": "The Geometry of Hierarchical Navigation: Accuracy and Query Cost for Point Process Input",
-      "date": "2026-10-08",
-      "id": "2610.12312v1",
-      "abstract": "Large-scale information retrieval systems, including retrieval-augmented generation (RAG) and recommendation engines, widely use multi-layered hierarchical data structures for ultra-fast approximate n",
-      "url": "https://arxiv.org/abs/2610.12312v1"
+      "title": "Task Context Shapes Component Roles in Language Models",
+      "date": "2026-10-09",
+      "id": "2610.13895v1",
+      "abstract": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-de",
+      "url": "https://arxiv.org/abs/2610.13895v1"
     },
     {
-      "title": "CSF: Contextual Safety Filtering for Motion Generators",
-      "date": "2026-10-08",
-      "id": "2610.12467v1",
-      "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ",
-      "url": "https://arxiv.org/abs/2610.12467v1"
-    },
-    {
-      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-      "date": "2026-10-08",
-      "id": "2610.12465v1",
-      "abstract": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c",
-      "url": "https://arxiv.org/abs/2610.12465v1"
-    },
-    {
-      "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
-      "date": "2026-10-08",
-      "id": "2610.12455v1",
-      "abstract": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered",
-      "url": "https://arxiv.org/abs/2610.12455v1"
-    },
-    {
-      "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
-      "date": "2026-10-08",
-      "id": "2610.12451v1",
-      "abstract": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in ca",
-      "url": "https://arxiv.org/abs/2610.12451v1"
-    },
-    {
-      "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
-      "date": "2026-10-08",
-      "id": "2610.12435v1",
-      "abstract": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps ",
-      "url": "https://arxiv.org/abs/2610.12435v1"
-    },
-    {
-      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-      "date": "2026-10-08",
-      "id": "2610.12458v1",
-      "abstract": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual capt",
-      "url": "https://arxiv.org/abs/2610.12458v1"
-    },
-    {
-      "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
-      "date": "2026-10-08",
-      "id": "2610.12459v1",
-      "abstract": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model mu",
-      "url": "https://arxiv.org/abs/2610.12459v1"
-    },
-    {
-      "title": "Coupling Independence Implies Zero-Freeness",
-      "date": "2026-10-08",
-      "id": "2610.12456v1",
-      "abstract": "For $Δ\\ge2$ and $q\\ge11Δ/6$, we prove that the antiferromagnetic $q$-state Potts partition function on finite simple graphs of maximum degree at most $Δ$ has no Fisher zeros in a graph-uniform complex",
-      "url": "https://arxiv.org/abs/2610.12456v1"
-    },
-    {
-      "title": "On PPT entanglement distillation",
-      "date": "2026-10-08",
-      "id": "2610.12454v1",
-      "abstract": "We study entanglement distillation under operations that remain completely positive under partial-transpose conjugation, a.k.a. PPT channels, in the standard quantum Shannon theory regime of asymptoti",
-      "url": "https://arxiv.org/abs/2610.12454v1"
-    },
-    {
-      "title": "Disk Structure May Determine AGN Variability and Explain the Accretion Disk Size Problem: No Broad Line Region Required",
-      "date": "2026-10-08",
-      "id": "2610.12462v1",
-      "abstract": "Variability is a crucial probe of active galactic nuclei (AGN) disks, but the impact of the structure and internal physics of the disk on this variability is poorly understood. We perform 3D multi-fre",
-      "url": "https://arxiv.org/abs/2610.12462v1"
-    },
-    {
-      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-      "date": "2026-10-08",
-      "id": "2610.12464v1",
-      "abstract": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 h",
-      "url": "https://arxiv.org/abs/2610.12464v1"
+      "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+      "date": "2026-10-09",
+      "id": "2610.13941v1",
+      "abstract": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising ",
+      "url": "https://arxiv.org/abs/2610.13941v1"
     }
   ]
 }
