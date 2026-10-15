@@ -1,112 +1,77 @@
 {
-  "updated": "2026-10-14 05:36 UTC",
-  "total": 15,
+  "updated": "2026-10-15 05:23 UTC",
+  "total": 10,
   "today_count": 0,
   "papers": [
     {
-      "title": "ChunkAct: Action Chunking for Agentic Robotics",
-      "date": "2026-10-13",
-      "id": "2610.18874v1",
-      "abstract": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th",
-      "url": "https://arxiv.org/abs/2610.18874v1"
+      "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+      "date": "2026-10-14",
+      "id": "2610.20610v1",
+      "abstract": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not e",
+      "url": "https://arxiv.org/abs/2610.20610v1"
     },
     {
-      "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
-      "date": "2026-10-13",
-      "id": "2610.18873v1",
-      "abstract": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every reco",
-      "url": "https://arxiv.org/abs/2610.18873v1"
+      "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+      "date": "2026-10-14",
+      "id": "2610.20609v1",
+      "abstract": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed comm",
+      "url": "https://arxiv.org/abs/2610.20609v1"
     },
     {
-      "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
-      "date": "2026-10-13",
-      "id": "2610.18872v1",
-      "abstract": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse envi",
-      "url": "https://arxiv.org/abs/2610.18872v1"
+      "title": "Representation Conditioning for Generation",
+      "date": "2026-10-14",
+      "id": "2610.20608v1",
+      "abstract": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projec",
+      "url": "https://arxiv.org/abs/2610.20608v1"
     },
     {
-      "title": "Hybrid Reasoning Agents",
-      "date": "2026-10-13",
-      "id": "2610.18861v1",
-      "abstract": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off",
-      "url": "https://arxiv.org/abs/2610.18861v1"
+      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "date": "2026-10-14",
+      "id": "2610.20606v1",
+      "abstract": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr",
+      "url": "https://arxiv.org/abs/2610.20606v1"
     },
     {
-      "title": "Plan-Bench: Can Existing VLMs Go Well Beyond Perception to Reason and Plan in Embodied Worlds?",
-      "date": "2026-10-13",
-      "id": "2610.18836v1",
-      "abstract": "Vision-Language Models (VLMs) have achieved strong performance in visual perception and spatial reasoning, leading to growing interest in using them as high-level planners for embodied AI. However, ph",
-      "url": "https://arxiv.org/abs/2610.18836v1"
+      "title": "VITAL: From Visual Motion to Precise Action",
+      "date": "2026-10-14",
+      "id": "2610.20604v1",
+      "abstract": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de",
+      "url": "https://arxiv.org/abs/2610.20604v1"
     },
     {
-      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-      "date": "2026-10-13",
-      "id": "2610.18869v1",
-      "abstract": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ",
-      "url": "https://arxiv.org/abs/2610.18869v1"
+      "title": "A global analysis of ${\\bar B}\\to DP$ and ${\\bar B} \\to {\\bar D} P$ decays",
+      "date": "2026-10-14",
+      "id": "2610.20611v1",
+      "abstract": "Recently, a fit to the 15 measured branching ratios of ${\\bar B} \\to D P$ decays ($B = \\{B^+, B^0, B_s^0\\}$, $D = \\{D^0, D^+, D_s^+\\}$, $P \\in \\{π, K\\}$) was performed under the assumption of flavor S",
+      "url": "https://arxiv.org/abs/2610.20611v1"
     },
     {
-      "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
-      "date": "2026-10-13",
-      "id": "2610.18870v1",
-      "abstract": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training thei",
-      "url": "https://arxiv.org/abs/2610.18870v1"
+      "title": "Average-Reward Policy Identification from a Single Continuing Trajectory",
+      "date": "2026-10-14",
+      "id": "2610.20486v1",
+      "abstract": "In reinforcement learning, an agent must explore an unknown environment to learn how to make good decisions. Unlike methods that can freely sample any state--action pair, an agent learning from a sing",
+      "url": "https://arxiv.org/abs/2610.20486v1"
     },
     {
-      "title": "Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops",
-      "date": "2026-10-13",
-      "id": "2610.18579v1",
-      "abstract": "System One models choose an agent's next action by scoring a supplied set of options in a single pass. This makes them fast and cheap, but when they choose wrongly there is nothing to inspect: did the",
-      "url": "https://arxiv.org/abs/2610.18579v1"
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "date": "2026-10-14",
+      "id": "2610.20607v1",
+      "abstract": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be",
+      "url": "https://arxiv.org/abs/2610.20607v1"
     },
     {
-      "title": "Observation Quality in DSM-Assisted Aerial Localization: A Benchmark and Base-Anchored Uncertainty Calibration",
-      "date": "2026-10-13",
-      "id": "2610.18564v1",
-      "abstract": "Aerial map matching provides position observations for navigation, but a position error alone does not determine how an observation should be weighted. We define five benchmark tasks: position availab",
-      "url": "https://arxiv.org/abs/2610.18564v1"
+      "title": "Graph-Reweighted Behavior Cloning with Human Interventions for Precise Robotic Manipulation",
+      "date": "2026-10-14",
+      "id": "2610.20504v1",
+      "abstract": "Long-horizon precise manipulation produces mixed-quality data for post-training vision-language-action (VLA) models: even successful demonstrations and intervention-assisted rollouts may contain detou",
+      "url": "https://arxiv.org/abs/2610.20504v1"
     },
     {
-      "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-      "date": "2026-10-13",
-      "id": "2610.18871v1",
-      "abstract": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ",
-      "url": "https://arxiv.org/abs/2610.18871v1"
-    },
-    {
-      "title": "EmbodiedEvo: Self-improving Coding Agents for Physical Intelligence",
-      "date": "2026-10-13",
-      "id": "2610.18867v1",
-      "abstract": "Bringing general-purpose agents into the physical world calls for an executable representation of physical intelligence. Compared with vision-language-action (VLA) models, which map observations and l",
-      "url": "https://arxiv.org/abs/2610.18867v1"
-    },
-    {
-      "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
-      "date": "2026-10-13",
-      "id": "2610.18863v1",
-      "abstract": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration",
-      "url": "https://arxiv.org/abs/2610.18863v1"
-    },
-    {
-      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-      "date": "2026-10-13",
-      "id": "2610.18868v1",
-      "abstract": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur",
-      "url": "https://arxiv.org/abs/2610.18868v1"
-    },
-    {
-      "title": "Simulations of the Evolving Ozone Layer: Implications for the Early Earth, Exoplanets, and the Search For Life",
-      "date": "2026-10-13",
-      "id": "2610.18864v1",
-      "abstract": "Over 4 billion years, Earth's atmosphere has been transformed from a composition devoid of molecular oxygen (O$_2$) to one where O$_2$ is now 21% of our modern atmosphere by volume. With high quantiti",
-      "url": "https://arxiv.org/abs/2610.18864v1"
-    },
-    {
-      "title": "AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving",
-      "date": "2026-10-13",
-      "id": "2610.18866v1",
-      "abstract": "Safe autonomous driving requires more than accurate planning at a single frame: it demands reliable closed-loop execution in dynamic environments. Although end-to-end driving policies have advanced ra",
-      "url": "https://arxiv.org/abs/2610.18866v1"
+      "title": "Nodal nematic superconductivity in moiré graphene",
+      "date": "2026-10-14",
+      "id": "2610.20605v1",
+      "abstract": "Unconventional superconductivity can emerge in various forms in strongly correlated systems. Historically, the most extensively studied examples include nodal and triplet pairing, which were experimen",
+      "url": "https://arxiv.org/abs/2610.20605v1"
     }
   ]
 }
