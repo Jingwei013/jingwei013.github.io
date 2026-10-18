@@ -1,6 +1,126 @@
 {
-  "updated": "2026-10-17 05:14 UTC",
-  "total": 0,
+  "updated": "2026-10-18 05:15 UTC",
+  "total": 17,
   "today_count": 0,
-  "papers": []
+  "papers": [
+    {
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "date": "2026-10-15",
+      "id": "2610.22372v1",
+      "abstract": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person",
+      "url": "https://arxiv.org/abs/2610.22372v1"
+    },
+    {
+      "title": "Gen4P: Video Generators are 4D Perceivers",
+      "date": "2026-10-15",
+      "id": "2610.22371v1",
+      "abstract": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without",
+      "url": "https://arxiv.org/abs/2610.22371v1"
+    },
+    {
+      "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+      "date": "2026-10-15",
+      "id": "2610.22370v1",
+      "abstract": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is d",
+      "url": "https://arxiv.org/abs/2610.22370v1"
+    },
+    {
+      "title": "Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation",
+      "date": "2026-10-15",
+      "id": "2610.22342v1",
+      "abstract": "Generalist robot policies benefit from large-scale visual pretraining but often struggle with contact-rich dexterous manipulation, where force, compliance, and incipient slip are hard to observe from ",
+      "url": "https://arxiv.org/abs/2610.22342v1"
+    },
+    {
+      "title": "Illumination-Aware Active Perception for Spacecraft Inspection",
+      "date": "2026-10-15",
+      "id": "2610.22335v1",
+      "abstract": "Harsh and rapidly varying orbital illumination introduces failure modes during spacecraft inspection. Existing planners rely on line-of-sight inspection metrics which perform occlusion checks against ",
+      "url": "https://arxiv.org/abs/2610.22335v1"
+    },
+    {
+      "title": "Value as Memory: Online Value-Guided Post-training for General Robot Policies",
+      "date": "2026-10-15",
+      "id": "2610.22368v1",
+      "abstract": "Real-world post-training of generalist robot policies faces two challenges: partial observability makes action selection ambiguous, while offline post-training methods delay feedback from deployment e",
+      "url": "https://arxiv.org/abs/2610.22368v1"
+    },
+    {
+      "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+      "date": "2026-10-15",
+      "id": "2610.22369v1",
+      "abstract": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing a",
+      "url": "https://arxiv.org/abs/2610.22369v1"
+    },
+    {
+      "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+      "date": "2026-10-15",
+      "id": "2610.22322v1",
+      "abstract": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating ",
+      "url": "https://arxiv.org/abs/2610.22322v1"
+    },
+    {
+      "title": "Velox: Spatial Memory Makes World Models Efficient",
+      "date": "2026-10-15",
+      "id": "2610.22311v1",
+      "abstract": "Video world models turn actions and camera motion into long visual rollouts, making video a natural interface for interactive simulation. Such interaction requires responsive generation, yet coherent ",
+      "url": "https://arxiv.org/abs/2610.22311v1"
+    },
+    {
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "date": "2026-10-15",
+      "id": "2610.22364v1",
+      "abstract": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph",
+      "url": "https://arxiv.org/abs/2610.22364v1"
+    },
+    {
+      "title": "Band-Resolved Superconducting Gaps via the Thermal Hall Effect in CeRu2",
+      "date": "2026-10-15",
+      "id": "2610.22361v1",
+      "abstract": "Standard bulk probes of multiband superconductors cannot assign pairing gaps to specific electron or hole Fermi surfaces. Here we show that thermal Hall transport ($κ_{xy}$), constrained by specific h",
+      "url": "https://arxiv.org/abs/2610.22361v1"
+    },
+    {
+      "title": "Millimetre/Sub-Millimetre SETI: Expanding the Radio Technosignature Parameter Space with ALMA2040",
+      "date": "2026-10-15",
+      "id": "2610.22266v1",
+      "abstract": "The search for extraterrestrial intelligence (SETI) has been largely concentrated at centimetre wavelengths, and in particular in the 'water hole' (1.42-1.66 GHz) range. The millimetre and sub-millime",
+      "url": "https://arxiv.org/abs/2610.22266v1"
+    },
+    {
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "date": "2026-10-15",
+      "id": "2610.22367v1",
+      "abstract": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici",
+      "url": "https://arxiv.org/abs/2610.22367v1"
+    },
+    {
+      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+      "date": "2026-10-15",
+      "id": "2610.22344v1",
+      "abstract": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recur",
+      "url": "https://arxiv.org/abs/2610.22344v1"
+    },
+    {
+      "title": "$^6$He structure from semiclassical 3D models based on $\\textit{ab initio}$ spatial correlations",
+      "date": "2026-10-15",
+      "id": "2610.22365v1",
+      "abstract": "We construct semiclassical 3D models based on $\\textit{ab initio}$ no-core shell model calculated two-body spatial correlations, which represent the preferred spatial configuration of nucleons for the",
+      "url": "https://arxiv.org/abs/2610.22365v1"
+    },
+    {
+      "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+      "date": "2026-10-15",
+      "id": "2610.22341v1",
+      "abstract": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable ",
+      "url": "https://arxiv.org/abs/2610.22341v1"
+    },
+    {
+      "title": "Stability of Quantum LDPC States under Local Pauli Noise",
+      "date": "2026-10-15",
+      "id": "2610.22357v1",
+      "abstract": "Quantum low-density parity-check (qLDPC) codes have a canonical mixed state---the normalized projector onto the code space---that lies at the intersection of quantum error correction and quantum many-",
+      "url": "https://arxiv.org/abs/2610.22357v1"
+    }
+  ]
 }
