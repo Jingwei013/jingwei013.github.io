@@ -1,147 +1,105 @@
 {
-  "updated": "2026-10-19 05:27 UTC",
-  "total": 20,
+  "updated": "2026-10-20 05:30 UTC",
+  "total": 14,
   "today_count": 0,
   "papers": [
     {
-      "title": "Learning to Correct Geometry in Generated Videos",
-      "date": "2026-10-16",
-      "id": "2610.23856v1",
-      "abstract": "Generated videos often lose geometric consistency under camera motion: structures warp under viewpoint change, parallax becomes inconsistent, and smooth camera movement may collapse into shot-like tra",
-      "url": "https://arxiv.org/abs/2610.23856v1"
+      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+      "date": "2026-10-19",
+      "id": "2610.26863v1",
+      "abstract": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu",
+      "url": "https://arxiv.org/abs/2610.26863v1"
     },
     {
-      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
-      "date": "2026-10-16",
-      "id": "2610.23854v1",
-      "abstract": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla",
-      "url": "https://arxiv.org/abs/2610.23854v1"
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "date": "2026-10-19",
+      "id": "2610.26860v1",
+      "abstract": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud",
+      "url": "https://arxiv.org/abs/2610.26860v1"
     },
     {
-      "title": "Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts",
-      "date": "2026-10-16",
-      "id": "2610.23849v1",
-      "abstract": "Every robot already carries high-resolution contact sensors: its own joints. Legged robots and humanoids exploit them to walk, run, and track whole-body motions without vision, but there the contacts ",
-      "url": "https://arxiv.org/abs/2610.23849v1"
+      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+      "date": "2026-10-19",
+      "id": "2610.26861v1",
+      "abstract": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret",
+      "url": "https://arxiv.org/abs/2610.26861v1"
     },
     {
-      "title": "StopWatch: Goal Grounding for Object-goal Navigation",
-      "date": "2026-10-16",
-      "id": "2610.23841v1",
-      "abstract": "Pretrained VLMs bring rich world knowledge and semantic priors to object-goal navigation, and fine-tuning a VLM into a navigation policy has become a common recipe. Despite this progress, success rate",
-      "url": "https://arxiv.org/abs/2610.23841v1"
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "date": "2026-10-19",
+      "id": "2610.26855v1",
+      "abstract": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action space",
+      "url": "https://arxiv.org/abs/2610.26855v1"
     },
     {
-      "title": "Anytime-Valid Certification of Robustness Margins for Safe Control via E-Values",
-      "date": "2026-10-16",
-      "id": "2610.23746v1",
-      "abstract": "Robust control uses the error between a known model and the true system as a robustness margin. However, this error is usually unknown: conservative estimates restrict feasibility and performance, whi",
-      "url": "https://arxiv.org/abs/2610.23746v1"
+      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+      "date": "2026-10-19",
+      "id": "2610.26852v1",
+      "abstract": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot",
+      "url": "https://arxiv.org/abs/2610.26852v1"
     },
     {
-      "title": "Learning Robot Metareasoning: Adaptive Computation Budgets for Real-Time Control",
-      "date": "2026-10-16",
-      "id": "2610.23662v1",
-      "abstract": "Planning while moving faces an historical trade-off between deliberation and reactivity. A planner running concurrently with execution needs time to compute, so the robot must commit to an open-loop a",
-      "url": "https://arxiv.org/abs/2610.23662v1"
+      "title": "State World Models: Execute the Rules, Generate the Pixels",
+      "date": "2026-10-19",
+      "id": "2610.26811v1",
+      "abstract": "Existing world models can generate action-conditioned video from a single image. Many focus on camera movement, allowing users to explore the generated scene. However, navigation alone does not ensure",
+      "url": "https://arxiv.org/abs/2610.26811v1"
     },
     {
-      "title": "Brennan's Conjecture and the Universal Integral Means Spectrum",
-      "date": "2026-10-16",
-      "id": "2610.23853v1",
-      "abstract": "In October 2026, OpenAI released two preprints \\cite{openai-brennan,openai-kraetzer}, establishing Brennan's celebrated conjecture~\\cite{brennan,brennan2} and disproving Kraetzer's more general $t^2/4",
-      "url": "https://arxiv.org/abs/2610.23853v1"
+      "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+      "date": "2026-10-19",
+      "id": "2610.26853v1",
+      "abstract": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-base",
+      "url": "https://arxiv.org/abs/2610.26853v1"
     },
     {
-      "title": "Flashing with colours: Photometric indicators of an early interaction in type II supernovae",
-      "date": "2026-10-16",
-      "id": "2610.23852v1",
-      "abstract": "We present early-time optical photometry and spectroscopy for a sample 27 previously unpublished type II supernovae (SNe II) observed by the Precision Observations of Infant Supernova Explosions (POIS",
-      "url": "https://arxiv.org/abs/2610.23852v1"
+      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+      "date": "2026-10-19",
+      "id": "2610.26844v1",
+      "abstract": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For the",
+      "url": "https://arxiv.org/abs/2610.26844v1"
     },
     {
-      "title": "Entering the Era of Circumplanetary Ring Detection with Direct Imaging",
-      "date": "2026-10-16",
-      "id": "2610.23850v1",
-      "abstract": "Rings are ubiquitous among the giant planets in the Solar System, yet their presence around exoplanets remains observationally unconstrained. As direct imaging missions such as the Nancy Grace Roman S",
-      "url": "https://arxiv.org/abs/2610.23850v1"
+      "title": "Boundary-Sensitive Quantum Order on Non-Amenable Lattices",
+      "date": "2026-10-19",
+      "id": "2610.26859v1",
+      "abstract": "We show that quantum systems on non-amenable lattices, whose boundaries constitute an extensive fraction of the system, host novel forms of bulk ordering with no Euclidean counterpart. Combining bound",
+      "url": "https://arxiv.org/abs/2610.26859v1"
     },
     {
-      "title": "Self-Building Labs",
-      "date": "2026-10-16",
-      "id": "2610.23826v1",
-      "abstract": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only r",
-      "url": "https://arxiv.org/abs/2610.23826v1"
+      "title": "What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models",
+      "date": "2026-10-19",
+      "id": "2610.26805v1",
+      "abstract": "Vision--language models (VLMs) promise to make computational pathology queryable and able to draft reports, but how much language adds beyond the vision backbone is unclear, because almost every syste",
+      "url": "https://arxiv.org/abs/2610.26805v1"
     },
     {
-      "title": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
-      "date": "2026-10-16",
-      "id": "2610.23851v1",
-      "abstract": "Mobile health (mHealth) apps collect personally-identifiable information while handling uniquely sensitive medical data, ranging from mental health records to real-time glucose or heart rate monitorin",
-      "url": "https://arxiv.org/abs/2610.23851v1"
+      "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
+      "date": "2026-10-19",
+      "id": "2610.26854v1",
+      "abstract": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to expres",
+      "url": "https://arxiv.org/abs/2610.26854v1"
     },
     {
-      "title": "Diversity Without Labels: Task-Agnostic Coreset Selection Across Perception and Action",
-      "date": "2026-10-16",
-      "id": "2610.23642v1",
-      "abstract": "While data collection for model training is relatively easy, curating high-quality datasets from large collections is inherently challenging. Coreset estimation methods address this problem by identif",
-      "url": "https://arxiv.org/abs/2610.23642v1"
+      "title": "Robot Learning with Vision-Language-Action Models for Agricultural Manipulation",
+      "date": "2026-10-19",
+      "id": "2610.26717v1",
+      "abstract": "Robotic manipulation in agricultural environments remains challenging due to variations in plant geometry, occlusion, and camera viewpoints. Pretrained vision-language-action (VLA) and generalist robo",
+      "url": "https://arxiv.org/abs/2610.26717v1"
     },
     {
-      "title": "Foundation-Model-Driven 3D Scene Graphs for Mobile Manipulation",
-      "date": "2026-10-16",
-      "id": "2610.23622v1",
-      "abstract": "Geometric and Semantic Foundation models are becoming increasingly popular tools for generating spatial maps for robots. Recent work (e.g., FOUND-IT) has leveraged these tools to construct real-time, ",
-      "url": "https://arxiv.org/abs/2610.23622v1"
+      "title": "HoloCosm: Beyond Single-Metric Benchmark Compression Across Multiple Metrics",
+      "date": "2026-10-19",
+      "id": "2610.26714v1",
+      "abstract": "Benchmark compression reduces evaluation cost by selecting a small set of samples. Existing methods typically guide selection using a single metric, although benchmarks often assess models along multi",
+      "url": "https://arxiv.org/abs/2610.26714v1"
     },
     {
-      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-      "date": "2026-10-16",
-      "id": "2610.23847v1",
-      "abstract": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to wr",
-      "url": "https://arxiv.org/abs/2610.23847v1"
-    },
-    {
-      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
-      "date": "2026-10-16",
-      "id": "2610.23845v1",
-      "abstract": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents ",
-      "url": "https://arxiv.org/abs/2610.23845v1"
-    },
-    {
-      "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
-      "date": "2026-10-16",
-      "id": "2610.23827v1",
-      "abstract": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable",
-      "url": "https://arxiv.org/abs/2610.23827v1"
-    },
-    {
-      "title": "Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor",
-      "date": "2026-10-16",
-      "id": "2610.23840v1",
-      "abstract": "Quantum error correction can suppress logical errors exponentially with code distance when physical noise is below threshold. Realizing this on hardware requires tight coordination among quantum gates",
-      "url": "https://arxiv.org/abs/2610.23840v1"
-    },
-    {
-      "title": "Ionic switching between supermagnetic states",
-      "date": "2026-10-16",
-      "id": "2610.23829v1",
-      "abstract": "Supermagnetic states are typically set during synthesis. Changing and retaining these states requires sustained external stimulus. Without resynthesis or continued stimulus, we show, for the first tim",
-      "url": "https://arxiv.org/abs/2610.23829v1"
-    },
-    {
-      "title": "Geometric Viewpoint of $L^\\infty$ Estimates for Linearized Monge-Ampère Equations",
-      "date": "2026-10-16",
-      "id": "2610.23848v1",
-      "abstract": "We prove a Harnack inequality on Monge--Ampère gradient graphs under suitable geometric bounds, giving us interior $L^\\infty$ estimates for the linearized Monge--Ampère equation. The proof combines Mo",
-      "url": "https://arxiv.org/abs/2610.23848v1"
-    },
-    {
-      "title": "SparseMax-dSTL: Sound Robustness with Horizon-Independent Gradient Allocation for Temporal Logic Trajectory Optimization",
-      "date": "2026-10-16",
-      "id": "2610.23837v1",
-      "abstract": "A gradient-based solver that enforces a Signal Temporal Logic (STL) specification uses a smooth approximation of its quantitative semantics, the robustness. In safety-critical trajectory optimization,",
-      "url": "https://arxiv.org/abs/2610.23837v1"
+      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+      "date": "2026-10-19",
+      "id": "2610.26857v1",
+      "abstract": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synt",
+      "url": "https://arxiv.org/abs/2610.26857v1"
     }
   ]
 }
