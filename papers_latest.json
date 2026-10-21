@@ -1,105 +1,105 @@
 {
-  "updated": "2026-10-20 05:30 UTC",
+  "updated": "2026-10-21 05:31 UTC",
   "total": 14,
   "today_count": 0,
   "papers": [
     {
-      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-      "date": "2026-10-19",
-      "id": "2610.26863v1",
-      "abstract": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu",
-      "url": "https://arxiv.org/abs/2610.26863v1"
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "date": "2026-10-20",
+      "id": "2610.28632v1",
+      "abstract": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For",
+      "url": "https://arxiv.org/abs/2610.28632v1"
     },
     {
-      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-      "date": "2026-10-19",
-      "id": "2610.26860v1",
-      "abstract": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud",
-      "url": "https://arxiv.org/abs/2610.26860v1"
+      "title": "AEON: Unifying Video and 3D World Models",
+      "date": "2026-10-20",
+      "id": "2610.28631v1",
+      "abstract": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consis",
+      "url": "https://arxiv.org/abs/2610.28631v1"
     },
     {
-      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
-      "date": "2026-10-19",
-      "id": "2610.26861v1",
-      "abstract": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret",
-      "url": "https://arxiv.org/abs/2610.26861v1"
+      "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+      "date": "2026-10-20",
+      "id": "2610.28630v1",
+      "abstract": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and complete",
+      "url": "https://arxiv.org/abs/2610.28630v1"
     },
     {
-      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-      "date": "2026-10-19",
-      "id": "2610.26855v1",
-      "abstract": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action space",
-      "url": "https://arxiv.org/abs/2610.26855v1"
+      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+      "date": "2026-10-20",
+      "id": "2610.28626v1",
+      "abstract": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a",
+      "url": "https://arxiv.org/abs/2610.28626v1"
     },
     {
-      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-      "date": "2026-10-19",
-      "id": "2610.26852v1",
-      "abstract": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot",
-      "url": "https://arxiv.org/abs/2610.26852v1"
+      "title": "Planning under Noise with Neural Operators",
+      "date": "2026-10-20",
+      "id": "2610.28623v1",
+      "abstract": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware val",
+      "url": "https://arxiv.org/abs/2610.28623v1"
     },
     {
-      "title": "State World Models: Execute the Rules, Generate the Pixels",
-      "date": "2026-10-19",
-      "id": "2610.26811v1",
-      "abstract": "Existing world models can generate action-conditioned video from a single image. Many focus on camera movement, allowing users to explore the generated scene. However, navigation alone does not ensure",
-      "url": "https://arxiv.org/abs/2610.26811v1"
+      "title": "Semantic Observability for Autonomous Systems Diagnostics",
+      "date": "2026-10-20",
+      "id": "2610.28611v1",
+      "abstract": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes",
+      "url": "https://arxiv.org/abs/2610.28611v1"
     },
     {
-      "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
-      "date": "2026-10-19",
-      "id": "2610.26853v1",
-      "abstract": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-base",
-      "url": "https://arxiv.org/abs/2610.26853v1"
+      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+      "date": "2026-10-20",
+      "id": "2610.28628v1",
+      "abstract": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci",
+      "url": "https://arxiv.org/abs/2610.28628v1"
     },
     {
-      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
-      "date": "2026-10-19",
-      "id": "2610.26844v1",
-      "abstract": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For the",
-      "url": "https://arxiv.org/abs/2610.26844v1"
+      "title": "Constraints on Millimeter-wave Extragalactic Transient Populations from 4 Years of SPT-3G data",
+      "date": "2026-10-20",
+      "id": "2610.28633v1",
+      "abstract": "Wide-field cosmic microwave background (CMB) instruments have reached sufficient sensitivity and cadence to conduct untargeted millimeter-wave searches for astronomical transients. To date, such searc",
+      "url": "https://arxiv.org/abs/2610.28633v1"
     },
     {
-      "title": "Boundary-Sensitive Quantum Order on Non-Amenable Lattices",
-      "date": "2026-10-19",
-      "id": "2610.26859v1",
-      "abstract": "We show that quantum systems on non-amenable lattices, whose boundaries constitute an extensive fraction of the system, host novel forms of bulk ordering with no Euclidean counterpart. Combining bound",
-      "url": "https://arxiv.org/abs/2610.26859v1"
+      "title": "Cache Engineering for Agents",
+      "date": "2026-10-20",
+      "id": "2610.28577v1",
+      "abstract": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage beco",
+      "url": "https://arxiv.org/abs/2610.28577v1"
     },
     {
-      "title": "What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models",
-      "date": "2026-10-19",
-      "id": "2610.26805v1",
-      "abstract": "Vision--language models (VLMs) promise to make computational pathology queryable and able to draft reports, but how much language adds beyond the vision backbone is unclear, because almost every syste",
-      "url": "https://arxiv.org/abs/2610.26805v1"
+      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+      "date": "2026-10-20",
+      "id": "2610.28624v1",
+      "abstract": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For ",
+      "url": "https://arxiv.org/abs/2610.28624v1"
     },
     {
-      "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
-      "date": "2026-10-19",
-      "id": "2610.26854v1",
-      "abstract": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to expres",
-      "url": "https://arxiv.org/abs/2610.26854v1"
+      "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+      "date": "2026-10-20",
+      "id": "2610.28589v1",
+      "abstract": "Agentic robotics systems combine planners with robot harnesses to perform complex manipulation tasks. Recent work improves these systems through better harnesses and external memory, but relies on pow",
+      "url": "https://arxiv.org/abs/2610.28589v1"
     },
     {
-      "title": "Robot Learning with Vision-Language-Action Models for Agricultural Manipulation",
-      "date": "2026-10-19",
-      "id": "2610.26717v1",
-      "abstract": "Robotic manipulation in agricultural environments remains challenging due to variations in plant geometry, occlusion, and camera viewpoints. Pretrained vision-language-action (VLA) and generalist robo",
-      "url": "https://arxiv.org/abs/2610.26717v1"
+      "title": "Beyond Trajectory Statistics: Community-Consistent Human Mobility Generation via Evolving User-Location Graphs",
+      "date": "2026-10-20",
+      "id": "2610.28467v1",
+      "abstract": "Human mobility data are fundamental to Web-based location services and broader urban applications, and mobility generation provides synthetic trajectories when real data are costly or inaccessible. Al",
+      "url": "https://arxiv.org/abs/2610.28467v1"
     },
     {
-      "title": "HoloCosm: Beyond Single-Metric Benchmark Compression Across Multiple Metrics",
-      "date": "2026-10-19",
-      "id": "2610.26714v1",
-      "abstract": "Benchmark compression reduces evaluation cost by selecting a small set of samples. Existing methods typically guide selection using a single metric, although benchmarks often assess models along multi",
-      "url": "https://arxiv.org/abs/2610.26714v1"
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "date": "2026-10-20",
+      "id": "2610.28629v1",
+      "abstract": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation",
+      "url": "https://arxiv.org/abs/2610.28629v1"
     },
     {
-      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
-      "date": "2026-10-19",
-      "id": "2610.26857v1",
-      "abstract": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synt",
-      "url": "https://arxiv.org/abs/2610.26857v1"
+      "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
+      "date": "2026-10-20",
+      "id": "2610.28625v1",
+      "abstract": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We introduce PsycheMME, a video benchmark informed by psychology, with eight capabilit",
+      "url": "https://arxiv.org/abs/2610.28625v1"
     }
   ]
 }
