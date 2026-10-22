@@ -1,105 +1,112 @@
 {
-  "updated": "2026-10-21 05:31 UTC",
-  "total": 14,
+  "updated": "2026-10-22 05:34 UTC",
+  "total": 15,
   "today_count": 0,
   "papers": [
     {
-      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-      "date": "2026-10-20",
-      "id": "2610.28632v1",
-      "abstract": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For",
-      "url": "https://arxiv.org/abs/2610.28632v1"
+      "title": "Agentic World Action Models",
+      "date": "2026-10-21",
+      "id": "2610.30136v1",
+      "abstract": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based plann",
+      "url": "https://arxiv.org/abs/2610.30136v1"
     },
     {
-      "title": "AEON: Unifying Video and 3D World Models",
-      "date": "2026-10-20",
-      "id": "2610.28631v1",
-      "abstract": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consis",
-      "url": "https://arxiv.org/abs/2610.28631v1"
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "date": "2026-10-21",
+      "id": "2610.30132v1",
+      "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable",
+      "url": "https://arxiv.org/abs/2610.30132v1"
     },
     {
-      "title": "SolarRenderer: Few-Step Generative Reference Rendering",
-      "date": "2026-10-20",
-      "id": "2610.28630v1",
-      "abstract": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and complete",
-      "url": "https://arxiv.org/abs/2610.28630v1"
+      "title": "Rethinking Video Autoencoders for Interactive World Models",
+      "date": "2026-10-21",
+      "id": "2610.30129v1",
+      "abstract": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate i",
+      "url": "https://arxiv.org/abs/2610.30129v1"
     },
     {
-      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
-      "date": "2026-10-20",
-      "id": "2610.28626v1",
-      "abstract": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a",
-      "url": "https://arxiv.org/abs/2610.28626v1"
+      "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+      "date": "2026-10-21",
+      "id": "2610.30108v1",
+      "abstract": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physica",
+      "url": "https://arxiv.org/abs/2610.30108v1"
     },
     {
-      "title": "Planning under Noise with Neural Operators",
-      "date": "2026-10-20",
-      "id": "2610.28623v1",
-      "abstract": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware val",
-      "url": "https://arxiv.org/abs/2610.28623v1"
+      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+      "date": "2026-10-21",
+      "id": "2610.30105v1",
+      "abstract": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gatherin",
+      "url": "https://arxiv.org/abs/2610.30105v1"
     },
     {
-      "title": "Semantic Observability for Autonomous Systems Diagnostics",
-      "date": "2026-10-20",
-      "id": "2610.28611v1",
-      "abstract": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes",
-      "url": "https://arxiv.org/abs/2610.28611v1"
+      "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+      "date": "2026-10-21",
+      "id": "2610.30127v1",
+      "abstract": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geo",
+      "url": "https://arxiv.org/abs/2610.30127v1"
     },
     {
-      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-      "date": "2026-10-20",
-      "id": "2610.28628v1",
-      "abstract": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci",
-      "url": "https://arxiv.org/abs/2610.28628v1"
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "date": "2026-10-21",
+      "id": "2610.30125v1",
+      "abstract": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy",
+      "url": "https://arxiv.org/abs/2610.30125v1"
     },
     {
-      "title": "Constraints on Millimeter-wave Extragalactic Transient Populations from 4 Years of SPT-3G data",
-      "date": "2026-10-20",
-      "id": "2610.28633v1",
-      "abstract": "Wide-field cosmic microwave background (CMB) instruments have reached sufficient sensitivity and cadence to conduct untargeted millimeter-wave searches for astronomical transients. To date, such searc",
-      "url": "https://arxiv.org/abs/2610.28633v1"
+      "title": "When to retire: the cultural evolution of post-reproductive oblique teaching",
+      "date": "2026-10-21",
+      "id": "2610.30135v1",
+      "abstract": "Teaching is ubiquitous across human societies. Instruction from parents to offspring is the most fundamental form of teaching, explained primarily through kin selection and inclusive fitness. Instruct",
+      "url": "https://arxiv.org/abs/2610.30135v1"
     },
     {
-      "title": "Cache Engineering for Agents",
-      "date": "2026-10-20",
-      "id": "2610.28577v1",
-      "abstract": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage beco",
-      "url": "https://arxiv.org/abs/2610.28577v1"
+      "title": "Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need",
+      "date": "2026-10-21",
+      "id": "2610.30133v1",
+      "abstract": "Weak-lensing magnification complements cosmic shear through its effects on galaxy fluxes, sizes, and number counts. We derive the optimal magnification statistics from galaxy properties and show that ",
+      "url": "https://arxiv.org/abs/2610.30133v1"
     },
     {
-      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
-      "date": "2026-10-20",
-      "id": "2610.28624v1",
-      "abstract": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For ",
-      "url": "https://arxiv.org/abs/2610.28624v1"
+      "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+      "date": "2026-10-21",
+      "id": "2610.30043v1",
+      "abstract": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract executi",
+      "url": "https://arxiv.org/abs/2610.30043v1"
     },
     {
-      "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
-      "date": "2026-10-20",
-      "id": "2610.28589v1",
-      "abstract": "Agentic robotics systems combine planners with robot harnesses to perform complex manipulation tasks. Recent work improves these systems through better harnesses and external memory, but relies on pow",
-      "url": "https://arxiv.org/abs/2610.28589v1"
+      "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+      "date": "2026-10-21",
+      "id": "2610.30097v1",
+      "abstract": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) off",
+      "url": "https://arxiv.org/abs/2610.30097v1"
     },
     {
-      "title": "Beyond Trajectory Statistics: Community-Consistent Human Mobility Generation via Evolving User-Location Graphs",
-      "date": "2026-10-20",
-      "id": "2610.28467v1",
-      "abstract": "Human mobility data are fundamental to Web-based location services and broader urban applications, and mobility generation provides synthetic trajectories when real data are costly or inaccessible. Al",
-      "url": "https://arxiv.org/abs/2610.28467v1"
+      "title": "A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model",
+      "date": "2026-10-21",
+      "id": "2610.30077v1",
+      "abstract": "The CHQ model describes viscoelastic phase separation in a polymer--solvent mixture: a Cahn--Hilliard equation for the polymer volume fraction $φ$ is two-way coupled, through a phase-dependent cross-d",
+      "url": "https://arxiv.org/abs/2610.30077v1"
     },
     {
-      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-      "date": "2026-10-20",
-      "id": "2610.28629v1",
-      "abstract": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation",
-      "url": "https://arxiv.org/abs/2610.28629v1"
+      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "date": "2026-10-21",
+      "id": "2610.30116v1",
+      "abstract": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each m",
+      "url": "https://arxiv.org/abs/2610.30116v1"
     },
     {
-      "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
-      "date": "2026-10-20",
-      "id": "2610.28625v1",
-      "abstract": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We introduce PsycheMME, a video benchmark informed by psychology, with eight capabilit",
-      "url": "https://arxiv.org/abs/2610.28625v1"
+      "title": "Geometric Algebra for Neural Networks: A Survey",
+      "date": "2026-10-21",
+      "id": "2610.30121v1",
+      "abstract": "Geometric algebra (GA) unifies geometric primitives and transformations in a single algebraic framework. Neural networks designed around this framework often represent features as multivectors and con",
+      "url": "https://arxiv.org/abs/2610.30121v1"
+    },
+    {
+      "title": "Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems",
+      "date": "2026-10-21",
+      "id": "2610.30131v1",
+      "abstract": "Strong recursive skeletonization provides approximate direct solvers for dense matrices from integral equations and kernel methods, but distributed implementations face substantial communication costs",
+      "url": "https://arxiv.org/abs/2610.30131v1"
     }
   ]
 }
