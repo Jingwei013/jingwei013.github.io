@@ -1,112 +1,147 @@
 {
-  "updated": "2026-10-22 05:34 UTC",
-  "total": 15,
+  "updated": "2026-10-23 05:33 UTC",
+  "total": 20,
   "today_count": 0,
   "papers": [
     {
-      "title": "Agentic World Action Models",
-      "date": "2026-10-21",
-      "id": "2610.30136v1",
-      "abstract": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based plann",
-      "url": "https://arxiv.org/abs/2610.30136v1"
+      "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+      "date": "2026-10-22",
+      "id": "2610.31671v1",
+      "abstract": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this pape",
+      "url": "https://arxiv.org/abs/2610.31671v1"
     },
     {
-      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-      "date": "2026-10-21",
-      "id": "2610.30132v1",
-      "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable",
-      "url": "https://arxiv.org/abs/2610.30132v1"
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "date": "2026-10-22",
+      "id": "2610.31670v1",
+      "abstract": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests",
+      "url": "https://arxiv.org/abs/2610.31670v1"
     },
     {
-      "title": "Rethinking Video Autoencoders for Interactive World Models",
-      "date": "2026-10-21",
-      "id": "2610.30129v1",
-      "abstract": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate i",
-      "url": "https://arxiv.org/abs/2610.30129v1"
+      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+      "date": "2026-10-22",
+      "id": "2610.31668v1",
+      "abstract": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their",
+      "url": "https://arxiv.org/abs/2610.31668v1"
     },
     {
-      "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
-      "date": "2026-10-21",
-      "id": "2610.30108v1",
-      "abstract": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physica",
-      "url": "https://arxiv.org/abs/2610.30108v1"
+      "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+      "date": "2026-10-22",
+      "id": "2610.31661v1",
+      "abstract": "We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our ",
+      "url": "https://arxiv.org/abs/2610.31661v1"
     },
     {
-      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
-      "date": "2026-10-21",
-      "id": "2610.30105v1",
-      "abstract": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-relevant information before acting effectively. Learning such information-gatherin",
-      "url": "https://arxiv.org/abs/2610.30105v1"
+      "title": "Dispersive Tree Agreements for Multi-Robot Coordination",
+      "date": "2026-10-22",
+      "id": "2610.31540v1",
+      "abstract": "Multi-robot coordination of nonlinear systems is naturally formulated as joint-space optimal control subject to constraints over groups of robots. Existing methods that approach joint optimality remai",
+      "url": "https://arxiv.org/abs/2610.31540v1"
     },
     {
-      "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
-      "date": "2026-10-21",
-      "id": "2610.30127v1",
-      "abstract": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geo",
-      "url": "https://arxiv.org/abs/2610.30127v1"
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "date": "2026-10-22",
+      "id": "2610.31667v1",
+      "abstract": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn",
+      "url": "https://arxiv.org/abs/2610.31667v1"
     },
     {
-      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
-      "date": "2026-10-21",
-      "id": "2610.30125v1",
-      "abstract": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy",
-      "url": "https://arxiv.org/abs/2610.30125v1"
+      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+      "date": "2026-10-22",
+      "id": "2610.31662v1",
+      "abstract": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine",
+      "url": "https://arxiv.org/abs/2610.31662v1"
     },
     {
-      "title": "When to retire: the cultural evolution of post-reproductive oblique teaching",
-      "date": "2026-10-21",
-      "id": "2610.30135v1",
-      "abstract": "Teaching is ubiquitous across human societies. Instruction from parents to offspring is the most fundamental form of teaching, explained primarily through kin selection and inclusive fitness. Instruct",
-      "url": "https://arxiv.org/abs/2610.30135v1"
+      "title": "Ricci flow of Integrable Sigma Models, Hitchin Systems and Quantum Seiberg-Witten theory",
+      "date": "2026-10-22",
+      "id": "2610.31672v1",
+      "abstract": "We construct a family of integrable 2d sigma models through 4d Chern-Simons theory and show that their classical point-particle reduction corresponds to a Hitchin system. The integrable Hitchin quanti",
+      "url": "https://arxiv.org/abs/2610.31672v1"
     },
     {
-      "title": "Optimal galaxy magnification: generalized fundamental-plane residuals and number counts are all you need",
-      "date": "2026-10-21",
-      "id": "2610.30133v1",
-      "abstract": "Weak-lensing magnification complements cosmic shear through its effects on galaxy fluxes, sizes, and number counts. We derive the optimal magnification statistics from galaxy properties and show that ",
-      "url": "https://arxiv.org/abs/2610.30133v1"
+      "title": "DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination",
+      "date": "2026-10-22",
+      "id": "2610.31511v1",
+      "abstract": "Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps, and allocate shared resources under a time budget. We introduce an Ov",
+      "url": "https://arxiv.org/abs/2610.31511v1"
     },
     {
-      "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
-      "date": "2026-10-21",
-      "id": "2610.30043v1",
-      "abstract": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract executi",
-      "url": "https://arxiv.org/abs/2610.30043v1"
+      "title": "Point-Level Refinable Semantic Mapping for Spatial Understanding",
+      "date": "2026-10-22",
+      "id": "2610.31476v1",
+      "abstract": "Open-vocabulary 3D semantic maps have emerged as a key spatial memory representation for long-horizon robot autonomy, enabling robots to reason about objects, their spatial relationships, and past obs",
+      "url": "https://arxiv.org/abs/2610.31476v1"
     },
     {
-      "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
-      "date": "2026-10-21",
-      "id": "2610.30097v1",
-      "abstract": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) off",
-      "url": "https://arxiv.org/abs/2610.30097v1"
+      "title": "Extending Harmonic Function Methods via Root Locus for Coordinated Path Generation",
+      "date": "2026-10-22",
+      "id": "2610.31625v1",
+      "abstract": "We consider the offline generation of coordinated paths for N interchangeable robots and N goals in planar environments with polygonal obstacles. After a conformal map to a circular domain, starts and",
+      "url": "https://arxiv.org/abs/2610.31625v1"
     },
     {
-      "title": "A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model",
-      "date": "2026-10-21",
-      "id": "2610.30077v1",
-      "abstract": "The CHQ model describes viscoelastic phase separation in a polymer--solvent mixture: a Cahn--Hilliard equation for the polymer volume fraction $φ$ is two-way coupled, through a phase-dependent cross-d",
-      "url": "https://arxiv.org/abs/2610.30077v1"
+      "title": "Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models",
+      "date": "2026-10-22",
+      "id": "2610.31613v1",
+      "abstract": "Vision-Language-Action (VLA) models can perform diverse manipulation tasks directly from visual observations and natural language instructions, but they remain prone to mistakes and unpredictable fail",
+      "url": "https://arxiv.org/abs/2610.31613v1"
     },
     {
-      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
-      "date": "2026-10-21",
-      "id": "2610.30116v1",
-      "abstract": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each m",
-      "url": "https://arxiv.org/abs/2610.30116v1"
+      "title": "Humanoid Mobility via Attention-based Contacts",
+      "date": "2026-10-22",
+      "id": "2610.31608v1",
+      "abstract": "Humanoid mobility over complex terrain requires accurate foot placement and coordinated whole-body motion capable of robust adaptation. Reinforcement learning (RL) policies trained without motion refe",
+      "url": "https://arxiv.org/abs/2610.31608v1"
     },
     {
-      "title": "Geometric Algebra for Neural Networks: A Survey",
-      "date": "2026-10-21",
-      "id": "2610.30121v1",
-      "abstract": "Geometric algebra (GA) unifies geometric primitives and transformations in a single algebraic framework. Neural networks designed around this framework often represent features as multivectors and con",
-      "url": "https://arxiv.org/abs/2610.30121v1"
+      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+      "date": "2026-10-22",
+      "id": "2610.31657v1",
+      "abstract": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali",
+      "url": "https://arxiv.org/abs/2610.31657v1"
     },
     {
-      "title": "Scaling H2 Factorization to Billion-Unknown Three-Dimensional Problems",
-      "date": "2026-10-21",
-      "id": "2610.30131v1",
-      "abstract": "Strong recursive skeletonization provides approximate direct solvers for dense matrices from integral equations and kernel methods, but distributed implementations face substantial communication costs",
-      "url": "https://arxiv.org/abs/2610.30131v1"
+      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+      "date": "2026-10-22",
+      "id": "2610.31659v1",
+      "abstract": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image",
+      "url": "https://arxiv.org/abs/2610.31659v1"
+    },
+    {
+      "title": "Boosted Dark Matter Directionality in Large Liquid Scintillator Detectors",
+      "date": "2026-10-22",
+      "id": "2610.31666v1",
+      "abstract": "Light dark matter can be boosted by cosmic-ray-dark matter interactions, which opens the possibility of direct-detection searches with large neutrino detectors. We consider the signal produced by boos",
+      "url": "https://arxiv.org/abs/2610.31666v1"
+    },
+    {
+      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+      "date": "2026-10-22",
+      "id": "2610.31656v1",
+      "abstract": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical re",
+      "url": "https://arxiv.org/abs/2610.31656v1"
+    },
+    {
+      "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+      "date": "2026-10-22",
+      "id": "2610.31641v1",
+      "abstract": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video states, yet they differ substantially in training difficulty. Removal can be effecti",
+      "url": "https://arxiv.org/abs/2610.31641v1"
+    },
+    {
+      "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
+      "date": "2026-10-22",
+      "id": "2610.31640v1",
+      "abstract": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering. However, their use in spatial tasks is limited by imprecise camera control, sp",
+      "url": "https://arxiv.org/abs/2610.31640v1"
+    },
+    {
+      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+      "date": "2026-10-22",
+      "id": "2610.31639v1",
+      "abstract": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregres",
+      "url": "https://arxiv.org/abs/2610.31639v1"
     }
   ]
 }
