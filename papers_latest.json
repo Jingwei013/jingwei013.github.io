@@ -1,126 +1,133 @@
 {
-  "updated": "2026-10-26 05:34 UTC",
-  "total": 17,
+  "updated": "2026-10-27 05:47 UTC",
+  "total": 18,
   "today_count": 0,
   "papers": [
     {
-      "title": "The Language of Instruction: Genre and Generative AI",
-      "date": "2026-10-23",
-      "id": "2610.32982v1",
-      "abstract": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ",
-      "url": "https://arxiv.org/abs/2610.32982v1"
+      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+      "date": "2026-10-26",
+      "id": "2610.35868v1",
+      "abstract": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r",
+      "url": "https://arxiv.org/abs/2610.35868v1"
     },
     {
-      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
-      "date": "2026-10-23",
-      "id": "2610.32978v1",
-      "abstract": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s",
-      "url": "https://arxiv.org/abs/2610.32978v1"
+      "title": "Center-of-Mass Interpretation of Evolution Strategies",
+      "date": "2026-10-26",
+      "id": "2610.35865v1",
+      "abstract": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen",
+      "url": "https://arxiv.org/abs/2610.35865v1"
     },
     {
-      "title": "UniAction: Unified Action Conditioning for World Models",
-      "date": "2026-10-23",
-      "id": "2610.32977v1",
-      "abstract": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual action types, fragmenting already limited action-anno",
-      "url": "https://arxiv.org/abs/2610.32977v1"
+      "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+      "date": "2026-10-26",
+      "id": "2610.35866v1",
+      "abstract": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark",
+      "url": "https://arxiv.org/abs/2610.35866v1"
     },
     {
-      "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-      "date": "2026-10-23",
-      "id": "2610.32969v1",
-      "abstract": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac",
-      "url": "https://arxiv.org/abs/2610.32969v1"
+      "title": "OSWAM: An Effective World Action Model with One-Step Action Generation",
+      "date": "2026-10-26",
+      "id": "2610.35850v1",
+      "abstract": "Direct-policy World Action Models (WAM) have demonstrated the benefits of decoupling action generation from explicit future visual prediction for efficient inference in autonomous driving and embodied",
+      "url": "https://arxiv.org/abs/2610.35850v1"
     },
     {
-      "title": "RynnUnify: Towards Unified Embodied Brain",
-      "date": "2026-10-23",
-      "id": "2610.32965v1",
-      "abstract": "We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities span",
-      "url": "https://arxiv.org/abs/2610.32965v1"
+      "title": "Back to Basics: A Skill-Centric Approach to Generalist Web Agents",
+      "date": "2026-10-26",
+      "id": "2610.35823v1",
+      "abstract": "Browser agents do not just need more practice. They need to practice the right things. We introduce MiniWeb, a realistic miniature of the web comprising 65 interconnected websites across 15 domains, w",
+      "url": "https://arxiv.org/abs/2610.35823v1"
     },
     {
-      "title": "Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System",
-      "date": "2026-10-23",
-      "id": "2610.32972v1",
-      "abstract": "We present 14 optical imaging and eight optical spectroscopic epochs of interstellar comet 3I/ATLAS from Keck/LRIS and Gemini/GMOS, two near-infrared (NIR) imaging epochs from Keck/MOSFIRE, and four N",
-      "url": "https://arxiv.org/abs/2610.32972v1"
+      "title": "Stable homotopy theory of higher categories with adjoints",
+      "date": "2026-10-26",
+      "id": "2610.35861v1",
+      "abstract": "We demonstrate that higher categories with adjoints behave like homotopy types. By the homotopy hypothesis, homotopy types can be regarded as higher categories in which all cells are invertible. We sh",
+      "url": "https://arxiv.org/abs/2610.35861v1"
     },
     {
-      "title": "Separating Thinking from Spelling for Efficient Generative Recommendation",
-      "date": "2026-10-23",
-      "id": "2610.32980v1",
-      "abstract": "Generative recommenders retrieve items by writing their semantic IDs (SIDs) code by code under trie-constrained beam search, an approach now deployed on large web platforms. Standard autoregressive in",
-      "url": "https://arxiv.org/abs/2610.32980v1"
+      "title": "Continuous-Time Safe Planning and Control for Agile Quadrupeds",
+      "date": "2026-10-26",
+      "id": "2610.35670v1",
+      "abstract": "Agile quadruped navigation in dynamic environments demands trajectories that are both dynamically feasible and provably collision-free. Most real-time planners achieve tractability through a convex re",
+      "url": "https://arxiv.org/abs/2610.35670v1"
     },
     {
-      "title": "Fréchet Kriging for Metric Space-Valued Spatial Data",
-      "date": "2026-10-23",
-      "id": "2610.32979v1",
-      "abstract": "Spatial prediction of non-Euclidean data, such as probability distributions, symmetric positive definite matrices, and networks, arises in many modern applications. Such data are naturally modeled as ",
-      "url": "https://arxiv.org/abs/2610.32979v1"
+      "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+      "date": "2026-10-26",
+      "id": "2610.35862v1",
+      "abstract": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ",
+      "url": "https://arxiv.org/abs/2610.35862v1"
     },
     {
-      "title": "Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves",
-      "date": "2026-10-23",
-      "id": "2610.32851v1",
-      "abstract": "Enterprises are deploying agentic AI across the software development lifecycle, and they need the behavioral logic of the systems they act on, not stakeholder documentation. A seven-agent reverse-engi",
-      "url": "https://arxiv.org/abs/2610.32851v1"
+      "title": "Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization",
+      "date": "2026-10-26",
+      "id": "2610.35852v1",
+      "abstract": "This paper proposes a smooth analytic gradient for frictional contact and applies it to policy learning and contact-implicit trajectory optimization for legged locomotion. The exact contact sensitivit",
+      "url": "https://arxiv.org/abs/2610.35852v1"
     },
     {
-      "title": "Semantic Representation for Agentic Self-Play in Automated Laboratories",
-      "date": "2026-10-23",
-      "id": "2610.32755v1",
-      "abstract": "Navigating complex, high-dimensional biological search spaces necessitates scalable physical and computational intelligence to explore beyond local optima through iterative self-play across ideation, ",
-      "url": "https://arxiv.org/abs/2610.32755v1"
+      "title": "I-HITL: Inalienable Human-in-the-Loop",
+      "date": "2026-10-26",
+      "id": "2610.35835v1",
+      "abstract": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, th",
+      "url": "https://arxiv.org/abs/2610.35835v1"
     },
     {
-      "title": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs",
-      "date": "2026-10-23",
-      "id": "2610.32941v1",
-      "abstract": "Vision-Language-Action (VLA) models perform well on robotic manipulation, yet remain brittle once their own actions carry them into states their training data barely covers. Recovering from such failu",
-      "url": "https://arxiv.org/abs/2610.32941v1"
+      "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+      "date": "2026-10-26",
+      "id": "2610.35832v1",
+      "abstract": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and",
+      "url": "https://arxiv.org/abs/2610.35832v1"
     },
     {
-      "title": "Polyhedral RIS Architecture with Quantum-Assisted Facet Selection for Uniform Coverage",
-      "date": "2026-10-23",
-      "id": "2610.32898v1",
-      "abstract": "Reconfigurable intelligent surfaces (RISs) direct coverage toward moving user equipment (UE), but practical deployments involve discrete phase control, uncertain facet positions, and UE mobility, whic",
-      "url": "https://arxiv.org/abs/2610.32898v1"
+      "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+      "date": "2026-10-26",
+      "id": "2610.35817v1",
+      "abstract": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a re",
+      "url": "https://arxiv.org/abs/2610.35817v1"
     },
     {
-      "title": "When Human Corrections Travel: Safety in Federated VLA Adaptation",
-      "date": "2026-10-23",
-      "id": "2610.32888v1",
-      "abstract": "Vision-language-action (VLA) policies can adapt to local human intervention, while federated learning can combine distributed robot experience without pooling raw records. We examine their prospective",
-      "url": "https://arxiv.org/abs/2610.32888v1"
+      "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+      "date": "2026-10-26",
+      "id": "2610.35847v1",
+      "abstract": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across",
+      "url": "https://arxiv.org/abs/2610.35847v1"
     },
     {
-      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-      "date": "2026-10-23",
-      "id": "2610.32971v1",
-      "abstract": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha",
-      "url": "https://arxiv.org/abs/2610.32971v1"
+      "title": "Exploring the Tractability Frontier of Hylland-Zeckhauser Models",
+      "date": "2026-10-26",
+      "id": "2610.35848v1",
+      "abstract": "The Hylland-Zeckhauser (HZ) mechanism provides a market-based approach to one-sided matching, making efficient equilibrium computation central to its implementation. Bi-valued utilities admit a strong",
+      "url": "https://arxiv.org/abs/2610.35848v1"
     },
     {
-      "title": "Acyclic 2-edge-coloured graphs: polynomial-time linkages and colouring hardness",
-      "date": "2026-10-23",
-      "id": "2610.32954v1",
-      "abstract": "A path or cycle in a $2$-edge-coloured graph is alternating if consecutive edges have different colours. These objects are natural analogues of paths and cycles in graphs, and even more so in digraphs",
-      "url": "https://arxiv.org/abs/2610.32954v1"
+      "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
+      "date": "2026-10-26",
+      "id": "2610.35854v1",
+      "abstract": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward metho",
+      "url": "https://arxiv.org/abs/2610.35854v1"
     },
     {
-      "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
-      "date": "2026-10-23",
-      "id": "2610.32967v1",
-      "abstract": "Semantic misinformation can arise when an authentic image is paired with a caption that changes or distorts its narrative. Because the image itself may contain no visible signs of manipulation, method",
-      "url": "https://arxiv.org/abs/2610.32967v1"
+      "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
+      "date": "2026-10-26",
+      "id": "2610.35842v1",
+      "abstract": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a spe",
+      "url": "https://arxiv.org/abs/2610.35842v1"
     },
     {
-      "title": "Robotic Optical Coherence Tomography-Guided Geometric Modeling of Soft Tissue: 3D Representations for Data-Driven Closed-Loop Shape Control",
-      "date": "2026-10-23",
-      "id": "2610.32961v1",
-      "abstract": "In medical robotics, data-driven soft-tissue shape control requires deforming tissue toward desired morphologies through sequential physical interactions. This challenge is particularly important in m",
-      "url": "https://arxiv.org/abs/2610.32961v1"
+      "title": "Quantum dynamics on the sparse Erdős-Rényi graph",
+      "date": "2026-10-26",
+      "id": "2610.35867v1",
+      "abstract": "We analyse the large-time asymptotics of the Schrödinger time evolution of a free quantum particle on the Erdős-Rényi graph $\\mathbb{G}(N,d/N)$, where the quantum Hamiltonian is given by the adjacency",
+      "url": "https://arxiv.org/abs/2610.35867v1"
+    },
+    {
+      "title": "An $O(n^{0.1537})$-Coloring Algorithm for 3-Colorable Graphs",
+      "date": "2026-10-26",
+      "id": "2610.35859v1",
+      "abstract": "We present a polynomial-time randomized algorithm that colors every $n$-vertex $3$-colorable graph with $O(n^{0.1537})$ colors. This improves upon the previous bound of $O(n^{0.1954})$ colors by Bansa",
+      "url": "https://arxiv.org/abs/2610.35859v1"
     }
   ]
 }
