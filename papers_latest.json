@@ -1,133 +1,154 @@
 {
-  "updated": "2026-10-27 05:47 UTC",
-  "total": 18,
+  "updated": "2026-10-28 06:25 UTC",
+  "total": 21,
   "today_count": 0,
   "papers": [
     {
-      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-      "date": "2026-10-26",
-      "id": "2610.35868v1",
-      "abstract": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r",
-      "url": "https://arxiv.org/abs/2610.35868v1"
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "date": "2026-10-27",
+      "id": "2610.37668v1",
+      "abstract": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int",
+      "url": "https://arxiv.org/abs/2610.37668v1"
     },
     {
-      "title": "Center-of-Mass Interpretation of Evolution Strategies",
-      "date": "2026-10-26",
-      "id": "2610.35865v1",
-      "abstract": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen",
-      "url": "https://arxiv.org/abs/2610.35865v1"
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "date": "2026-10-27",
+      "id": "2610.37666v1",
+      "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra",
+      "url": "https://arxiv.org/abs/2610.37666v1"
     },
     {
-      "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-      "date": "2026-10-26",
-      "id": "2610.35866v1",
-      "abstract": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark",
-      "url": "https://arxiv.org/abs/2610.35866v1"
+      "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+      "date": "2026-10-27",
+      "id": "2610.37662v1",
+      "abstract": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantizat",
+      "url": "https://arxiv.org/abs/2610.37662v1"
     },
     {
-      "title": "OSWAM: An Effective World Action Model with One-Step Action Generation",
-      "date": "2026-10-26",
-      "id": "2610.35850v1",
-      "abstract": "Direct-policy World Action Models (WAM) have demonstrated the benefits of decoupling action generation from explicit future visual prediction for efficient inference in autonomous driving and embodied",
-      "url": "https://arxiv.org/abs/2610.35850v1"
+      "title": "Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation",
+      "date": "2026-10-27",
+      "id": "2610.37543v1",
+      "abstract": "Event cameras offer low latency, high dynamic range, and milliwatt-level power consumption, making them ideal for agile robots such as tiny drones navigating through cluttered environments. However, e",
+      "url": "https://arxiv.org/abs/2610.37543v1"
     },
     {
-      "title": "Back to Basics: A Skill-Centric Approach to Generalist Web Agents",
-      "date": "2026-10-26",
-      "id": "2610.35823v1",
-      "abstract": "Browser agents do not just need more practice. They need to practice the right things. We introduce MiniWeb, a realistic miniature of the web comprising 65 interconnected websites across 15 domains, w",
-      "url": "https://arxiv.org/abs/2610.35823v1"
+      "title": "Ego-CEVR: Learning Cross-Embodiment Visual Representations from Human Egocentric Videos",
+      "date": "2026-10-27",
+      "id": "2610.37509v1",
+      "abstract": "As egocentric video becomes increasingly available for embodied learning, an important research question is how to turn this low-cost, scalable source of data into robot manipulation capabilities. Ego",
+      "url": "https://arxiv.org/abs/2610.37509v1"
     },
     {
-      "title": "Stable homotopy theory of higher categories with adjoints",
-      "date": "2026-10-26",
-      "id": "2610.35861v1",
-      "abstract": "We demonstrate that higher categories with adjoints behave like homotopy types. By the homotopy hypothesis, homotopy types can be regarded as higher categories in which all cells are invertible. We sh",
-      "url": "https://arxiv.org/abs/2610.35861v1"
+      "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+      "date": "2026-10-27",
+      "id": "2610.37652v1",
+      "abstract": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob",
+      "url": "https://arxiv.org/abs/2610.37652v1"
     },
     {
-      "title": "Continuous-Time Safe Planning and Control for Agile Quadrupeds",
-      "date": "2026-10-26",
-      "id": "2610.35670v1",
-      "abstract": "Agile quadruped navigation in dynamic environments demands trajectories that are both dynamically feasible and provably collision-free. Most real-time planners achieve tractability through a convex re",
-      "url": "https://arxiv.org/abs/2610.35670v1"
+      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "date": "2026-10-27",
+      "id": "2610.37649v1",
+      "abstract": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio",
+      "url": "https://arxiv.org/abs/2610.37649v1"
     },
     {
-      "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-      "date": "2026-10-26",
-      "id": "2610.35862v1",
-      "abstract": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ",
-      "url": "https://arxiv.org/abs/2610.35862v1"
+      "title": "The 't Hooft model on (A)dS$_2$",
+      "date": "2026-10-27",
+      "id": "2610.37667v1",
+      "abstract": "We solve large-$N$ two-dimensional QCD with fundamental quarks---the 't Hooft model---on rigid AdS$_2$ and dS$_2$. Their isometries preserve the null gauge $A_-=0$ and in affine coordinates the curvat",
+      "url": "https://arxiv.org/abs/2610.37667v1"
     },
     {
-      "title": "Differentiable Contact Dynamics for Legged Locomotion: Policy Learning and Contact-Implicit Trajectory Optimization",
-      "date": "2026-10-26",
-      "id": "2610.35852v1",
-      "abstract": "This paper proposes a smooth analytic gradient for frictional contact and applies it to policy learning and contact-implicit trajectory optimization for legged locomotion. The exact contact sensitivit",
-      "url": "https://arxiv.org/abs/2610.35852v1"
+      "title": "PolyGandr: Steering Generative Models via Spatial Navigation through Latent Space",
+      "date": "2026-10-27",
+      "id": "2610.37446v1",
+      "abstract": "Generative models support content creation across text, images, videos, and design disciplines, yet their interfaces rely primarily on natural language. While effective for specifying high-level inten",
+      "url": "https://arxiv.org/abs/2610.37446v1"
     },
     {
-      "title": "I-HITL: Inalienable Human-in-the-Loop",
-      "date": "2026-10-26",
-      "id": "2610.35835v1",
-      "abstract": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, th",
-      "url": "https://arxiv.org/abs/2610.35835v1"
+      "title": "Joint Antenna Positioning and Pilot Power Allocation for Uplink Fluid Antenna-Aided Cell-Free Massive MIMO Systems",
+      "date": "2026-10-27",
+      "id": "2610.37428v1",
+      "abstract": "This paper investigates joint fluid antenna (FA) position optimization and pilot power allocation for uplink cell-free massive MIMO networks supporting ultra-reliable low-latency communication (URLLC)",
+      "url": "https://arxiv.org/abs/2610.37428v1"
     },
     {
-      "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
-      "date": "2026-10-26",
-      "id": "2610.35832v1",
-      "abstract": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and",
-      "url": "https://arxiv.org/abs/2610.35832v1"
+      "title": "Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video",
+      "date": "2026-10-27",
+      "id": "2610.37619v1",
+      "abstract": "Agile robots require spatiotemporal intelligence to interpret scenes, reason about interactions, and anticipate future events. Yet it remains unclear how well foundation vision models support these ca",
+      "url": "https://arxiv.org/abs/2610.37619v1"
     },
     {
-      "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
-      "date": "2026-10-26",
-      "id": "2610.35817v1",
-      "abstract": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a re",
-      "url": "https://arxiv.org/abs/2610.35817v1"
+      "title": "MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices",
+      "date": "2026-10-27",
+      "id": "2610.37599v1",
+      "abstract": "Developing on-device image models requires considering practical user needs, task types and device resource constraints. However, existing benchmarks provide limited guidance on identifying capability",
+      "url": "https://arxiv.org/abs/2610.37599v1"
     },
     {
-      "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
-      "date": "2026-10-26",
-      "id": "2610.35847v1",
-      "abstract": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across",
-      "url": "https://arxiv.org/abs/2610.35847v1"
+      "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
+      "date": "2026-10-27",
+      "id": "2610.37508v1",
+      "abstract": "This paper investigates dynamic channel tracking for high-rate Internet of things (IoT) in distributed massive multiple-input multiple-output (mMIMO) with low-resolution analog-to-digital converters (",
+      "url": "https://arxiv.org/abs/2610.37508v1"
     },
     {
-      "title": "Exploring the Tractability Frontier of Hylland-Zeckhauser Models",
-      "date": "2026-10-26",
-      "id": "2610.35848v1",
-      "abstract": "The Hylland-Zeckhauser (HZ) mechanism provides a market-based approach to one-sided matching, making efficient equilibrium computation central to its implementation. Bi-valued utilities admit a strong",
-      "url": "https://arxiv.org/abs/2610.35848v1"
+      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+      "date": "2026-10-27",
+      "id": "2610.37651v1",
+      "abstract": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lear",
+      "url": "https://arxiv.org/abs/2610.37651v1"
     },
     {
-      "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
-      "date": "2026-10-26",
-      "id": "2610.35854v1",
-      "abstract": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward metho",
-      "url": "https://arxiv.org/abs/2610.35854v1"
+      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "date": "2026-10-27",
+      "id": "2610.37657v1",
+      "abstract": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri",
+      "url": "https://arxiv.org/abs/2610.37657v1"
     },
     {
-      "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
-      "date": "2026-10-26",
-      "id": "2610.35842v1",
-      "abstract": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a spe",
-      "url": "https://arxiv.org/abs/2610.35842v1"
+      "title": "Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime",
+      "date": "2026-10-27",
+      "id": "2610.37654v1",
+      "abstract": "Mediated interactions between quasiparticles lie at the heart of Landau Fermi-liquid theory, yet their behavior in the strongly correlated regime is not fully understood. Motivated by recent experimen",
+      "url": "https://arxiv.org/abs/2610.37654v1"
     },
     {
-      "title": "Quantum dynamics on the sparse Erdős-Rényi graph",
-      "date": "2026-10-26",
-      "id": "2610.35867v1",
-      "abstract": "We analyse the large-time asymptotics of the Schrödinger time evolution of a free quantum particle on the Erdős-Rényi graph $\\mathbb{G}(N,d/N)$, where the quantum Hamiltonian is given by the adjacency",
-      "url": "https://arxiv.org/abs/2610.35867v1"
+      "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+      "date": "2026-10-27",
+      "id": "2610.37647v1",
+      "abstract": "Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains inco",
+      "url": "https://arxiv.org/abs/2610.37647v1"
     },
     {
-      "title": "An $O(n^{0.1537})$-Coloring Algorithm for 3-Colorable Graphs",
-      "date": "2026-10-26",
-      "id": "2610.35859v1",
-      "abstract": "We present a polynomial-time randomized algorithm that colors every $n$-vertex $3$-colorable graph with $O(n^{0.1537})$ colors. This improves upon the previous bound of $O(n^{0.1954})$ colors by Bansa",
-      "url": "https://arxiv.org/abs/2610.35859v1"
+      "title": "Partially Edited Audio: Generation, Defense, and Open Problems",
+      "date": "2026-10-27",
+      "id": "2610.37640v1",
+      "abstract": "Recent advances in generative audio models facilitate increasingly flexible and selective editing of linguistic content and paralinguistic, extralinguistic, and other attributes. This paradigm, named ",
+      "url": "https://arxiv.org/abs/2610.37640v1"
+    },
+    {
+      "title": "Sharp approximations for the stationary measures of the open ASEP I: The shock region",
+      "date": "2026-10-27",
+      "id": "2610.37639v1",
+      "abstract": "We investigate the role of asymmetry in the stationary measures of integrable probabilistic models with boundary interactions. This paper is the first in a series of three focusing on the open asymmet",
+      "url": "https://arxiv.org/abs/2610.37639v1"
+    },
+    {
+      "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
+      "date": "2026-10-27",
+      "id": "2610.37645v1",
+      "abstract": "Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the scaling of Large Language Models. Recently, Multi-State Linear Attention (MSLA) me",
+      "url": "https://arxiv.org/abs/2610.37645v1"
+    },
+    {
+      "title": "An EVM-Cosmos Bridge for Atomic, Semantic-Preserving Transfer of Environmental Tokens",
+      "date": "2026-10-27",
+      "id": "2610.37663v1",
+      "abstract": "Transferring semantically typed tokens between heterogeneous blockchains (e.g. EVM and Cosmos ecosystems) raises two problems: semantic mixing, the loss of a token's domainspecific meaning in transit ",
+      "url": "https://arxiv.org/abs/2610.37663v1"
     }
   ]
 }
