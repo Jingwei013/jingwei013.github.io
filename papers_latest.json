@@ -1,182 +1,98 @@
 {
-  "updated": "2026-11-01 06:59 UTC",
-  "total": 25,
+  "updated": "2026-11-02 06:58 UTC",
+  "total": 13,
   "today_count": 0,
   "papers": [
     {
-      "title": "Elucidating the Design Space of LM Data Attribution",
-      "date": "2026-10-29",
-      "id": "2610.40655v1",
-      "abstract": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma",
-      "url": "https://arxiv.org/abs/2610.40655v1"
+      "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
+      "date": "2026-10-30",
+      "id": "2610.42152v1",
+      "abstract": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackou",
+      "url": "https://arxiv.org/abs/2610.42152v1"
     },
     {
-      "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
-      "date": "2026-10-29",
-      "id": "2610.40653v1",
-      "abstract": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editor",
-      "url": "https://arxiv.org/abs/2610.40653v1"
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "date": "2026-10-30",
+      "id": "2610.42149v1",
+      "abstract": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re",
+      "url": "https://arxiv.org/abs/2610.42149v1"
     },
     {
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
-      "date": "2026-10-29",
-      "id": "2610.40649v1",
-      "abstract": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce",
-      "url": "https://arxiv.org/abs/2610.40649v1"
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "date": "2026-10-30",
+      "id": "2610.42148v1",
+      "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin",
+      "url": "https://arxiv.org/abs/2610.42148v1"
     },
     {
-      "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
-      "date": "2026-10-29",
-      "id": "2610.40565v1",
-      "abstract": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a n",
-      "url": "https://arxiv.org/abs/2610.40565v1"
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "date": "2026-10-30",
+      "id": "2610.42146v1",
+      "abstract": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err",
+      "url": "https://arxiv.org/abs/2610.42146v1"
     },
     {
-      "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
-      "date": "2026-10-29",
-      "id": "2610.40532v1",
-      "abstract": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whos",
-      "url": "https://arxiv.org/abs/2610.40532v1"
+      "title": "Hyperbolic Inverse Reinforcement Learning",
+      "date": "2026-10-30",
+      "id": "2610.42104v1",
+      "abstract": "Inverse reinforcement learning (IRL) seeks to infer the reward function underlying observed behavior, but its predictive accuracy and interpretability depend on how that reward is computed from the un",
+      "url": "https://arxiv.org/abs/2610.42104v1"
     },
     {
-      "title": "Continuous-Action World Models: Learning Cross-Embodiment Spatiotemporal Dynamics Priors",
-      "date": "2026-10-29",
-      "id": "2610.40401v1",
-      "abstract": "We introduce Continuous-Action World Models (CoAWM), a framework for learning cross-embodiment spatiotemporal dynamics priors that support robot action generation across embodiments and execution freq",
-      "url": "https://arxiv.org/abs/2610.40401v1"
+      "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+      "date": "2026-10-30",
+      "id": "2610.42145v1",
+      "abstract": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulat",
+      "url": "https://arxiv.org/abs/2610.42145v1"
     },
     {
-      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
-      "date": "2026-10-29",
-      "id": "2610.40640v1",
-      "abstract": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being in",
-      "url": "https://arxiv.org/abs/2610.40640v1"
+      "title": "Model-Independent Assessments of Tidal Alignment and Density-Weighting Dependence in Galaxy Intrinsic Alignments",
+      "date": "2026-10-30",
+      "id": "2610.42151v1",
+      "abstract": "Intrinsic alignments (IA) of galaxies are an important source of systematic uncertainty in weak gravitational lensing measurements and also serve as a test for models of galaxy formation and evolution",
+      "url": "https://arxiv.org/abs/2610.42151v1"
     },
     {
-      "title": "Multicomplexes in Action: Strong Formality of Compact Hyperkähler Manifolds",
-      "date": "2026-10-29",
-      "id": "2610.40639v1",
-      "abstract": "We show that all compact hyperkähler manifolds are bigraded strongly formal in the sense of Milivojević and Stelzig, proving that in the context of pluripotential homotopy theory they play the same ro",
-      "url": "https://arxiv.org/abs/2610.40639v1"
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "date": "2026-10-30",
+      "id": "2610.42141v1",
+      "abstract": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to",
+      "url": "https://arxiv.org/abs/2610.42141v1"
     },
     {
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "date": "2026-10-29",
-      "id": "2610.40647v1",
-      "abstract": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det",
-      "url": "https://arxiv.org/abs/2610.40647v1"
+      "title": "Dirichlet form approach to stochastic thin-film equations",
+      "date": "2026-10-30",
+      "id": "2610.42086v1",
+      "abstract": "The thin-film equation describes the evolution of a thin liquid film driven by capillarity and limited by viscosity. For sufficiently small film heights, thermal fluctuations may not be neglected. Sin",
+      "url": "https://arxiv.org/abs/2610.42086v1"
     },
     {
-      "title": "Measuring Precipitable Water Vapor through Dual-Band GPS at Rubin Observatory",
-      "date": "2026-10-29",
-      "id": "2610.40363v1",
-      "abstract": "Precipitable water vapor (PWV) in Earth's atmosphere is a known source of systematic error in ground-based astronomical measurements, particularly at wavelengths greater than 7,000 angstroms. PWV prod",
-      "url": "https://arxiv.org/abs/2610.40363v1"
+      "title": "Embodied Movable Antennas",
+      "date": "2026-10-30",
+      "id": "2610.42078v1",
+      "abstract": "This paper introduces embodied movable antennas (MAs), a new MA architecture that rethinks the source of antenna mobility. Unlike conventional MAs that rely on dedicated antenna actuators, embodied MA",
+      "url": "https://arxiv.org/abs/2610.42078v1"
     },
     {
-      "title": "Topological Quantum Spin Liquids in a Ladder with Majorana fermions and p-wave Superconductivity",
-      "date": "2026-10-29",
-      "id": "2610.40297v1",
-      "abstract": "In this article, we address the possibility of topological quantum spin liquids with only short-range (spin) correlations in the whole phase diagram in a ladder system, through an exactly solvable mod",
-      "url": "https://arxiv.org/abs/2610.40297v1"
+      "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+      "date": "2026-10-30",
+      "id": "2610.42053v1",
+      "abstract": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body",
+      "url": "https://arxiv.org/abs/2610.42053v1"
     },
     {
-      "title": "LLM-guided Planar Loco-Manipulation for Quadruped Robots",
-      "date": "2026-10-29",
-      "id": "2610.40248v1",
-      "abstract": "Robotic navigation typically assumes a collision-free route to the goal exists; in cluttered environments with movable obstacles, however, reaching the goal may require physical interaction. Classical",
-      "url": "https://arxiv.org/abs/2610.40248v1"
+      "title": "Dittany: Contribution-Guided Repair Framework for MAS Applications",
+      "date": "2026-10-30",
+      "id": "2610.42144v1",
+      "abstract": "LLM-based multi-agent system (MAS) applications can produce useful intermediate results while leaving task requirements unsatisfied. Repairing such executions requires identifying the work still neede",
+      "url": "https://arxiv.org/abs/2610.42144v1"
     },
     {
-      "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
-      "date": "2026-10-29",
-      "id": "2610.40646v1",
-      "abstract": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, a",
-      "url": "https://arxiv.org/abs/2610.40646v1"
-    },
-    {
-      "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
-      "date": "2026-10-29",
-      "id": "2610.40632v1",
-      "abstract": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require ex",
-      "url": "https://arxiv.org/abs/2610.40632v1"
-    },
-    {
-      "title": "A Conveyor Belt Mechanism for Repositionable Magnetic Coupling Between Continuum Robots",
-      "date": "2026-10-29",
-      "id": "2610.40600v1",
-      "abstract": "This work proposes a novel conveyor belt mechanism enabling continuous, active repositioning of functional elements along the body of a tendon-driven continuum robot. Up to three conveyor belt mechani",
-      "url": "https://arxiv.org/abs/2610.40600v1"
-    },
-    {
-      "title": "Renormalization for Robust Memory without Synchronization",
-      "date": "2026-10-29",
-      "id": "2610.40651v1",
-      "abstract": "Local error correction can preserve classical information against noise, but protection under synchronized updates need not survive when sites evolve at independent random times. Establishing stabilit",
-      "url": "https://arxiv.org/abs/2610.40651v1"
-    },
-    {
-      "title": "Algebraic theory of abelian fractons and beyond",
-      "date": "2026-10-29",
-      "id": "2610.40596v1",
-      "abstract": "We develop an algebraic theory of fusion, mobility, and statistics in abelian gapped fracton orders and topological phases. The framework generalizes the algebraic description of abelian anyons to sys",
-      "url": "https://arxiv.org/abs/2610.40596v1"
-    },
-    {
-      "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
-      "date": "2026-10-29",
-      "id": "2610.40578v1",
-      "abstract": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning.",
-      "url": "https://arxiv.org/abs/2610.40578v1"
-    },
-    {
-      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-      "date": "2026-10-29",
-      "id": "2610.40627v1",
-      "abstract": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br",
-      "url": "https://arxiv.org/abs/2610.40627v1"
-    },
-    {
-      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
-      "date": "2026-10-29",
-      "id": "2610.40613v1",
-      "abstract": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys,",
-      "url": "https://arxiv.org/abs/2610.40613v1"
-    },
-    {
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
-      "date": "2026-10-29",
-      "id": "2610.40643v1",
-      "abstract": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los",
-      "url": "https://arxiv.org/abs/2610.40643v1"
-    },
-    {
-      "title": "Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal",
-      "date": "2026-10-29",
-      "id": "2610.40657v1",
-      "abstract": "The ground state of an ideal gas of anyons with statistical angle $θ\\in(0,π)$ is a long-standing open problem, with renewed interest from the recent observations of fractional Chern insulators. In thi",
-      "url": "https://arxiv.org/abs/2610.40657v1"
-    },
-    {
-      "title": "The $δ$ Scuti instability strip and period-luminosity relation as seen by TESS and Gaia DR3",
-      "date": "2026-10-29",
-      "id": "2610.40656v1",
-      "abstract": "We present an asteroseismic survey of 1,526,218 A- and F-type stars in and around the $δ$ Scuti instability strip using TESS 10-minute cadence data, which resolve the full $δ$ Scuti pulsation spectra ",
-      "url": "https://arxiv.org/abs/2610.40656v1"
-    },
-    {
-      "title": "Uniform Capacitated Clustering with Few Extra Centers",
-      "date": "2026-10-29",
-      "id": "2610.40625v1",
-      "abstract": "In uniform capacitated $(k,z)$-clustering, we open $k$ centers and assign every client to a center so that no center serves more than $U$ clients, minimizing the sum of the $z$-th powers of the assign",
-      "url": "https://arxiv.org/abs/2610.40625v1"
-    },
-    {
-      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-      "date": "2026-10-29",
-      "id": "2610.40654v1",
-      "abstract": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r",
-      "url": "https://arxiv.org/abs/2610.40654v1"
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "date": "2026-10-30",
+      "id": "2610.42147v1",
+      "abstract": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok",
+      "url": "https://arxiv.org/abs/2610.42147v1"
     }
   ]
 }
