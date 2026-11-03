@@ -1,98 +1,91 @@
 {
-  "updated": "2026-11-02 06:58 UTC",
-  "total": 13,
+  "updated": "2026-11-03 07:22 UTC",
+  "total": 12,
   "today_count": 0,
   "papers": [
     {
-      "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
-      "date": "2026-10-30",
-      "id": "2610.42152v1",
-      "abstract": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackou",
-      "url": "https://arxiv.org/abs/2610.42152v1"
+      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+      "date": "2026-11-02",
+      "id": "2611.03647v1",
+      "abstract": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol",
+      "url": "https://arxiv.org/abs/2611.03647v1"
     },
     {
-      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-      "date": "2026-10-30",
-      "id": "2610.42149v1",
-      "abstract": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re",
-      "url": "https://arxiv.org/abs/2610.42149v1"
+      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+      "date": "2026-11-02",
+      "id": "2611.03648v1",
+      "abstract": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone",
+      "url": "https://arxiv.org/abs/2611.03648v1"
     },
     {
-      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-      "date": "2026-10-30",
-      "id": "2610.42148v1",
-      "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin",
-      "url": "https://arxiv.org/abs/2610.42148v1"
+      "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+      "date": "2026-11-02",
+      "id": "2611.03646v1",
+      "abstract": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing",
+      "url": "https://arxiv.org/abs/2611.03646v1"
     },
     {
-      "title": "Hierarchical World Models with Implicit Dynamics",
-      "date": "2026-10-30",
-      "id": "2610.42146v1",
-      "abstract": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err",
-      "url": "https://arxiv.org/abs/2610.42146v1"
+      "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+      "date": "2026-11-02",
+      "id": "2611.03623v1",
+      "abstract": "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer ",
+      "url": "https://arxiv.org/abs/2611.03623v1"
     },
     {
-      "title": "Hyperbolic Inverse Reinforcement Learning",
-      "date": "2026-10-30",
-      "id": "2610.42104v1",
-      "abstract": "Inverse reinforcement learning (IRL) seeks to infer the reward function underlying observed behavior, but its predictive accuracy and interpretability depend on how that reward is computed from the un",
-      "url": "https://arxiv.org/abs/2610.42104v1"
+      "title": "SNAP: Semantic Navigation Among Pedestrians",
+      "date": "2026-11-02",
+      "id": "2611.03498v1",
+      "abstract": "Navigating crowded urban environments requires robots to avoid pedestrians while adhering to social norms such as remaining on sidewalks. Existing approaches typically address either crowd avoidance o",
+      "url": "https://arxiv.org/abs/2611.03498v1"
     },
     {
-      "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
-      "date": "2026-10-30",
-      "id": "2610.42145v1",
-      "abstract": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulat",
-      "url": "https://arxiv.org/abs/2610.42145v1"
+      "title": "Harder Than the Task: From Technical to Organizational Difficulty in AI Benchmarking",
+      "date": "2026-11-02",
+      "id": "2611.03494v1",
+      "abstract": "AI benchmarks have made remarkable progress in measuring the ability of AI systems to perform increasingly demanding cognitive and technical tasks. Yet, many of these benchmarks treat technical tasks ",
+      "url": "https://arxiv.org/abs/2611.03494v1"
     },
     {
-      "title": "Model-Independent Assessments of Tidal Alignment and Density-Weighting Dependence in Galaxy Intrinsic Alignments",
-      "date": "2026-10-30",
-      "id": "2610.42151v1",
-      "abstract": "Intrinsic alignments (IA) of galaxies are an important source of systematic uncertainty in weak gravitational lensing measurements and also serve as a test for models of galaxy formation and evolution",
-      "url": "https://arxiv.org/abs/2610.42151v1"
+      "title": "Single-visit screening for intracochlear tissue growth validated against multi-visit electrical measurement changes",
+      "date": "2026-11-02",
+      "id": "2611.03644v1",
+      "abstract": "Purpose: Tissue growth (TG) around cochlear implant electrodes raises impedance but is not reliably visible on CT scans. Routinely recorded stimulus current-induced non-stimulating electrode voltages ",
+      "url": "https://arxiv.org/abs/2611.03644v1"
     },
     {
-      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-      "date": "2026-10-30",
-      "id": "2610.42141v1",
-      "abstract": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to",
-      "url": "https://arxiv.org/abs/2610.42141v1"
+      "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+      "date": "2026-11-02",
+      "id": "2611.03622v1",
+      "abstract": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in f",
+      "url": "https://arxiv.org/abs/2611.03622v1"
     },
     {
-      "title": "Dirichlet form approach to stochastic thin-film equations",
-      "date": "2026-10-30",
-      "id": "2610.42086v1",
-      "abstract": "The thin-film equation describes the evolution of a thin liquid film driven by capillarity and limited by viscosity. For sufficiently small film heights, thermal fluctuations may not be neglected. Sin",
-      "url": "https://arxiv.org/abs/2610.42086v1"
+      "title": "TAMPAgent: Agentic Belief-Space Planning for Mobile Manipulation",
+      "date": "2026-11-02",
+      "id": "2611.03584v1",
+      "abstract": "Open-world robotic mobile manipulation requires acting in physical environments with only partial information. While recent Large Vision-Language Model (LVLM) agents show strong open-world reasoning c",
+      "url": "https://arxiv.org/abs/2611.03584v1"
     },
     {
-      "title": "Embodied Movable Antennas",
-      "date": "2026-10-30",
-      "id": "2610.42078v1",
-      "abstract": "This paper introduces embodied movable antennas (MAs), a new MA architecture that rethinks the source of antenna mobility. Unlike conventional MAs that rely on dedicated antenna actuators, embodied MA",
-      "url": "https://arxiv.org/abs/2610.42078v1"
+      "title": "FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling",
+      "date": "2026-11-02",
+      "id": "2611.03625v1",
+      "abstract": "Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn gen",
+      "url": "https://arxiv.org/abs/2611.03625v1"
     },
     {
-      "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
-      "date": "2026-10-30",
-      "id": "2610.42053v1",
-      "abstract": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body",
-      "url": "https://arxiv.org/abs/2610.42053v1"
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "date": "2026-11-02",
+      "id": "2611.03634v1",
+      "abstract": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li",
+      "url": "https://arxiv.org/abs/2611.03634v1"
     },
     {
-      "title": "Dittany: Contribution-Guided Repair Framework for MAS Applications",
-      "date": "2026-10-30",
-      "id": "2610.42144v1",
-      "abstract": "LLM-based multi-agent system (MAS) applications can produce useful intermediate results while leaving task requirements unsatisfied. Repairing such executions requires identifying the work still neede",
-      "url": "https://arxiv.org/abs/2610.42144v1"
-    },
-    {
-      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-      "date": "2026-10-30",
-      "id": "2610.42147v1",
-      "abstract": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok",
-      "url": "https://arxiv.org/abs/2610.42147v1"
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+      "date": "2026-11-02",
+      "id": "2611.03633v1",
+      "abstract": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advan",
+      "url": "https://arxiv.org/abs/2611.03633v1"
     }
   ]
 }
