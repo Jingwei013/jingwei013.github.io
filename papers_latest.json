@@ -1,126 +1,119 @@
 {
-  "updated": "2026-11-04 07:03 UTC",
-  "total": 17,
+  "updated": "2026-11-05 07:31 UTC",
+  "total": 16,
   "today_count": 0,
   "papers": [
     {
-      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
-      "date": "2026-11-03",
-      "id": "2611.05377v1",
-      "abstract": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc",
-      "url": "https://arxiv.org/abs/2611.05377v1"
+      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "date": "2026-11-04",
+      "id": "2611.06918v1",
+      "abstract": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on ",
+      "url": "https://arxiv.org/abs/2611.06918v1"
     },
     {
-      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
-      "date": "2026-11-03",
-      "id": "2611.05376v1",
-      "abstract": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ",
-      "url": "https://arxiv.org/abs/2611.05376v1"
+      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "date": "2026-11-04",
+      "id": "2611.06914v1",
+      "abstract": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ",
+      "url": "https://arxiv.org/abs/2611.06914v1"
     },
     {
-      "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
-      "date": "2026-11-03",
-      "id": "2611.05373v1",
-      "abstract": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates",
-      "url": "https://arxiv.org/abs/2611.05373v1"
+      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "date": "2026-11-04",
+      "id": "2611.06911v1",
+      "abstract": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und",
+      "url": "https://arxiv.org/abs/2611.06911v1"
     },
     {
-      "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
-      "date": "2026-11-03",
-      "id": "2611.05372v1",
-      "abstract": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Preci",
-      "url": "https://arxiv.org/abs/2611.05372v1"
+      "title": "Perceptive Humanoid Motion from Simulation",
+      "date": "2026-11-04",
+      "id": "2611.06908v1",
+      "abstract": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-",
+      "url": "https://arxiv.org/abs/2611.06908v1"
     },
     {
-      "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
-      "date": "2026-11-03",
-      "id": "2611.05368v1",
-      "abstract": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuiti",
-      "url": "https://arxiv.org/abs/2611.05368v1"
+      "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "date": "2026-11-04",
+      "id": "2611.06905v1",
+      "abstract": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s",
+      "url": "https://arxiv.org/abs/2611.06905v1"
     },
     {
-      "title": "Designing an Adaptive Robust and Evolutionary-Game Framework for Minimum Shipment Quotas in Capacity-Constrained Freight Markets",
-      "date": "2026-11-03",
-      "id": "2611.05364v1",
-      "abstract": "Minimum shipment quota regulations ensure that socially critical commodities are not excluded from capacity-constrained freight markets by profit-driven allocation. Existing models of such regulation ",
-      "url": "https://arxiv.org/abs/2611.05364v1"
+      "title": "Motion-guided Contrastive Regularization For Latent World Models",
+      "date": "2026-11-04",
+      "id": "2611.06901v1",
+      "abstract": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve inform",
+      "url": "https://arxiv.org/abs/2611.06901v1"
     },
     {
-      "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
-      "date": "2026-11-03",
-      "id": "2611.05374v1",
-      "abstract": "Real-time phase estimation on stimulus-aligned transient EEG is critical for closed-loop neuromodulation systems targeting the theta-band, yet most real-time phase estimation methods have been develop",
-      "url": "https://arxiv.org/abs/2611.05374v1"
+      "title": "ReveaLLAGN 3: Revealing the Infrared Spectral Energy Distributions of Low Luminosity AGN",
+      "date": "2026-11-04",
+      "id": "2611.06916v1",
+      "abstract": "The spectral energy distributions of active galactic nuclei (AGN) provide valuable information on the emission mechanisms taking place in their inner regions. Here we use the James Webb Space Telescop",
+      "url": "https://arxiv.org/abs/2611.06916v1"
     },
     {
-      "title": "JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks",
-      "date": "2026-11-03",
-      "id": "2611.05263v1",
-      "abstract": "Multimodal web agents have shown promising capabilities for interacting with websites through graphical user interfaces (GUIs), yet realistic web tasks often require long-horizon, multi-step planning ",
-      "url": "https://arxiv.org/abs/2611.05263v1"
+      "title": "Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks",
+      "date": "2026-11-04",
+      "id": "2611.06915v1",
+      "abstract": "Gaia's fourth data release (DR4) will provide epoch astrometry for billions of sources, enabling the detection of potentially tens of thousands of substellar companions. We present the epochalypse cat",
+      "url": "https://arxiv.org/abs/2611.06915v1"
     },
     {
-      "title": "WayTrace: A Map-to-Language-to-Trace Hierarchy for Embodied Urban Navigation",
-      "date": "2026-11-03",
-      "id": "2611.05129v1",
-      "abstract": "Web services provide walking directions for nearly every city, but following them reliably over long routes remains challenging for autonomous robots. Point-goal navigation policies rely heavily on ac",
-      "url": "https://arxiv.org/abs/2611.05129v1"
+      "title": "Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness",
+      "date": "2026-11-04",
+      "id": "2611.06846v1",
+      "abstract": "Faithfulness requires that algorithmic explanations accurately reflect the model's behavior. Yet existing operationalizations of faithfulness can disagree about whether the same explanation is faithfu",
+      "url": "https://arxiv.org/abs/2611.06846v1"
     },
     {
-      "title": "Caging Vision-Language Navigation for Legged Robots via Barrier-Certified Safety Architecture",
-      "date": "2026-11-03",
-      "id": "2611.04972v1",
-      "abstract": "By harnessing the inherent commonsense capabilities of pretrained Large Language Models (LLMs) and Vision-Language Models (VLMs), current Vision-Language Action(VLA) models for legged robots excel at ",
-      "url": "https://arxiv.org/abs/2611.04972v1"
+      "title": "Alignment Myopia in Generative AI",
+      "date": "2026-11-04",
+      "id": "2611.06830v1",
+      "abstract": "Current generative AI alignment relies on a myopic paradigm that prioritizes immediate conversational satisfaction. By relying on short-horizon feedback, this approach ignores the profound, longitudin",
+      "url": "https://arxiv.org/abs/2611.06830v1"
     },
     {
-      "title": "Global Existence for a Drift-Diffusion Model of Electrical Discharge in MEMS",
-      "date": "2026-11-03",
-      "id": "2611.05262v1",
-      "abstract": "We study a coupled elliptic-parabolic system modelling electrical discharge in a micro-electro-mechanical (MEMS) capacitor: a Poisson equation for the electrostatic potential, coupled to drift-diffusi",
-      "url": "https://arxiv.org/abs/2611.05262v1"
+      "title": "cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning",
+      "date": "2026-11-04",
+      "id": "2611.06913v1",
+      "abstract": "We present cuRoboV2-Fast, a GPU-accelerated planner that reduces both planning latency and execution time for collision-free, payload-aware, torque-limited motions. B-spline trajectory optimization re",
+      "url": "https://arxiv.org/abs/2611.06913v1"
     },
     {
-      "title": "Should the Action Expert Train the VLM? Action-Token Supervision and Gradient Routing in Mixture-of-Transformer VLAs",
-      "date": "2026-11-03",
-      "id": "2611.05249v1",
-      "abstract": "Vision-language-action (VLA) models increasingly pair a pre-trained vision-language model (VLM) with a flow-matching expert that conditions its action predictions on the VLM's key-value representation",
-      "url": "https://arxiv.org/abs/2611.05249v1"
+      "title": "Human Mobility Sensing Using Wall-Reflected Beamformed Millimeter-Wave Communication Signals",
+      "date": "2026-11-04",
+      "id": "2611.06900v1",
+      "abstract": "Existing millimeter-wave (mmWave) communication beam patterns spatially weight human-scattered signals and shape the received-power signatures induced by human motion. We exploit these beam-shaped sig",
+      "url": "https://arxiv.org/abs/2611.06900v1"
     },
     {
-      "title": "Boundary $c\\leq1$ Liouville CFT from the Bootstrap",
-      "date": "2026-11-03",
-      "id": "2611.05378v1",
-      "abstract": "We construct boundary Liouville conformal field theory at central charge $c\\leq1$ with FZZT-type boundary conditions and show that it satisfies the Cardy--Lewellen sewing constraints on the disk and t",
-      "url": "https://arxiv.org/abs/2611.05378v1"
+      "title": "Charged Three-Dimensional Solitons in a Ferroelectric Nematic Liquid Crystal",
+      "date": "2026-11-04",
+      "id": "2611.06884v1",
+      "abstract": "Experimental observations and computer simulation of formation and structural properties of so far experimentally never seen electrically charged propagating 3D solitons are reported. The propagating ",
+      "url": "https://arxiv.org/abs/2611.06884v1"
     },
     {
-      "title": "Iterative Methods for Solving Feedback-Type Linear Equations under Small Phase Condition",
-      "date": "2026-11-03",
-      "id": "2611.05371v1",
-      "abstract": "This paper investigates iterative methods for solving feedback-type linear equations under small phase condition. We first develop an iterative solution scheme for linear equations with sectorial (sem",
-      "url": "https://arxiv.org/abs/2611.05371v1"
+      "title": "A Simple Subquadratic Cut Query Protocol for Directed Reachability",
+      "date": "2026-11-04",
+      "id": "2611.06906v1",
+      "abstract": "We study $s$--$t$ reachability in an unweighted directed graph on $n$ vertices, accessed through a directed cut oracle: given $S\\subseteq V$, the oracle returns the number of edges directed from $S$ t",
+      "url": "https://arxiv.org/abs/2611.06906v1"
     },
     {
-      "title": "A wider state, not wider arithmetic, for single-precision time integration",
-      "date": "2026-11-03",
-      "id": "2611.05365v1",
-      "abstract": "Single precision (FP32) halves the memory and data movement of double precision (FP64), and on accelerators is often several times faster. Its rounding errors are harmless except in the stored state. ",
-      "url": "https://arxiv.org/abs/2611.05365v1"
+      "title": "3D Printed Monolithic Optomechanical Chassis for an Unbalanced Field-Widened Interferometer",
+      "date": "2026-11-04",
+      "id": "2611.06898v1",
+      "abstract": "Additive manufacturing is increasingly being explored as an approach for producing complex structures for optical hardware. In this work, we present a fully monolithic optomechanical chassis fabricate",
+      "url": "https://arxiv.org/abs/2611.06898v1"
     },
     {
-      "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
-      "date": "2026-11-03",
-      "id": "2611.05361v1",
-      "abstract": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner ",
-      "url": "https://arxiv.org/abs/2611.05361v1"
-    },
-    {
-      "title": "Transfer of Weisfeiler-Leman equivalence under graph operations",
-      "date": "2026-11-03",
-      "id": "2611.05366v1",
-      "abstract": "The Weisfeiler-Leman algorithms WL(k) for $k\\ge1$ form a hierarchy of increasingly powerful tests for graph isomorphism. We study how the equivalence relations they induce on graphs transfer through a",
-      "url": "https://arxiv.org/abs/2611.05366v1"
+      "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+      "date": "2026-11-04",
+      "id": "2611.06912v1",
+      "abstract": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato",
+      "url": "https://arxiv.org/abs/2611.06912v1"
     }
   ]
 }
