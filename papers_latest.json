@@ -1,119 +1,182 @@
 {
-  "updated": "2026-11-05 07:31 UTC",
-  "total": 16,
+  "updated": "2026-11-06 07:29 UTC",
+  "total": 25,
   "today_count": 0,
   "papers": [
     {
-      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
-      "date": "2026-11-04",
-      "id": "2611.06918v1",
-      "abstract": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on ",
-      "url": "https://arxiv.org/abs/2611.06918v1"
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "date": "2026-11-05",
+      "id": "2611.08487v1",
+      "abstract": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in",
+      "url": "https://arxiv.org/abs/2611.08487v1"
     },
     {
-      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
-      "date": "2026-11-04",
-      "id": "2611.06914v1",
-      "abstract": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ",
-      "url": "https://arxiv.org/abs/2611.06914v1"
+      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+      "date": "2026-11-05",
+      "id": "2611.08486v1",
+      "abstract": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanat",
+      "url": "https://arxiv.org/abs/2611.08486v1"
     },
     {
-      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
-      "date": "2026-11-04",
-      "id": "2611.06911v1",
-      "abstract": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und",
-      "url": "https://arxiv.org/abs/2611.06911v1"
+      "title": "Where and Why is Grounded Reasoning Useful?",
+      "date": "2026-11-05",
+      "id": "2611.08485v1",
+      "abstract": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefit",
+      "url": "https://arxiv.org/abs/2611.08485v1"
     },
     {
-      "title": "Perceptive Humanoid Motion from Simulation",
-      "date": "2026-11-04",
-      "id": "2611.06908v1",
-      "abstract": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-",
-      "url": "https://arxiv.org/abs/2611.06908v1"
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "date": "2026-11-05",
+      "id": "2611.08428v1",
+      "abstract": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the w",
+      "url": "https://arxiv.org/abs/2611.08428v1"
     },
     {
-      "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
-      "date": "2026-11-04",
-      "id": "2611.06905v1",
-      "abstract": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s",
-      "url": "https://arxiv.org/abs/2611.06905v1"
+      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+      "date": "2026-11-05",
+      "id": "2611.08425v1",
+      "abstract": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endan",
+      "url": "https://arxiv.org/abs/2611.08425v1"
     },
     {
-      "title": "Motion-guided Contrastive Regularization For Latent World Models",
-      "date": "2026-11-04",
-      "id": "2611.06901v1",
-      "abstract": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve inform",
-      "url": "https://arxiv.org/abs/2611.06901v1"
+      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+      "date": "2026-11-05",
+      "id": "2611.08373v1",
+      "abstract": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representati",
+      "url": "https://arxiv.org/abs/2611.08373v1"
     },
     {
-      "title": "ReveaLLAGN 3: Revealing the Infrared Spectral Energy Distributions of Low Luminosity AGN",
-      "date": "2026-11-04",
-      "id": "2611.06916v1",
-      "abstract": "The spectral energy distributions of active galactic nuclei (AGN) provide valuable information on the emission mechanisms taking place in their inner regions. Here we use the James Webb Space Telescop",
-      "url": "https://arxiv.org/abs/2611.06916v1"
+      "title": "An Accelerated Proximal Gradient Method for Bures-Wasserstein Space",
+      "date": "2026-11-05",
+      "id": "2611.08468v1",
+      "abstract": "We study composite optimization over the Bures--Wasserstein (BW) space of Gaussian measures. Our main observation is that a useful class of BW problems can be lifted into the Euclidean space of affine",
+      "url": "https://arxiv.org/abs/2611.08468v1"
     },
     {
-      "title": "Preparing for the Gaia DR4 Epochalypse: Simulated Epoch Astrometry for Substellar Companion Orbit-Modeling Benchmarks",
-      "date": "2026-11-04",
-      "id": "2611.06915v1",
-      "abstract": "Gaia's fourth data release (DR4) will provide epoch astrometry for billions of sources, enabling the detection of potentially tens of thousands of substellar companions. We present the epochalypse cat",
-      "url": "https://arxiv.org/abs/2611.06915v1"
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "date": "2026-11-05",
+      "id": "2611.08465v1",
+      "abstract": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con",
+      "url": "https://arxiv.org/abs/2611.08465v1"
     },
     {
-      "title": "Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness",
-      "date": "2026-11-04",
-      "id": "2611.06846v1",
-      "abstract": "Faithfulness requires that algorithmic explanations accurately reflect the model's behavior. Yet existing operationalizations of faithfulness can disagree about whether the same explanation is faithfu",
-      "url": "https://arxiv.org/abs/2611.06846v1"
+      "title": "Symplectic singularities in Relative Langlands duality for products of general linear groups",
+      "date": "2026-11-05",
+      "id": "2611.08464v1",
+      "abstract": "It was shown by Braverman-Finkelberg-Nakajima that the regular perverse sheaf on the affine Grassmannian of type A is isomorphic to the ring object associated to a Gelfand-Tsetlin quiver. We use this ",
+      "url": "https://arxiv.org/abs/2611.08464v1"
     },
     {
-      "title": "Alignment Myopia in Generative AI",
-      "date": "2026-11-04",
-      "id": "2611.06830v1",
-      "abstract": "Current generative AI alignment relies on a myopic paradigm that prioritizes immediate conversational satisfaction. By relying on short-horizon feedback, this approach ignores the profound, longitudin",
-      "url": "https://arxiv.org/abs/2611.06830v1"
+      "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
+      "date": "2026-11-05",
+      "id": "2611.08489v1",
+      "abstract": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retri",
+      "url": "https://arxiv.org/abs/2611.08489v1"
     },
     {
-      "title": "cuRoboV2-Fast: Fast Torque-Limited Collision-Free Motion Planning",
-      "date": "2026-11-04",
-      "id": "2611.06913v1",
-      "abstract": "We present cuRoboV2-Fast, a GPU-accelerated planner that reduces both planning latency and execution time for collision-free, payload-aware, torque-limited motions. B-spline trajectory optimization re",
-      "url": "https://arxiv.org/abs/2611.06913v1"
+      "title": "Provable circuit-level thresholds for non-abelian topological phases",
+      "date": "2026-11-05",
+      "id": "2611.08488v1",
+      "abstract": "We provide an explicit scheme to realize a quantum memory in any 2D non-chiral topological order. For this, we construct syndrome extraction circuits based on the Turaev-Viro path integral as well as ",
+      "url": "https://arxiv.org/abs/2611.08488v1"
     },
     {
-      "title": "Human Mobility Sensing Using Wall-Reflected Beamformed Millimeter-Wave Communication Signals",
-      "date": "2026-11-04",
-      "id": "2611.06900v1",
-      "abstract": "Existing millimeter-wave (mmWave) communication beam patterns spatially weight human-scattered signals and shape the received-power signatures induced by human motion. We exploit these beam-shaped sig",
-      "url": "https://arxiv.org/abs/2611.06900v1"
+      "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+      "date": "2026-11-05",
+      "id": "2611.08372v1",
+      "abstract": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely execute",
+      "url": "https://arxiv.org/abs/2611.08372v1"
     },
     {
-      "title": "Charged Three-Dimensional Solitons in a Ferroelectric Nematic Liquid Crystal",
-      "date": "2026-11-04",
-      "id": "2611.06884v1",
-      "abstract": "Experimental observations and computer simulation of formation and structural properties of so far experimentally never seen electrically charged propagating 3D solitons are reported. The propagating ",
-      "url": "https://arxiv.org/abs/2611.06884v1"
+      "title": "RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines",
+      "date": "2026-11-05",
+      "id": "2611.08308v1",
+      "abstract": "Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functi",
+      "url": "https://arxiv.org/abs/2611.08308v1"
     },
     {
-      "title": "A Simple Subquadratic Cut Query Protocol for Directed Reachability",
-      "date": "2026-11-04",
-      "id": "2611.06906v1",
-      "abstract": "We study $s$--$t$ reachability in an unweighted directed graph on $n$ vertices, accessed through a directed cut oracle: given $S\\subseteq V$, the oracle returns the number of edges directed from $S$ t",
-      "url": "https://arxiv.org/abs/2611.06906v1"
+      "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+      "date": "2026-11-05",
+      "id": "2611.08462v1",
+      "abstract": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial correcti",
+      "url": "https://arxiv.org/abs/2611.08462v1"
     },
     {
-      "title": "3D Printed Monolithic Optomechanical Chassis for an Unbalanced Field-Widened Interferometer",
-      "date": "2026-11-04",
-      "id": "2611.06898v1",
-      "abstract": "Additive manufacturing is increasingly being explored as an approach for producing complex structures for optical hardware. In this work, we present a fully monolithic optomechanical chassis fabricate",
-      "url": "https://arxiv.org/abs/2611.06898v1"
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "date": "2026-11-05",
+      "id": "2611.08449v1",
+      "abstract": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa",
+      "url": "https://arxiv.org/abs/2611.08449v1"
     },
     {
-      "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
-      "date": "2026-11-04",
-      "id": "2611.06912v1",
-      "abstract": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato",
-      "url": "https://arxiv.org/abs/2611.06912v1"
+      "title": "Souffleur: A Glanceable Display for Mobile Voice Conversations",
+      "date": "2026-11-05",
+      "id": "2611.08443v1",
+      "abstract": "The speech capabilities of mobile devices have grown, but their displays still rely on a text-based chat. When resuming a voice chat after a context switch, the last messages may not convey the key po",
+      "url": "https://arxiv.org/abs/2611.08443v1"
+    },
+    {
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "date": "2026-11-05",
+      "id": "2611.08483v1",
+      "abstract": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process",
+      "url": "https://arxiv.org/abs/2611.08483v1"
+    },
+    {
+      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+      "date": "2026-11-05",
+      "id": "2611.08433v1",
+      "abstract": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudin",
+      "url": "https://arxiv.org/abs/2611.08433v1"
+    },
+    {
+      "title": "The three-dimensional Galilean black hole",
+      "date": "2026-11-05",
+      "id": "2611.08471v1",
+      "abstract": "We report a novel solution of three-dimensional Galilean Anti-de Sitter gravity. The theory can be formulated as a topological gauge theory invariant under the doubly extended Newton-Hooke group in th",
+      "url": "https://arxiv.org/abs/2611.08471v1"
+    },
+    {
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "date": "2026-11-05",
+      "id": "2611.08478v1",
+      "abstract": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc",
+      "url": "https://arxiv.org/abs/2611.08478v1"
+    },
+    {
+      "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
+      "date": "2026-11-05",
+      "id": "2611.08461v1",
+      "abstract": "Knowledge distillation transfers predictions, representations, or other supervisory information between learning models and is increasingly investigated in quantum machine learning. Its applications e",
+      "url": "https://arxiv.org/abs/2611.08461v1"
+    },
+    {
+      "title": "Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development",
+      "date": "2026-11-05",
+      "id": "2611.08456v1",
+      "abstract": "Generative AI and agentic coding are accelerating software development, leading to concerns about technical debt. But two less visible forms of debt, cognitive debt and intent debt, are emerging as ke",
+      "url": "https://arxiv.org/abs/2611.08456v1"
+    },
+    {
+      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+      "date": "2026-11-05",
+      "id": "2611.08477v1",
+      "abstract": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-cond",
+      "url": "https://arxiv.org/abs/2611.08477v1"
+    },
+    {
+      "title": "Monus vs. Interpretations in Semiring Semantics",
+      "date": "2026-11-05",
+      "id": "2611.08474v1",
+      "abstract": "Interpretations have been widely used in the study of provenance of queries on semiring-annotated databases. Here, we consider two different interpretation-based semantics for first-order formulas in ",
+      "url": "https://arxiv.org/abs/2611.08474v1"
+    },
+    {
+      "title": "Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow",
+      "date": "2026-11-05",
+      "id": "2611.08466v1",
+      "abstract": "The canonical cut hierarchy recursively partitions a graph along Tutte-Nash-Williams partitions, choosing the partition with the most number of parts at each step. We give a randomized almost linear-t",
+      "url": "https://arxiv.org/abs/2611.08466v1"
     }
   ]
 }
