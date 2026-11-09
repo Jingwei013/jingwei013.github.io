@@ -1,182 +1,140 @@
 {
-  "updated": "2026-11-08 06:48 UTC",
-  "total": 25,
+  "updated": "2026-11-09 07:24 UTC",
+  "total": 19,
   "today_count": 0,
   "papers": [
     {
-      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
-      "date": "2026-11-05",
-      "id": "2611.08487v1",
-      "abstract": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in",
-      "url": "https://arxiv.org/abs/2611.08487v1"
+      "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+      "date": "2026-11-06",
+      "id": "2611.09894v1",
+      "abstract": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dyna",
+      "url": "https://arxiv.org/abs/2611.09894v1"
     },
     {
-      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
-      "date": "2026-11-05",
-      "id": "2611.08486v1",
-      "abstract": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanat",
-      "url": "https://arxiv.org/abs/2611.08486v1"
+      "title": "On Agentic Manipulation Policies",
+      "date": "2026-11-06",
+      "id": "2611.09892v1",
+      "abstract": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a",
+      "url": "https://arxiv.org/abs/2611.09892v1"
     },
     {
-      "title": "Where and Why is Grounded Reasoning Useful?",
-      "date": "2026-11-05",
-      "id": "2611.08485v1",
-      "abstract": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefit",
-      "url": "https://arxiv.org/abs/2611.08485v1"
+      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "date": "2026-11-06",
+      "id": "2611.09891v1",
+      "abstract": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h",
+      "url": "https://arxiv.org/abs/2611.09891v1"
     },
     {
-      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-      "date": "2026-11-05",
-      "id": "2611.08428v1",
-      "abstract": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the w",
-      "url": "https://arxiv.org/abs/2611.08428v1"
+      "title": "Computer-Use Agents Are Embodied Generalists",
+      "date": "2026-11-06",
+      "id": "2611.09847v1",
+      "abstract": "In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and specialized architectures. We argue that embodied AI is poised for a similar shift. Our key claim is that",
+      "url": "https://arxiv.org/abs/2611.09847v1"
     },
     {
-      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-      "date": "2026-11-05",
-      "id": "2611.08425v1",
-      "abstract": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endan",
-      "url": "https://arxiv.org/abs/2611.08425v1"
+      "title": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
+      "date": "2026-11-06",
+      "id": "2611.09770v1",
+      "abstract": "Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting challenge. The primary obstacle is the severe Locality Er",
+      "url": "https://arxiv.org/abs/2611.09770v1"
     },
     {
-      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
-      "date": "2026-11-05",
-      "id": "2611.08373v1",
-      "abstract": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representati",
-      "url": "https://arxiv.org/abs/2611.08373v1"
+      "title": "Lightweight Path-Aware Frontier Re-ranking for LiDAR-Based UAV Exploration",
+      "date": "2026-11-06",
+      "id": "2611.09561v1",
+      "abstract": "Autonomous 3D exploration with UAVs requires efficient target selection under limited flight time and onboard computation. In conventional Euclidean-distance-based frontier pipelines, geometric distan",
+      "url": "https://arxiv.org/abs/2611.09561v1"
     },
     {
-      "title": "An Accelerated Proximal Gradient Method for Bures-Wasserstein Space",
-      "date": "2026-11-05",
-      "id": "2611.08468v1",
-      "abstract": "We study composite optimization over the Bures--Wasserstein (BW) space of Gaussian measures. Our main observation is that a useful class of BW problems can be lifted into the Euclidean space of affine",
-      "url": "https://arxiv.org/abs/2611.08468v1"
+      "title": "An Empirical Study on Clustering-based Quantum Approximate Optimization Algorithm for Regression Test Case Selection",
+      "date": "2026-11-06",
+      "id": "2611.09869v1",
+      "abstract": "Regression testing assesses whether software components that have already been developed and tested continue to work correctly after modifications. Ideally, regression testing re-executes the entire t",
+      "url": "https://arxiv.org/abs/2611.09869v1"
     },
     {
-      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
-      "date": "2026-11-05",
-      "id": "2611.08465v1",
-      "abstract": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus con",
-      "url": "https://arxiv.org/abs/2611.08465v1"
+      "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+      "date": "2026-11-06",
+      "id": "2611.09864v1",
+      "abstract": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r",
+      "url": "https://arxiv.org/abs/2611.09864v1"
     },
     {
-      "title": "Symplectic singularities in Relative Langlands duality for products of general linear groups",
-      "date": "2026-11-05",
-      "id": "2611.08464v1",
-      "abstract": "It was shown by Braverman-Finkelberg-Nakajima that the regular perverse sheaf on the affine Grassmannian of type A is isomorphic to the ring object associated to a Gelfand-Tsetlin quiver. We use this ",
-      "url": "https://arxiv.org/abs/2611.08464v1"
+      "title": "Challenges for minimal warm inflation in the Standard Model and beyond",
+      "date": "2026-11-06",
+      "id": "2611.09893v1",
+      "abstract": "A minimal realisation of warm inflation, even within the Standard Model, assumes that the inflaton $φ$ couples via the effective operator $φ\\, G\\tilde G$. We show that the SM solutions are in tension ",
+      "url": "https://arxiv.org/abs/2611.09893v1"
     },
     {
-      "title": "BeAR: The Bern Atmospheric Retrieval code - A GPU-accelerated framework for low-resolution, high-resolution, and joint retrievals of exoplanet atmospheres",
-      "date": "2026-11-05",
-      "id": "2611.08489v1",
-      "abstract": "We present BeAR, the Bern Atmospheric Retrieval code and successor of Helios-r, and its new high-resolution cross-correlation framework for emission and transmission spectra. BeAR performs joint retri",
-      "url": "https://arxiv.org/abs/2611.08489v1"
+      "title": "DexDICE: Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning",
+      "date": "2026-11-06",
+      "id": "2611.09433v1",
+      "abstract": "Ensuring high returns while providing strong safety guarantees in offline imitation learning (IL) is a fundamental challenge: existing approaches either rely on explicitly specified cost functions, wh",
+      "url": "https://arxiv.org/abs/2611.09433v1"
     },
     {
-      "title": "Provable circuit-level thresholds for non-abelian topological phases",
-      "date": "2026-11-05",
-      "id": "2611.08488v1",
-      "abstract": "We provide an explicit scheme to realize a quantum memory in any 2D non-chiral topological order. For this, we construct syndrome extraction circuits based on the Turaev-Viro path integral as well as ",
-      "url": "https://arxiv.org/abs/2611.08488v1"
+      "title": "Locating Contact on Tendon-Driven Continuum Robots From Tendon Measurements Alone via Constrained Moving Horizon Estimation",
+      "date": "2026-11-06",
+      "id": "2611.09877v1",
+      "abstract": "Tendon-driven continuum robots can reach through constrained spaces, but contact along their bodies is invisible to the sensors at their motors. We show that this is a structural limitation rather tha",
+      "url": "https://arxiv.org/abs/2611.09877v1"
     },
     {
-      "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
-      "date": "2026-11-05",
-      "id": "2611.08372v1",
-      "abstract": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely execute",
-      "url": "https://arxiv.org/abs/2611.08372v1"
+      "title": "Mass-lumped finite elements with maximum-bound preservation and original-energy dissipation for the degenerate-mobility Allen-Cahn equation",
+      "date": "2026-11-06",
+      "id": "2611.09832v1",
+      "abstract": "In this work, we propose a mass-lumped finite element method for the Allen-Cahn equation that incorporates nonlinear mobility which may degenerate. The spatial approximation uses continuous, piecewise",
+      "url": "https://arxiv.org/abs/2611.09832v1"
     },
     {
-      "title": "RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines",
-      "date": "2026-11-05",
-      "id": "2611.08308v1",
-      "abstract": "Reward machines (RMs) have been proposed as a reward formulation in reinforcement learning (RL) to capture non-Markovian tasks where credit assignment depends on history. By representing reward functi",
-      "url": "https://arxiv.org/abs/2611.08308v1"
+      "title": "How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages",
+      "date": "2026-11-06",
+      "id": "2611.09848v1",
+      "abstract": "Can a sender that only computes hashes, with a language model only at the receiver, transmit short human text more cheaply than a classical sender trained on the same domain? We answer with one pre-re",
+      "url": "https://arxiv.org/abs/2611.09848v1"
     },
     {
-      "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
-      "date": "2026-11-05",
-      "id": "2611.08462v1",
-      "abstract": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial correcti",
-      "url": "https://arxiv.org/abs/2611.08462v1"
+      "title": "On the (non-)closedness of the set of ReLU networks",
+      "date": "2026-11-06",
+      "id": "2611.09887v1",
+      "abstract": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d",
+      "url": "https://arxiv.org/abs/2611.09887v1"
     },
     {
-      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-      "date": "2026-11-05",
-      "id": "2611.08449v1",
-      "abstract": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa",
-      "url": "https://arxiv.org/abs/2611.08449v1"
+      "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+      "date": "2026-11-06",
+      "id": "2611.09878v1",
+      "abstract": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ",
+      "url": "https://arxiv.org/abs/2611.09878v1"
     },
     {
-      "title": "Souffleur: A Glanceable Display for Mobile Voice Conversations",
-      "date": "2026-11-05",
-      "id": "2611.08443v1",
-      "abstract": "The speech capabilities of mobile devices have grown, but their displays still rely on a text-based chat. When resuming a voice chat after a context switch, the last messages may not convey the key po",
-      "url": "https://arxiv.org/abs/2611.08443v1"
+      "title": "Directed systems of A-spaces and weak cores",
+      "date": "2026-11-06",
+      "id": "2611.09886v1",
+      "abstract": "We prove that for any regular CW-complex $X$ there exists a quotient map $X\\to Y$ that is a weak homotopy equivalence and which is minimal with that property, meaning that any quotient $Y\\to Z$ that i",
+      "url": "https://arxiv.org/abs/2611.09886v1"
     },
     {
-      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
-      "date": "2026-11-05",
-      "id": "2611.08483v1",
-      "abstract": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process",
-      "url": "https://arxiv.org/abs/2611.08483v1"
+      "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+      "date": "2026-11-06",
+      "id": "2611.09882v1",
+      "abstract": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d",
+      "url": "https://arxiv.org/abs/2611.09882v1"
     },
     {
-      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
-      "date": "2026-11-05",
-      "id": "2611.08433v1",
-      "abstract": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudin",
-      "url": "https://arxiv.org/abs/2611.08433v1"
+      "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+      "date": "2026-11-06",
+      "id": "2611.09866v1",
+      "abstract": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensiv",
+      "url": "https://arxiv.org/abs/2611.09866v1"
     },
     {
-      "title": "The three-dimensional Galilean black hole",
-      "date": "2026-11-05",
-      "id": "2611.08471v1",
-      "abstract": "We report a novel solution of three-dimensional Galilean Anti-de Sitter gravity. The theory can be formulated as a topological gauge theory invariant under the doubly extended Newton-Hooke group in th",
-      "url": "https://arxiv.org/abs/2611.08471v1"
-    },
-    {
-      "title": "Scientist World: Grow a Research World for AI-Scientists",
-      "date": "2026-11-05",
-      "id": "2611.08478v1",
-      "abstract": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Sc",
-      "url": "https://arxiv.org/abs/2611.08478v1"
-    },
-    {
-      "title": "Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems",
-      "date": "2026-11-05",
-      "id": "2611.08461v1",
-      "abstract": "Knowledge distillation transfers predictions, representations, or other supervisory information between learning models and is increasingly investigated in quantum machine learning. Its applications e",
-      "url": "https://arxiv.org/abs/2611.08461v1"
-    },
-    {
-      "title": "Cognitive Tours: Making Understanding a Deliverable in AI-Assisted Development",
-      "date": "2026-11-05",
-      "id": "2611.08456v1",
-      "abstract": "Generative AI and agentic coding are accelerating software development, leading to concerns about technical debt. But two less visible forms of debt, cognitive debt and intent debt, are emerging as ke",
-      "url": "https://arxiv.org/abs/2611.08456v1"
-    },
-    {
-      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
-      "date": "2026-11-05",
-      "id": "2611.08477v1",
-      "abstract": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-cond",
-      "url": "https://arxiv.org/abs/2611.08477v1"
-    },
-    {
-      "title": "Monus vs. Interpretations in Semiring Semantics",
-      "date": "2026-11-05",
-      "id": "2611.08474v1",
-      "abstract": "Interpretations have been widely used in the study of provenance of queries on semiring-annotated databases. Here, we consider two different interpretation-based semantics for first-order formulas in ",
-      "url": "https://arxiv.org/abs/2611.08474v1"
-    },
-    {
-      "title": "Canonical Cut Hierarchy in Almost-Linear Time via Reduction to Max-Flow",
-      "date": "2026-11-05",
-      "id": "2611.08466v1",
-      "abstract": "The canonical cut hierarchy recursively partitions a graph along Tutte-Nash-Williams partitions, choosing the partition with the most number of parts at each step. We give a randomized almost linear-t",
-      "url": "https://arxiv.org/abs/2611.08466v1"
+      "title": "Deformations and Local Geometry of Lie Triple System Morphisms",
+      "date": "2026-11-06",
+      "id": "2611.09849v1",
+      "abstract": "In this paper, first we study the deformations, stability and rigidity of Lie triple system morphisms by means of higher derived brackets and augmented Yamaguti cohomology. The vanishing of the first ",
+      "url": "https://arxiv.org/abs/2611.09849v1"
     }
   ]
 }
