@@ -1,147 +1,182 @@
 {
-  "updated": "2026-11-10 07:52 UTC",
-  "total": 20,
+  "updated": "2026-11-11 07:20 UTC",
+  "total": 25,
   "today_count": 0,
   "papers": [
     {
-      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
-      "date": "2026-11-09",
-      "id": "2611.12886v1",
-      "abstract": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M",
-      "url": "https://arxiv.org/abs/2611.12886v1"
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "date": "2026-11-10",
+      "id": "2611.14519v1",
+      "abstract": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co",
+      "url": "https://arxiv.org/abs/2611.14519v1"
     },
     {
-      "title": "World In-Context Learning for Agentic Robot Manipulation",
-      "date": "2026-11-09",
-      "id": "2611.12885v1",
-      "abstract": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched ",
-      "url": "https://arxiv.org/abs/2611.12885v1"
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "date": "2026-11-10",
+      "id": "2611.14518v1",
+      "abstract": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da",
+      "url": "https://arxiv.org/abs/2611.14518v1"
     },
     {
-      "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
-      "date": "2026-11-09",
-      "id": "2611.12884v1",
-      "abstract": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ",
-      "url": "https://arxiv.org/abs/2611.12884v1"
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "date": "2026-11-10",
+      "id": "2611.14515v1",
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-",
+      "url": "https://arxiv.org/abs/2611.14515v1"
     },
     {
-      "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
-      "date": "2026-11-09",
-      "id": "2611.12879v1",
-      "abstract": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural s",
-      "url": "https://arxiv.org/abs/2611.12879v1"
+      "title": "Demonstration of MANA: Multi-perspective Alignment of NPC Agents",
+      "date": "2026-11-10",
+      "id": "2611.14431v1",
+      "abstract": "We present MANA (Multi-perspective Alignment of NPC Agents), an interactive approach for authoring NPC behavior through embodied demonstration. We show MANA in the context of Minecraft, where a develo",
+      "url": "https://arxiv.org/abs/2611.14431v1"
     },
     {
-      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "date": "2026-11-09",
-      "id": "2611.12806v1",
-      "abstract": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactil",
-      "url": "https://arxiv.org/abs/2611.12806v1"
+      "title": "OnlyAct: Extracting Action Representations from Foundation Models for World Models",
+      "date": "2026-11-10",
+      "id": "2611.14420v1",
+      "abstract": "Video world models promise general-purpose interactive simulators, but their training is limited by action supervision: action labels are scarce, fragmented across incompatible specifications, and do ",
+      "url": "https://arxiv.org/abs/2611.14420v1"
     },
     {
-      "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
-      "date": "2026-11-09",
-      "id": "2611.12880v1",
-      "abstract": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration ste",
-      "url": "https://arxiv.org/abs/2611.12880v1"
+      "title": "SIGMO: Sigmoid Gated Interaction-Aware Motion Planning",
+      "date": "2026-11-10",
+      "id": "2611.14414v1",
+      "abstract": "Despite the widespread adoption of autonomous vehicle technologies, reliable navigation within cluttered environments remains arduous due to the necessity of interaction-aware strategies; example scen",
+      "url": "https://arxiv.org/abs/2611.14414v1"
     },
     {
-      "title": "Legendre manifolds generated by the Barenblatt equations",
-      "date": "2026-11-09",
-      "id": "2611.12887v1",
-      "abstract": "The paper is devoted to the construction of exact general solutions of the equations of oil filtration in a porous medium under the action of an active reagent injected into the reservoir. The choice ",
-      "url": "https://arxiv.org/abs/2611.12887v1"
+      "title": "Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus",
+      "date": "2026-11-10",
+      "id": "2611.14509v1",
+      "abstract": "We study the allocation of indivisible items to buyers with additive values drawn from independent distributions. The objective is consumer surplus net of burnt payments. We consider artificial-curren",
+      "url": "https://arxiv.org/abs/2611.14509v1"
     },
     {
-      "title": "Riemannian Real-Time Optimization for Robotics: Active Set SQP Parametric Pathfollowing",
-      "date": "2026-11-09",
-      "id": "2611.12766v1",
-      "abstract": "Robot optimal control often combines Euclidean states with configurations on Lie groups and other smooth manifolds. This paper develops a parametric Riemannian Newton pathfollowing method based on hom",
-      "url": "https://arxiv.org/abs/2611.12766v1"
+      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "date": "2026-11-10",
+      "id": "2611.14504v1",
+      "abstract": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation",
+      "url": "https://arxiv.org/abs/2611.14504v1"
     },
     {
-      "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
-      "date": "2026-11-09",
-      "id": "2611.12750v1",
-      "abstract": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting diver",
-      "url": "https://arxiv.org/abs/2611.12750v1"
+      "title": "Second-Best Trade Is Half Efficient in Multidimensional Markets",
+      "date": "2026-11-10",
+      "id": "2611.14489v1",
+      "abstract": "We prove that at least half of the first-best gains from trade can always be achieved in multidimensional two-sided markets with additive values and costs and arbitrary downward-closed feasibility con",
+      "url": "https://arxiv.org/abs/2611.14489v1"
     },
     {
-      "title": "LawKAN: Group-Law Layers for Composition -- When Imposing a Known Law Pays Off",
-      "date": "2026-11-09",
-      "id": "2611.12567v1",
-      "abstract": "Many tasks compose transformations by a known rule: chained rotations in robotics and navigation. Learned models relearn it, compounding error; classical estimators hardcode it and miss hardware devia",
-      "url": "https://arxiv.org/abs/2611.12567v1"
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "date": "2026-11-10",
+      "id": "2611.14516v1",
+      "abstract": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-",
+      "url": "https://arxiv.org/abs/2611.14516v1"
     },
     {
-      "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
-      "date": "2026-11-09",
-      "id": "2611.12870v1",
-      "abstract": "World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment ac",
-      "url": "https://arxiv.org/abs/2611.12870v1"
+      "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+      "date": "2026-11-10",
+      "id": "2611.14256v1",
+      "abstract": "Recent work shows that multimodal agents increasingly self-improve without recurring human annotation. However, each self-improvement mechanism is designed and evaluated within a single scenario, leav",
+      "url": "https://arxiv.org/abs/2611.14256v1"
     },
     {
-      "title": "Benchmarking Real-World Robotic Manipulation through Stochastic Challenges",
-      "date": "2026-11-09",
-      "id": "2611.12804v1",
-      "abstract": "A challenging bottleneck in manipulation research is reproducibility and comparability of methods in real-world environments. Since manipulation is an interactive task, it cannot be evaluated on a sta",
-      "url": "https://arxiv.org/abs/2611.12804v1"
+      "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+      "date": "2026-11-10",
+      "id": "2611.14488v1",
+      "abstract": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each f",
+      "url": "https://arxiv.org/abs/2611.14488v1"
     },
     {
-      "title": "VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess",
-      "date": "2026-11-09",
-      "id": "2611.12676v1",
-      "abstract": "Vision-language-action (VLA) models are trained as general-purpose foundation models for robot learning, and require fine-tuning for each downstream task and robot. This raises practical questions suc",
-      "url": "https://arxiv.org/abs/2611.12676v1"
+      "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
+      "date": "2026-11-10",
+      "id": "2611.14470v1",
+      "abstract": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are made. This is especially challenging in settings where users are free to choose the",
+      "url": "https://arxiv.org/abs/2611.14470v1"
     },
     {
-      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
-      "date": "2026-11-09",
-      "id": "2611.12856v1",
-      "abstract": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate ",
-      "url": "https://arxiv.org/abs/2611.12856v1"
+      "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+      "date": "2026-11-10",
+      "id": "2611.14432v1",
+      "abstract": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10.",
+      "url": "https://arxiv.org/abs/2611.14432v1"
     },
     {
-      "title": "Dephasing-Induced Melting of Crystalline Spectral Form Factors",
-      "date": "2026-11-09",
-      "id": "2611.12888v1",
-      "abstract": "Long-range spectral order can be probed using spectral form factors, where it manifests itself as sharp Bragg peaks at integer multiples of the Heisenberg time in nearly crystalline spectra. We examin",
-      "url": "https://arxiv.org/abs/2611.12888v1"
+      "title": "Spatial patterns of transportation choice in Niterói",
+      "date": "2026-11-10",
+      "id": "2611.14499v1",
+      "abstract": "Characterizing how people move through a city requires spatially and temporally fine-grained data that are often costly and difficult to obtain. Here, we introduce a computational framework that uses ",
+      "url": "https://arxiv.org/abs/2611.14499v1"
     },
     {
-      "title": "The simulability frontiers of photonic quantum computing",
-      "date": "2026-11-09",
-      "id": "2611.12876v1",
-      "abstract": "Estimates of when photonic devices outgrow classical simulation are hard to compare: even for single-photon boson sampling, quoted thresholds range from 50 to 98 photons, as they rest on different tas",
-      "url": "https://arxiv.org/abs/2611.12876v1"
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "date": "2026-11-10",
+      "id": "2611.14514v1",
+      "abstract": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ",
+      "url": "https://arxiv.org/abs/2611.14514v1"
     },
     {
-      "title": "Quantitative global regularity for Navier--Stokes equations with odd viscosity on the cubic three-torus",
-      "date": "2026-11-09",
-      "id": "2611.12862v1",
-      "abstract": "We study the three-dimensional incompressible Navier--Stokes equation on the cubic torus with a constant odd-viscosity operator given by the vertical derivative of the curl. Arbitrary real, mean-zero,",
-      "url": "https://arxiv.org/abs/2611.12862v1"
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "date": "2026-11-10",
+      "id": "2611.14511v1",
+      "abstract": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha",
+      "url": "https://arxiv.org/abs/2611.14511v1"
     },
     {
-      "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
-      "date": "2026-11-09",
-      "id": "2611.12875v1",
-      "abstract": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To ",
-      "url": "https://arxiv.org/abs/2611.12875v1"
+      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "date": "2026-11-10",
+      "id": "2611.14493v1",
+      "abstract": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative ",
+      "url": "https://arxiv.org/abs/2611.14493v1"
     },
     {
-      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
-      "date": "2026-11-09",
-      "id": "2611.12872v1",
-      "abstract": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
-      "url": "https://arxiv.org/abs/2611.12872v1"
+      "title": "The closure of the nonreal roots of bounded-height polynomials is connected exactly at pronic heights",
+      "date": "2026-11-10",
+      "id": "2611.14517v1",
+      "abstract": "Let C_h be the closure of the nonreal roots of integer polynomials with coefficients of modulus at most h. With the nonzero real roots included, the closure is connected at every height; without them,",
+      "url": "https://arxiv.org/abs/2611.14517v1"
     },
     {
-      "title": "Distributional Limits of Empirical Codegree Processes in Sampled Networks",
-      "date": "2026-11-09",
-      "id": "2611.12853v1",
-      "abstract": "We study fluctuations of empirical distributions of normalized codegrees under independent vertex sampling from deterministic or random weighted parent networks. We establish a quantitative multivaria",
-      "url": "https://arxiv.org/abs/2611.12853v1"
+      "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "date": "2026-11-10",
+      "id": "2611.14508v1",
+      "abstract": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir",
+      "url": "https://arxiv.org/abs/2611.14508v1"
+    },
+    {
+      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "date": "2026-11-10",
+      "id": "2611.14505v1",
+      "abstract": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on",
+      "url": "https://arxiv.org/abs/2611.14505v1"
+    },
+    {
+      "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+      "date": "2026-11-10",
+      "id": "2611.14498v1",
+      "abstract": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Wh",
+      "url": "https://arxiv.org/abs/2611.14498v1"
+    },
+    {
+      "title": "Online Graph Coloring: Competitive Ratios Separating Randomized and Deterministic Algorithms",
+      "date": "2026-11-10",
+      "id": "2611.14513v1",
+      "abstract": "We study online coloring, focusing on the competitive ratio. The best previously known results were (1) a lower bound of $Ω(n / \\log^2 n)$ for both deterministic and randomized algorithms by Halldórss",
+      "url": "https://arxiv.org/abs/2611.14513v1"
+    },
+    {
+      "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval",
+      "date": "2026-11-10",
+      "id": "2611.14496v1",
+      "abstract": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchromatic (PAN) and multispectral (MS) imagery, withou",
+      "url": "https://arxiv.org/abs/2611.14496v1"
+    },
+    {
+      "title": "Explicit restricted isometries with $k=m^{2/3-o(1)}$",
+      "date": "2026-11-10",
+      "id": "2611.14475v1",
+      "abstract": "We construct an explicit family of real $m\\times n$ restricted isometries with $m\\to\\infty$, $m/n\\to 0$, $δ_k\\to 0$, and $k=m^{2/3-o(1)}$. We combine Gershgorin's circle theorem with a flat RIP estima",
+      "url": "https://arxiv.org/abs/2611.14475v1"
     }
   ]
 }
