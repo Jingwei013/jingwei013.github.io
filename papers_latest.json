@@ -1,154 +1,168 @@
 {
-  "updated": "2026-11-16 07:27 UTC",
-  "total": 21,
+  "updated": "2026-11-17 08:39 UTC",
+  "total": 23,
   "today_count": 0,
   "papers": [
     {
-      "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
-      "date": "2026-11-13",
-      "id": "2611.18561v1",
-      "abstract": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural ac",
-      "url": "https://arxiv.org/abs/2611.18561v1"
+      "title": "Latent Lattice Language Models",
+      "date": "2026-11-16",
+      "id": "2611.21608v1",
+      "abstract": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea",
+      "url": "https://arxiv.org/abs/2611.21608v1"
     },
     {
-      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
-      "date": "2026-11-13",
-      "id": "2611.18562v1",
-      "abstract": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 As",
-      "url": "https://arxiv.org/abs/2611.18562v1"
+      "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+      "date": "2026-11-16",
+      "id": "2611.21607v1",
+      "abstract": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action",
+      "url": "https://arxiv.org/abs/2611.21607v1"
     },
     {
-      "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
-      "date": "2026-11-13",
-      "id": "2611.18559v1",
-      "abstract": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial ass",
-      "url": "https://arxiv.org/abs/2611.18559v1"
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "date": "2026-11-16",
+      "id": "2611.21605v1",
+      "abstract": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor",
+      "url": "https://arxiv.org/abs/2611.21605v1"
     },
     {
-      "title": "OpenLayout: An Open and Agentic-Driven Platform for Holistic VLSI Physical Design and Benchmarking",
-      "date": "2026-11-13",
-      "id": "2611.18517v1",
-      "abstract": "Physical design automation of very large-scale integrated circuits (VLSI) has made significant strides, progressing from single-stage placement and routing toward increasingly integrated full-flow imp",
-      "url": "https://arxiv.org/abs/2611.18517v1"
+      "title": "DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control",
+      "date": "2026-11-16",
+      "id": "2611.21530v1",
+      "abstract": "An embodied speaker's expressiveness depends not only on what is said, but also on how the voice sounds and how the body moves. However, existing joint speech-motion generation models are largely driv",
+      "url": "https://arxiv.org/abs/2611.21530v1"
     },
     {
-      "title": "From AI-Enabled Remote Patient Monitoring Toward Agentic Robotics: Embodiment, Governance, and Care Integration",
-      "date": "2026-11-13",
-      "id": "2611.18484v1",
-      "abstract": "AI-enabled remote patient monitoring is evolving beyond passive data collection toward agentic AI systems that interpret patient states, coordinate care, and initiate action across domestic and clinic",
-      "url": "https://arxiv.org/abs/2611.18484v1"
+      "title": "Algorithm Distillation for Safe In-Context Reinforcement Learning",
+      "date": "2026-11-16",
+      "id": "2611.21524v1",
+      "abstract": "Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task from its interaction history while aiming to keep its cost within a budg",
+      "url": "https://arxiv.org/abs/2611.21524v1"
     },
     {
-      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
-      "date": "2026-11-13",
-      "id": "2611.18397v1",
-      "abstract": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step re",
-      "url": "https://arxiv.org/abs/2611.18397v1"
+      "title": "GHySSeg: Real-Time Geometric Ground and Road Segmentation for Hybrid Solid-State LiDAR",
+      "date": "2026-11-16",
+      "id": "2611.21507v1",
+      "abstract": "Hybrid solid-state LiDAR sensors are making their way into production vehicles, yet the data they produce differs structurally from that of the established spinning mechanical sensors behind today's a",
+      "url": "https://arxiv.org/abs/2611.21507v1"
     },
     {
-      "title": "Tight Bounds for k-Median++ and Improved Bounds for k-Means++",
-      "date": "2026-11-13",
-      "id": "2611.18544v1",
-      "abstract": "The popular $k$-means++ algorithm, or $D^\\ell$-sampling, is a fundamental primitive in both the theory and practice of clustering. In the bi-criteria setting, the algorithm samples $k+Δ$ centers ($Δ\\g",
-      "url": "https://arxiv.org/abs/2611.18544v1"
+      "title": "How VLMs Plan What's Next",
+      "date": "2026-11-16",
+      "id": "2611.21600v1",
+      "abstract": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM",
+      "url": "https://arxiv.org/abs/2611.21600v1"
     },
     {
-      "title": "Valid Inequalities for Bilevel 0-1 Shortest-Path Problems",
-      "date": "2026-11-13",
-      "id": "2611.18537v1",
-      "abstract": "We characterize valid inequalities for bilevel programs in which the leader makes binary decisions, and the follower solves a shortest-path problem. We exploit a dualize-and-combine reformulation and ",
-      "url": "https://arxiv.org/abs/2611.18537v1"
+      "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
+      "date": "2026-11-16",
+      "id": "2611.21596v1",
+      "abstract": "In Joint-Embedding Predictive Architectures (JEPAs), a well-constrained projector output does not by itself prevent representation collapse. We find that, from initialization, the encoder representati",
+      "url": "https://arxiv.org/abs/2611.21596v1"
     },
     {
-      "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-      "date": "2026-11-13",
-      "id": "2611.18531v1",
-      "abstract": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices be",
-      "url": "https://arxiv.org/abs/2611.18531v1"
+      "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space",
+      "date": "2026-11-16",
+      "id": "2611.21439v1",
+      "abstract": "In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models. In this context, the Standard Model Eff",
+      "url": "https://arxiv.org/abs/2611.21439v1"
     },
     {
-      "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
-      "date": "2026-11-13",
-      "id": "2611.18563v1",
-      "abstract": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The A",
-      "url": "https://arxiv.org/abs/2611.18563v1"
+      "title": "How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?",
+      "date": "2026-11-16",
+      "id": "2611.21532v1",
+      "abstract": "Saliency-guided coding allocates bits to the regions viewers are most likely to attend, but accurate 360-degree saliency prediction is computationally expensive, an obstacle for low-latency immersive ",
+      "url": "https://arxiv.org/abs/2611.21532v1"
     },
     {
-      "title": "Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment",
-      "date": "2026-11-13",
-      "id": "2611.18372v1",
-      "abstract": "Vision-language-action (VLA) models adapt web-pretrained vision-language models to output robot actions, so that web knowledge carries over to physical control. In under 4 years the field has moved fr",
-      "url": "https://arxiv.org/abs/2611.18372v1"
+      "title": "The Shape of the Strongly Coupled MQM Ground State",
+      "date": "2026-11-16",
+      "id": "2611.21606v1",
+      "abstract": "We study a surprisingly efficient family of variational ansatze for the ground state of bosonic matrix quantum mechanics at large $N$. These are ansatze whose norm-squared probability distributions ar",
+      "url": "https://arxiv.org/abs/2611.21606v1"
     },
     {
-      "title": "VLAN: Vision-Language Accessible Navigation",
-      "date": "2026-11-13",
-      "id": "2611.18346v1",
-      "abstract": "Accessible mobility is user-conditioned rather than scene-intrinsic, as walkable paths for one embodiment are inaccessible to another. Yet, existing benchmarks evaluate traversability under a fixed an",
-      "url": "https://arxiv.org/abs/2611.18346v1"
+      "title": "Post-Quantum Migration of Wi-Fi Key Establishment: A Hybrid ML-KEM Design for OWE and FILS, Validated on OWE with hostapd",
+      "date": "2026-11-16",
+      "id": "2611.21528v1",
+      "abstract": "The key agreements that protect a Wi-Fi connection rely on Diffie-Hellman, which a sufficiently capable quantum computer would break; an adversary can therefore record an association today and decrypt",
+      "url": "https://arxiv.org/abs/2611.21528v1"
     },
     {
-      "title": "Modeling the Frictional Contact of Continuum Robots with Environments through Linear Complementarity Problem",
-      "date": "2026-11-13",
-      "id": "2611.18546v1",
-      "abstract": "Accurate friction modeling in continuum robots is essential for precise motion control and path planning. However, current approaches make predictions only for the mechanism's internal friction that i",
-      "url": "https://arxiv.org/abs/2611.18546v1"
+      "title": "Data-Driven Predictive Control for Autonomous Vehicle Racing under Varying Friction",
+      "date": "2026-11-16",
+      "id": "2611.21378v1",
+      "abstract": "Data-driven predictive control (DPC) predicts future outputs by combining recorded input-output trajectory data such that the combined trajectory approximately matches a measured initial trajectory an",
+      "url": "https://arxiv.org/abs/2611.21378v1"
     },
     {
-      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
-      "date": "2026-11-13",
-      "id": "2611.18553v1",
-      "abstract": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write",
-      "url": "https://arxiv.org/abs/2611.18553v1"
+      "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+      "date": "2026-11-16",
+      "id": "2611.21579v1",
+      "abstract": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLM",
+      "url": "https://arxiv.org/abs/2611.21579v1"
     },
     {
-      "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
-      "date": "2026-11-13",
-      "id": "2611.18527v1",
-      "abstract": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient",
-      "url": "https://arxiv.org/abs/2611.18527v1"
+      "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
+      "date": "2026-11-16",
+      "id": "2611.21577v1",
+      "abstract": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose ",
+      "url": "https://arxiv.org/abs/2611.21577v1"
     },
     {
-      "title": "Mutable Inference: Architecting LLM Accelerators for Inference-Time Learning",
-      "date": "2026-11-13",
-      "id": "2611.18523v1",
-      "abstract": "Long-context LLMs must retain growing histories, but full attention makes each new token increasingly expensive. Inference-time learning (ITL) offers another approach. The model keeps training on the ",
-      "url": "https://arxiv.org/abs/2611.18523v1"
+      "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+      "date": "2026-11-16",
+      "id": "2611.21545v1",
+      "abstract": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason and s",
+      "url": "https://arxiv.org/abs/2611.21545v1"
     },
     {
-      "title": "Quantum melting and Pomeranchuk effect of zero-field Wigner solids",
-      "date": "2026-11-13",
-      "id": "2611.18532v1",
-      "abstract": "Wigner solids and crystals are many-body phases of matter in which repulsive interactions between the charge carriers cause them to freeze into a solid. How Wigner solids compete or cooperate with int",
-      "url": "https://arxiv.org/abs/2611.18532v1"
+      "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+      "date": "2026-11-16",
+      "id": "2611.21602v1",
+      "abstract": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte",
+      "url": "https://arxiv.org/abs/2611.21602v1"
     },
     {
-      "title": "Reconstruction of Dynamical Dark Energy and Gravity from latest cosmological data",
-      "date": "2026-11-13",
-      "id": "2611.18558v1",
-      "abstract": "Recent cosmological observations have renewed interest in non-standard late-time evolution. We investigate whether departures from the standard expansion history are accompanied by modifications of gr",
-      "url": "https://arxiv.org/abs/2611.18558v1"
+      "title": "Open Heavy Flavor in Nuclear Collisions: From Lattice QCD to Observables",
+      "date": "2026-11-16",
+      "id": "2611.21601v1",
+      "abstract": "Heavy quarks serve as excellent probes of the Quark-Gluon-Plasma (QGP) produced in ultra-relativistic heavy-ion collisions. Here, we report on a comprehensive framework that transports charm quarks fr",
+      "url": "https://arxiv.org/abs/2611.21601v1"
     },
     {
-      "title": "No free lattice contains an infinite ascending chain of copies of FL(3)",
-      "date": "2026-11-13",
-      "id": "2611.18541v1",
-      "abstract": "No free lattice contains an infinite strictly ascending chain of sublattices isomorphic to FL(3), the free lattice on three generators; this answers a question that R. A. Dean asked and the second aut",
-      "url": "https://arxiv.org/abs/2611.18541v1"
+      "title": "Limited-Memory First-Order Methods: Identification, Reconstruction, $H$-Duality and Application to Optimized Methods",
+      "date": "2026-11-16",
+      "id": "2611.21611v1",
+      "abstract": "In general, linear-span first-order methods add at every iteration a combination of all observed gradients to the previous iterate. However, many methods of interest can be implemented in a way that r",
+      "url": "https://arxiv.org/abs/2611.21611v1"
     },
     {
-      "title": "Sharp nonuniqueness for the Vlasov--Navier--Stokes system",
-      "date": "2026-11-13",
-      "id": "2611.18554v1",
-      "abstract": "We consider the Vlasov--Navier--Stokes system on $\\mathbb T^d\\times\\mathbb R^d$, $d\\ge2$. For smooth data and every $p<2$, $q<\\infty$, we construct infinitely many weak solutions with velocity in $L^p",
-      "url": "https://arxiv.org/abs/2611.18554v1"
+      "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+      "date": "2026-11-16",
+      "id": "2611.21598v1",
+      "abstract": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evo",
+      "url": "https://arxiv.org/abs/2611.21598v1"
     },
     {
-      "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
-      "date": "2026-11-13",
-      "id": "2611.18549v1",
-      "abstract": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simp",
-      "url": "https://arxiv.org/abs/2611.18549v1"
+      "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
+      "date": "2026-11-16",
+      "id": "2611.21597v1",
+      "abstract": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a s",
+      "url": "https://arxiv.org/abs/2611.21597v1"
+    },
+    {
+      "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
+      "date": "2026-11-16",
+      "id": "2611.21586v1",
+      "abstract": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we desi",
+      "url": "https://arxiv.org/abs/2611.21586v1"
+    },
+    {
+      "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures",
+      "date": "2026-11-16",
+      "id": "2611.21569v1",
+      "abstract": "This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number ",
+      "url": "https://arxiv.org/abs/2611.21569v1"
     }
   ]
 }
