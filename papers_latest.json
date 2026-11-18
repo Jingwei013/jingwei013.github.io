@@ -1,168 +1,126 @@
 {
-  "updated": "2026-11-17 08:39 UTC",
-  "total": 23,
+  "updated": "2026-11-18 08:05 UTC",
+  "total": 17,
   "today_count": 0,
   "papers": [
     {
-      "title": "Latent Lattice Language Models",
-      "date": "2026-11-16",
-      "id": "2611.21608v1",
-      "abstract": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea",
-      "url": "https://arxiv.org/abs/2611.21608v1"
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "date": "2026-11-17",
+      "id": "2611.23219v1",
+      "abstract": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b",
+      "url": "https://arxiv.org/abs/2611.23219v1"
     },
     {
-      "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
-      "date": "2026-11-16",
-      "id": "2611.21607v1",
-      "abstract": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action",
-      "url": "https://arxiv.org/abs/2611.21607v1"
+      "title": "PAIR: Bringing Household Robots into the Smart Home",
+      "date": "2026-11-17",
+      "id": "2611.23070v1",
+      "abstract": "Household robots often need to operate appliances, and smart appliances offer both control panels and device APIs. Existing embodied AI simulation environments, however, model appliances solely as phy",
+      "url": "https://arxiv.org/abs/2611.23070v1"
     },
     {
-      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-      "date": "2026-11-16",
-      "id": "2611.21605v1",
-      "abstract": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor",
-      "url": "https://arxiv.org/abs/2611.21605v1"
+      "title": "Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation",
+      "date": "2026-11-17",
+      "id": "2611.22883v1",
+      "abstract": "Natural language-guided UAV navigation enables intuitive human-robot interaction and flexible autonomous flight in complex environments. However, reliable navigation requires accurate instruction foll",
+      "url": "https://arxiv.org/abs/2611.22883v1"
     },
     {
-      "title": "DuoFlow: Towards Synchronized Speech and Motion Generation with Fine-Grained Control",
-      "date": "2026-11-16",
-      "id": "2611.21530v1",
-      "abstract": "An embodied speaker's expressiveness depends not only on what is said, but also on how the voice sounds and how the body moves. However, existing joint speech-motion generation models are largely driv",
-      "url": "https://arxiv.org/abs/2611.21530v1"
+      "title": "CFTs with Large Virasoro Primary Gaps",
+      "date": "2026-11-17",
+      "id": "2611.23231v1",
+      "abstract": "We construct the first explicit examples of compact unitary bosonic full conformal field theories (CFTs) in two dimensions with a unique vacuum and an all-spin Virasoro-primary gap greater than two. O",
+      "url": "https://arxiv.org/abs/2611.23231v1"
     },
     {
-      "title": "Algorithm Distillation for Safe In-Context Reinforcement Learning",
-      "date": "2026-11-16",
-      "id": "2611.21524v1",
-      "abstract": "Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task from its interaction history while aiming to keep its cost within a budg",
-      "url": "https://arxiv.org/abs/2611.21524v1"
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "date": "2026-11-17",
+      "id": "2611.23229v1",
+      "abstract": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ",
+      "url": "https://arxiv.org/abs/2611.23229v1"
     },
     {
-      "title": "GHySSeg: Real-Time Geometric Ground and Road Segmentation for Hybrid Solid-State LiDAR",
-      "date": "2026-11-16",
-      "id": "2611.21507v1",
-      "abstract": "Hybrid solid-state LiDAR sensors are making their way into production vehicles, yet the data they produce differs structurally from that of the established spinning mechanical sensors behind today's a",
-      "url": "https://arxiv.org/abs/2611.21507v1"
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "date": "2026-11-17",
+      "id": "2611.23228v1",
+      "abstract": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid",
+      "url": "https://arxiv.org/abs/2611.23228v1"
     },
     {
-      "title": "How VLMs Plan What's Next",
-      "date": "2026-11-16",
-      "id": "2611.21600v1",
-      "abstract": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM",
-      "url": "https://arxiv.org/abs/2611.21600v1"
+      "title": "A Neural Envelope Method for Rapid Gradient-based Optimum Takeoff Trajectory Design",
+      "date": "2026-11-17",
+      "id": "2611.23130v1",
+      "abstract": "Urban air mobility arises to mitigate ground traffic congestion. Multidisciplinary analysis and optimization (MDAO) has been introduced to reduce the energy consumption, thereby expanding aircraft per",
+      "url": "https://arxiv.org/abs/2611.23130v1"
     },
     {
-      "title": "SADL: On the Demand-Supply Geometry of Representation Collapse",
-      "date": "2026-11-16",
-      "id": "2611.21596v1",
-      "abstract": "In Joint-Embedding Predictive Architectures (JEPAs), a well-constrained projector output does not by itself prevent representation collapse. We find that, from initialization, the encoder representati",
-      "url": "https://arxiv.org/abs/2611.21596v1"
+      "title": "Inferring Locations and Correcting Bias in Infectious Disease Data Using Human Mobility",
+      "date": "2026-11-17",
+      "id": "2611.23123v1",
+      "abstract": "Understanding and reconstructing infectious disease transmission remains challenging due to sparsely sampled and biased epidemiological case data: only a small fraction of infectious disease cases are",
+      "url": "https://arxiv.org/abs/2611.23123v1"
     },
     {
-      "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space",
-      "date": "2026-11-16",
-      "id": "2611.21439v1",
-      "abstract": "In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models. In this context, the Standard Model Eff",
-      "url": "https://arxiv.org/abs/2611.21439v1"
+      "title": "Pressure Drop: Gravity Vector Estimation from a Distributed Barometric Pressure Sensor Array",
+      "date": "2026-11-17",
+      "id": "2611.23120v1",
+      "abstract": "While gravity is often used in mobile robotics as a global constraint for Simultaneous Localization and Mapping (SLAM) algorithms, most estimation methods rely on indirect observation of the gravity v",
+      "url": "https://arxiv.org/abs/2611.23120v1"
     },
     {
-      "title": "How Much Does Saliency Accuracy Matter for Saliency-Guided 360-degree Image Compression?",
-      "date": "2026-11-16",
-      "id": "2611.21532v1",
-      "abstract": "Saliency-guided coding allocates bits to the regions viewers are most likely to attend, but accurate 360-degree saliency prediction is computationally expensive, an obstacle for low-latency immersive ",
-      "url": "https://arxiv.org/abs/2611.21532v1"
+      "title": "Identifying and Repairing Energy Smells with Agent Skills",
+      "date": "2026-11-17",
+      "id": "2611.23203v1",
+      "abstract": "Energy smells are inefficient implementations that waste energy. Once code reaches production, these smells become costlier and riskier to fix, so energy efficiency checks should shift left, i.e., mov",
+      "url": "https://arxiv.org/abs/2611.23203v1"
     },
     {
-      "title": "The Shape of the Strongly Coupled MQM Ground State",
-      "date": "2026-11-16",
-      "id": "2611.21606v1",
-      "abstract": "We study a surprisingly efficient family of variational ansatze for the ground state of bosonic matrix quantum mechanics at large $N$. These are ansatze whose norm-squared probability distributions ar",
-      "url": "https://arxiv.org/abs/2611.21606v1"
+      "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "date": "2026-11-17",
+      "id": "2611.23221v1",
+      "abstract": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re",
+      "url": "https://arxiv.org/abs/2611.23221v1"
     },
     {
-      "title": "Post-Quantum Migration of Wi-Fi Key Establishment: A Hybrid ML-KEM Design for OWE and FILS, Validated on OWE with hostapd",
-      "date": "2026-11-16",
-      "id": "2611.21528v1",
-      "abstract": "The key agreements that protect a Wi-Fi connection rely on Diffie-Hellman, which a sufficiently capable quantum computer would break; an adversary can therefore record an association today and decrypt",
-      "url": "https://arxiv.org/abs/2611.21528v1"
+      "title": "Asymptotics of Gibbs Posterior Measures on Infinite-Dimensional Hypothesis Spaces",
+      "date": "2026-11-17",
+      "id": "2611.23214v1",
+      "abstract": "We prove almost sure contraction rates and consistency for Gibbs posterior measures on arbitrary hypothesis spaces, in general infinite dimensional, under dependent data, nonadditive and time-dependen",
+      "url": "https://arxiv.org/abs/2611.23214v1"
     },
     {
-      "title": "Data-Driven Predictive Control for Autonomous Vehicle Racing under Varying Friction",
-      "date": "2026-11-16",
-      "id": "2611.21378v1",
-      "abstract": "Data-driven predictive control (DPC) predicts future outputs by combining recorded input-output trajectory data such that the combined trajectory approximately matches a measured initial trajectory an",
-      "url": "https://arxiv.org/abs/2611.21378v1"
+      "title": "Expressivity of two-dimensional Gaussian fermion tensor network states",
+      "date": "2026-11-17",
+      "id": "2611.23227v1",
+      "abstract": "Tensor network states (TNS) provide a family of efficiently compressed approximations to physically relevant many-body quantum states. An important quantity that characterizes the computational resour",
+      "url": "https://arxiv.org/abs/2611.23227v1"
     },
     {
-      "title": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
-      "date": "2026-11-16",
-      "id": "2611.21579v1",
-      "abstract": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLM",
-      "url": "https://arxiv.org/abs/2611.21579v1"
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "date": "2026-11-17",
+      "id": "2611.23225v1",
+      "abstract": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt",
+      "url": "https://arxiv.org/abs/2611.23225v1"
     },
     {
-      "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
-      "date": "2026-11-16",
-      "id": "2611.21577v1",
-      "abstract": "Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose ",
-      "url": "https://arxiv.org/abs/2611.21577v1"
+      "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+      "date": "2026-11-17",
+      "id": "2611.23211v1",
+      "abstract": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognit",
+      "url": "https://arxiv.org/abs/2611.23211v1"
     },
     {
-      "title": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
-      "date": "2026-11-16",
-      "id": "2611.21545v1",
-      "abstract": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason and s",
-      "url": "https://arxiv.org/abs/2611.21545v1"
+      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+      "date": "2026-11-17",
+      "id": "2611.23206v1",
+      "abstract": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state ",
+      "url": "https://arxiv.org/abs/2611.23206v1"
     },
     {
-      "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
-      "date": "2026-11-16",
-      "id": "2611.21602v1",
-      "abstract": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte",
-      "url": "https://arxiv.org/abs/2611.21602v1"
-    },
-    {
-      "title": "Open Heavy Flavor in Nuclear Collisions: From Lattice QCD to Observables",
-      "date": "2026-11-16",
-      "id": "2611.21601v1",
-      "abstract": "Heavy quarks serve as excellent probes of the Quark-Gluon-Plasma (QGP) produced in ultra-relativistic heavy-ion collisions. Here, we report on a comprehensive framework that transports charm quarks fr",
-      "url": "https://arxiv.org/abs/2611.21601v1"
-    },
-    {
-      "title": "Limited-Memory First-Order Methods: Identification, Reconstruction, $H$-Duality and Application to Optimized Methods",
-      "date": "2026-11-16",
-      "id": "2611.21611v1",
-      "abstract": "In general, linear-span first-order methods add at every iteration a combination of all observed gradients to the previous iterate. However, many methods of interest can be implemented in a way that r",
-      "url": "https://arxiv.org/abs/2611.21611v1"
-    },
-    {
-      "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
-      "date": "2026-11-16",
-      "id": "2611.21598v1",
-      "abstract": "Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evo",
-      "url": "https://arxiv.org/abs/2611.21598v1"
-    },
-    {
-      "title": "Optimal Autoregressive Chain-of-Thought Learning via Bagging",
-      "date": "2026-11-16",
-      "id": "2611.21597v1",
-      "abstract": "We study how to learn an autoregressive next-token generator $f\\colonΣ^\\star\\toΣ$ from a class $\\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a s",
-      "url": "https://arxiv.org/abs/2611.21597v1"
-    },
-    {
-      "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
-      "date": "2026-11-16",
-      "id": "2611.21586v1",
-      "abstract": "Job titles and job descriptions alone provide limited insight into how technical roles differ in a changing job market. To assess how such roles differ in their work and industry applications, we desi",
-      "url": "https://arxiv.org/abs/2611.21586v1"
-    },
-    {
-      "title": "Heavy-Light Wall Crossings and Motivic Asymptotics of Moduli Spaces of Curves. Part II: Tameness of Motivic Measures",
-      "date": "2026-11-16",
-      "id": "2611.21569v1",
-      "abstract": "This paper is concerned with the study of the fixed-genus asymptotics of motivic measures of moduli spaces of stable pointed curves and their minimal all-light Hassett compactifications as the number ",
-      "url": "https://arxiv.org/abs/2611.21569v1"
+      "title": "Sidorenko Inequalities in Oriented Graphs",
+      "date": "2026-11-17",
+      "id": "2611.23222v1",
+      "abstract": "We introduce relative Sidorenko and relative anti-Sidorenko inequalities for oriented graphs, strengthening the corresponding well-studied notions for tournaments by allowing arbitrary host graphs. An",
+      "url": "https://arxiv.org/abs/2611.23222v1"
     }
   ]
 }
