@@ -1,126 +1,91 @@
 {
-  "updated": "2026-11-18 08:05 UTC",
-  "total": 17,
+  "updated": "2026-11-19 08:11 UTC",
+  "total": 12,
   "today_count": 0,
   "papers": [
     {
-      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-      "date": "2026-11-17",
-      "id": "2611.23219v1",
-      "abstract": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b",
-      "url": "https://arxiv.org/abs/2611.23219v1"
+      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "date": "2026-11-18",
+      "id": "2611.24941v1",
+      "abstract": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, a",
+      "url": "https://arxiv.org/abs/2611.24941v1"
     },
     {
-      "title": "PAIR: Bringing Household Robots into the Smart Home",
-      "date": "2026-11-17",
-      "id": "2611.23070v1",
-      "abstract": "Household robots often need to operate appliances, and smart appliances offer both control panels and device APIs. Existing embodied AI simulation environments, however, model appliances solely as phy",
-      "url": "https://arxiv.org/abs/2611.23070v1"
+      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "date": "2026-11-18",
+      "id": "2611.24940v1",
+      "abstract": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint ",
+      "url": "https://arxiv.org/abs/2611.24940v1"
     },
     {
-      "title": "Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation",
-      "date": "2026-11-17",
-      "id": "2611.22883v1",
-      "abstract": "Natural language-guided UAV navigation enables intuitive human-robot interaction and flexible autonomous flight in complex environments. However, reliable navigation requires accurate instruction foll",
-      "url": "https://arxiv.org/abs/2611.22883v1"
+      "title": "Map-Level Inference of Primordial Gravitational Waves from the CMB with Spherical Neural Networks",
+      "date": "2026-11-18",
+      "id": "2611.24939v1",
+      "abstract": "We train a spherical graph convolutional network to infer the tensor-to-scalar ratio $r$ directly from multifrequency cosmic microwave background (CMB) $B$-mode maps on the cut sky. We test the networ",
+      "url": "https://arxiv.org/abs/2611.24939v1"
     },
     {
-      "title": "CFTs with Large Virasoro Primary Gaps",
-      "date": "2026-11-17",
-      "id": "2611.23231v1",
-      "abstract": "We construct the first explicit examples of compact unitary bosonic full conformal field theories (CFTs) in two dimensions with a unique vacuum and an all-spin Virasoro-primary gap greater than two. O",
-      "url": "https://arxiv.org/abs/2611.23231v1"
+      "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+      "date": "2026-11-18",
+      "id": "2611.24938v1",
+      "abstract": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes n",
+      "url": "https://arxiv.org/abs/2611.24938v1"
     },
     {
-      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
-      "date": "2026-11-17",
-      "id": "2611.23229v1",
-      "abstract": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ",
-      "url": "https://arxiv.org/abs/2611.23229v1"
+      "title": "Render the Robot, Generate the World: One Video World Model Across Embodiments",
+      "date": "2026-11-18",
+      "id": "2611.24925v1",
+      "abstract": "Predicting the consequences of an agent's actions requires modeling both the body's motion and the environment's response. Most video world models attempt to learn both from numerical actions, even th",
+      "url": "https://arxiv.org/abs/2611.24925v1"
     },
     {
-      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
-      "date": "2026-11-17",
-      "id": "2611.23228v1",
-      "abstract": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid",
-      "url": "https://arxiv.org/abs/2611.23228v1"
+      "title": "\"I Don't Think It's a Scam\": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba",
+      "date": "2026-11-18",
+      "id": "2611.24899v1",
+      "abstract": "When older adults trust scammers despite warnings, families face obstacles to intervention. Complainants aged 60 and older reported \\$4.9 billion in losses in 2024 to the U.S. Internet Crime Complaint",
+      "url": "https://arxiv.org/abs/2611.24899v1"
     },
     {
-      "title": "A Neural Envelope Method for Rapid Gradient-based Optimum Takeoff Trajectory Design",
-      "date": "2026-11-17",
-      "id": "2611.23130v1",
-      "abstract": "Urban air mobility arises to mitigate ground traffic congestion. Multidisciplinary analysis and optimization (MDAO) has been introduced to reduce the energy consumption, thereby expanding aircraft per",
-      "url": "https://arxiv.org/abs/2611.23130v1"
+      "title": "AMISS: An Integrity Framework for Magnetic Navigation",
+      "date": "2026-11-18",
+      "id": "2611.24893v1",
+      "abstract": "Magnetic Navigation (MagNav) is a promising alternative to traditional systems like Global Navigation Satellite Systems (GNSS), offering resistance to jamming or spoofing attacks to which the latter a",
+      "url": "https://arxiv.org/abs/2611.24893v1"
     },
     {
-      "title": "Inferring Locations and Correcting Bias in Infectious Disease Data Using Human Mobility",
-      "date": "2026-11-17",
-      "id": "2611.23123v1",
-      "abstract": "Understanding and reconstructing infectious disease transmission remains challenging due to sparsely sampled and biased epidemiological case data: only a small fraction of infectious disease cases are",
-      "url": "https://arxiv.org/abs/2611.23123v1"
+      "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+      "date": "2026-11-18",
+      "id": "2611.24864v1",
+      "abstract": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action",
+      "url": "https://arxiv.org/abs/2611.24864v1"
     },
     {
-      "title": "Pressure Drop: Gravity Vector Estimation from a Distributed Barometric Pressure Sensor Array",
-      "date": "2026-11-17",
-      "id": "2611.23120v1",
-      "abstract": "While gravity is often used in mobile robotics as a global constraint for Simultaneous Localization and Mapping (SLAM) algorithms, most estimation methods rely on indirect observation of the gravity v",
-      "url": "https://arxiv.org/abs/2611.23120v1"
+      "title": "Planner-Controller Interaction for Ackermann Navigation: A Matched Simulation and Hardware Benchmark",
+      "date": "2026-11-18",
+      "id": "2611.24800v1",
+      "abstract": "Global planners and path-tracking controllers are often evaluated independently, although their interaction determines how a vehicle follows a planned path. Whether simulation accurately predicts the ",
+      "url": "https://arxiv.org/abs/2611.24800v1"
     },
     {
-      "title": "Identifying and Repairing Energy Smells with Agent Skills",
-      "date": "2026-11-17",
-      "id": "2611.23203v1",
-      "abstract": "Energy smells are inefficient implementations that waste energy. Once code reaches production, these smells become costlier and riskier to fix, so energy efficiency checks should shift left, i.e., mov",
-      "url": "https://arxiv.org/abs/2611.23203v1"
+      "title": "LEMUR: A Searchable Web Archive of Deep Chandra Images of Galaxies and Galaxy Clusters",
+      "date": "2026-11-18",
+      "id": "2611.24937v1",
+      "abstract": "We present LEMUR, a publicly accessible archive of uniformly reduced, deep Chandra images of 2,569 galaxies and galaxy clusters (including groups), comprising 5,505 ACIS observations and 138.8 Ms of e",
+      "url": "https://arxiv.org/abs/2611.24937v1"
     },
     {
-      "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
-      "date": "2026-11-17",
-      "id": "2611.23221v1",
-      "abstract": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re",
-      "url": "https://arxiv.org/abs/2611.23221v1"
+      "title": "Residual Allan Stability under Periodic Auxiliary Ramsey Sampling",
+      "date": "2026-11-18",
+      "id": "2611.24928v1",
+      "abstract": "The timing of auxiliary Ramsey measurements can change the frequency stability associated with a drifting pulse shift at a fixed nominal Fisher-information rate for a constant shift. For periodic inst",
+      "url": "https://arxiv.org/abs/2611.24928v1"
     },
     {
-      "title": "Asymptotics of Gibbs Posterior Measures on Infinite-Dimensional Hypothesis Spaces",
-      "date": "2026-11-17",
-      "id": "2611.23214v1",
-      "abstract": "We prove almost sure contraction rates and consistency for Gibbs posterior measures on arbitrary hypothesis spaces, in general infinite dimensional, under dependent data, nonadditive and time-dependen",
-      "url": "https://arxiv.org/abs/2611.23214v1"
-    },
-    {
-      "title": "Expressivity of two-dimensional Gaussian fermion tensor network states",
-      "date": "2026-11-17",
-      "id": "2611.23227v1",
-      "abstract": "Tensor network states (TNS) provide a family of efficiently compressed approximations to physically relevant many-body quantum states. An important quantity that characterizes the computational resour",
-      "url": "https://arxiv.org/abs/2611.23227v1"
-    },
-    {
-      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
-      "date": "2026-11-17",
-      "id": "2611.23225v1",
-      "abstract": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt",
-      "url": "https://arxiv.org/abs/2611.23225v1"
-    },
-    {
-      "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
-      "date": "2026-11-17",
-      "id": "2611.23211v1",
-      "abstract": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognit",
-      "url": "https://arxiv.org/abs/2611.23211v1"
-    },
-    {
-      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-      "date": "2026-11-17",
-      "id": "2611.23206v1",
-      "abstract": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state ",
-      "url": "https://arxiv.org/abs/2611.23206v1"
-    },
-    {
-      "title": "Sidorenko Inequalities in Oriented Graphs",
-      "date": "2026-11-17",
-      "id": "2611.23222v1",
-      "abstract": "We introduce relative Sidorenko and relative anti-Sidorenko inequalities for oriented graphs, strengthening the corresponding well-studied notions for tournaments by allowing arbitrary host graphs. An",
-      "url": "https://arxiv.org/abs/2611.23222v1"
+      "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+      "date": "2026-11-18",
+      "id": "2611.24926v1",
+      "abstract": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but ",
+      "url": "https://arxiv.org/abs/2611.24926v1"
     }
   ]
 }
