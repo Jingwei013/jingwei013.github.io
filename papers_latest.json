@@ -1,91 +1,175 @@
 {
-  "updated": "2026-11-22 07:37 UTC",
-  "total": 12,
+  "updated": "2026-11-23 08:24 UTC",
+  "total": 24,
   "today_count": 0,
   "papers": [
     {
-      "title": "Posterior Matching Distillation",
-      "date": "2026-11-19",
-      "id": "2611.26629v1",
-      "abstract": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this b",
-      "url": "https://arxiv.org/abs/2611.26629v1"
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "date": "2026-11-20",
+      "id": "2611.27973v1",
+      "abstract": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standa",
+      "url": "https://arxiv.org/abs/2611.27973v1"
     },
     {
-      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
-      "date": "2026-11-19",
-      "id": "2611.26627v1",
-      "abstract": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques",
-      "url": "https://arxiv.org/abs/2611.26627v1"
+      "title": "Non-penetrating World Models",
+      "date": "2026-11-20",
+      "id": "2611.27963v1",
+      "abstract": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m",
+      "url": "https://arxiv.org/abs/2611.27963v1"
     },
     {
-      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
-      "date": "2026-11-19",
-      "id": "2611.26624v1",
-      "abstract": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pro",
-      "url": "https://arxiv.org/abs/2611.26624v1"
+      "title": "Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform",
+      "date": "2026-11-20",
+      "id": "2611.27953v1",
+      "abstract": "Neuromorphic sensing and computing offer a promising alternative to conventional deep learning pipelines for mobile robots, where perception must run continuously under tight latency and energy constr",
+      "url": "https://arxiv.org/abs/2611.27953v1"
     },
     {
-      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
-      "date": "2026-11-19",
-      "id": "2611.26617v1",
-      "abstract": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics",
-      "url": "https://arxiv.org/abs/2611.26617v1"
+      "title": "Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design",
+      "date": "2026-11-20",
+      "id": "2611.27967v1",
+      "abstract": "Dexterous hand design demands repeated expert work across geometry, robot-description code, collision debugging, grasp initialization, and policy training. We present Task2Hand, a Skill: a specificati",
+      "url": "https://arxiv.org/abs/2611.27967v1"
     },
     {
-      "title": "Variants of Beam Search for DiskANN",
-      "date": "2026-11-19",
-      "id": "2611.26609v1",
-      "abstract": "Graph-based data structures such as DiskANN, HNSW, and NSG constitute the state of the art for large-scale approximate nearest-neighbor (ANN) search. Indyk and Xu introduced the notion of $α$-reachabl",
-      "url": "https://arxiv.org/abs/2611.26609v1"
+      "title": "ENC-QA: A Diagnostic Benchmark for Vision-Language Models on Electronic Navigational Charts",
+      "date": "2026-11-20",
+      "id": "2611.27858v1",
+      "abstract": "Nautical charts encode safety-critical maritime information through standardized symbols, attributes, text, and heterogeneous geometries. Interpreting these charts and assessing the navigational signi",
+      "url": "https://arxiv.org/abs/2611.27858v1"
     },
     {
-      "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
-      "date": "2026-11-19",
-      "id": "2611.26596v1",
-      "abstract": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and",
-      "url": "https://arxiv.org/abs/2611.26596v1"
+      "title": "BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles",
+      "date": "2026-11-20",
+      "id": "2611.27817v1",
+      "abstract": "Forward-looking sonar (FLS) provides reliable underwater perception where optical sensing is limited, but its use for navigation is hindered by the unobserved elevation of each return. As a result, mo",
+      "url": "https://arxiv.org/abs/2611.27817v1"
     },
     {
-      "title": "AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms",
-      "date": "2026-11-19",
-      "id": "2611.26625v1",
-      "abstract": "Geometric foundation models (GFMs) estimate camera mo- tion and scene structure from images without requiring ex- pert parameter tuning, but either lack metric scale or rely on learned priors to infer",
-      "url": "https://arxiv.org/abs/2611.26625v1"
+      "title": "Nearly pristine gas and hard ionizing radiation one billion years after the Big Bang",
+      "date": "2026-11-20",
+      "id": "2611.27979v1",
+      "abstract": "The first stars formed out of light elements (H, He, and Li leftover from Big Bang Nucleosynthesis) and began the chemical enrichment of the Universe. Identifying this first-generation population of s",
+      "url": "https://arxiv.org/abs/2611.27979v1"
     },
     {
-      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
-      "date": "2026-11-19",
-      "id": "2611.26613v1",
-      "abstract": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi",
-      "url": "https://arxiv.org/abs/2611.26613v1"
+      "title": "Localization of weakly integral objects in braided fusion categories",
+      "date": "2026-11-20",
+      "id": "2611.27972v1",
+      "abstract": "An object $X$ of a braided fusion category is called weakly integral if $\\mathrm{FPdim}(X)^2$ is an integer. We prove that every nonzero weakly integral object admits a localization, that is, a Yang-B",
+      "url": "https://arxiv.org/abs/2611.27972v1"
     },
     {
-      "title": "Activity-driven motion and deformation of a circular membrane domain",
-      "date": "2026-11-19",
-      "id": "2611.26578v1",
-      "abstract": "Lipid bilayer membranes are nanometer-thin fluid interfaces characterized by both in-plane fluidity and lateral compositional heterogeneity. Cholesterol-rich liquid domains (\"lipid rafts\") are thought",
-      "url": "https://arxiv.org/abs/2611.26578v1"
+      "title": "Ohmic warm inflation",
+      "date": "2026-11-20",
+      "id": "2611.27986v1",
+      "abstract": "We show that Warm Little Inflation is anomalous, lacks a suitable inflaton potential, and cannot sustain the thermal bath, as the quasi-static approximation over-estimated the dissipated power. To add",
+      "url": "https://arxiv.org/abs/2611.27986v1"
     },
     {
-      "title": "PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity",
-      "date": "2026-11-19",
-      "id": "2611.26565v1",
-      "abstract": "Vision-Language-Action (VLA) models have advanced rapidly in language-conditioned robotic manipulation, yet existing benchmarks mainly evaluate gripper--object contact and largely ignore how objects i",
-      "url": "https://arxiv.org/abs/2611.26565v1"
+      "title": "Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?",
+      "date": "2026-11-20",
+      "id": "2611.27985v1",
+      "abstract": "It is commonly stated in the literature that T violation is zero in neutrino disappearance channels. We show this claim is not general: it holds only for symmetric matter profiles or when the T/CP-vio",
+      "url": "https://arxiv.org/abs/2611.27985v1"
     },
     {
-      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
-      "date": "2026-11-19",
-      "id": "2611.26619v1",
-      "abstract": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and ",
-      "url": "https://arxiv.org/abs/2611.26619v1"
+      "title": "Quantum Many-Body Scars from Operator Size",
+      "date": "2026-11-20",
+      "id": "2611.27982v1",
+      "abstract": "We present a general construction of approximate many-body scar states in two copies of a system using a bilocal size interaction that couples one site to its partner on the other copy. For an uncoupl",
+      "url": "https://arxiv.org/abs/2611.27982v1"
     },
     {
-      "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
-      "date": "2026-11-19",
-      "id": "2611.26615v1",
-      "abstract": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory co",
-      "url": "https://arxiv.org/abs/2611.26615v1"
+      "title": "SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning",
+      "date": "2026-11-20",
+      "id": "2611.27639v1",
+      "abstract": "Latent world models plan by rolling out hundreds of candidate action sequences through a transformer predictor, so a single decision can take tens of seconds. Existing accelerations prune spatial toke",
+      "url": "https://arxiv.org/abs/2611.27639v1"
+    },
+    {
+      "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+      "date": "2026-11-20",
+      "id": "2611.27970v1",
+      "abstract": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and ",
+      "url": "https://arxiv.org/abs/2611.27970v1"
+    },
+    {
+      "title": "Thermopower overshoot from collinear scattering in two-dimensional Fermi liquids",
+      "date": "2026-11-20",
+      "id": "2611.27981v1",
+      "abstract": "Electron transport is typically described in terms of relaxation times, which measure how quickly Fermi-surface deformations decay. We show here that the thermopower of a two-dimensional Fermi liquid ",
+      "url": "https://arxiv.org/abs/2611.27981v1"
+    },
+    {
+      "title": "On the long-time behaviour and asymptotic geometry of nonlocal aggregation equations with saturating mobility",
+      "date": "2026-11-20",
+      "id": "2611.27872v1",
+      "abstract": "We investigate a two-dimensional nonlocal conservation law with a saturating Lipschitz mobility, without assuming concavity of the mobility. For attractive radial potentials, we establish global entro",
+      "url": "https://arxiv.org/abs/2611.27872v1"
+    },
+    {
+      "title": "Autonomous Parameter Surgery: How LLMs Implant Selective Backdoors into Language Models",
+      "date": "2026-11-20",
+      "id": "2611.27920v1",
+      "abstract": "Neural network weights are usually treated as opaque artifacts of gradient descent. Recent work on weight space programming, however, suggests that large language models can inspect and rewrite anothe",
+      "url": "https://arxiv.org/abs/2611.27920v1"
+    },
+    {
+      "title": "Hölder continuity of meromorphic functions and equisingularity",
+      "date": "2026-11-20",
+      "id": "2611.27974v1",
+      "abstract": "For a complex analytic variety and an exponent between zero and one, we study the sheaf of meromorphic functions that are locally Hölder continuous with that exponent for the outer metric. It sits bet",
+      "url": "https://arxiv.org/abs/2611.27974v1"
+    },
+    {
+      "title": "All stable Schoen--Wolfson cones are minimizing",
+      "date": "2026-11-20",
+      "id": "2611.27966v1",
+      "abstract": "In the late nineties, R.~Schoen and J.~Wolfson studied the problem of minimizing the area among Lagrangian surfaces in a Riemannian symplectic $4$-manifold. In their parametric approach, they showed t",
+      "url": "https://arxiv.org/abs/2611.27966v1"
+    },
+    {
+      "title": "Recognizing $k$-inducible Digraphs is NP-complete",
+      "date": "2026-11-20",
+      "id": "2611.27965v1",
+      "abstract": "A digraph is k-inducible if its arcs correspond to the pairwise majority relation of a preference profile with k voters. By McGarvey's theorem, every asymmetric digraph is k-inducible for some k, but ",
+      "url": "https://arxiv.org/abs/2611.27965v1"
+    },
+    {
+      "title": "On the non-uniqueness of solutions of the axi-symmetric swirl-free Navier-Stokes equations, II",
+      "date": "2026-11-20",
+      "id": "2611.27984v1",
+      "abstract": "We prove optimal non-uniqueness of Leray solutions of the unforced incompressible Navier-Stokes equations in 3D within the class of axially symmetric swirl-free flows. More precisely, we construct two",
+      "url": "https://arxiv.org/abs/2611.27984v1"
+    },
+    {
+      "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+      "date": "2026-11-20",
+      "id": "2611.27978v1",
+      "abstract": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. ",
+      "url": "https://arxiv.org/abs/2611.27978v1"
+    },
+    {
+      "title": "Cluster Editing in Subexponential Fixed-Parameter Time",
+      "date": "2026-11-20",
+      "id": "2611.27956v1",
+      "abstract": "Cluster Editing asks whether at most $k$ edge additions and deletions turn a given $n$-vertex graph into a disjoint union of cliques. For more than a decade, the fastest algorithm for it was the golde",
+      "url": "https://arxiv.org/abs/2611.27956v1"
+    },
+    {
+      "title": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed",
+      "date": "2026-11-20",
+      "id": "2611.27951v1",
+      "abstract": "Long-context models use sparse or structured attention to avoid quadratic cost, yet retrieving a small set of relevant facts embedded among hundreds of thousands of distractors degrades as normalizati",
+      "url": "https://arxiv.org/abs/2611.27951v1"
+    },
+    {
+      "title": "Intervals of limit points for $B_α$-spectral radii",
+      "date": "2026-11-20",
+      "id": "2611.27937v1",
+      "abstract": "For a finite simple graph $G$, let \\[ B_α(G)=αA(G)+(1-α)L(G)=(1-α)D(G)+(2α-1)A(G),\\qquad 0\\leq α\\leq 1. \\] We study the limit points of the spectral radii of these matrices. Put $a_α=1-α$, $b_α=|2α-1|",
+      "url": "https://arxiv.org/abs/2611.27937v1"
     }
   ]
 }
