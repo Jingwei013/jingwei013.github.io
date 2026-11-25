@@ -1,119 +1,119 @@
 {
-  "updated": "2026-11-24 10:32 UTC",
+  "updated": "2026-11-25 09:21 UTC",
   "total": 16,
   "today_count": 0,
   "papers": [
     {
-      "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-      "date": "2026-11-23",
-      "id": "2611.31240v1",
-      "abstract": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str",
-      "url": "https://arxiv.org/abs/2611.31240v1"
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "date": "2026-11-24",
+      "id": "2611.33158v1",
+      "abstract": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer",
+      "url": "https://arxiv.org/abs/2611.33158v1"
     },
     {
-      "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-      "date": "2026-11-23",
-      "id": "2611.31239v1",
-      "abstract": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured, yet remains consistent upon return. Memory-based",
-      "url": "https://arxiv.org/abs/2611.31239v1"
+      "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+      "date": "2026-11-24",
+      "id": "2611.33157v1",
+      "abstract": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics fr",
+      "url": "https://arxiv.org/abs/2611.33157v1"
     },
     {
-      "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
-      "date": "2026-11-23",
-      "id": "2611.31238v1",
-      "abstract": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar phenomenon in modern self-supervised Vision Transf",
-      "url": "https://arxiv.org/abs/2611.31238v1"
+      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "date": "2026-11-24",
+      "id": "2611.33153v1",
+      "abstract": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Consider",
+      "url": "https://arxiv.org/abs/2611.33153v1"
     },
     {
-      "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
-      "date": "2026-11-23",
-      "id": "2611.31215v1",
-      "abstract": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increa",
-      "url": "https://arxiv.org/abs/2611.31215v1"
+      "title": "Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
+      "date": "2026-11-24",
+      "id": "2611.33145v1",
+      "abstract": "Embodied Spatial Reasoning (ESR) is central to deploying Vision-Language Models (VLMs) in real-world embodied tasks, yet remains inadequately evaluated. Existing benchmarks primarily assess spatial re",
+      "url": "https://arxiv.org/abs/2611.33145v1"
     },
     {
-      "title": "EmboEagle: An Efficient Agentic Embodied Framework for Long-horizon Robotic Manipulation",
-      "date": "2026-11-23",
-      "id": "2611.31173v1",
-      "abstract": "Long-horizon robotic manipulation demands reliable execution across interdependent stages, yet standalone World-Action Models (WAMs) suffer from compounding physical errors, while stateless Vision-Lan",
-      "url": "https://arxiv.org/abs/2611.31173v1"
+      "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
+      "date": "2026-11-24",
+      "id": "2611.33143v1",
+      "abstract": "Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes ",
+      "url": "https://arxiv.org/abs/2611.33143v1"
     },
     {
-      "title": "Vortex rings shape the feeding-efficiency landscape of jellyfish",
-      "date": "2026-11-23",
-      "id": "2611.31170v1",
-      "abstract": "Fluid flows enable and limit the feeding and locomotion of sea creatures across a wide range of scales. Although much is known about how microorganisms navigate life at low Reynolds numbers, the effec",
-      "url": "https://arxiv.org/abs/2611.31170v1"
+      "title": "Abelian envelopes and quantum groups in Knop's interpolation categories",
+      "date": "2026-11-24",
+      "id": "2611.33152v1",
+      "abstract": "We show the existence of abelian envelopes for large classes of subcategories of Knop's tensor envelopes. It follows that these abelian envelopes correspond to groups or more generally Hopf algebras (",
+      "url": "https://arxiv.org/abs/2611.33152v1"
     },
     {
-      "title": "Quantum-geometry-tuned Mott transition and emergent heavy fermions in a topological flat band",
-      "date": "2026-11-23",
-      "id": "2611.31242v1",
-      "abstract": "A flat band with a nonzero Chern number has no localized Wannier orbitals, which raises the question of whether Mott physics is still possible. We place a Hubbard interaction $U$ on coherent orbitals,",
-      "url": "https://arxiv.org/abs/2611.31242v1"
+      "title": "Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum",
+      "date": "2026-11-24",
+      "id": "2611.33156v1",
+      "abstract": "Recently, two modes of spin wave excitations (magnons) were detected in Raman scattering spectra of MnTe2. It is an unconventional magnet that features a pyrite-type crystal structure hosting a non-co",
+      "url": "https://arxiv.org/abs/2611.33156v1"
     },
     {
-      "title": "From Head to Tail: LLM-Augmented Sequential Recommendation and Trade-off Optimization",
-      "date": "2026-11-23",
-      "id": "2611.31052v1",
-      "abstract": "Recommender systems exhibit popularity bias, often under-serving long-tail and cold-start items with sparse interaction data. We propose a group-specific data augmentation approach that leverages LLMs",
-      "url": "https://arxiv.org/abs/2611.31052v1"
+      "title": "Seeing to Drive on a Single Board: Attention-Free Depth for Onboard Robot Navigation",
+      "date": "2026-11-24",
+      "id": "2611.32718v1",
+      "abstract": "A small ground robot can carry one camera and a few watts of compute, but the depth foundation models that could turn that camera into a range sensor are vision transformers sized for GPUs. We bring o",
+      "url": "https://arxiv.org/abs/2611.32718v1"
     },
     {
-      "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
-      "date": "2026-11-23",
-      "id": "2611.31205v1",
-      "abstract": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy ",
-      "url": "https://arxiv.org/abs/2611.31205v1"
+      "title": "Semidefinite Programming for Cold-Start GNSS Doppler-Based Alignment: A Comparison with Nonlinear Least Squares",
+      "date": "2026-11-24",
+      "id": "2611.32715v1",
+      "abstract": "Initial attitude alignment between local navigation frames and the Earth-centered Earth-fixed (ECEF) frame is a critical prerequisite for multi-sensor integrated navigation, such as Global Navigation ",
+      "url": "https://arxiv.org/abs/2611.32715v1"
     },
     {
-      "title": "Agentic AI for Intent Management and Control in Autonomous Communication Networks",
-      "date": "2026-11-23",
-      "id": "2611.31223v1",
-      "abstract": "Artificial intelligence (AI)-driven automation will help future mobile networks translate high-level network intents into concrete network optimization or control actions. However, existing approaches",
-      "url": "https://arxiv.org/abs/2611.31223v1"
+      "title": "Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action",
+      "date": "2026-11-24",
+      "id": "2611.33137v1",
+      "abstract": "We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, ",
+      "url": "https://arxiv.org/abs/2611.33137v1"
     },
     {
-      "title": "Solute-Aware Stochastic Korhonen Model of Electromigration in Wide vs Near-Bamboo Al-Cu Lines",
-      "date": "2026-11-23",
-      "id": "2611.31206v1",
-      "abstract": "We couple an evolving Cu field to the one-dimensional Korhonen stress equation on random grain maps for wide (10 $μ$m), narrow (3 $μ$m) and near-bamboo Al-Cu lines. Earlier random-microstructure simul",
-      "url": "https://arxiv.org/abs/2611.31206v1"
+      "title": "FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues",
+      "date": "2026-11-24",
+      "id": "2611.32970v1",
+      "abstract": "Existing depth-from-focus methods can struggle with weak focus cues, new cameras, or fewer focal slices. We present FocusAnchor, a recurrent model that uses focus-volume lookups to refine metric depth",
+      "url": "https://arxiv.org/abs/2611.32970v1"
     },
     {
-      "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-      "date": "2026-11-23",
-      "id": "2611.31233v1",
-      "abstract": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails wh",
-      "url": "https://arxiv.org/abs/2611.31233v1"
+      "title": "Online V-Learning with Adaptive Longitudinal Data",
+      "date": "2026-11-24",
+      "id": "2611.32947v1",
+      "abstract": "Reinforcement learning methods for estimating optimal dynamic treatment regimes are increasingly applied in mobile health (mHealth), where treatment decisions are made continually. Luckett et al. (202",
+      "url": "https://arxiv.org/abs/2611.32947v1"
     },
     {
-      "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
-      "date": "2026-11-23",
-      "id": "2611.31211v1",
-      "abstract": "Physics simulation outputs increasingly come from solvers that no expert inspects, such as third-party packages in automated pipelines, programs written by large language models (LLMs), and learned su",
-      "url": "https://arxiv.org/abs/2611.31211v1"
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "date": "2026-11-24",
+      "id": "2611.33151v1",
+      "abstract": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, fu",
+      "url": "https://arxiv.org/abs/2611.33151v1"
     },
     {
-      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-      "date": "2026-11-23",
-      "id": "2611.31228v1",
-      "abstract": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This s",
-      "url": "https://arxiv.org/abs/2611.31228v1"
+      "title": "Envy-Free Cake-Cutting for Five Agents",
+      "date": "2026-11-24",
+      "id": "2611.33149v1",
+      "abstract": "We study the envy-free cake-cutting problem, in which a divisible resource must be divided among a set of agents with heterogeneous preferences in a way that ensures that no agent envies the piece obt",
+      "url": "https://arxiv.org/abs/2611.33149v1"
     },
     {
-      "title": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
-      "date": "2026-11-23",
-      "id": "2611.31222v1",
-      "abstract": "Radiology reports describe findings in text only, without visually marking them on the scan, so readers cannot directly see which abnormality each reported finding refers to. We introduce CTLink, a te",
-      "url": "https://arxiv.org/abs/2611.31222v1"
+      "title": "Hölder continuity of Green functions for Markov sets",
+      "date": "2026-11-24",
+      "id": "2611.33131v1",
+      "abstract": "Let $K$ be a nonempty compact subset of $\\mathbb C^N$. We prove that its Green function (and consequently, the Siciak extremal function) is Hölder continuous if and only if the first derivatives of po",
+      "url": "https://arxiv.org/abs/2611.33131v1"
     },
     {
-      "title": "Small-world networks yield tunable quantum codes at short circuit depth",
-      "date": "2026-11-23",
-      "id": "2611.31224v1",
-      "abstract": "Monitored random quantum circuits naturally generate quantum error-correcting codes. We generate quantum codes with tunable properties by implementing random Clifford circuits on Watts--Strogatz `smal",
-      "url": "https://arxiv.org/abs/2611.31224v1"
+      "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+      "date": "2026-11-24",
+      "id": "2611.33147v1",
+      "abstract": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in man",
+      "url": "https://arxiv.org/abs/2611.33147v1"
     }
   ]
 }
