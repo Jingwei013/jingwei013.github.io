@@ -1,119 +1,105 @@
 {
-  "updated": "2026-11-25 09:21 UTC",
-  "total": 16,
+  "updated": "2026-11-26 08:59 UTC",
+  "total": 14,
   "today_count": 0,
   "papers": [
     {
-      "title": "OmniAct: One Policy, One Million Embodiments",
-      "date": "2026-11-24",
-      "id": "2611.33158v1",
-      "abstract": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer",
-      "url": "https://arxiv.org/abs/2611.33158v1"
+      "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+      "date": "2026-11-25",
+      "id": "2611.34944v1",
+      "abstract": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way to change the viewpoint of an object-centric scene,",
+      "url": "https://arxiv.org/abs/2611.34944v1"
     },
     {
-      "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
-      "date": "2026-11-24",
-      "id": "2611.33157v1",
-      "abstract": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics fr",
-      "url": "https://arxiv.org/abs/2611.33157v1"
+      "title": "Tracking Any Point with Agentic Visual Reasoning",
+      "date": "2026-11-25",
+      "id": "2611.34943v1",
+      "abstract": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challengin",
+      "url": "https://arxiv.org/abs/2611.34943v1"
     },
     {
-      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
-      "date": "2026-11-24",
-      "id": "2611.33153v1",
-      "abstract": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Consider",
-      "url": "https://arxiv.org/abs/2611.33153v1"
+      "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+      "date": "2026-11-25",
+      "id": "2611.34941v1",
+      "abstract": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible",
+      "url": "https://arxiv.org/abs/2611.34941v1"
     },
     {
-      "title": "Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
-      "date": "2026-11-24",
-      "id": "2611.33145v1",
-      "abstract": "Embodied Spatial Reasoning (ESR) is central to deploying Vision-Language Models (VLMs) in real-world embodied tasks, yet remains inadequately evaluated. Existing benchmarks primarily assess spatial re",
-      "url": "https://arxiv.org/abs/2611.33145v1"
+      "title": "MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References",
+      "date": "2026-11-25",
+      "id": "2611.34932v1",
+      "abstract": "Robots operating in previously mapped spaces must localize accurately despite moving people and rearranged objects. Most localization pipelines match the query against a sparse set of captured referen",
+      "url": "https://arxiv.org/abs/2611.34932v1"
     },
     {
-      "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
-      "date": "2026-11-24",
-      "id": "2611.33143v1",
-      "abstract": "Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes ",
-      "url": "https://arxiv.org/abs/2611.33143v1"
+      "title": "One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics",
+      "date": "2026-11-25",
+      "id": "2611.34925v1",
+      "abstract": "Simulation is essential for marine robotics, yet existing platforms often trade off between visually realistic worlds, high-throughput experimentation, and ocean-condition realism grounded in real dat",
+      "url": "https://arxiv.org/abs/2611.34925v1"
     },
     {
-      "title": "Abelian envelopes and quantum groups in Knop's interpolation categories",
-      "date": "2026-11-24",
-      "id": "2611.33152v1",
-      "abstract": "We show the existence of abelian envelopes for large classes of subcategories of Knop's tensor envelopes. It follows that these abelian envelopes correspond to groups or more generally Hopf algebras (",
-      "url": "https://arxiv.org/abs/2611.33152v1"
+      "title": "Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation",
+      "date": "2026-11-25",
+      "id": "2611.34915v1",
+      "abstract": "Vision-language models (VLMs) enable robots to reason about semantic and spatio-temporal context, verify task-relevant objects, and guide sensing and navigation. Persistent memory can reduce redundant",
+      "url": "https://arxiv.org/abs/2611.34915v1"
     },
     {
-      "title": "Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum",
-      "date": "2026-11-24",
-      "id": "2611.33156v1",
-      "abstract": "Recently, two modes of spin wave excitations (magnons) were detected in Raman scattering spectra of MnTe2. It is an unconventional magnet that features a pyrite-type crystal structure hosting a non-co",
-      "url": "https://arxiv.org/abs/2611.33156v1"
+      "title": "MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects",
+      "date": "2026-11-25",
+      "id": "2611.34945v1",
+      "abstract": "While wearable displays can bring digital workspaces anywhere, interaction remains limited by mid-air gestures that lack tactile feedback and induce fatigue, or controllers that are cumbersome to carr",
+      "url": "https://arxiv.org/abs/2611.34945v1"
     },
     {
-      "title": "Seeing to Drive on a Single Board: Attention-Free Depth for Onboard Robot Navigation",
-      "date": "2026-11-24",
-      "id": "2611.32718v1",
-      "abstract": "A small ground robot can carry one camera and a few watts of compute, but the depth foundation models that could turn that camera into a range sensor are vision transformers sized for GPUs. We bring o",
-      "url": "https://arxiv.org/abs/2611.32718v1"
+      "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+      "date": "2026-11-25",
+      "id": "2611.34942v1",
+      "abstract": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an",
+      "url": "https://arxiv.org/abs/2611.34942v1"
     },
     {
-      "title": "Semidefinite Programming for Cold-Start GNSS Doppler-Based Alignment: A Comparison with Nonlinear Least Squares",
-      "date": "2026-11-24",
-      "id": "2611.32715v1",
-      "abstract": "Initial attitude alignment between local navigation frames and the Earth-centered Earth-fixed (ECEF) frame is a critical prerequisite for multi-sensor integrated navigation, such as Global Navigation ",
-      "url": "https://arxiv.org/abs/2611.32715v1"
+      "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+      "date": "2026-11-25",
+      "id": "2611.34914v1",
+      "abstract": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts they were trained on: when objects are moved or obstacles block the way, they carry",
+      "url": "https://arxiv.org/abs/2611.34914v1"
     },
     {
-      "title": "Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action",
-      "date": "2026-11-24",
-      "id": "2611.33137v1",
-      "abstract": "We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, ",
-      "url": "https://arxiv.org/abs/2611.33137v1"
+      "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+      "date": "2026-11-25",
+      "id": "2611.34864v1",
+      "abstract": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additiona",
+      "url": "https://arxiv.org/abs/2611.34864v1"
     },
     {
-      "title": "FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues",
-      "date": "2026-11-24",
-      "id": "2611.32970v1",
-      "abstract": "Existing depth-from-focus methods can struggle with weak focus cues, new cameras, or fewer focal slices. We present FocusAnchor, a recurrent model that uses focus-volume lookups to refine metric depth",
-      "url": "https://arxiv.org/abs/2611.32970v1"
+      "title": "The Linguistic Knowledge Benchmark: Do Language Models Know the Foundations of Early-Grade Literacy?",
+      "date": "2026-11-25",
+      "id": "2611.34823v1",
+      "abstract": "Many languages of instruction in low- and middle-income countries (LMICs) are poorly represented in the data used to train language models. Before these models can support early-grade literacy in such",
+      "url": "https://arxiv.org/abs/2611.34823v1"
     },
     {
-      "title": "Online V-Learning with Adaptive Longitudinal Data",
-      "date": "2026-11-24",
-      "id": "2611.32947v1",
-      "abstract": "Reinforcement learning methods for estimating optimal dynamic treatment regimes are increasingly applied in mobile health (mHealth), where treatment decisions are made continually. Luckett et al. (202",
-      "url": "https://arxiv.org/abs/2611.32947v1"
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "date": "2026-11-25",
+      "id": "2611.34928v1",
+      "abstract": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare unde",
+      "url": "https://arxiv.org/abs/2611.34928v1"
     },
     {
-      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
-      "date": "2026-11-24",
-      "id": "2611.33151v1",
-      "abstract": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, fu",
-      "url": "https://arxiv.org/abs/2611.33151v1"
+      "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "date": "2026-11-25",
+      "id": "2611.34934v1",
+      "abstract": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We ev",
+      "url": "https://arxiv.org/abs/2611.34934v1"
     },
     {
-      "title": "Envy-Free Cake-Cutting for Five Agents",
-      "date": "2026-11-24",
-      "id": "2611.33149v1",
-      "abstract": "We study the envy-free cake-cutting problem, in which a divisible resource must be divided among a set of agents with heterogeneous preferences in a way that ensures that no agent envies the piece obt",
-      "url": "https://arxiv.org/abs/2611.33149v1"
-    },
-    {
-      "title": "Hölder continuity of Green functions for Markov sets",
-      "date": "2026-11-24",
-      "id": "2611.33131v1",
-      "abstract": "Let $K$ be a nonempty compact subset of $\\mathbb C^N$. We prove that its Green function (and consequently, the Siciak extremal function) is Hölder continuous if and only if the first derivatives of po",
-      "url": "https://arxiv.org/abs/2611.33131v1"
-    },
-    {
-      "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
-      "date": "2026-11-24",
-      "id": "2611.33147v1",
-      "abstract": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in man",
-      "url": "https://arxiv.org/abs/2611.33147v1"
+      "title": "A Mesh for Every Moment",
+      "date": "2026-11-25",
+      "id": "2611.34939v1",
+      "abstract": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized cameras, and extracts a mesh at every frame. Existing d",
+      "url": "https://arxiv.org/abs/2611.34939v1"
     }
   ]
 }
